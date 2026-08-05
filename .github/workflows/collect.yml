@@ -61,4 +61,4 @@ jobs:
             4. 不合格の記事はコミットせず、理由をまとめて終了する。
 
             重要: mainブランチへの直接pushは禁止。必ずPR経由。
-          claude_args: '--max-turns 80'
+          claude_args: '--max-turns 80 --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,Task"'
