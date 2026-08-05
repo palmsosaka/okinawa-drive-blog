@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-05",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 271,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93NHA2RllxUHVXeWpDUE1GZGp1ZlZITHV1MW9CR3pZdjdYeUh0ZUdVQmtYSlFvbFJzWXZBVHRqNUh6RGZpV3VsT2dTclpvemN6RlhWNUFwMUg0ZzhSZU5oWWJZWG52bDNNd2JJYzZ3?oc=5",
+   "published": "Wed, 05 Aug 2026 09:52:34 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Wed, 05 Aug 2026 09:10:57 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像28 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sSFhwWG5jUlA4MjlrLS1TdVAzYVhKazBmY1JGV3M2NTRBR2pFLTJmVXFsZWd2RFFUQ2RjRkk3Q0RZemxmWFJWYWE0RnJGVUZEbW14NVA0NVBJTWVTMkFqSjZ3MEJqd0VPTXBUWlFn?oc=5",
+   "published": "Wed, 05 Aug 2026 07:46:41 GMT",
+   "score_parts": {
+    "recency": 0.861,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.658
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像16 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQWp3TVhRbmVXQlNUczZJQUNvTTcxdjZHMlV1YlJZdTVlcUl5UUszWWtzaVBFUXg2VS1yU1ZOUURSN2szMkNpeXYwMjgweWtUNjZKMVBGdEw3YWdyU1VBQlZrNzNWMWtBaEU2NW53?oc=5",
+   "published": "Wed, 05 Aug 2026 06:34:47 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像35 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5td01zUUlkcTBnMWxRYzRYdnJoS0d4Z2ZzT2h1emx1NFZJQWVsSXVwQmZ0dkVTRFVTSzV3UGFhUHVQMHZTT0hNOUs5U0hoWmw4UDBaQTJCVzc4Unk0d1dPSzU1Y00ta0hOMVk4V0dR?oc=5",
+   "published": "Wed, 05 Aug 2026 06:33:32 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【台風13号速報まとめ】最新の進路予想・休業・交通・イベント情報（随時更新） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfMHZjMTZKbTQ5YnZ5Q3J3TV9KVzh2SmEyc0tIS1F5S3pYZm5Jc1h5ZjY1UnF3cDYtYjFCdFZFb1lnU1JVWVliMkpWZVA1VXNDOVBkdVZIODRrc1k1dlE?oc=5",
+   "published": "Wed, 05 Aug 2026 10:47:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【台風13号】8月6～9日のイベント中止や延期相次ぐ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Da0xXODhyRkV4ODc3MEpPNXFVMWpyXzlpb0Jrbi14cnl5aThwamJxNlQ4R0RfWFladlpFY3JjUXB5ZDE0eGE1bUdHM21nd1JCNWdZeFN3aDVSNDRid2c?oc=5",
+   "published": "Wed, 05 Aug 2026 10:43:00 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「まんまる市」8年ぶり開催へ 200店以上並んだ人気イベント、出店者募集 名護で11月22日 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZEVXeHItZXNweVVCR2JhVy10c0VJZFlvNV9yTlVjM1B4WmJjRzk1eFJ1VGVGYy1CQlhlTmxyek8zVWFpMUc2WUdrY3lSYnQ2VkhkWEJMZU1ieGhUekE?oc=5",
+   "published": "Wed, 05 Aug 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄ハーバービューホテルがリニューアル！ワンランク上の滞在を叶える注目グルメ特集 | Merkystyle - ママテナ",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLemdwcUlHOFdGb3hDT2pyZHNZWXVIMjlFdVZZOHQ2YW5fTVVjM3NvZnBjOXpNUnctMG9ocTZiYkJMd1dRakc5eTdocXoySF9oa2llMEo1NnN5ZXZyTTBqVXhIQVRUX1RxVEVaQnFR?oc=5",
+   "published": "Wed, 05 Aug 2026 08:40:47 GMT",
+   "score_parts": {
+    "recency": 0.88,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像1 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYkctSkFqWUFLeEdBOGlFenVqaVRuOFhVSDNjU1V1emtCZ040cmJJbDY0eWYxZHdhMG5xSHZuZUVSUm5aaXI5WHN6RnpaeUdPYTFydFpLRG5DMFVyYkJzWE01RDhEOFlOMFhMOUVB?oc=5",
+   "published": "Tue, 04 Aug 2026 23:48:22 GMT",
+   "score_parts": {
+    "recency": 0.695,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像25 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wc0NVNmpxTEN2NVI5a3k2bDg2OEJkczFDWG0tTGdkSmlwdER1bVByUmxIVHctdW4zSmJNby1yLXNEbXdWaFlBZUV1c2tUWlNtTlVXbFlPck5DSUdtRmpvMVZpX2NvYVJEZk94OHFn?oc=5",
+   "published": "Tue, 04 Aug 2026 23:30:08 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像15 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VS0N3ZkdOZjFHT1RiWUJYQXRaZXVhTUM5dU5pNHJBZzN0YlV5ZUVpY3ZjanF2UFdSQWpLbXNDZjZmbVVHblctOUNxNVlyOGV1QkxpMkhOdTRnX2EwYjl1b1BhWjhKM0Q5ZG0wQ0V3?oc=5",
+   "published": "Tue, 04 Aug 2026 23:30:38 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "さかなクンが魚の生態を楽しく解説 アナゴとウナギの違い紹介 DMMかりゆし水族館でトークイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUaWRIZkJobFR3N1JkR2VyUkRHMUduN3dFdks5UnRkdWdiQkRxVGtfd3NxbW5iSUpoU25FUXYtdFJ4ZEtSOVk3ZVRWQkxjcXlLSGZuRVZfLUo2aXpxTmc?oc=5",
+   "published": "Wed, 05 Aug 2026 07:20:00 GMT",
+   "score_parts": {
+    "recency": 0.852,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2d6TXYwVG5TQ2NWUW9tSHl5eXRyYlJSM1pXOW1URlV0LXF4SVNKaDdnSlBzd3dMaGdPSkg4cUR5c2VpUEllNzFTR0ExaHRYbmRCTmszem11OUpRVVYwVks0cUdWeGxxWkZtT2ROV010N09tNXVodXRJaGJGQkEzQlh2blo1am5pSUhhbmVHeWxKLVlaa3ctYUFnb21Ib2lUWHNkQVRHQ01reVZFYW1IeTJ1YXMySnVmRE55dWhjR2hnRjdRQlM1dzVtYkY1ZFRfOEZhT09lWG9qcEZKVjl0NFN6M3BlRW55TUdZ?oc=5",
+   "published": "Tue, 04 Aug 2026 23:08:29 GMT",
+   "score_parts": {
+    "recency": 0.681,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像6 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81ZURJSFQzd3FHZUZWWHE0VFp1dlZxUk5HTExva0d6WDV1V1FIX0luMkdiWnF1bUZSZ1JUeWstM0hGa215dVF5VThEcURiS0NqV3Z3MkR0ZGJZeG9wTzRVQmZFbE9SYjdIMG1Ib1ZB?oc=5",
+   "published": "Tue, 04 Aug 2026 22:30:38 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  }
+ ]
+}
