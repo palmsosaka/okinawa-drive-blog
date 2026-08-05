@@ -63,3 +63,6 @@ jobs:
                タイトルは「記事: (記事タイトル)」、本文には選定理由・確認済みの事実・
                だいちさんに実数確認してほしい箇所(あれば)を箇条書きで書く
           claude_args: '--max-turns 120 --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"'
+      - name: エラー詳細表示
+        if: failure()
+        run: cat /home/runner/work/_temp/claude-execution-output.json
