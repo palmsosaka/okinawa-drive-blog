@@ -1,0 +1,62 @@
+name: collect-and-draft
+# 毎朝6:00 JST (21:00 UTC): 収集 → スコアリング → editor採否 → writer並列執筆 → 下書きPR作成
+# 公開はされない。だいちさんがPRをマージした時だけ deploy.yml が動いて公開される。
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 収集(WEB/SNS)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/collect.py
+
+      - name: スコアリング
+        run: python scripts/score.py
+
+      - name: 収集データをコミット
+        run: |
+          git config user.name "blog-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: collect $(date -u +%F)"
+          git push
+
+      - name: 編集部パイプライン(editor→writer→検証→PR)
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            あなたは編集部パイプラインの進行役です。CLAUDE.mdを読み、以下を順に実行してください。
+
+            1. editorサブエージェントとして data/scored/ の今日の候補を審査し、
+               採用0〜2本を決め、採用分のブリーフを data/briefs/ に作成する。
+               採用0本ならここで終了し、その理由を要約して終わる。
+            2. 採用した各ブリーフについて(複数あれば並行して):
+               a. writerサブエージェントで記事を src/content/blog/ に執筆
+               b. fact-checkerサブエージェントで敵対的検証(data/reviews/に出力)
+               c. seo-checkerサブエージェントで仕様チェック(data/reviews/に出力)
+               d. FAILがあればwriterに修正させ、再検証する(最大2周)
+            3. editorとして最終審査し、合格した記事だけを1記事=1ブランチ=1PRにする。
+               PR本文にはブリーフ要約・ファクトチェック結果・【要確認】箇所の一覧を書く。
+               PRタイトルは「記事: (タイトル)」とする。
+            4. 不合格の記事はコミットせず、理由をまとめて終了する。
+
+            重要: mainブランチへの直接pushは禁止。必ずPR経由。
+          claude_args: '--max-turns 80'

@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const clusterLabels: Record<string, string> = {
+  'airport-basics': '那覇空港・借り方の基礎',
+  pricing: '料金・比較',
+  'model-course': 'モデルコース',
+  trouble: '事故・トラブル対応',
+  trend: '最新トレンド',
+};
+---
+
+<Base title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <h1>{SITE_TITLE}</h1>
+  <p>
+    沖縄でレンタカー会社を実際に運営する事業者が、<strong>現場の実データ</strong>で
+    沖縄旅行×レンタカーの疑問に答えます。
+  </p>
+  <ul style="list-style:none;padding:0;">
+    {posts.map((post) => (
+      <li style="margin-bottom:1.2rem;">
+        <a href={`/blog/${post.id}/`}><strong>{post.data.title}</strong></a>
+        <br />
+        <small>
+          {post.data.pubDate.toISOString().slice(0, 10)} ｜ {clusterLabels[post.data.cluster]}
+        </small>
+        <br />
+        <span style="color:var(--c-sub);font-size:0.92rem;">{post.data.description}</span>
+      </li>
+    ))}
+  </ul>
+</Base>
