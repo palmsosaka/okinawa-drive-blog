@@ -62,4 +62,4 @@ jobs:
             6. git push -u origin (ブランチ名) してから、gh pr create でPRを作成する。
                タイトルは「記事: (記事タイトル)」、本文には選定理由・確認済みの事実・
                だいちさんに実数確認してほしい箇所(あれば)を箇条書きで書く
-          claude_args: '--max-turns 120 --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"'
+          claude_args: '--max-turns 120 --model sonnet --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"'
