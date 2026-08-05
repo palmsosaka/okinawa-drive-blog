@@ -16,6 +16,9 @@ const {
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const BASE = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + '/';
 
 const orgSchema = {
   '@context': 'https://schema.org',
@@ -35,8 +38,8 @@ const allJsonLd = [orgSchema, ...jsonLd];
     <title>{title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <link rel="sitemap" href="/sitemap-index.xml" />
-    <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href="/rss.xml" />
+    <link rel="sitemap" href={`${BASE}sitemap-index.xml`} />
+    <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={`${BASE}rss.xml`} />
     <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -83,7 +86,7 @@ const allJsonLd = [orgSchema, ...jsonLd];
     </style>
   </head>
   <body>
-    <header class="site"><a href="/">{SITE_TITLE}</a></header>
+    <header class="site"><a href={BASE}>{SITE_TITLE}</a></header>
     <main><slot /></main>
     <footer class="site">
       © {new Date().getFullYear()} {SITE_TITLE} ／ 沖縄の現役レンタカー事業者が運営

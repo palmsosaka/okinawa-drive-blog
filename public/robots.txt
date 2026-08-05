@@ -27,4 +27,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://okinawa-drive-blog.example.com/sitemap-index.xml
+Sitemap: https://palmsosaka.github.io/okinawa-drive-blog/sitemap-index.xml

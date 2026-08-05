@@ -5,7 +5,7 @@
 import { readFileSync, readdirSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
-const SITE_URL = 'https://okinawa-drive-blog.example.com'; // TODO: ドメイン確定後に差し替え
+const SITE_URL = 'https://palmsosaka.github.io/okinawa-drive-blog'; // 独自ドメイン取得後に差し替え
 const BLOG_DIR = 'src/content/blog';
 
 const clusterLabels = {
