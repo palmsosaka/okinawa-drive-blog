@@ -8,232 +8,232 @@
   "novelty": 0.1,
   "threshold": 0.35
  },
- "total_items": 271,
+ "total_items": 269,
  "candidates": [
   {
    "source": "google_news",
    "query": "ジャングリア沖縄",
-   "title": "画像23 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93NHA2RllxUHVXeWpDUE1GZGp1ZlZITHV1MW9CR3pZdjdYeUh0ZUdVQmtYSlFvbFJzWXZBVHRqNUh6RGZpV3VsT2dTclpvemN6RlhWNUFwMUg0ZzhSZU5oWWJZWG52bDNNd2JJYzZ3?oc=5",
-   "published": "Wed, 05 Aug 2026 09:52:34 GMT",
+   "title": "「ジャングリア沖縄」開業1周年。来場者100万人「経済効果は494億円を算出」その実態とは？／ダイバーシティニュース 相川七瀬/古谷経衡【8/31までの限定公開】 - グロービス学び放題",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04LW9BLTdGS1dlS1BEZVljM2VFdzZ2WEpRTGFEZW1tdUpvdnBXcG5COEEwM1d6QXJTRTN1LWZZajZUemlrUUE1bjN5TE15bms?oc=5",
+   "published": "Wed, 05 Aug 2026 12:58:27 GMT",
    "score_parts": {
-    "recency": 0.905,
+    "recency": 0.966,
     "engagement": 0.0,
     "keyword_hit": 0.5,
     "theme_fit": 1.0,
     "novelty": 1.0
    },
-   "score": 0.671
+   "score": 0.69
   },
   {
    "source": "google_news",
    "query": "ジャングリア沖縄",
-   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "title": "【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証(3/3) - walkerplus.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ldmRBdzlBYmFrcGJHeldjWS01QUtjV0pTb1NOTENFSktSZ3V1dWx0UlBpeVRTZHpGSWRpMTVPNVVTNlBSdGNpWk5YNEpVYTNUTTVEODdNTThpMndEeFE?oc=5",
+   "published": "Wed, 05 Aug 2026 05:23:49 GMT",
+   "score_parts": {
+    "recency": 0.808,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】空の便は沖縄・鹿児島中心に欠航 ANA・JALで6～8日にかけ欠航 すでに計470便超 5日午後10時現在 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIa3ZKVUhpMThyUUN5V3gwd2xZNW5sRWwyOExzX1B2Z3VndTV1NkFPUzJqS1lrZlgyZmRnRUhrQjRUWmdzRXVTRlNFblR0MnhWMVc1TEhEYVpscVdKMEE3VmVSczd4aXVjblJhYmJ3?oc=5",
+   "published": "Wed, 05 Aug 2026 14:05:42 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】空の便は沖縄・鹿児島中心に欠航 ANA・JALで6～8日にかけ欠航すでに計300便超 5日午後8時現在 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BdU5KY0NvbnhFZ3I3U0VmMmFfczVtZTVmeWIwcWx1STA0Mk5DWjlvM0pBQzNMWFA0N0hJdEx3V1AxM1piZDFFTW9nOGQzRnlLV3NMb1p5MFY1U3F2c2sxbWU4UURUNnY4cjVlbXhR?oc=5",
+   "published": "Wed, 05 Aug 2026 11:59:17 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "初の猛暑日 西表35・2度 8月史上最高 石垣35．1度 那覇空港35度 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lNDFSa2p3b05xaUZjYVd0Zk41Z243bE0xVnpjQ05YXzJUS25tcmJkUThXWWdWeWpvY1FnMXpkUHRJYzZ6dlRnRzgzd2FILWFQOTF4NW5aeGlfYTVjTnc?oc=5",
+   "published": "Tue, 04 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.59,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄の夜を彩る平日イベント「BLUE OCEAN」が毎週火曜に開催 - South65",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPQ0JLWXZJQ0ZQYkF6UkszV1BnZTBPcjBBelM5bzd6cHRwdEowdkJnb3Ffdjg0OWVpbWRVWHp5c2FaeEZFaHdGeUtTNmZKdktTOENLS05lRFAxQ2pVMFp6M1libGdEWHYzdXdiUjVBUTNsMV9uV1FQaHhBdHNpTmZqUkJnbjdZXzBIcExwbTZmcGc1R3FiR0ZtUmpiclBQX2liRXhndG54LWlZLWpjVHhaZDI1Smo2dlVmYW1LLTRscnc0WmZqNjluOG42LVpMZXNma2VYV2RTMlNzbDJ0cUd0NFlxWVRoYTEtQTg4dlFiQk5pY0F1UjJzZFBEQ0tIa3h5QVNzc0otREkyV2xCTEp3aEFBSHF2OVBqZ2RJNnYtOEp5Qk8yNkJGNlVKVU83aHVFQlBXbTA3SldFeDhCZmg0c9IBxgJBVV95cUxQVl9aamhwdEp2eUZJNkY2OGY0dWQ3OTBKU0EzRXV2U21CWmFVNWZNX1hGNXo3TThmTWdKcjFfMk1wNEhqRTd5X09hN3RrQk0tLWdCZmp0OGNrVlV1VnNIM19WQnhmSWZkdmV2Sm1HYl9WSG5WcGhQaldBMjhPUVIxLTRDMjlLOXhCRFVDekdvYnB5TDFQZ3ZiMHNzbE02U25weUFLXzk4MGZBdEtRWXZUV29OT1NnbUJZclFTemZrS3hGQ0preF9XWnh5bmlGMk1abmFGVUtFUHZqUTZtamQ2MWFkZTIwcHBnc3hJQ0pfd25JTXQtbkl1RjFESTVNX2xmdDg2V3duV3QzT1NxNWQxRXpSeXF2VEtUdmotR0hmOFlOek9yc25LWUFwQVQyMTU3X2dLZFU4VUYxaHFHSUJnTUJCMWhyUQ?oc=5",
+   "published": "Wed, 05 Aug 2026 02:03:39 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「DMOなんじょう」が観光振興協定の解除を通知 那覇市のAI事業者に 300万円返金請求 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JUDJBLWJIQVg4SjJzLU1wOExmRE90dHNnRkpmeTFMMGlTRHFPTUd0dHozenQ2MUJVWnV3OEdYc2dRSDNQc3RQYkQteDhBT1IwYXA2ZGdYOGRBLXNIWkE?oc=5",
+   "published": "Wed, 05 Aug 2026 09:55:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「仕込み」から「届ける」夏へ。この秋、沖縄の離島で生まれる新しい「共創」のカタチ｜林弘晃 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01TFJJR1VSQzJQUGlIS1hzMDJpM2ZDbC1TTE5KZ0pVSTI1bFhCWnBKRUd6dzExM094VXUtaDFDUFd5VlhLYjRGdDRsOGJlMGxNQ1dYNUNBMG45eXBqdFRkQVJWTGpzYXc?oc=5",
+   "published": "Wed, 05 Aug 2026 09:49:41 GMT",
+   "score_parts": {
+    "recency": 0.9,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - walkerplus.com",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
    "published": "Wed, 05 Aug 2026 09:10:57 GMT",
    "score_parts": {
-    "recency": 0.89,
-    "engagement": 0.0,
-    "keyword_hit": 0.5,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.667
-  },
-  {
-   "source": "google_news",
-   "query": "ジャングリア沖縄",
-   "title": "画像28 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sSFhwWG5jUlA4MjlrLS1TdVAzYVhKazBmY1JGV3M2NTRBR2pFLTJmVXFsZWd2RFFUQ2RjRkk3Q0RZemxmWFJWYWE0RnJGVUZEbW14NVA0NVBJTWVTMkFqSjZ3MEJqd0VPTXBUWlFn?oc=5",
-   "published": "Wed, 05 Aug 2026 07:46:41 GMT",
-   "score_parts": {
-    "recency": 0.861,
-    "engagement": 0.0,
-    "keyword_hit": 0.5,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.658
-  },
-  {
-   "source": "google_news",
-   "query": "ジャングリア沖縄",
-   "title": "画像16 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQWp3TVhRbmVXQlNUczZJQUNvTTcxdjZHMlV1YlJZdTVlcUl5UUszWWtzaVBFUXg2VS1yU1ZOUURSN2szMkNpeXYwMjgweWtUNjZKMVBGdEw3YWdyU1VBQlZrNzNWMWtBaEU2NW53?oc=5",
-   "published": "Wed, 05 Aug 2026 06:34:47 GMT",
-   "score_parts": {
-    "recency": 0.836,
-    "engagement": 0.0,
-    "keyword_hit": 0.5,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.651
-  },
-  {
-   "source": "google_news",
-   "query": "ジャングリア沖縄",
-   "title": "画像35 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5td01zUUlkcTBnMWxRYzRYdnJoS0d4Z2ZzT2h1emx1NFZJQWVsSXVwQmZ0dkVTRFVTSzV3UGFhUHVQMHZTT0hNOUs5U0hoWmw4UDBaQTJCVzc4Unk0d1dPSzU1Y00ta0hOMVk4V0dR?oc=5",
-   "published": "Wed, 05 Aug 2026 06:33:32 GMT",
-   "score_parts": {
-    "recency": 0.836,
-    "engagement": 0.0,
-    "keyword_hit": 0.5,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.651
-  },
-  {
-   "source": "google_news",
-   "query": "沖縄 イベント",
-   "title": "【台風13号速報まとめ】最新の進路予想・休業・交通・イベント情報（随時更新） - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfMHZjMTZKbTQ5YnZ5Q3J3TV9KVzh2SmEyc0tIS1F5S3pYZm5Jc1h5ZjY1UnF3cDYtYjFCdFZFb1lnU1JVWVliMkpWZVA1VXNDOVBkdVZIODRrc1k1dlE?oc=5",
-   "published": "Wed, 05 Aug 2026 10:47:00 GMT",
-   "score_parts": {
-    "recency": 0.924,
-    "engagement": 0.0,
-    "keyword_hit": 0.25,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.627
-  },
-  {
-   "source": "google_news",
-   "query": "沖縄 イベント",
-   "title": "【台風13号】8月6～9日のイベント中止や延期相次ぐ - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Da0xXODhyRkV4ODc3MEpPNXFVMWpyXzlpb0Jrbi14cnl5aThwamJxNlQ4R0RfWFladlpFY3JjUXB5ZDE0eGE1bUdHM21nd1JCNWdZeFN3aDVSNDRid2c?oc=5",
-   "published": "Wed, 05 Aug 2026 10:43:00 GMT",
-   "score_parts": {
-    "recency": 0.922,
-    "engagement": 0.0,
-    "keyword_hit": 0.25,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.627
-  },
-  {
-   "source": "google_news",
-   "query": "沖縄 イベント",
-   "title": "「まんまる市」8年ぶり開催へ 200店以上並んだ人気イベント、出店者募集 名護で11月22日 - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZEVXeHItZXNweVVCR2JhVy10c0VJZFlvNV9yTlVjM1B4WmJjRzk1eFJ1VGVGYy1CQlhlTmxyek8zVWFpMUc2WUdrY3lSYnQ2VkhkWEJMZU1ieGhUekE?oc=5",
-   "published": "Wed, 05 Aug 2026 09:00:00 GMT",
-   "score_parts": {
     "recency": 0.887,
     "engagement": 0.0,
-    "keyword_hit": 0.25,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.616
-  },
-  {
-   "source": "google_news",
-   "query": "沖縄 観光",
-   "title": "沖縄ハーバービューホテルがリニューアル！ワンランク上の滞在を叶える注目グルメ特集 | Merkystyle - ママテナ",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLemdwcUlHOFdGb3hDT2pyZHNZWXVIMjlFdVZZOHQ2YW5fTVVjM3NvZnBjOXpNUnctMG9ocTZiYkJMd1dRakc5eTdocXoySF9oa2llMEo1NnN5ZXZyTTBqVXhIQVRUX1RxVEVaQnFR?oc=5",
-   "published": "Wed, 05 Aug 2026 08:40:47 GMT",
-   "score_parts": {
-    "recency": 0.88,
-    "engagement": 0.0,
-    "keyword_hit": 0.25,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.614
-  },
-  {
-   "source": "google_news",
-   "query": "沖縄 観光",
-   "title": "画像1 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYkctSkFqWUFLeEdBOGlFenVqaVRuOFhVSDNjU1V1emtCZ040cmJJbDY0eWYxZHdhMG5xSHZuZUVSUm5aaXI5WHN6RnpaeUdPYTFydFpLRG5DMFVyYkJzWE01RDhEOFlOMFhMOUVB?oc=5",
-   "published": "Tue, 04 Aug 2026 23:48:22 GMT",
-   "score_parts": {
-    "recency": 0.695,
-    "engagement": 0.0,
     "keyword_hit": 0.5,
     "theme_fit": 1.0,
-    "novelty": 1.0
+    "novelty": 0.0
    },
-   "score": 0.609
+   "score": 0.566
   },
   {
    "source": "google_news",
    "query": "沖縄 観光",
-   "title": "画像25 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wc0NVNmpxTEN2NVI5a3k2bDg2OEJkczFDWG0tTGdkSmlwdER1bVByUmxIVHctdW4zSmJNby1yLXNEbXdWaFlBZUV1c2tUWlNtTlVXbFlPck5DSUdtRmpvMVZpX2NvYVJEZk94OHFn?oc=5",
-   "published": "Tue, 04 Aug 2026 23:30:08 GMT",
+   "title": "小渕会長「沖縄と心一つに」沖縄振興調査会概算要求へ要望受ける | お知らせ | ニュース - jimin.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KRjNueWJRbnd0Q2ZBWjNmdTFQeloyMzZSZGl6VjVWVTJDX09OLUoxeWIzcUVpT1pWM2RPWlozbmhIMTBCSXhKbnlUcmt5YmlFR2UtWlFRMld5cmo5T1E?oc=5",
+   "published": "Wed, 05 Aug 2026 09:02:17 GMT",
    "score_parts": {
-    "recency": 0.689,
+    "recency": 0.884,
     "engagement": 0.0,
-    "keyword_hit": 0.5,
+    "keyword_hit": 0.0,
     "theme_fit": 1.0,
     "novelty": 1.0
    },
-   "score": 0.607
-  },
-  {
-   "source": "google_news",
-   "query": "沖縄 観光",
-   "title": "画像15 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VS0N3ZkdOZjFHT1RiWUJYQXRaZXVhTUM5dU5pNHJBZzN0YlV5ZUVpY3ZjanF2UFdSQWpLbXNDZjZmbVVHblctOUNxNVlyOGV1QkxpMkhOdTRnX2EwYjl1b1BhWjhKM0Q5ZG0wQ0V3?oc=5",
-   "published": "Tue, 04 Aug 2026 23:30:38 GMT",
-   "score_parts": {
-    "recency": 0.689,
-    "engagement": 0.0,
-    "keyword_hit": 0.5,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.607
+   "score": 0.565
   },
   {
    "source": "google_news",
    "query": "沖縄 イベント",
-   "title": "さかなクンが魚の生態を楽しく解説 アナゴとウナギの違い紹介 DMMかりゆし水族館でトークイベント - 沖縄タイムス社",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUaWRIZkJobFR3N1JkR2VyUkRHMUduN3dFdks5UnRkdWdiQkRxVGtfd3NxbW5iSUpoU25FUXYtdFJ4ZEtSOVk3ZVRWQkxjcXlLSGZuRVZfLUo2aXpxTmc?oc=5",
-   "published": "Wed, 05 Aug 2026 07:20:00 GMT",
+   "title": "沖縄バイオ・ヘルステック業界オンラインセミナー - ごーやーどっとネット",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1leGZhTjhBN3dGdzhqTFhDYnFSLVdCOU1LRV9EakZBNVh0ekdtNDZ1Q0o3ZFAtTjVaZ1g1N3pEZ09XWjcyWmhEOFZQenp2VDR4Zm1IdURPSDM?oc=5",
+   "published": "Wed, 05 Aug 2026 08:40:51 GMT",
    "score_parts": {
-    "recency": 0.852,
+    "recency": 0.877,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "AIは才能を奪うのではなく「好き」を形にする 沖縄企業が考えたい新しいものづくり｜菅原崇文 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MYktSQlkyamlBUldTS3pBZERiMnBmbm54UExVUXJ2RnZmR1R5VW9VQTZidERVZVUzZUlUWm5xcnhHTkg4NlRlRWw2djctMGJnUGxQd2c4Uy0yeTI4NEYtQ0oxcHE?oc=5",
+   "published": "Wed, 05 Aug 2026 08:33:37 GMT",
+   "score_parts": {
+    "recency": 0.874,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像2 / 4＞楽しいイベントが目白押し！沖縄・カヌチャビーチの海開き - walkerplus.com",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pTTlnaUpQODJITk1YTUR0aEtranJxd1ZXcVNwdFFBQ1VHM2dqWE01dXQzVS1ZdHJPTWRIa0tKdEFvSnF5eEh1WjcwX1piMy1ONEtLNXBOOVZWaWxuMGtob25NZTA4c19GNTdN?oc=5",
+   "published": "Wed, 05 Aug 2026 00:09:16 GMT",
+   "score_parts": {
+    "recency": 0.699,
     "engagement": 0.0,
     "keyword_hit": 0.25,
     "theme_fit": 1.0,
     "novelty": 1.0
    },
-   "score": 0.606
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "アゴダとGSTC、サステナブルツーリズム アカデミーの日本展開を発表--日本語対応を開始 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kYXdfdG4zcjA5UkxYLTk4MExHMUNwbnFfejdQdklDU2o3dklnVnFNN1ItUmdzYUQ3WUszZEYwdG00cVBaTGQya2lPTkhKNXRZRFBoYk9CY1hrMXVFcGc?oc=5",
+   "published": "Wed, 05 Aug 2026 07:41:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
   },
   {
    "source": "google_news",
    "query": "ジャングリア沖縄",
-   "title": "画像2 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2d6TXYwVG5TQ2NWUW9tSHl5eXRyYlJSM1pXOW1URlV0LXF4SVNKaDdnSlBzd3dMaGdPSkg4cUR5c2VpUEllNzFTR0ExaHRYbmRCTmszem11OUpRVVYwVks0cUdWeGxxWkZtT2ROV010N09tNXVodXRJaGJGQkEzQlh2blo1am5pSUhhbmVHeWxKLVlaa3ctYUFnb21Ib2lUWHNkQVRHQ01reVZFYW1IeTJ1YXMySnVmRE55dWhjR2hnRjdRQlM1dzVtYkY1ZFRfOEZhT09lWG9qcEZKVjl0NFN6M3BlRW55TUdZ?oc=5",
-   "published": "Tue, 04 Aug 2026 23:08:29 GMT",
+   "title": "沖縄県の雨雲レーダー(実況) - tenki.jp",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5QN0tuWERQTW1tQ05BaVhfcVkxR2FxRXdTQWxUQ0l2azlKU1lGMzFNTTV3TUNoWm5ZOE9pblg0Yi03bWM?oc=5",
+   "published": "Wed, 05 Aug 2026 07:28:35 GMT",
    "score_parts": {
-    "recency": 0.681,
+    "recency": 0.851,
     "engagement": 0.0,
-    "keyword_hit": 0.5,
+    "keyword_hit": 0.0,
     "theme_fit": 1.0,
     "novelty": 1.0
    },
-   "score": 0.604
-  },
-  {
-   "source": "google_news",
-   "query": "ジャングリア沖縄",
-   "title": "＜画像6 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81ZURJSFQzd3FHZUZWWHE0VFp1dlZxUk5HTExva0d6WDV1V1FIX0luMkdiWnF1bUZSZ1JUeWstM0hGa215dVF5VThEcURiS0NqV3Z3MkR0ZGJZeG9wTzRVQmZFbE9SYjdIMG1Ib1ZB?oc=5",
-   "published": "Tue, 04 Aug 2026 22:30:38 GMT",
-   "score_parts": {
-    "recency": 0.668,
-    "engagement": 0.0,
-    "keyword_hit": 0.5,
-    "theme_fit": 1.0,
-    "novelty": 1.0
-   },
-   "score": 0.6
+   "score": 0.555
   }
  ]
 }
