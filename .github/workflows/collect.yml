@@ -37,6 +37,7 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "data: collect $(date -u +%F)"
+          git pull --rebase origin main
           git push
 
       - name: 編集部パイプライン(editor→writer→検証→PR)
