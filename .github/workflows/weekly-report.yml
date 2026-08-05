@@ -21,7 +21,7 @@ jobs:
       - name: 週次レポート作成
         uses: anthropics/claude-code-action@v1
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: |
             過去7日分の data/scored/ と、ghコマンドで直近のPR一覧(マージ済み/クローズ)を確認し、
             週次編集レポートをGitHub issueとして作成してください(タイトル: 「週次レポート YYYY-MM-DD」)。
