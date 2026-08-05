@@ -1,6 +1,6 @@
 name: collect-and-draft
-# 毎朝6:00 JST (21:00 UTC): 収集 → スコアリング → editor採否 → writer並列執筆 → 下書きPR作成
-# 公開はされない。だいちさんがPRをマージした時だけ deploy.yml が動いて公開される。
+# 毎朝6:00 JST: 収集 → スコアリング → 1本だけ執筆 → 下書きPR作成
+# 公開はだいちさんがPRをマージした時だけ。
 
 on:
   schedule:
@@ -40,25 +40,26 @@ jobs:
           git pull --rebase origin main
           git push
 
-      - name: 編集部パイプライン(editor→writer→検証→PR)
+      - name: 編集部パイプライン(1日1本・確実に提出)
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: |
-            あなたは編集部パイプラインの進行役です。CLAUDE.mdを読み、以下を順に実行してください。
+            あなたは「沖縄ドライブ観光ラボ」の編集長兼記者です。CLAUDE.mdの方針に従い、
+            今日の記事を1本だけ作って下書きPRを出してください。サブエージェントは使わず、
+            あなた自身が以下を順に実行します。時間配分に注意し、必ずステップ6まで到達すること。
 
-            1. editorサブエージェントとして data/scored/ の今日の候補を審査し、
-               採用0〜2本を決め、採用分のブリーフを data/briefs/ に作成する。
-               採用0本ならここで終了し、その理由を要約して終わる。
-            2. 採用した各ブリーフについて(複数あれば並行して):
-               a. writerサブエージェントで記事を src/content/blog/ に執筆
-               b. fact-checkerサブエージェントで敵対的検証(data/reviews/に出力)
-               c. seo-checkerサブエージェントで仕様チェック(data/reviews/に出力)
-               d. FAILがあればwriterに修正させ、再検証する(最大2周)
-            3. editorとして最終審査し、合格した記事だけを1記事=1ブランチ=1PRにする。
-               PR本文にはブリーフ要約・ファクトチェック結果・【要確認】箇所の一覧を書く。
-               PRタイトルは「記事: (タイトル)」とする。
-            4. 不合格の記事はコミットせず、理由をまとめて終了する。
-
-            重要: mainブランチへの直接pushは禁止。必ずPR経由。
-          claude_args: '--max-turns 80 --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,Task"'
+            1. data/scored/ の最新日付のJSONを読み、最も価値の高い候補を1つ選ぶ
+               (全候補が低品質なら「採用0本」としてここで終了し理由を出力)
+            2. 選んだネタの一次ソースをWebFetchで1〜2件確認し、事実を集める
+            3. src/content/blog/ に記事を1本執筆する。frontmatterは既存記事
+               junglia-okinawa-rentacar-access.md と同じ形式・スキーマに完全準拠
+               (title/description/pubDate/cluster/articleType/keywords/faqs 3問以上/sources)。
+               CLAUDE.mdの「編集の絶対ルール」(Answer-first・数字・表・地名・最新確認注記)を守る
+            4. 書いた記事を自分で読み直し、事実の怪しい箇所を弱い表現+「公式サイトで最新確認」に修正
+            5. git checkout -b article/(短いslug) でブランチを作り、記事ファイルだけを
+               add・commit(mainへの直接pushは絶対禁止)
+            6. git push -u origin (ブランチ名) してから、gh pr create でPRを作成する。
+               タイトルは「記事: (記事タイトル)」、本文には選定理由・確認済みの事実・
+               だいちさんに実数確認してほしい箇所(あれば)を箇条書きで書く
+          claude_args: '--max-turns 120 --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch"'
