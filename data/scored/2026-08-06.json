@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-06",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 269,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】空の便は沖縄・鹿児島中心に欠航 ANA・JALで6～8日にかけ欠航 すでに計470便超 5日午後10時現在 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIa3ZKVUhpMThyUUN5V3gwd2xZNW5sRWwyOExzX1B2Z3VndTV1NkFPUzJqS1lrZlgyZmRnRUhrQjRUWmdzRXVTRlNFblR0MnhWMVc1TEhEYVpscVdKMEE3VmVSczd4aXVjblJhYmJ3?oc=5",
+   "published": "Wed, 05 Aug 2026 14:08:42 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」開業1周年。来場者100万人「経済効果は494億円を算出」その実態とは？／ダイバーシティニュース 相川七瀬/古谷経衡【8/31までの限定公開】 - グロービス学び放題",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04LW9BLTdGS1dlS1BEZVljM2VFdzZ2WEpRTGFEZW1tdUpvdnBXcG5COEEwM1d6QXJTRTN1LWZZajZUemlrUUE1bjN5TE15bms?oc=5",
+   "published": "Wed, 05 Aug 2026 12:58:27 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】空の便は沖縄・鹿児島中心に欠航 ANA・JALで6～8日にかけ欠航すでに計300便超 5日午後8時現在 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BdU5KY0NvbnhFZ3I3U0VmMmFfczVtZTVmeWIwcWx1STA0Mk5DWjlvM0pBQzNMWFA0N0hJdEx3V1AxM1piZDFFTW9nOGQzRnlLV3NMb1p5MFY1U3F2c2sxbWU4UURUNnY4cjVlbXhR?oc=5",
+   "published": "Wed, 05 Aug 2026 11:59:17 GMT",
+   "score_parts": {
+    "recency": 0.921,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "好調沖縄観光の裏で 物流の要衝が・・・ - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QZm1zY2xsSGJpTjc3SDhCMFZfU09XcW5DQ0tqaGVsUXNpcmlpT1R2VFYwU09TWnNOUzE4OEVNZnRxMlpEcC0tdmo2WEVaVnlPdnVzLUF0bWs?oc=5",
+   "published": "Wed, 05 Aug 2026 10:38:00 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄の夜を彩る平日イベント「BLUE OCEAN」が毎週火曜に開催 - South65",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPQ0JLWXZJQ0ZQYkF6UkszV1BnZTBPcjBBelM5bzd6cHRwdEowdkJnb3Ffdjg0OWVpbWRVWHp5c2FaeEZFaHdGeUtTNmZKdktTOENLS05lRFAxQ2pVMFp6M1libGdEWHYzdXdiUjVBUTNsMV9uV1FQaHhBdHNpTmZqUkJnbjdZXzBIcExwbTZmcGc1R3FiR0ZtUmpiclBQX2liRXhndG54LWlZLWpjVHhaZDI1Smo2dlVmYW1LLTRscnc0WmZqNjluOG42LVpMZXNma2VYV2RTMlNzbDJ0cUd0NFlxWVRoYTEtQTg4dlFiQk5pY0F1UjJzZFBEQ0tIa3h5QVNzc0otREkyV2xCTEp3aEFBSHF2OVBqZ2RJNnYtOEp5Qk8yNkJGNlVKVU83aHVFQlBXbTA3SldFeDhCZmg0c9IBxgJBVV95cUxQVl9aamhwdEp2eUZJNkY2OGY0dWQ3OTBKU0EzRXV2U21CWmFVNWZNX1hGNXo3TThmTWdKcjFfMk1wNEhqRTd5X09hN3RrQk0tLWdCZmp0OGNrVlV1VnNIM19WQnhmSWZkdmV2Sm1HYl9WSG5WcGhQaldBMjhPUVIxLTRDMjlLOXhCRFVDekdvYnB5TDFQZ3ZiMHNzbE02U25weUFLXzk4MGZBdEtRWXZUV29OT1NnbUJZclFTemZrS3hGQ0preF9XWnh5bmlGMk1abmFGVUtFUHZqUTZtamQ2MWFkZTIwcHBnc3hJQ0pfd25JTXQtbkl1RjFESTVNX2xmdDg2V3duV3QzT1NxNWQxRXpSeXF2VEtUdmotR0hmOFlOek9yc25LWUFwQVQyMTU3X2dLZFU4VUYxaHFHSUJnTUJCMWhyUQ?oc=5",
+   "published": "Wed, 05 Aug 2026 02:03:39 GMT",
+   "score_parts": {
+    "recency": 0.714,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「仕込み」から「届ける」夏へ。この秋、沖縄の離島で生まれる新しい「共創」のカタチ｜林弘晃 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01TFJJR1VSQzJQUGlIS1hzMDJpM2ZDbC1TTE5KZ0pVSTI1bFhCWnBKRUd6dzExM094VXUtaDFDUFd5VlhLYjRGdDRsOGJlMGxNQ1dYNUNBMG45eXBqdFRkQVJWTGpzYXc?oc=5",
+   "published": "Wed, 05 Aug 2026 09:49:41 GMT",
+   "score_parts": {
+    "recency": 0.876,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Wed, 05 Aug 2026 09:10:57 GMT",
+   "score_parts": {
+    "recency": 0.862,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "小渕会長「沖縄と心一つに」沖縄振興調査会概算要求へ要望受ける | お知らせ | ニュース - jimin.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KRjNueWJRbnd0Q2ZBWjNmdTFQeloyMzZSZGl6VjVWVTJDX09OLUoxeWIzcUVpT1pWM2RPWlozbmhIMTBCSXhKbnlUcmt5YmlFR2UtWlFRMld5cmo5T1E?oc=5",
+   "published": "Wed, 05 Aug 2026 09:02:17 GMT",
+   "score_parts": {
+    "recency": 0.859,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄バイオ・ヘルステック業界オンラインセミナー - ごーやーどっとネット",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1leGZhTjhBN3dGdzhqTFhDYnFSLVdCOU1LRV9EakZBNVh0ekdtNDZ1Q0o3ZFAtTjVaZ1g1N3pEZ09XWjcyWmhEOFZQenp2VDR4Zm1IdURPSDM?oc=5",
+   "published": "Wed, 05 Aug 2026 08:40:51 GMT",
+   "score_parts": {
+    "recency": 0.852,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像18 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CanJsbkQyX3hzT1FyWkZYUFd6d3BWcUxMUnVMcnc1ZjZBMGdRelUzYkRQeVAxTWNtangwSm1lb2t4eVd2YmZrNERlQmNEaUt2VU9zWXgwR2Y1TFZ3bEppRVlUNVIydHVQb0dEMHh3?oc=5",
+   "published": "Wed, 05 Aug 2026 08:31:19 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "AIは才能を奪うのではなく「好き」を形にする 沖縄企業が考えたい新しいものづくり｜菅原崇文 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MYktSQlkyamlBUldTS3pBZERiMnBmbm54UExVUXJ2RnZmR1R5VW9VQTZidERVZVUzZUlUWm5xcnhHTkg4NlRlRWw2djctMGJnUGxQd2c4Uy0yeTI4NEYtQ0oxcHE?oc=5",
+   "published": "Wed, 05 Aug 2026 08:33:37 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像2 / 4＞楽しいイベントが目白押し！沖縄・カヌチャビーチの海開き - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pTTlnaUpQODJITk1YTUR0aEtranJxd1ZXcVNwdFFBQ1VHM2dqWE01dXQzVS1ZdHJPTWRIa0tKdEFvSnF5eEh1WjcwX1piMy1ONEtLNXBOOVZWaWxuMGtob25NZTA4c19GNTdN?oc=5",
+   "published": "Wed, 05 Aug 2026 00:09:16 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像28 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sSFhwWG5jUlA4MjlrLS1TdVAzYVhKazBmY1JGV3M2NTRBR2pFLTJmVXFsZWd2RFFUQ2RjRkk3Q0RZemxmWFJWYWE0RnJGVUZEbW14NVA0NVBJTWVTMkFqSjZ3MEJqd0VPTXBUWlFn?oc=5",
+   "published": "Wed, 05 Aug 2026 07:46:41 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像35 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5td01zUUlkcTBnMWxRYzRYdnJoS0d4Z2ZzT2h1emx1NFZJQWVsSXVwQmZ0dkVTRFVTSzV3UGFhUHVQMHZTT0hNOUs5U0hoWmw4UDBaQTJCVzc4Unk0d1dPSzU1Y00ta0hOMVk4V0dR?oc=5",
+   "published": "Wed, 05 Aug 2026 06:33:32 GMT",
+   "score_parts": {
+    "recency": 0.808,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.542
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像9 / 20＞沖縄最大の“エイサー”祭りに、史上最多33万人が来場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoUURaWkFTMnNra0k1dWlkTDNJRG5PQ09sUWU1MXBCU3A5X3RUR3dqZm5RaEJrZUk1c3ZCRGppYW00TVY3ZHlFVEdnRWZxaGVRZ00xcnNvSUxrVGpMZXpnMEVzNG1DUWIz?oc=5",
+   "published": "Wed, 05 Aug 2026 06:04:49 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.539
+  }
+ ]
+}
