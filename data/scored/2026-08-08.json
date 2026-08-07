@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-08",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 281,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア・J3・aespa中継も…台風13号接近の沖縄で中止・休業相次ぐ 空港も閉鎖 - 日刊スポーツ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVk1XN3B2TEMwZk5DT2gyUVBzQmZ6cXduV3JMN0c1eG41djRaU2w1Ym5XRFc2STZiM2NmWEZId181cE9BNWdSc084VXhTbExiVjlLdEFDV0o2SnF0QkQxbDFVY2Q0N1VQeHdvcTlJdllpbnloX0JnUHVMR29LWTlCSHNGWVlwdVFRWm80T2dyOUNsM2ZrMUE?oc=5",
+   "published": "Fri, 07 Aug 2026 12:57:00 GMT",
+   "score_parts": {
+    "recency": 0.822,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】那覇空港旅客ビル 8日午前11時に開館 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4S3dBcF9meTczMlVxWEF4Z2NwWnpabkZJSVNqLVNoXzNiNzRtcUtGQTBxQ2VaaXJUQ2tXWFplWExIVzNDVWRaZUhLZmo1SG5oUm92RVhYVFdILUYxVnc?oc=5",
+   "published": "Fri, 07 Aug 2026 09:11:00 GMT",
+   "score_parts": {
+    "recency": 0.744,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：【台風13号】那覇空港旅客ビル 8日午前11時に開館 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YRmpEOTgwaGI1bFR0NFJlQTBRRUtfdWxlYWV0NFdKVUR0RUZTVk01Q2hoc2tBUXYyV1pmU2VTZkswendJWHdhX2FkanlKV1hxZjJ4NENzR2h2bXRUc1hzR19SazBKZw?oc=5",
+   "published": "Fri, 07 Aug 2026 09:11:00 GMT",
+   "score_parts": {
+    "recency": 0.744,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【台風13号】沖縄本島に最接近 那覇空港は国内線・国際線ともに全便欠航 夏休みの観光客や県内の移動にも影響 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NZld1Si1KWktNNUM1U1VTMnAyZW93UklybTR5NmM3V2hBd01ORWJXVVRkMmdSTk1aVjY4bllBbW0zVmJCMTBPckx6RU15LXh6Ymp2aFBEWDdlS1BTMVdtVVBfTHhPQnFWSHN5cW1qSHVUYXVhVmhoWg?oc=5",
+   "published": "Fri, 07 Aug 2026 07:53:31 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリア沖縄2年目の勝負は集客ではなく市場再設計 県内企業が学ぶべきマーケティング戦略｜菅原崇文 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82QzJpcmE1aHhyU2dDbEdPYTZtcFlsUDRqOW4tdHJjY280OEJqd1lZWG5GdXFWRHdGNXQ0VFU1clFLaG9FX1ljMUJSX01PU1ZwWmVVbG1pcUNwVjdoMFU2V3ZCUmU?oc=5",
+   "published": "Fri, 07 Aug 2026 07:46:48 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【台風13号】沖縄本島に最接近 那覇空港は国内線・国際線ともに全便欠航 夏休みの観光客や県内の移動にも影響 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QOHpfc2NBeS1uR3Y1bnJqZjU5cTZKTmVUcElXR3RLVVJOM3hGbFFHUTF2QVdWR0dKV0VqN1dFd1pFVGRGbFFfbnhsYmUzQQ?oc=5",
+   "published": "Fri, 07 Aug 2026 07:14:00 GMT",
+   "score_parts": {
+    "recency": 0.703,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "開業1年のジャングリア沖縄、集客低迷を乗り越えるための新戦略に密着 (2026年8月7日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11MUxRVGFoZzRmeW52RXlXZFBYTU0yVWo0XzZNekJBU0k5MG5teElRU1RVcEEwUEZZQU1WYVRld2Q1WV9RMTZuNENSLVlmNVBKX0NZYUEtdmpjT1BhN2c?oc=5",
+   "published": "Fri, 07 Aug 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.702,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】開業1年のジャングリア沖縄、集客低迷を乗り越えるための新戦略に密着 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ldzQ2LUZVZkNWbXJFTEszN2xEOHBoVG14blcyVEo0cHh0LXFqRlhoVzEyaVBFUzRzRXNoNDdvNDd3VDNOTXQ1RUFGMTkwR2hfMGNtcG1FTmh6NkZMLUNmaXJ3UUJwbWFYQks3b04tZlFQVVpJZXo0QjNNNGQ?oc=5",
+   "published": "Fri, 07 Aug 2026 07:10:00 GMT",
+   "score_parts": {
+    "recency": 0.702,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】沖縄本島に最接近 那覇空港は国内線・国際線ともに全便欠航 夏休みの観光客や県内の移動にも影響 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVFURnhxZVVwU2tvaWxLb3Bhb0dHc25IRzY2RVlybGoweE4xV0g4TGJueTZrRC1oSXFCUUlHY3YyUnhUd19OdTZ1SHRyVmpqVUJVVjliNERBV0FaazJSOTlRdU40cXdQc25QWGRudEFGUHpMQ0ZPRjJWLU5kRXUwaFloVXhjTFBFQUJpYTlR?oc=5",
+   "published": "Fri, 07 Aug 2026 07:16:20 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【画像】【台風13号】沖縄本島に最接近 那覇空港は国内線・国際線ともに全便欠航 夏休みの観光客や県内の移動にも影響 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJNmtxZ3Bkcm43TEZiZm44ejNVdDFlaVhQQ2xlaGZuRUhVa0lDRzV6QlVFNVN1UU5xejVIZksyUVNhRktBXzBuY2pnY0xIaUh6X2NNWkVwdVNsaEJ3NGdwNWYtTHhlOHRYNVkzU1NGMU4tb2FiZFR4RmtaMlI?oc=5",
+   "published": "Fri, 07 Aug 2026 07:14:00 GMT",
+   "score_parts": {
+    "recency": 0.703,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像6 / 20＞ふるさと大好き！HYが地元沖縄で初イベント「SKY Fes 2011」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41UjJMOFllWGRfYWxtVEhjc0ZRR1djWC10SE91bDIzeUg3cjEyMkplWjNZTWJZSURJRExRemtsMWpNTEx6anlBZmYxQnJZQWE0bm5qUFBZemhJbTY0VjliSmtuX0tnS1dp?oc=5",
+   "published": "Fri, 07 Aug 2026 13:18:01 GMT",
+   "score_parts": {
+    "recency": 0.83,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "サクッと3時間観光もVIP体験も！『ジャングリア沖縄』が「ふらっとチケット」のレギュラー化＆「ロイヤルチケット」の新導入を発表 - ラブすぽ",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTGYtUThFSlFUSmNFMnJkTjFzNHFpTnY0eGt5MGxlQWlpWUo2LXZRaTBYVURFM0ZZbzlzd2oyZ3VPY3JKOHAxaVhMOVMtR0oyN2dfTFluVHMyYXNNRW1pWThIa2FOaEkzMFIwWlAxaVRBYmctREtpQ2F2c2poNFNqLWtkRGdWRk0tYlpvWjhPaFdkdHNYanh1d1NfMEFnUjh4eWlHZkJwdVhHYm1neDk1cWV3akZ2WmJ1alpQRlA4bEJkUEEwOFBYb2tnQjV5TFM1X2haQXktQjd6NUpsVlRxOFN4NktWUXZsdTlIZnBFMHNpYnZjemFMWVZFRUVoclkweTdkN2h2TWt0cXptTndLZ1hhOHpVMDR1OUZuWm5VYXFkVDZWVnZlbU9YUFNoOVd6OUlfaW1HS1RESm9DQXg3YU8yQ19GZw?oc=5",
+   "published": "Fri, 07 Aug 2026 05:09:00 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "サクッと3時間観光もVIP体験も！『ジャングリア沖縄』が「ふらっとチケット」のレギュラー化＆「ロイヤルチケット」の新導入を発表 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mNFJHTlBuUjQ2NE5ZNUZaWFMtZXl6Z3g4aFR6V2pVZkxjby1pVFhBcGIzQW9UVFk0MmNxWHZxRHRJWmp3Qy1pQ0RLYlBXb0dxSi0wajZzQ19FTFNVSGJJ?oc=5",
+   "published": "Fri, 07 Aug 2026 05:06:21 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【2026沖縄】花火やエイサーなど期間限定イベントも！滞在型リゾートが最高だった - trilltrill.jp",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRVXFoMEsxWWYtQXB3UmNpOHMwTFE3eWZlQjBOZ0dydmdUeDdfNFprZ0tpU2NwZTRENlg4LWUzS1l2Q1FROHpWUkRfMkw5bnM?oc=5",
+   "published": "Fri, 07 Aug 2026 12:09:04 GMT",
+   "score_parts": {
+    "recency": 0.806,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "台風13号 沖縄で空の便に影響…欠航も 那覇空港はきょう終日閉館 - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02NThkMGJmRW5jNUFLVzBiQndtYWZVNjBVUm5NNXVkWlZ1UzY0MjVpdmZmY0Q2UEYwV1hKMU9ma1ljTmJEVXFDSUhBMA?oc=5",
+   "published": "Fri, 07 Aug 2026 04:00:00 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  }
+ ]
+}
