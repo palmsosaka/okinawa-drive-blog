@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-07",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 252,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "台風13号、那覇空港が閉鎖 沖縄各地に影響【動画・写真多数】＜随時更新＞ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WWW94UUdKY25ZaDhDaE5OLWs4SkJqenBCTEs3NzkyaF9ORGZaa3RYb0Z3NFdKaFdUTFQySkd6WklJWjFKVEFZMTUxZEprTXhwMk1VNW13bF9adHRhdFliUzVfbFVuS2hJckpNT0RB?oc=5",
+   "published": "Fri, 07 Aug 2026 00:54:47 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.7
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【動画・写真多数】台風13号、那覇空港が閉鎖 沖縄本島各地に影響＜随時更新＞ - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zLWxOeUlVZ2NTZGVaOE9XN3A4RnpENEpoY1FzRTJOcTIxMDZiaVY4dzV5TENKcC1VVlJDd09WcnViN2V6UVI1T1lKbGhhNmxOQUFXY0lIQWhZaGM?oc=5",
+   "published": "Fri, 07 Aug 2026 00:39:14 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "台風13号、那覇空港が閉鎖 沖縄各地に影響【動画・写真多数】＜随時更新＞ - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrQmZHUGtMdzg4ZmttUE1jZDZYSVliN2x2eE1XYnhBU2Y5RGZDUFdYYVFOaHlCaHBzcFlWSkdsb05OTDU3RFRMRDBXdw?oc=5",
+   "published": "Fri, 07 Aug 2026 00:39:14 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【台風13号】全便欠航前に那覇から出たい 那覇空港に観光客ら長い列 「戻らないと3日間缶詰めに」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaazgxTU9lSTA4ZkhtR2JZdl9weVNoMVIwN1ltbFJYYWNxSTFQX0ktWTRGTW9mb0M4aWJ2T2luWjE0WkJoZ0s4T1Fuc29qdWx2MzR4elprN3hkaEFKX0E?oc=5",
+   "published": "Thu, 06 Aug 2026 22:51:00 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】交通情報 沖縄自動車道、那覇空港道で通行止め＜随時更新＞ - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51WXVPdFNTVV9VbDFmdUI4Ump2UThRZFlPRExPZXhIamtiY3ZhdzV2YV8tNmNXRXJVSnZFMFVIR3ZKc3g1enktY2VtQQ?oc=5",
+   "published": "Thu, 06 Aug 2026 22:22:54 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号が接近】沖縄・那覇空港が終日閉館へ…「線状降水帯」のおそれも 関東でも海に“異変”影響すでに - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSkNJRDJTalRhTmNlSTNVaHBQalpFSkRMOTU4WFNYeXkxWmRUMG5lb1B1b0NtODROVjFBQ2FvVGQtV0hka01Ha2dBbU1Pcl84YjQxcmRhV0dPTkhpVTU2ZHBlNWJMQXNISEYzUzg3Ql80RWtKYVZBZkUyaDlzRFk?oc=5",
+   "published": "Thu, 06 Aug 2026 21:01:32 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.675
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号が接近】沖縄・那覇空港が終日閉館へ…「線状降水帯」のおそれも 関東でも海に“異変”影響すでに - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43OHlBbmQzZkhDNXdCckZ5X1NPdVB6dHBzY1NPa3JtOUlkLVQ3TGFra1k0cjljVnBrclAzeldHVEVhU05pZFZ2M0FrRQ?oc=5",
+   "published": "Thu, 06 Aug 2026 17:04:08 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号が接近】沖縄・那覇空港が終日閉館へ…「線状降水帯」のおそれも 関東でも海に“異変”影響すでに - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vZU1ubzFxLTU1Mko2Y1d4MDBGSzZPb0VDYUt3U3lBY1V0bUVvaUVGTzFvbVlYQzBXTm1Ec2d3ZXM5VXRDdnRtcXNtdk83UGJuR1oxbC12VnR5ZWFzYUhHNXlybXQ5NUlZYzBqNkd1d21wR0lqd085NDM4dXI?oc=5",
+   "published": "Thu, 06 Aug 2026 14:32:00 GMT",
+   "score_parts": {
+    "recency": 0.782,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Thu, 06 Aug 2026 20:20:16 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像7 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ma1I2Y2VMSmlVN2hZdDdzNHpxVDZIYjZFTXo4LWV6bjA4dW9mbEhrUEVlWEVicWNsaUlnYjBCNEU2YkEzc0RwU3BEemJDQTNIXzVYSFhSdFFkRUNPeFMySDViY2tISXRQZGRtdDhn?oc=5",
+   "published": "Thu, 06 Aug 2026 20:15:47 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "大嶺祐太さんに美ら島沖縄大使認証状 11月に食育・スポーツイベント - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1V3M4QUk2dlhGalhLajY4bTJrakdMMGV5SFZ4QmRYazdqSXJsakRWNjVQZWxnVlBRQ1Z0N05vbzFHVzdwRXEyWE4tSVk1T2hMYTlDZzgtcGk?oc=5",
+   "published": "Thu, 06 Aug 2026 20:00:11 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【台風13号】美ら海水族館など7日は休業 イベント中止・延期も相次ぐ (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTG9WclFpcnZyLTZvM1VoNTdkaVRpWWtKalAtdUVsU05RNHplTUctclVLa25IT0E3cjVTSV82SllhNHBsODNzMThNLWJxYjJ2VVdXemdRSWc2OU5Kcy1abUo1dG93NXdfdEd5SjJXUkJlWVRNVU5GOV91X2pSazR1amx1dnZOQXVkdkU1SEF3?oc=5",
+   "published": "Thu, 06 Aug 2026 11:46:09 GMT",
+   "score_parts": {
+    "recency": 0.725,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【台風13号】美ら海水族館など7日は休業 イベント中止・延期も相次ぐ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91VEV5UnNVbGtRcGtEX3dxVlNJRGdxZ0hEUHhESlFQX1ZtTElwa1ZZVnVqcTFpcjRKSEpHcUptY3RxeE5SakJZaGxSc0NxZkNaMS1YbFlaVFRWYVpzT0E?oc=5",
+   "published": "Thu, 06 Aug 2026 11:30:00 GMT",
+   "score_parts": {
+    "recency": 0.719,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "今回は、沖縄にオープンしたテーマパーク「ジャングリア」の話題！ - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01eTRnUWhwV2wwMTZUUDY0Umd4c1QyTFp2T3dhd2lSWEx0N3Qwd04tcGVuaVd5Y204cGUzWUlIV3NDWENhcTl0aGd2X1A0a2hhalRkZUk3Z1Z1ZkE?oc=5",
+   "published": "Thu, 06 Aug 2026 11:12:49 GMT",
+   "score_parts": {
+    "recency": 0.713,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ドローンで市民生活向上 災害時やイベントに活用 浦添市と沖縄リゾートトラベル協定 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tWk43eml6dXlvbVcyazhSRFJ1dUdTbV9vM0JzM3BYemZybHJrM1pFWUU2cVBHR2F1YkJHWVNlSWs3dHFyZ1pWaVE0dV9Hc215d3pDLThKeFpqenJ6ZkE?oc=5",
+   "published": "Thu, 06 Aug 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.874,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  }
+ ]
+}
