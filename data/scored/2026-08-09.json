@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-09",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 287,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【ジャングリア沖縄】森岡毅×刀が仕掛ける沖縄北部の大逆転劇！観光・経済を変える全貌とは？ Alianza Lima Vs Sporting Cristal (HigKw5CLNo) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xNGFvcTI0VGRrNzloc1BNRnBDUTNzUjc5UkF6TlEwaFdvNWVkZ2dNcWRTTTNzSFBuSFh6VUduWkVNbklXY0VZUWppNkxyVWwzeTVEYTJXVkgwMWc?oc=5",
+   "published": "Sat, 08 Aug 2026 14:48:27 GMT",
+   "score_parts": {
+    "recency": 0.864,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.659
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "倒産寸前・ガラガラ…酷評だらけの『ジャングリア沖縄』、路線変更で“スコールダンス”がプチバズり - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QcVdxNFJmOXhES0k1WWlpWTJNV1diVXhXWkFlZ2Jld0xhRlpiM1pmVmd3WkVyZ2lpMDVJOC1VN1hzdDdFMlF5LW9VT3dCeVRORW96ZGJGREpRZGJGLUFV?oc=5",
+   "published": "Sat, 08 Aug 2026 12:55:20 GMT",
+   "score_parts": {
+    "recency": 0.825,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風13号】交通情報 沖縄自動車道・那覇空港道の通行止め解除（琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vbU0yZEd2QU55VG9YNkF3Y2Z3b0l2aXIwZzh3Wldjd3k5QWgyMm03U2pERk1LdnlVbWNXZWNqYWhONTdqbWhiYk1wakM3NEJmVmM4VVBFQlhpX2FxazRCd3E2SGQyVjRsdGk3cHZ1U3NmaGllOThTNjVmMGsyZGs?oc=5",
+   "published": "Sat, 08 Aug 2026 12:35:00 GMT",
+   "score_parts": {
+    "recency": 0.818,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 2026 夏の暑さ対策 第三弾 「着る冷蔵庫」冷感アイスポンチョのレンタルを開始。暑い夏にパークを快適に過ごすアイテムが登場します - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmZTNiSW95RTdBQjlvMHVIeC1qXy1LVXVsSHY2VTZBd3ZjRk5rbG5iMG1xQmlwb2dkNUMxQlZGN2hpNDZNSksxc1lSZmJacXBIUFFCWmdZNURoMlU?oc=5",
+   "published": "Sat, 08 Aug 2026 11:03:42 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【正直レビュー】噂のジャングリア沖縄に行ってみた結果…想像以上の状態でした・・・。 Fever Vs Wings (RYnHOZGLRb) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wZ1JJaW5KMmU3UW5oaDA1cjRocmZDd19Gb0NFRDVwdHFlV29TTk9MUUplR0JWTC1YSXpNQjYxb1dEYmlUZE1wN1ZPbm9vSW1WRGZsdnpnVVQzbVk?oc=5",
+   "published": "Sat, 08 Aug 2026 11:01:14 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【忖度なしレビュー】散々叩かれた「ジャングリア沖縄」は結局どうなの？実際に行ってみた結果 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92YmZtdjF3T2VsRV9HOEt1MGh6QXpnWDdYTjVKa0hsNUpUTkIybmZKMDZNSHRTZjNuVzhQbHZ3dWdsY0kxSXNaT1lSTWYzalEtRS1mNE5Vbld5eWdZSWk4?oc=5",
+   "published": "Sat, 08 Aug 2026 10:53:50 GMT",
+   "score_parts": {
+    "recency": 0.783,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【正直レビュー】ジャングリア沖縄┃待ち時間〇〇分┃本当にガラガラ!？子連れで行った結果 Steven Weber (2LGDEbkYel) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aVE5JR0ExeGp5MlVZOVlwcFMyempYM0FOcUNJSXhSTHlOVkRibS1MbWJ1X2FzMXBZQ3ppV1BCVXZEY2ZwLVYwN3oxaXl3T1FqY1ZWcmloYXNDcEU?oc=5",
+   "published": "Sat, 08 Aug 2026 10:46:08 GMT",
+   "score_parts": {
+    "recency": 0.78,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【正直】話題の沖縄ジャングリアと恐竜パーク、実際の子どもの反応は...？🦖 Ufc Rankings (BalMRatSXa) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BX0RNZFlVb3ZtaGdnd29nTmx4OW1ScXF6WU1mUWo2djlrd283MXUyX0Nxb1c0c1FUN1ZGb3ZrMmlnZGFoa2Q5Yk5vemZaXzFLbGZ1N3Rmc0UwbTQ?oc=5",
+   "published": "Sat, 08 Aug 2026 10:19:35 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【悲報】「二度と行かない」ジャングリア沖縄体験者が語る実態がヤバすぎる Mariska Hargitay (2thru75Jh0) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FV2lwQnF2dXRhYW1zZkZEX25oSk9mOEpIS245OUVFekdlUHdqYXhwQ18wQXNLRDNSWWlINVdadWplN0tPTzNyMFNOOHBGMDdMelZ3MnBiQTJhOFk?oc=5",
+   "published": "Sat, 08 Aug 2026 09:37:51 GMT",
+   "score_parts": {
+    "recency": 0.756,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【実際どう？】遂にオープンした期待の『ジャングリア沖縄』に早速初日に行ってみた‼️【2025.7.25】 Natalia Paragoni (a48MxQ2f7e) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MMERWcVVtUW14T1N3ZTNSMGV0ZjJjUlJkNWtGNU8tOGJOSkZfNVhkdGtaNzJVNTF2aGZxT3FjSjhlb3JRNXpHZzlWYm14M2E2Z2pMS01VUHBXOFk?oc=5",
+   "published": "Sat, 08 Aug 2026 09:06:47 GMT",
+   "score_parts": {
+    "recency": 0.746,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、アトラクション優先案内付き「ロイヤルチケット」発売 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NQ1RJd2VLOGFNbXUwa1NFS0RtZjk3Q2VrNDBVREV2Y1VYUmFobl9QaThPQ2FDTnJvaXVxY2stNlRqWGJJTjduM1NOQzg0WDNHNk52dm0wcC1QdXU3WUlv?oc=5",
+   "published": "Sat, 08 Aug 2026 09:02:19 GMT",
+   "score_parts": {
+    "recency": 0.744,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、アトラクション優先案内付き「ロイヤルチケット」発売 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84cFc5QTNOTksxdDQ1bk9JVXZyMDJyY2pnV3lTUHZuWl9Ta1p2ME8yZ3lPT1RraUg2MGxPMERxUUFqTXd1VHpldG5ZYkVpcjlCQ3RDOWRmQVNNYWUwVGIwSEk5UWN6N2RpRDVJNWRoLXhnRHVM0gF6QVVfeXFMT0J6blg1QTF5dzMtOVdtMEp3Q3RfQzRaRE1HbjY5d3cyNEhBR1ROaVFEenAwTnhaSk5lbmcxWmVLSW0tUnBSR2ppYjYzeUQ2V3FUSk9OTHRaeGJMc2xtZEtpWFhLbXpzQWtyd21tMnZQaG5kcVIxeFF3QVE?oc=5",
+   "published": "Sat, 08 Aug 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.743,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【大波乱！】ジャングリア沖縄/初日レポート！まさかのトラブル＆予想外の展開に… Alex Caruso (EXijklIvOA) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96VG13SlE4eXZtUWp3dnFUOGU0eXRSV3k1eVFrOHd1Ym0yWlhlLWxSZ3dJdUNtVGpucUs5QWNGU0RCZmRFbVczS25jMEdhYXNkRF9jc0c4c1kycFk?oc=5",
+   "published": "Sat, 08 Aug 2026 08:37:14 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【テーマパーク「ジャングリア沖縄」開業】肉食恐竜のアトラクションなど Michael Jordan (V2S10VlxCH) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzcFU5MUhaRnlWRmlGNzdwbjFEa3hJbFdZMk5DVW5GWDZ4YWVkb3FlNFo5d1BMWGpWRFRvVXhUa1EtZGp2OWxXdU05My1UVGlKbnBRQnhXUG1tU0E?oc=5",
+   "published": "Sat, 08 Aug 2026 08:35:29 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "子どもだましのジャングリア沖縄「経済効果も大ウソ！」 Ohio-class Submarine (EDC2TlAmoD) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NNDRad1J5SHJQNWVGTFFRb0N6bTlqaGo5WTNGYjgyeFZJdkkxV3A5blZVVUJxQ2N4WVNSa1RJWGp5SXFUNzZ5LUlvWW9ncW0tOWlPOUFzTGFaUjQ?oc=5",
+   "published": "Sat, 08 Aug 2026 07:55:33 GMT",
+   "score_parts": {
+    "recency": 0.721,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  }
+ ]
+}
