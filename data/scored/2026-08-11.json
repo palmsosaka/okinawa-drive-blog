@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 236,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】噂に聞く酷評を確かめに行ってみた Ashley Judd (M9R43B7N6r) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fSGFOU01wajFvVTNWeWVfZVFwc1RrTXM4eDdZZFE0S1pJb09IbFFkT3BXOTV6SmRFQ0Q2TGVrc2FnWER4aG4zVUc3dGpzSjhmb1FHcEx0d250UUE?oc=5",
+   "published": "Mon, 10 Aug 2026 18:36:15 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "客が少なすぎて心配になった…ジャングリア沖縄に行ってみた Go Train (MuuvibOBZa) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNHJ5U2tSUHl2UHZWXy1FZmtocmRudzllS1FBLXFnN25XSDdCYk9jSXRYMWg4SW5wdlF1X1o1NjlvUE1CYTVBazk0c3pEcElpUzR2X1MxY1FxVjg?oc=5",
+   "published": "Mon, 10 Aug 2026 18:24:17 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.68
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄新名所】ジャングリア7/25開業！USJ森岡毅が仕掛ける“ネイチャー×恐竜”パークの全貌と経済効果6.8兆円 Pirates Vs Diamondbacks (g4kpt8CLpG) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LV0ZkUGpjSm1XUXFDd3lROGJONTVPNVR0bnhremdJclBFR29vR2o5T0MzVENwemVWbndLU3NGTWIta21na2VDbHRGYW5ZQVVUQWozUlZhNXN3dmM?oc=5",
+   "published": "Mon, 10 Aug 2026 17:31:13 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.675
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "赤土流出対策、知って 石垣市役所でイベント - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LenRIeWE3UENBN0FNemVWSE5CR3EtdEhyeXRTMW5LZ0pSMmNNNnE5Y19nSWZSREItLVdIVGdhQVF1WDUwN21Vb3UtR1o3SXJscnQ0Z215Xzc?oc=5",
+   "published": "Mon, 10 Aug 2026 20:00:17 GMT",
+   "score_parts": {
+    "recency": 0.968,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】タイの本家ジュラシックパーク、高評価だらけで比較され始めるwww #2ch Violanews (d0CkmzAXNh) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrQ1hfeHZ4aDlZM1oxd0ZLWFZ6Rmw5QUxQYTdTeERvZWJxQXBYNF8wYTExSHNGM2lVTWNlemh5Y3h3ZGRHWHNSTDZfV29oODVCWmpQM3JBak5pR2M?oc=5",
+   "published": "Mon, 10 Aug 2026 10:47:05 GMT",
+   "score_parts": {
+    "recency": 0.776,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄旅2026年7月〜8月】その2 レンタルバイクで那覇から名護へ！ナゴパイナップルパーク、美ら海水族館！「民謡居酒屋 琉球ダイニング UMUI」で沖縄料理＆沖縄民謡ライブ！【なみよし旅】 Rb Lipsia - Fc St. Pauli (T3o8bdFqwK) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WWtfOGpPbVcydlZIZG5lRGJKQnNvSUdGS29UbnFtRDNxTzhMUndCbXpDYzV1UXdTenVabF9lWjdEbVUyTUpfdjN3M1czUVdNeUlFeVJLM2QxSkU?oc=5",
+   "published": "Mon, 10 Aug 2026 18:35:03 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "余すことなく魅力を堪能！ジャングリア沖縄、「ロイヤルチケット」新登場 : ITライフハック - ITライフハック",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OeGZiQTQ2QUxXX3lmZFBTTUZVM3ZHYWlGT2hBZFRSY08zbC1WbGJydWhzUEppQnNQY09xZGlMcE1vaFViY1kzQ3NIdkNaTU1uVXZiZTRQZw?oc=5",
+   "published": "Mon, 10 Aug 2026 06:35:05 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "専属店員・山本里菜のTRAD日誌～B面トーク～ #106 求む！沖縄・ジャングリア情報！ Renaud Lavoie (yWuilGL6a4) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lcmoxcll1NHV5c0Q3bnRlbXZjMG9VYjdJaUNGNHVYRmJpa3dwcG9nYzJGbFcyRXRoTHN6anNiRjZXYTRsUXh6czdpSGxJVHZMN3ltcE1od1FzajQ?oc=5",
+   "published": "Mon, 10 Aug 2026 05:08:22 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【夏の甲子園】沖縄尚学、横浜高校に2-7 初戦で散る 不調で1か月ノースローも経験、這い上がった昨夏の優勝投手・末吉「思うような投球できず、悔しい」 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5peUpaUG53bDAxZEx0VjdteU5IX2Q5RXlVWHh0aGM3NWhqNHJldEFqaV96U1Y0eko0T1JpUmlCWm4xVkF4VGx3b28xaWowVmpBcGFYRndlZDFmZw?oc=5",
+   "published": "Mon, 10 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【夏の甲子園】沖縄尚学、横浜高校に2-7 初戦で散る 不調で1か月ノースローも経験、這い上がった昨夏の優勝投手・末吉「思うような投球できず、悔しい」 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxS0Nya0hfZkR0WVEzYmNpTUExM3JTMDBCTTQyVmRlS3JoNGVtWkNQRjdBRUlyV1FQRHJnWnp4THB3RGF0OVRSZEVndnNKRUZFZkEwa1EwMXdCWFpwYjRIN082b2VrbVE?oc=5",
+   "published": "Mon, 10 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】話題のテーマパークを全力レポ！アトラクション・グルメ・スパを徹底的に紹介します Wta Ranking (429KxysGyw) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ybThLTW1UQ3djTEllVFl2RHZVdHpKelVUNm52TDNNdlZZRmJGY2lTdUZHWldaRS1yVnZvVWNPM3ZjUlVqTlFhcGFCMGxIOXpXTmJFWmRaWXIzZlU?oc=5",
+   "published": "Mon, 10 Aug 2026 04:58:13 GMT",
+   "score_parts": {
+    "recency": 0.655,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄県北谷町】リゾートホテル レクー沖縄北谷スパ＆リゾートにて妊婦にやさしいサービスを導入 - STRAIGHT PRESS",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PRE1oZXAxdTRIVXFaUm5XZ2Y5cnFJYkZDMFpIWHZSUmlFX2NQejM4ZzFnaFF6S2NhaHVfNFlxOThkUmsyT08tUkE4Q0dHRzFkUnF3?oc=5",
+   "published": "Mon, 10 Aug 2026 11:33:34 GMT",
+   "score_parts": {
+    "recency": 0.792,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "東MAX『ジャングリア沖縄〜❗️』 - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1MX0VlYTBlUTYtLWFwc1F2THlMNTZvdWhvTUR3dXFzaXdCcHlhM0ZITzlNOGhZV09xZE9J?oc=5",
+   "published": "Mon, 10 Aug 2026 03:34:56 GMT",
+   "score_parts": {
+    "recency": 0.626,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 気球のアトラクション運行 当面見合わせ - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01d2ZuMlhfTHktUV9SZ3RQaHBrNm9YeXNBb25GNkh5b2l6OG9mdmNBdW5xcU1Cd283OUFCMDh4R2dRcUdRVGRkYldGdlJFLWxxbzRTTUc3ZzE?oc=5",
+   "published": "Mon, 10 Aug 2026 03:25:00 GMT",
+   "score_parts": {
+    "recency": 0.623,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【那覇】街と海を行き来！サウスゲートホテル沖縄が最高すぎた - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zZzg2Qm9ORktHeUc4V0V4RFlDZVp1RUVxR1NvWjFMVk81X21uNDlFRUlQWWtNWmhsNS0wTmdrRkpqQlVXXzNsYmZiZEt4T3c?oc=5",
+   "published": "Mon, 10 Aug 2026 10:20:00 GMT",
+   "score_parts": {
+    "recency": 0.767,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  }
+ ]
+}
