@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-12",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 215,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【Vlog】元旦から2泊3日の冬の沖縄旅行！❄︎（レンタカーなし） Canadian Vs Buffalo (sUabGSF7An) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NN1h1U2wyeXczbWJOQ0pxSmxCTWNtNHFPUDZkYlFmRm9SVUZ5bUllb0pKUkN4SWlsZ0I0RmhLTXJWZXlKdy1JMDNSNHdsaUF0QXBkSnV4bHBnS2c?oc=5",
+   "published": "Tue, 11 Aug 2026 10:45:49 GMT",
+   "score_parts": {
+    "recency": 0.775,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【コクピット】13分で絶景を観ながら行ける！普天間基地から久米島空港間で、真夏の沖縄を空から堪能するフライト！#沖縄 #空港 #飛行機 #旅行 #旅 #那覇空港 #久米島 #離島 #お盆 #msfs - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE45aW1IQ0VmRnlaTDJmTlMwT0xqakdqb01PbGZ2MlFRMmFmUGpUUnhnMHlJYXZWZ3kyZkZZ?oc=5",
+   "published": "Tue, 11 Aug 2026 10:00:26 GMT",
+   "score_parts": {
+    "recency": 0.759,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "[OKINAWA 沖縄]4泊5日沖縄家族旅行！FINAL!ビーチタワーホテル！那覇空港！沖縄旅行戦利品！ Romford Toby Carvery Shutting Down (72FTYIxBXH) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nbWl1dkFEMjI5Y05ULXdLdUd2X1ZFV1otSHJENmJsUUpNNUs2Z0RzSnlWRVBwSG8zWkRyUTVJSjd0eFpGTDVkQ0xKdTBRazFLdjBLbUVmYi10Rmc?oc=5",
+   "published": "Tue, 11 Aug 2026 00:08:42 GMT",
+   "score_parts": {
+    "recency": 0.553,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "東MAX、1年ぶりに訪れた『ジャングリア沖縄』を満喫「これは絶対借りるべき」 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13NXZzWUtUTmZYTEtoQzJBRHItQ1FOMlhpRHpUaVVYOG5DakNzaWw5cFRGOGhhLWxBYS1PaEZDdGNuNG0tTTFlZTVPVUpRSllZUHQ1ZGhVczlVZUlSdUpOblAwc1FzNW9IcXlaV2xR?oc=5",
+   "published": "Tue, 11 Aug 2026 07:46:14 GMT",
+   "score_parts": {
+    "recency": 0.712,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "東MAX、1年ぶりに訪れた『ジャングリア沖縄』を満喫「これは絶対借りるべき」 - times.abema.tv",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zMnNMMWFhQk04am1zeTdZUThHM2s5T05maEdRZVNRTlpMQ255dTAzUFJVQWxtWjc0NkkxNlA1QUI3dGdIN1ExR0U3VWpCZjFBSFNDaw?oc=5",
+   "published": "Tue, 11 Aug 2026 06:39:00 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」オープン！最強マーケター・森岡毅が挫折を乗り越えて到達した境地【森岡毅×入山章栄 70分対談（後編）】 The Comeback (E08l6QKfNs) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsTlhBSXFLSjgzOGtJNnFrTHhiY1FCYWhLWWk5VlVEdGxtdHc1eVZLSzJzcnItOGJYS0xiUkIzbExPV1UzMVhLM1BlUXdJMVVWVnhEd2pIYzVhSE0?oc=5",
+   "published": "Tue, 11 Aug 2026 05:53:27 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "沖縄美ら海水族館にバンドウイルカの赤ちゃんが誕生！一般公開はじまる - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kWFQtVjEzazZ0UVhkb1lZeGhBSkRwSzAwOUhzWWN1OENzS1A0UmtUdWd1UkU4TWg3LWRnbUZaUWJJRzNPRlQ1R1V5ZGtFSjZXck55bVZ0RzJ0UQ?oc=5",
+   "published": "Tue, 11 Aug 2026 13:22:11 GMT",
+   "score_parts": {
+    "recency": 0.829,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "お盆休みを沖縄で 那覇空港観光客らでにぎわう - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GYW5yNkpCMkt2aGp2cnEzdkpIaFhia2p0UTI2Q2ZnVVpEdHZ1c01FZ01sb2xtQXl4UGJMbU8wQjBERm95WWxsamdaWFZ5STJsZXE4bGRybFVSZw?oc=5",
+   "published": "Tue, 11 Aug 2026 03:12:54 GMT",
+   "score_parts": {
+    "recency": 0.617,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【第1話】沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話 / 7万円以上したカメラ忘れる - ガジェット通信",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSNGg2bkV6TXZydHJYYXk1OUxCajJONzdGeU5oSFdIRTZUTnZ1Y1hlRkxfYzZKanN1elByTFpHUWNzSS1vQlhkVFh0Zw?oc=5",
+   "published": "Tue, 11 Aug 2026 03:00:38 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "為又青年会など5団体が演舞 8月16日、名護でエイサー祭り 花火やジャングリアのダンスパフォーマンスも (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3hmTnNDekZtS3ZwNW14T1RHcWhxTy1kanczRzRKYkVabEJ3Tkp0bGF3U2locnV1U1Z3Z0xDbDNyNDhVSlkwXzNJNGE5cWFNeDc2LXV6VHEzd2s2V1M2Nk8tcHIwNHlsMDJRRHlrdGdTRGwyYUhvOUhFX29qSFU5UUxaVUgydFpqTXBjc2d3?oc=5",
+   "published": "Tue, 11 Aug 2026 03:01:33 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "東MAX、1年ぶりに訪れた『ジャングリア沖縄』を満喫「これは絶対借りるべき」 (2026年8月11日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BLUNlSVphYWY0dW9QUlR1RkRQQUV3cTQ3SEVGNHpXM2lQa1pEbnJjMzVUNWdMSWF2bEFEM3NSMVh3RWhmWTVkTk1iY2xZX2M1SHpJTU53cFlaMFgxUEE?oc=5",
+   "published": "Tue, 11 Aug 2026 03:00:06 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "奄美沖縄世界遺産登録から5年 那覇市で記念イベント - newsdig.tbs.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95dFhpTEVhR01kd2JqdEdXVFBraXlab2JaVzFYaGphUXpvai1PM1lCUWwtOUgxeWdEc0ExaXNsNWdVd1JwVDJtOTUwNTNUM2dMVm1EUERNSFE5bk1LRmNn?oc=5",
+   "published": "Tue, 11 Aug 2026 10:59:00 GMT",
+   "score_parts": {
+    "recency": 0.779,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "人気観光地・北海道と沖縄のお土産が大集合！ 旅行気分が味わえる 岡山高島屋で販売イベント - KSBニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05eWJPb1piOGZwdEs0YkxyUElDVkRYQXZraTFyYjJTT0JmLTV1SDQ4SEJrQVp3R0t5V2RzUUM4RlR4WDVIRmlFWE1sRHFXQVNG?oc=5",
+   "published": "Tue, 11 Aug 2026 10:12:00 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "人気観光地・北海道と沖縄のお土産が大集合！ 旅行気分が味わえる 岡山高島屋で販売イベント (KSB瀬戸内海放送) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTh4RTgwZUZqWWdfREE5V1dFMGgxaWN6MG5iYlRzcHRMYXEyRWZwUHRkNXM0TVJpaVJsZ3VaZElMYzB3MmhORVFxWnE5WG1vNnVUR1hTWWR4bGtSLTVOMk1Yc3ZBSGVIbUUzV1BTUFFDN0tOYm1aeG41dktMYllRRTh4OHFDVnQ1aGY3b3V3?oc=5",
+   "published": "Tue, 11 Aug 2026 10:12:53 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "人気観光地・北海道と沖縄のお土産が大集合！ 旅行気分が味わえる 岡山高島屋で販売イベント (2026年8月11日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TYU9WV1R6R2N3ZTgxTHR4NGw3QUhXeW5vWktxSmtnTTNrd1FidXFJUXRiVU1hckpIdFlvR2hrUUl2Wmpld2dqU0Z2TGUtbHVUMXE0S2xxYTZCc0xieUE?oc=5",
+   "published": "Tue, 11 Aug 2026 10:12:00 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  }
+ ]
+}
