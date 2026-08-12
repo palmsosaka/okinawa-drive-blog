@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-13",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 256,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "小原正子、2度目の『ジャングリア沖縄』を家族と満喫「子供達めっちゃ楽しんでた」 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uZU9fYnJJa0YyakZhdkNkYjBUUGhQNU9ZSVRObjRETnJuUGpza3JGdk5jaGFkVmRaV0x3NTRFR2RMa0VySGo0c3dHdXhwVVljOUU1ODdWbVNTYmZaUnQ5YkFkcllCUlpqUXdoYUsxN2RwMHY4NHl5Rw?oc=5",
+   "published": "Wed, 12 Aug 2026 10:51:20 GMT",
+   "score_parts": {
+    "recency": 0.777,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "県民・観光客へ海の安全意識向上を 那覇空港で「特別広報官」の任命式 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRV3EzZnlpN1hja1dmcTgxcmMyTVhjWUF3OFhWZHAwc3VNSmE2OXlPUkVBRExaUFRJcUdMdWhpZnFGX2hTam0xZjU4RDB5VGRsd09HeWpXSzk5aTR5anBXQVduMHB2QllYVC1KNkJObEJPaGQ1azhGMUo2bUZoN3M?oc=5",
+   "published": "Wed, 12 Aug 2026 10:15:48 GMT",
+   "score_parts": {
+    "recency": 0.764,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "小原正子、2度目の『ジャングリア沖縄』を家族と満喫「子供達めっちゃ楽しんでた」 (2026年8月12日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdlJWTDJDZWJUMWVnTmdaYU9laEdsOUZMYnFITEZyS1pZT2JqSHFGaWNnc0NTcmQxMWpUOHhvYWx6b0pEQWNJcmxOclB3QTE0aDM0aU1JUHNYSjBOLVE?oc=5",
+   "published": "Wed, 12 Aug 2026 10:14:00 GMT",
+   "score_parts": {
+    "recency": 0.764,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ちいかわ「シーサーのおみやげやさん」常設店が那覇空港に誕生 現地企業コラボで沖縄PR - PR EDGE",
+   "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5qQ19vMFJUNDVDNU1xazhOanh4cFc3ZDFfTGFYWTJoRm85X1IxcVRQczltS1hoRHgxOVE0SW9R?oc=5",
+   "published": "Wed, 12 Aug 2026 08:00:34 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "小原正子、2度目の『ジャングリア沖縄』を家族と満喫「子供達めっちゃ楽しんでた」 - Ameba News [アメーバニュース]",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SbEpUanRoZzJrVm5YX0cyWXNJTXZCeFhLUDZ1OHE2YU9HN2JJam1FUGRNNVMxa21ZNDV0T2JweVJTRC1IYS0zMWp4dldTdnMwVXZHX1FPem4?oc=5",
+   "published": "Wed, 12 Aug 2026 06:18:07 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "“振り子のように” 振れてきた沖縄県知事選挙、今回フェーズが変わる？ 過去データ踏まえ考える今回の注目点 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93OU1PS2s4ZFd1OTRvUGR5M3diZlNlb2pDOHhKTHBhZVc0cGhDeXJLY2NTSU9HTDVTMXZaVlNPOC1oRW5xLVZ0bXh2dU5GX0Q2aXdLQWJPRlExTV9yWTFNYXVUQ3lRVEE?oc=5",
+   "published": "Wed, 12 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "『Fate/Grand Order（FGO）』水着イベント「カルデア南海大決戦！」本日開幕。今年の舞台は“沖縄風”、巨大な夏がやってくる - AUTOMATON",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ST2xTQldibm83ZFN0SjFqNkFMWVVMNXVjWXg4OV9lVkpuQVJqakxhM0dlVmRiaTlWNmx3S1dtQlEzSV9rNGxUOThOZlVnZ2tUdHN0cnQzb1l2aDBhNFc1MzNPS190bzhZNEgxNA?oc=5",
+   "published": "Wed, 12 Aug 2026 11:29:12 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【第2話】沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話 / タイムズカーに連絡した結果 - getnews.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91ZzA0c3JaVlVWeUt4bUMxTEx3ZWNTUVVHWDJ5NkJyS0ZFc1BnS0Qya19hcUxsX1lzdEZoc0w4NEhZQXp1cm5ZVWxRdw?oc=5",
+   "published": "Wed, 12 Aug 2026 03:00:28 GMT",
+   "score_parts": {
+    "recency": 0.613,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】チケット＋ホテル（JTB）はコスパ悪い？沖縄グルメ満載でホテルレビューもしちゃいます。 Boston River - Millonarios (kYxY7Ouxdd) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QQUVwdTEtMlBBeGhYb1BvTDc4Qm5RTTZ1UEsxcjNBY2lOOEszSHlyOVR6WUZCa2t3VEtIeWVUaXo0TzRRSzlBZk8zSm1PZjA2SVA4MnQ1VXQ0Zkk?oc=5",
+   "published": "Tue, 11 Aug 2026 18:23:02 GMT",
+   "score_parts": {
+    "recency": 0.434,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Wed, 12 Aug 2026 16:42:55 GMT",
+   "score_parts": {
+    "recency": 0.899,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "平和賞に１００万円 那覇空港ビルディング - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OQWpZTlh1aHV0Zm9VUUxvRmxISkoyRGVtdUFjeVQwcFFzTnM1bElaekZhYjVYSGNGY3Fib3FGejMtZVVtZk82VkpkckpsS0ZNQzlmazZZdU5tMFdCUGZ6QQ?oc=5",
+   "published": "Wed, 12 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.967,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "ウミガメの保全活動の最前線【沖縄美ら海水族館】 - サライ.jp",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9BVE9UZllHTWpfcW8tRGdKMUxFcVVUYTZ6NGtMYjFKNk5ZV0xrNW1MUGlLNGhVSndMdFczVDhQLWtROWJX?oc=5",
+   "published": "Wed, 12 Aug 2026 08:03:52 GMT",
+   "score_parts": {
+    "recency": 0.719,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "栃木県のお盆休みのイベント《8月13日～16日》くろばね夏まつり／キッチンカーフェス／沖縄物産展 - きたかんナビ",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4aV9Pd3lkdmM2cFZ1dlE5RDFMRzVPRTNyWjZubm02RS1GcEtPMEpWYnMzNmo4S1BlaXNwM0lheUFzcnEycFhET2ZDUkI5Y2lf?oc=5",
+   "published": "Wed, 12 Aug 2026 08:01:34 GMT",
+   "score_parts": {
+    "recency": 0.718,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "水難事故防止 澪花さん訴え 那覇空港で観光客に - okinawatimes.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wTVJBZDNpSkVwSXMxa0NISkdjRzlOYml5MVp4ZDY4dWlLcWlGMUJKdUZpcnhhVk1KekJrT1plS2RmdlVucko2Zk9ib244R1BqV3Q3RWp0ejkxNnJ4bXc?oc=5",
+   "published": "Wed, 12 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄のスポーツクイズ46問｜甲子園・キングス・具志堅用高 - ごーやーどっとネット",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53TG9ZZjNTWHBRenRJT001a0tSWW10UHk5RjdaWFB1LWtQUTBvS2FTMmxoT0o3LVBFZUdSM2pMWEtRM0hUUEVBNXdBTFZIdw?oc=5",
+   "published": "Wed, 12 Aug 2026 15:38:18 GMT",
+   "score_parts": {
+    "recency": 0.876,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  }
+ ]
+}
