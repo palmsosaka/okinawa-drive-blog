@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-14",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 251,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「USJをV字回復させた男が危機⁉️ 森岡毅の挑戦の裏側」#森岡毅 #USJ #ジャングリア沖縄 #テーマパーク #マーケティング #赤字経営 #経営危機 #刀マーケティング #エンタメ業界 #逆転劇 Bolivia (84szu1hcH5) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBITUZ2YjZDaWVZbWRzZ3pSaUNpR0I4QW83NGFUcGd0SERESE5pRmRJTThKcnlIU3J5eVN3N05CQ2NCT29Wb0Z5OWpiMTdieFA1YUt0dHFWRXlJSFE?oc=5",
+   "published": "Thu, 13 Aug 2026 11:29:26 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港ビルディングが沖縄平和賞に寄付金贈呈（沖縄テレビOTV） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwT1UxaVpHbkw2aklHSENWVzd5ZnhXWmR2U2lsa1M1Qk8xT0lvdVZpUWZHV3p2RllsOTVybUZXZ2JFZzNTbjZybF9sblg2LXFzS0JTWl96N1lqUFpyRXdSS0hrZ3djaXo3eDVnYm9TOElrOVoxYWU5UURRMjVnZGs?oc=5",
+   "published": "Thu, 13 Aug 2026 09:49:01 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "豊見城・瀬長交差点―名嘉地交差点、夜間通行止め 8月20日・9月14日 那覇空港自動車道の橋梁架設作業 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMU1aZUtaaHBJejR3ZnpmTUdQZl96OHZ4VFBMcmczU0pUV2NWVnRmYVVqOTF1eGlXSGRKQ21OQmJ0VzZFOVU1dU9ONHpGZUk1ZGc5R1B0VmxnM1d6TUpRY0RTMkEwTWcySjhBR1Z4ZThMQzdDUmtPQUw0X1hCT29vMURjV1dHUnFFWUI3aFJB?oc=5",
+   "published": "Thu, 13 Aug 2026 09:01:23 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "豊見城・瀬長交差点―名嘉地交差点、夜間通行止め 8月20日・9月14日 那覇空港自動車道の橋梁架設作業 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmWW05NFZ6NGNMTUZHVmFLWDhVWGNuZlFBczFYR0FaaTRBQ21zTVBCRDBSa0JXSWdYWlh5d3pCU1hlQWFJeGljR2wxcktrakNLTzRfS1huZExEMXZ5elE?oc=5",
+   "published": "Thu, 13 Aug 2026 06:01:00 GMT",
+   "score_parts": {
+    "recency": 0.676,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄県知事選立候補予定者が学生と討論 個性や候補者の体験に触れて理解深める - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JSldqN1JOT2dKMUE4R3dHZkFOTUpXMTFtVmU2aWhCRkhHX25wZzMweVczcXp6OWNWeFVPdzczZnUwcWhLTjlHYmg0VGI2QzVqTmxPakhCcTRGZw?oc=5",
+   "published": "Thu, 13 Aug 2026 21:02:00 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【第3話】沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話 / 何かがおかしい位置情報 - ガジェット通信",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiaGRDRjNwd3dLY1pmLXRaMzRTa2lmQXgyTTNzOE1ITzdGcUpsX1BtbVl2MThDSHNCT3Zna1NKeDNNdjVPdlFjTUtzTQ?oc=5",
+   "published": "Thu, 13 Aug 2026 04:00:42 GMT",
+   "score_parts": {
+    "recency": 0.634,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宮古島ワイドーマラソン終了 市「役割を果たした」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zLUY1ZFBib1NtM0p0NXVBQ2VtUFhLSGtWd0U4YkM2WXRGTWJkNTE1NllyTnBQRHAxU3RkekNxNl8wck9OeUVWWGo0dmNmMER0ZmpqLXhLMmF3anhHWGc?oc=5",
+   "published": "Thu, 13 Aug 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "那覇空港ビルディングが沖縄平和賞に寄付金贈呈 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSEprZ19BbjZlZ0tsdlVLXzY3SHVON1lOT3BBRzBJRHR1b0RpMllqRmE4LVBneGNoZHFUY01hQVI5Q0RwNXlJRWQxREpxT3I0RkZ3ZGVCeGt4R3U2WVllaEU5eXBwVkJlckZFX1hkQlkyUU5EUjM0ZVRlb3RGQ1F2YdIBgAFBVV95cUxOSEprZ19BbjZlZ0tsdlVLXzY3SHVON1lOT3BBRzBJRHR1b0RpMllqRmE4LVBneGNoZHFUY01hQVI5Q0RwNXlJRWQxREpxT3I0RkZ3ZGVCeGt4R3U2WVllaEU5eXBwVkJlckZFX1hkQlkyUU5EUjM0ZVRlb3RGQ1F2YQ?oc=5",
+   "published": "Thu, 13 Aug 2026 02:40:00 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【海洋博公園】8/23（日） 海洋文化館 × 沖縄美ら海水族館 海洋文化講座スペシャルセッション「沖縄のウミガメの生態と太平洋のウミガメ文化」開催 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94aU1mZ2x3am5MTVVadVNuM215WGh2Q0tIb3ducm10ZHVSd2FGd2c4VzM0bk9HTlgxUXNMWmZuM1IxLW9GU2tLejJQUk9VSi1MMXFSeVM4UXdoaGlRR04zVTZHS09rNmJDVXc?oc=5",
+   "published": "Thu, 13 Aug 2026 08:35:06 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【海洋博公園】8/23（日） 海洋文化館 × 沖縄美ら海水族館 海洋文化講座スペシャルセッション「沖縄のウミガメの生態と太平洋のウミガメ文化」開催 (2026年8月13日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rUnQxai0xRWIzcTZDcWNtRGoteW5wcnZUS243Y2dPUWloWVVudnRiUXd3eVpYWFMyQVctLTR3anBnUHh6blVfaF90SWpleHNJNk1KTjJ1Q2xqdzBsMGdXa09n?oc=5",
+   "published": "Thu, 13 Aug 2026 08:35:06 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "イオンでイベント中止続出 熊本爆発事故で点検優先 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLeTJONU92ZVN3RkpqNmhTMXY4VWNTTWtVM1JuYUtPSWs1U29tZmsyMHlQcDkxQ1pWRkhzSEoxRC1EZXEyelllU1k2V1FwUjdscWxWRmVCNHBSbF90b2c?oc=5",
+   "published": "Thu, 13 Aug 2026 07:16:57 GMT",
+   "score_parts": {
+    "recency": 0.702,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像20 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tU19LOVVLcG5PNXpnV0NodUhfd0xfY1o3ODNWTE5HRGtrQUYweFB5cVJkV2ZsNGNXMXRFNzZUbjRWV2FzQmI3R242aTdiUzN4ZG43SFhkSGdjNTVUaG9TcDFzSUVvaVZ1dm1VSzhn?oc=5",
+   "published": "Thu, 13 Aug 2026 15:02:53 GMT",
+   "score_parts": {
+    "recency": 0.864,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "作家・荒俣 宏さん、沖縄美ら海水族館で深海研究の最先端を見る - サライ.jp",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1FVVVlVkRaTjc3MUpiRE9SZElmRVlIVmk4dHB4aFlKZ0N4RGNhUXBJVEYxdnY4RzBIbXV6WHhxXzlpWVZW?oc=5",
+   "published": "Thu, 13 Aug 2026 06:04:01 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【森岡毅の新テーマパーク】ジャングリア沖縄にあって、TDLやUSJにないものとは？ Dow Futures Today (7ErkUW0aEK) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeXJ2aGhNODFXM1hCUU8zQ3VFc3AyU1p2ZldyX1dYRnppd0E2OWZnY25ac1RFRHN1aTZ6aE5Ka2E1MWlNenQ1R2s5ajBqRjN6S29XQlpHQW8tbUk?oc=5",
+   "published": "Wed, 12 Aug 2026 20:57:37 GMT",
+   "score_parts": {
+    "recency": 0.487,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "仙台の藤崎で「ちゅらな沖縄・うまか九州フェスティバル」が8月13日から開催中　被災地・熊本県からも出店 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSTZKUTJxNm1ZdllGMHpzZDVicDIzaXFQN0dLNHhVamN6c1pmbXlNVTdEZnRKUFJIUWxjOXRyZExXbDFRVVNkS0FDeUt4eHUtLURoSFNaZlFRc294QnA1VXF3SEpOUHhPbTlXTUZxWExRXzRQREozUkpzTEFNX1nSAYQBQVVfeXFMT0FHRDEzcV91RkdtMTZYcWZLYllqWFdvMGxndnJkTWpyd3M2NG1HWXlKV0pQb2M0a0tLUE02ME9qTGtJRld5QS1xRjhCS0RvelUybDBJZUt1QjRFLWlJMmlhNVNuVm5XVXBZS0FQcmVsVDkzbWNFaHpjdDFDWmxDS2ZIWEdQ?oc=5",
+   "published": "Thu, 13 Aug 2026 11:53:03 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.539
+  }
+ ]
+}
