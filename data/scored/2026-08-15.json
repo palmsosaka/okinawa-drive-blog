@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-15",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 198,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄鉄道計画「那覇～名護がわずか1時間」ジャングリアにも追い風になる？実現を阻む最大の壁 - ダイヤモンド・オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kckdKRTEtNW1jc3plVlF1Ti1xcUVaUlpLVFAxeWZ4R1FjS0ZZdGViUTUxemN6bHMxWElOTE5ieDZmbWVIRkthVWp1a1g?oc=5",
+   "published": "Fri, 14 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.698
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【まとめ】ジャングリア沖縄＆森岡毅「刀」に何が？ 不振や相次ぐ幹部離脱、テーマパーク撤退の裏側を追う - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mamVnTGVMeWY1UG1ZQTNWWXl0eVlYRThvLUpBeWlTRlFNQU1McFRZRzJ5NGxnUXc4R09XaVVLckZHQ1dXQVk2NU1mcw?oc=5",
+   "published": "Fri, 14 Aug 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "推し活若者に人気の補償 「キャンセル保険」 イベント中止に対応 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44TEFsbFdVbjBNVXRBQnVPMjlsS25rN3hLVVRBRy1Kb2xSSWYweS05TkU4cjV4NWVjVGRfd1JJRkNxSTVrbGdBNHp6RFdBRU5nUm9EVTU2OHBGMGJuRGc?oc=5",
+   "published": "Fri, 14 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "所得・子育て・観光「３つの倍増」 古謝氏が政策発表 - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmT0VFTlo5TEsxeW5FQTJ1T2RMZE44UC1RWW96eFQ5MzYzYnRnNlNqVU9yQkplVW9IOWlHNFBhOWZGT09SSUJDWGhsek1FRVZDZ3VGUV9ZX2c?oc=5",
+   "published": "Fri, 14 Aug 2026 20:05:51 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄美ら海水族館×東南アジア唯一の内陸国ラオス】海がない国ラオスで病気と闘う子どもたちへ、未知なる海の世界を届ける—沖縄美ら海水族館との中継イベント初実施 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YTnRVOGQ2Y1dmSHpYdjRaanVjcW5BZngtTmFzR0ZEWld4ZVU0OUFKdlAzZzFkaS1zc1pYR01tZW9kZmdJT0pIZml2RFh5N015T3ZMTGNsQjlWLW9kMm01N0luSXV4dWN4T2c?oc=5",
+   "published": "Fri, 14 Aug 2026 04:09:04 GMT",
+   "score_parts": {
+    "recency": 0.644,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄美ら海水族館×東南アジア唯一の内陸国ラオス】海がない国ラオスで病気と闘う子どもたちへ、未知なる海の世界を届ける-沖縄美ら海水族館との中継イベント初実施 (2026年8月14日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3RzR2dUpvSm1ZOTAwazcycXBtdTJQYzZrRnJMYU5yN3JNRUZqSTk5NVRRNTcwZHZ2Rkw4eEc2UU90WDdjTk1aV3hiZF85SDA2OWFSUVg0NndJU3dlaHJJd29R?oc=5",
+   "published": "Fri, 14 Aug 2026 04:09:04 GMT",
+   "score_parts": {
+    "recency": 0.644,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "国際カーニバル 今年の中止決定 沖縄市 実行委員会 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10cmNsTzVmRl9YX3JLTkRUeGVUcGl4cU5xSlVRekVja25kSmd4OHBkR2lxY0oweVp1SjQtbVVUNDJJejVYQ0k3VnB2VVR1dExqVEZFVHZHQ055UFhfYnc?oc=5",
+   "published": "Fri, 14 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［熊本地震義援金］OTSが20万円寄付 「観光面でも復興支援」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVb2x2NzdPbUtLVU9HX0xGOEJZWHlub0pMdHgwaWxqMlc0TXpqQ2xaUGxOY1BSVGZWdEZKaE40eTMwSUR2dVR4TlZ1dEVkaENpeFZ6OUU2bkpwWEhOb3c?oc=5",
+   "published": "Fri, 14 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【第4話】沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話 / 神対応された件 - ガジェット通信",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JV04wQmpvRUUtVFlsSTNSVjNhV3h4M0c0SllvbWIyNGlKLThScl9DajFVOHRkMm5PV0tDWmV6RWtSTXE1dkE0N21rQQ?oc=5",
+   "published": "Fri, 14 Aug 2026 03:00:37 GMT",
+   "score_parts": {
+    "recency": 0.62,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像1 / 3＞南国・沖縄の春を感じる！｢第13回やえせ桜まつり｣開催中 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04RWI1ZDFLZkFxNkllcGo5cGQ5eXVMMzF0RmxyZlZDcFNEUFJfLWd3X3NTaFo1dXdxbDFKMnlQVS1jQXQzR2JTVFNaYWRzZEw3aHlXTW5uWWl2MFJGYWFKWUNxNGw3ZFRCTFdj?oc=5",
+   "published": "Fri, 14 Aug 2026 17:50:07 GMT",
+   "score_parts": {
+    "recency": 0.929,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 3＞日本と中国の観光について考える大規模イベント「日中観光交流会議」が沖縄で開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54NXhoSWtpZGdJR3pmLUhheERCUjJKeG93OFJ5bkdHRjNjcVRldW5LLTFqWE5COHRjX214RGRsSHRFUnpZbEMzYlFCVnVxRWs5azA4VTBmTm1kN2c2LVh3enRSaXVNVTlx?oc=5",
+   "published": "Fri, 14 Aug 2026 07:39:35 GMT",
+   "score_parts": {
+    "recency": 0.717,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「手応えを感じました」 近畿総体・水泳 平良吏美華 沖縄県記録で銀メダル - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RZFU1LXVLcWtrQ1N2QjVCTm5TYkMwNk1WWldKVDNpN3pKSklGQnFRaFJYQlpxLUU2MUwxSjQ2b3AxWnotSmV4RWNhaTZJbGEyaDNnMFNXNVR5dw?oc=5",
+   "published": "Fri, 14 Aug 2026 11:32:00 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.539
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "画像13 / 13＞カフェのモーニング？夜パフェ？沖縄の朝活、夜活が今おもしろい！カーシェアで自由にめぐる新しい旅 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoaWtpbzNNb1lzYVVfdzBMUjc4TFFFeGhPRVNyWEVMYlVSR1I4YzhrUngzZDc5LVd6V21XbWIxWkNkQktQZjNkOHRNTjBSNFpJZ1MtenJHUFVjeG1DU1dwSXRsQlI1cXpoX2VrQ2RB?oc=5",
+   "published": "Fri, 14 Aug 2026 11:12:45 GMT",
+   "score_parts": {
+    "recency": 0.791,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.537
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "8月15・16日の週末沖縄イベントおでかけ情報！南国ECOライツと与那原大綱曳で夏を満喫✨ - OTV 沖縄テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JTWYyOUZGTDJNYzhLSnpvTTVqbjdENFVfZWpSWm5FOVZnWktPNnJsbHgtd0VJSFhfN0syY0NuRGJNMzVFTWlsdmtvUWh0Q1JLU0RwUW5HdEM?oc=5",
+   "published": "Fri, 14 Aug 2026 03:13:38 GMT",
+   "score_parts": {
+    "recency": 0.624,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.537
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【とっておきのそとあそび、教えます】沖縄の奥西表で出会ったプライベートツアーへ。ウミガメと泳ぎ、船上の絶品イタリアンで夢心地！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yOUJVYjQ5OXVSV2xxVmRmdVQtd3dvU0xyd0JudE5GX05VamdVM3NqVVVZdUJheVdPVTZPRS14YUlFWmpVR0ROWGRGeEo3djV4LW5wcdIBWkFVX3lxTFAzOHZNODlqSzVzVTk3dUNqaUdPTGlqYk1UdEZmUWZmNjNuMzJFcTE3WGduYm5EYVl3MWlDdEZXWnBFMkVUZ2dRcUZmOGxJNUNzNkhUTGdMMUtqQQ?oc=5",
+   "published": "Fri, 14 Aug 2026 10:59:51 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.536
+  }
+ ]
+}
