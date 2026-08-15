@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 191,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "改正ドローン規制法 周知 県警 那覇空港でチラシ配布 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVeGx5QWpseUFwWHVqb1hIS2V5cDFRUVVyWUdlOUVZY2h6SlhiQnBVWHZLNHZtWXNkclNaV3JJT3ppaExxYWhYMEh4bEZ3RWNYWE5fWmotekNodGtfNFE?oc=5",
+   "published": "Sat, 15 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【松山市 木下ごう】ジャングリア沖縄が教えてくれる、観光で街を活性化する難しさ - 選挙ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YZ3J5YmdKTXkyVnNtY2ZRdE5vY252OEdjWkFMUWxzNXJWVE9PUHJqeVVJZ0FqYS16X2hrODN0bDBodnJyMExDRm5WX1N0Q2hKZVBZOHZ1M1N4eW1hTzcw?oc=5",
+   "published": "Sat, 15 Aug 2026 12:21:21 GMT",
+   "score_parts": {
+    "recency": 0.816,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリア沖縄は“前座”だった？USJ沖縄計画の伏線かもしれない理由【森岡毅の本当の戦略】 Ministro (2yhw084Z13) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UVWpVdHZLLXlmeVVpcGdhM0RZN0cta3JqTlFKNDRLdlZ3dTgwNEZuMFhtcFdBN29QXzZpYzVpa1hyOEpJbHJ3cWtaVEpOcS1JUDlXVWkyTXc2NTg?oc=5",
+   "published": "Sat, 15 Aug 2026 12:15:55 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ピパーツの魅力発信 石垣でイベント 8月2日 記念日に制定 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TRWJWWGUzRnA0WHB6UURCMU5IbWI3c2JQbjFyX2hmQ2xyV1dzTHJLY2VsNnRvMTd3cFpMM0hvMDJpWDJzNHgxbjhvOUpSSkdfUlFZeW5EM2ZYYnBhd1E?oc=5",
+   "published": "Sat, 15 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "世界自然遺産 楽しく学ぶ 国頭 登録5周年で記念イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55S1V3VzNPUzVtWEM3LVl3OFhqOXdmWGFVZjJhR2pUUTNnTHBzVWM2V01jWVZZaFFOVkdlc3laMk1wbzJVUUc2TnU3OGoyNnV2WU1YR2IxMnJJMjhPdEE?oc=5",
+   "published": "Sat, 15 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【何を見に来たんだい？】ジャングリア沖縄「村上春樹風」文学レベルの低評価レビューが〇到！物語る700億円テーマパークの悲劇 Fitbit Air Tracker (NSWkSv8Iwq) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56M2p1ckpXYjlhVkNMQzRCMk13blhpbEJCVWo5QUdVZTlVN09CbG16MHhGY1BzRDlaeWtRQjBaNFQyTkRWVGtHalBBM2t0NXdMbndVTVpEOWJuWTQ?oc=5",
+   "published": "Sat, 15 Aug 2026 09:27:49 GMT",
+   "score_parts": {
+    "recency": 0.756,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "「火柱が上がっている」と119番通報 北谷町のホテルで火災、客室から意識不明の男性を発見 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93TklCdm9BU0oyWC0zTmVlV3FjY1lRMi1ZZTBpZzFhbTNidmRHR2Jhd3RuM0VMZ1JRaDlTUEhHODBOdkNIdGZzNGJyNjI3WXQyelFsZzRpMDBNbEgxQkE?oc=5",
+   "published": "Sat, 15 Aug 2026 14:05:00 GMT",
+   "score_parts": {
+    "recency": 0.852,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光期備えビーチ清掃 伊平屋商工会 軽トラック4台分回収 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSdXkxMHNTellEcDI2SV91bWVSNTZvOENwV3FfdUEzbC1nUXc0OTJYd3U1bF9STFp4b3h0cE54ME1ibkxWeE4xTHBMQkpxdWJvWHVLVjN0NndWbUNlSXc?oc=5",
+   "published": "Sat, 15 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【最終話】沖縄のレンタカー車内にカメラを忘れて東京に帰ってしまった話 / カメラとの再会 - ガジェット通信",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBZm1xcEJZZkVuaXlSa2VWTWdnenRnc1Y3SFFPV0Y2X1Zvc0FBbFU5UTE3OUVIcVZVZ0hBS3N1V0loN01RY05CRFdxNA?oc=5",
+   "published": "Sat, 15 Aug 2026 03:00:48 GMT",
+   "score_parts": {
+    "recency": 0.621,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "快挙「おめでとう」 保護者ら選手たたえる 興南ハンド部 インターハイ制覇 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16S3kzXzREVHRZOTBZV2p0Q2lub3JNTlhKdWtxRGFSM3NNYUwwYkVQTEt2RWNJTktLYWExNEl4NjFTODJaaDlKTHpNZTd2NE5fZ0tzUS1FVW5NTkd4cFE?oc=5",
+   "published": "Sat, 15 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "高齢者の生活支援考えよう20日 那覇2会場で県催し - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42RENRY2FSdzVid0lTQ0NadS1xeVEzMFN2NnRmMjJqWURQTEotSnBOS1hZZVZiSDdEVWFoT1h4QTVIVjRqR2ppTi1fcGoyMXRJdVZFamEyd2JvTDU0Umc?oc=5",
+   "published": "Sat, 15 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "酒気帯び運転事故で自ら110番 海保職員を懲戒、依願退職 宮古島海上保安部 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qaVFLRUhXR0RtaXV1ZWpGQ2UxRFExblZpdmFBLWstTjRtcldEMUNMTEJId3ZoRGJGTEg5R2ctX09wY2hMbkI0VkpueDZyZ0Y0VGRZQmMxMmZUTHdlYXc?oc=5",
+   "published": "Sat, 15 Aug 2026 02:25:00 GMT",
+   "score_parts": {
+    "recency": 0.609,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Sat, 15 Aug 2026 16:53:55 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "池上彰＆粗品、テレビ初タッグで情報番組 マンジャロダイエット＆ジャングリア沖縄に切り込む - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOU0I2LUFXNDlOWGJzV3M3RkkxREZRcmNyRTNzS2tCUUYxUms5VUVKdlFCVC1vWmJKN0NjdkRaeUg5X25vTmV5Unl1a0tfRTNYeXRFYlQyYUZCcGh3ZHJoWHI0V2cwdVpWelBTNzhpXzZFa1ZWR3FjVURDSUx3dHdrcE1IOHVFUlBUOXljSmFRRVp5NzdiTnZwMm1mTjA5dm5xM2R6aHg5Q1huQld3a0MxM3pjSW5CUjNtbUdrcXdaZ0NWaXF1WldYUHl0aWIwRDhQeXBRSXgxbjI5RDFNbFNyR3RxM2FicmtZTF9MVVFubnZNNUlSUHRPYkdYeEJRcEI4NzVmLUlnMnFIMlB6Uk1ZaFdiWkctQ3RnWFhSVjJNMVAxaWRTZlBWUFI2WVppbGFlUmRGT19TaXg5anNxLWhLZjhVSVhISTJOaHFpal95b0lDeHl3cXY1Y3hnR3lnSzIwY2lReWs5OFBrN3JQbzRrMXJvYkg?oc=5",
+   "published": "Sat, 15 Aug 2026 15:22:30 GMT",
+   "score_parts": {
+    "recency": 0.879,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄の文化と歴史を知る、沖縄県の那覇市歴史博物館で「王朝文化と都市(まち)の歴史／沖縄の伝統行事『清明(シーミー)』」が開催中 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QUENCN1FnM3V0NUFfZWh6TnN5Z0hVSllUWUNLcGw3MmtOQkVJRTFzdDVtZ3pfeDNLUzcxSmVnc1RqdE1BUmlSOWNQdWd0b0VwTTZ5QXlB0gFbQVVfeXFMTklKb25YN1NMZ0I1VUp4bEhtRzQ4OVFlWkxzSEM5ZnhGdzcwbllzU0RDUVNPaEZRZXRibzdsenNZR0JObFhCNzlIQWMxYjk4ekhaVTI3ck5kbFZSUQ?oc=5",
+   "published": "Sat, 15 Aug 2026 15:11:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  }
+ ]
+}
