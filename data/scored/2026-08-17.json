@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-17",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 170,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【LIVE】沖縄・那覇空港（Naha Airport） Okinawa JAPAN｜RBC News Pedestrian Accident Lawyers (59o3iuWW8Z) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JelFWajlqbjBSdDlXbzJaSG5PN3kzbFY4V2lNTTFic3Fja2lHcmFHU3c5ZW9BX0xZZ1prYmlYZTRad1RPZ3dQdmJtM3JPNENFZTBFNHpLSVZfd28?oc=5",
+   "published": "Sun, 16 Aug 2026 10:12:29 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "禁止エリアで「飛行しただけ」でも摘発 改正ドローン規制法を周知 沖縄県警が那覇空港で4言語のチラシ配布 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVeGx5QWpseUFwWHVqb1hIS2V5cDFRUVVyWUdlOUVZY2h6SlhiQnBVWHZLNHZtWXNkclNaV3JJT3ppaExxYWhYMEh4bEZ3RWNYWE5fWmotekNodGtfNFE?oc=5",
+   "published": "Sun, 16 Aug 2026 07:03:00 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "禁止エリアで「飛行しただけ」でも摘発 改正ドローン規制法を周知 沖縄県警が那覇空港で4言語のチラシ配布 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XcWhkU3cwbTBybmk4T2hlMHJVWDNVMXZQQnV0SnBVSWxqVjJoS2RaX3pja3NLRWhsWWxqblVzZTg1MFMwQ1l5VDlYQQ?oc=5",
+   "published": "Sun, 16 Aug 2026 07:03:00 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「おめでとう」と歓声 那覇空港に保護者ら70人以上が出迎え 興南ハンドボール部が全国制覇 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16S3kzXzREVHRZOTBZV2p0Q2lub3JNTlhKdWtxRGFSM3NNYUwwYkVQTEt2RWNJTktLYWExNEl4NjFTODJaaDlKTHpNZTd2NE5fZ0tzUS1FVW5NTkd4cFE?oc=5",
+   "published": "Sun, 16 Aug 2026 05:19:00 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄県の宿泊税導入 事業者半数近く“制度周知できていない” - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NVk85WnhvTkRfX0NuRFJLemtKRE5HX2JLMDJmZU05NlVIS0RQRVMwWmlJQjdKcjhWTnpjU05fTHNHbElfUUFUdGRBNjJJeXV4c25GcnRUTk0?oc=5",
+   "published": "Sun, 16 Aug 2026 20:26:00 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ケツメイシ、思い出の沖縄で23曲熱唱「この先もお祭りしていきます」　11年ぶり野外スタジアム公演決定！27年4月、味スタで2日間 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcWJ0QldwRmxrSmVyTHJzNm9KYWxtd0Vsb0g4VE1pNUVoLW5BYVlaTVZlMHZOSkxmYkZoTnZGN0dZUm9sZDVqRjZiMzBqR2FNZkJ6STE0dC1jSlVDeXBBSTI5YkE1MTJPSE1tZWdvRWZSMTNVMndWb25vWVRxN25wODVUek1WZkNGM0pwMm41N2F4bGlMck13bFJlTkl6OUNiTkhtTDJUclExdUdNVlN4OVk1T08xdGlGUWFvSzZhY9IBuwFBVV95cUxQbGpWSnNLNi0xbmJfR24wT05INXBKZ2pxQTFldldHeXp2c0RveGtKVTVwSFNNZ0ZfS29lNjVmXzdtb0JyaHVORDNaZjhOZm1aNkd1b2ZaZHVWNk1ZbG1VRDFaamo2eFNNZHlPZFlYZXpWZ2NCVFJncmh5bEFYSExfSDNZdUVYUFdwcVhWVy1MU25ESnhTV2FEMTc5NG9XR19tTDBRVFdrbWNUbTMtekpCUk5RMzhSNUpON0tR?oc=5",
+   "published": "Sun, 16 Aug 2026 19:13:24 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジュニア育成 2期生募集 小3・4年対象県、国スポに向け - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwdjRDbS03Wkt6UWJpYVRXWjR4V0NZMVV3cmZoTHRielJpYjAxeExJN0tOdG1wN2k5UzJjUHV6T0phdkwybF9tT012Z3FUZVQ3OTNSQ0d2WnNjaF95U1E?oc=5",
+   "published": "Sun, 16 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "映画とトークで平和考える 来月27日 タイムスホール 「ペリリュー 楽園のゲルニカ」上映 原作の武田氏登壇 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rVjk5M25MaWFMcHUwM3FZU0dyY01rT3A5Zk52MERUbk5aaEl3ZmhSalNOZW84alVMOUdrZlZVdU9Gd0ZNMDlyS1EwV0NRVmRwLWR0NURMR3FSbk56M0E?oc=5",
+   "published": "Sun, 16 Aug 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "アジア展開を夢見る「ジャングリア沖縄」 県民との信頼構築から【信州大卒・沖縄タイムス福元記者のうちなぁ見聞録】 - 信濃毎日新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbzg0Wjd6S2JWLTRFSndmRDl6TFdwaEo1TXZoenl0U25GN2FHTHpTOUFTdE9jUDlvTDFEX0w1RWI3VDNQcnlObGk4ZUlrVjlwT1VCalkyNkJRZGVLdHIwTWZ3MTZ6NG1Ld3diU0dqVXM?oc=5",
+   "published": "Sun, 16 Aug 2026 01:30:00 GMT",
+   "score_parts": {
+    "recency": 0.59,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "医療・介護の魅力を伝える体験イベント開催 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlTGlCMC1yV2VTOVlQYXJNQzB3SEFFdXFjTUNTZzlXWl83QXBidXBTbDNOUjdiOEstOVNxRXhiOVJGZkJHWWwzMndNZU55N3VWaDZWUGx6a3hCTHdsQWdCYndBTlRLaGlvZXRvTmpjZUk4bnlDMzdFeUxIVk1WWnc?oc=5",
+   "published": "Sun, 16 Aug 2026 08:56:13 GMT",
+   "score_parts": {
+    "recency": 0.745,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像8 / 20＞ウィルコム沖縄、新イメージガールに真玉橋さやが就任！ヒガリノも名誉イメージガールに - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83c1g5el8wWGpORlNibmtFRTdxakxhdFBtalc2amdXQkRpclE4ZmFfOTI0Nm1YUGpfTUhsYjA4dUQ1TnhWVld3NkQ0a3VieS1EUDFJRExVY3VyUjQyMFBaRndnWFRHMG8?oc=5",
+   "published": "Sun, 16 Aug 2026 17:05:18 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "自衛隊増強で「危険拡大」 那覇空港の現状懸念 シンポジウム 事故や攻撃を指摘 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEZmMyb3NpcFB0SF9MYXdVWm1tS3VKNUFKWjlFT0NuTnVjMnVJdk5fdml6VnAyUVZ2SE9CenBDcmhFLTlJbEM3TE1hSk9lOU9tYXhHYzZiaERETldvbGZLVA?oc=5",
+   "published": "Sun, 16 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "高齢者が地域で暮らし続けられる「フレンドリー社会」目指し 20日に那覇でイベント 沖縄県主催 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90cWRTeGpSSmllMWJyZElCNjZweWFDLWp3M0UxSWp1dzk0MjNFR3ZuOTZQT2M3QlZLaTR4Ym5HdVg0MXdNN2h3TEl5NA?oc=5",
+   "published": "Sun, 16 Aug 2026 05:56:44 GMT",
+   "score_parts": {
+    "recency": 0.683,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "高齢者が地域で暮らし続けられる「フレンドリー社会」目指し 20日に那覇でイベント 沖縄県主催 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmNVZzNUUmRoX21Pemd6NTYxSjZLdUJ5b0NiaFd0T0hwWVAyN1k5VzA4SU9NTkpGWFRNdE44SDE1VkRyUmNlTUNVTVBxeVlPMDZUV0ZRaUlnRGlHbXY5LTZkbmloLUk3WUZxOWZUcG9pLUczaDVKTVNsMU8xRTZtemdmVW8zaC16RWZBSERn?oc=5",
+   "published": "Sun, 16 Aug 2026 05:51:27 GMT",
+   "score_parts": {
+    "recency": 0.681,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "宮古島海保、酒気帯び運転職員を懲戒処分　沖縄 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNGptRVlRVXBQZm1rWjZGdm1xQmZUQ1l5NHgxLVlRMlowUXdUcHB1aXZoemItTVFsOUtaVkg1WkV3ZzN3aFFnSlhvclRNQ2FfNVNodHhNWWhjN0g1TUc1UGlmTXcwMzVjcmJncmRNWXpKS2lCS1RnRXRPUTVTM3dFSkZ3cHk2d9IBhgFBVV95cUxQNGptRVlRVXBQZm1rWjZGdm1xQmZUQ1l5NHgxLVlRMlowUXdUcHB1aXZoemItTVFsOUtaVkg1WkV3ZzN3aFFnSlhvclRNQ2FfNVNodHhNWWhjN0g1TUc1UGlmTXcwMzVjcmJncmRNWXpKS2lCS1RnRXRPUTVTM3dFSkZ3cHk2dw?oc=5",
+   "published": "Sat, 15 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.475,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  }
+ ]
+}
