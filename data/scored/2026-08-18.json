@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 211,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "夏休み「友人4人で沖縄旅行」へ！ レンタカー・ガソリン代は“4人で割り勘”予定ですが、母に「運転しない側が多く出すのがマナー」と言われました。3人は無免許ですが、実際どれくらい出せばいいですか？ (2026年8月17日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBITFA1Z1BibGRUNEpPWkktZ0w2ZzZKM1lvemgtc05GaktiaVZnREI0QmQ5bHFqdzNhNEpsQ3VIM3N1cVdhTTZTa0dBLW1OampGNzhHTGdhMVdEWGNYaWc?oc=5",
+   "published": "Mon, 17 Aug 2026 06:54:31 GMT",
+   "score_parts": {
+    "recency": 0.701,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.71
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【画像】夏休み「友人4人で沖縄旅行」へ！ レンタカー・ガソリン代は“4人で割り勘”予定ですが、母に「運転しない側が多く出すのがマナー」と言われました。3人は無免許ですが、実際どれくらい出せばいいですか？ 1/2 - ライブドアニュース - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zUTdNWF9QbWFMQl9lWG5iNnJpc1ZCMUxhQVJzZFhUSUhXbUZKUVdVb3djSGZ0TUhGa3dHTTdIaEw4UjFmNU5DN0Q5aGRkbTZRYjBHanNKT0t5N1Jid1d5NFFzalVLSzEyaldqZHFPWXRhaVdHWHc0T1g0RlA?oc=5",
+   "published": "Mon, 17 Aug 2026 06:54:31 GMT",
+   "score_parts": {
+    "recency": 0.701,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.71
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港「標的に」 軍民共用のリスク増大 シンポで大久保さん懸念 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0b1RWMklNc2w3alZaaUsyeEFFaVJoWGhFWjhqU2ZybmdrTUlpTnJiZkliLUJLMmQtMGxFMzc2WnB0UnBQMldZclRyY2MzUzdXd3hLUVZvdnlENFpJQWc?oc=5",
+   "published": "Mon, 17 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリアで遊んでも「出勤扱い」に 浦添の不動産会社、家族・友人分も負担 独自の福利厚生で地域応援 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hYlBhSTRab0YwY0VIcWJSV2hoUXVoRmlodFd6WXh0aHoyZWhzdXYwY3NEWTFtclhVbDVpVWlrUW84Y2FnTE9tNFpQUUJrbGxWMW1oak5PVFdqV21FTnc?oc=5",
+   "published": "Mon, 17 Aug 2026 08:28:00 GMT",
+   "score_parts": {
+    "recency": 0.733,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：ジャングリアで遊んでも「出勤扱い」に 浦添の不動産会社、家族・友人分も負担 独自の福利厚生で地域応援 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwODFpaTkxX2tHc0dlclJiVFNjLTlEZlY3dGFUNzVPa3NxbmJqb2EzOTd2czNTQ1J2aWhIZ1dFY1ZWdlFodkdTZTZnYlhYSHpRN1JGSHZ0NUNZLXQtWF84TmI2UENQZw?oc=5",
+   "published": "Mon, 17 Aug 2026 08:28:00 GMT",
+   "score_parts": {
+    "recency": 0.733,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "スイートホーム・オキナワ 沖縄編｜勝手に！裏ゲーテ 街場の旨いメシとBar｜相場英雄 - 幻冬舎plus",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vVDFjSmN5bDlFNGxwRG5QYmRXM3h2N2lwQ0ZPOHpxQ19ycWtEaHNFZ0prdEttWWdtMXNILUlTUl9EWlpnS2dlT3U3N0VwZVk?oc=5",
+   "published": "Mon, 17 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "8/29(土)相模原戦 JUNGLIA OKINAWA（ジャングリア沖縄）エンターテイナー出演決定！ - FC琉球公式サイト",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9INHVaY3hfd1hDYVkxWkg5aXBGOHpTeFd1Skp0VTdXaDdlc1pSRzByaXFGTDJBbmpSWXRiLUw2QWU4R0lqanpN?oc=5",
+   "published": "Mon, 17 Aug 2026 04:07:08 GMT",
+   "score_parts": {
+    "recency": 0.643,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［知事選 9．13］観光発展へ独自提言 知事選向け3氏 玉城・古謝・下地氏 マニフェスト発表 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4WFNiUUluLV9qTlFCV0pMSWlCY2xNU0pEdUNDNWlKM0lmdFZaVEtFdUFNRVFpS2dZNmx1R2hXQnkzMnNfUzhfbmFtZVY4VlI3V0VUcTJGTXByTEMzcVE?oc=5",
+   "published": "Mon, 17 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［熊本地震義援金］早期復旧に協力 大富建設30万円 「観光にも貢献したい」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YWVhvQXEyai1MdHVwd0wzZEtwcmJDMmRodktkbzVGcGdybm94ZXh5cGtmRDB2VS1hM0pwTU5NeFpfLV9GSDhmRDM2YjEyQWVGNG0tWWZIOXJnbXJ2WlE?oc=5",
+   "published": "Mon, 17 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "お盆の旅客44万人 24％減 航空5社 沖縄路線 台風が影響 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peHFOVUZrMHpiQmpIbXFNWG5vUlpxRG5oRW1IVk9OVkZRU1dZV1VPUDc2NkFKYU1DWjA1SG4xMGdOeUNqUmVldkd3M1dGYWdIU2l0SlAxeWNuSDFsT3c?oc=5",
+   "published": "Mon, 17 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "スマホに広告動画配信 視聴で利用者にポイント 「おきなわ便」が新サービス - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Fd1AtQVhleVdDc1BQTmZ1eDJrVTZJbnA2WUROSS1HZG14c3g5MWxIQ2lzWlNJeDZSUGtzR1pfSVp3d3BualNFVHdQODBtOXpZUlJLSHVzcXE1SkFZQ0E?oc=5",
+   "published": "Mon, 17 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［県三役動静・市長動静］（18日） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13M2twOWJqZzR5M1lRZ09tZG12bm9OOWpMZ0c4Tk0xdFlUTldRaWpUWkhnT0s2Tk51eHdsbUp4Q21hdXVkYkZYalU0RlpIYWxpUXNSMENpLVM1bTkzdVE?oc=5",
+   "published": "Mon, 17 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "［社説］ドローン規制強化 県民生活への影響深く - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05djdRZUVHdWlqYk9kMGVRRWV4RkR3SWtnTDBQNFo5dmd6MjR6ZEVQMjdZaFFITjNBdlYzT1J0Z0NwVmFEajVCc2RnbXE2SEV0S0hxNGtLT05td3R2UVE?oc=5",
+   "published": "Mon, 17 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像12 / 12＞約4000人が来場！沖縄国際映画祭のカウントダウンイベントが開幕 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ycDJrOGxmcVllYTJSVEJnZlN4MzlFZ0xzYnhjeWRqdWhjVGpCZWQ2dEhDZEMxR3J1QXlWWFJfOEdETTg4bEU3Y184OXNtMlRSVzVVSHA3b2RhZHFQeE1kXy0ydDRuU00?oc=5",
+   "published": "Mon, 17 Aug 2026 10:15:31 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "ＮＨＫと美ら海水族館が撮影 沖縄の海の映像を紹介する企画展 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzVXNORnUwVXR6UzltclBsQk9ubk1CSXVGd005Y0xaM2swUEZOcmJSX05YLWR6ME5KbTlHb2d3azk1Qkp3em5NeFVzUDhuN0p5anI3d01peWE?oc=5",
+   "published": "Mon, 17 Aug 2026 09:01:00 GMT",
+   "score_parts": {
+    "recency": 0.745,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  }
+ ]
+}
