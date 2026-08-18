@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 295,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【2026年最新・限定クーポンあり】沖縄レンタカーおすすめ8選！ 格安・料金・送迎・補償を徹底比較 - るるぶWeb",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFb0d4WXJoVklOY3ZnVDZCalhKZlZCU3k1LXJSZDJRcFNZb3pvQmdFTF96Uks2VkhyWlBIZXJaeGwyWWRYWERaMmg3V0xYMTN6?oc=5",
+   "published": "Tue, 18 Aug 2026 08:00:44 GMT",
+   "score_parts": {
+    "recency": 0.725,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【2026年最新・限定クーポンあり】沖縄レンタカーおすすめ8選！ 格安・料金・送迎・補償を徹底比較 - news.livedoor.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JTGJLTVBBY2JVZGFXOGVhZkVhV1VPZDJOcGNDWnBwUUJxOFFzd0pNZGxlQWUtOWF3a1RjY1RBalpfcS1LaDJQVUU2eUxPTDFpcGswQTd0WnhiaDRuclVV?oc=5",
+   "published": "Tue, 18 Aug 2026 08:00:00 GMT",
+   "score_parts": {
+    "recency": 0.725,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "JLL、ビーチタワー沖縄の売却支援 JHR保有、北谷の280室ホテル - 住宅新報",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvdlY1MVN3VVIxWWVNaksyS19YX0JxWDRBX2lGR0lTVTkwQjFqcHZuMGpWcjlBejZVMnF2THNlaGM1ejNHWkVBYkY3NklobVpp?oc=5",
+   "published": "Tue, 18 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "着陸した際に左車輪付近が折れたか 空自F15戦闘機が滑走路上で傾いて停止…パイロットは脱出、ケガ人なし 沖縄・那覇空港 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbTB0VGJYOElObFFNT2dNbjJrVjJpSFdFWGVGWERSVmQ5Uy16T2JVckVpZWJCMXZPdk5oNzNvSjNlcXNDUGE4N3lTckZTZjlVamNNUVllMERXMGs1SG1iWTNodXlUdksyUjBONWhmQ1ZnWXlUa3dWYzBfaDk2WWs?oc=5",
+   "published": "Tue, 18 Aug 2026 12:25:01 GMT",
+   "score_parts": {
+    "recency": 0.817,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "航空自衛隊F15戦闘機がトラブル 那覇空港第2滑走路が一時閉鎖 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tNnpSZzRHTUVpNkhsck4zRlBuWUt1dExUVUR2RjhYVjM1Q2pDYURPVEpBTHZRc1k4WHA0ejE5STV5amlfZldqT0RaU0djcktPdHRrZnJoUmNVNUw1dmo0eXhGY1I3SGlmLXlUOEwyN3FORzFxekc1dXBhLW9VWVk?oc=5",
+   "published": "Tue, 18 Aug 2026 09:56:40 GMT",
+   "score_parts": {
+    "recency": 0.765,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で自衛隊F15戦闘機がトラブル 滑走路閉鎖で40便に影響（沖縄テレビOTV） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TVTBwS2Vnekx1VFpMdWVwTDc2RzAzVExPUmFKMTVWdURpNVFjYWl6RF9qc3B2ZGVRSWJNLUdMNlgxV1NFeWxULXVKX3VVN1JWVEtwWlBSSjFpTk1CaWpOempzYW9DalZWdTRsc3p0REszcVFMNlBUR19XMWNCTmc?oc=5",
+   "published": "Tue, 18 Aug 2026 09:47:01 GMT",
+   "score_parts": {
+    "recency": 0.762,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【続報】那覇空港第2滑走路が再開 空自F15立ち往生で4時間以上閉鎖 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUk80SWkxQ2hBaWZXQkRtMUppV0U3cVRQM1l4dEVLUTh4MXlxT25MeUFOWVoyMENPZVNHS01KNVpOZDVGZHFHNWRYUFAxQ1BMZ3JEWlBjUWNXWExHY1kxU0lmeXlIdDBGaE83Wks3V1ZjY3l2U2E3RENWVkJKTEgzTWZfWm9sMFBOUzBHc0Zn?oc=5",
+   "published": "Tue, 18 Aug 2026 08:46:18 GMT",
+   "score_parts": {
+    "recency": 0.741,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【続報】那覇空港の滑走路、閉鎖解除へ 立ち往生の自衛隊機を移動 民間機に遅れ 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUlpXYUZkdlB3UXJaUGpPYzhHM2s2bFg5Q1BMbUEyODN2V0hZRVFpMGRuN1JXQVUzQU1odTBTalpaeVB6dTdTRnhfeUhrMmtjQXJITXhRSHBHSk56VHRfVTZ0aWJaLU4ybExBaGVSZVY1Z2FwSmh0VklNN2xtT0lyMzhzQ1NOMXJ0TWYxeFV3?oc=5",
+   "published": "Tue, 18 Aug 2026 08:11:25 GMT",
+   "score_parts": {
+    "recency": 0.729,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【続報】那覇空港の滑走路、閉鎖解除へ 立ち往生の自衛隊機を移動 民間機に遅れ 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNXYtTkhuVU9XdElrd21KWDFTdmVSZ3RQNjlRbVpraHAzQlEtYjl0Ym1OSFkyR19ZWFVVMG1LWDVLV0VvRHZPbmZseUI0S1d0bTF1VVhxUFpaS0ZpVTA0cg?oc=5",
+   "published": "Tue, 18 Aug 2026 08:07:19 GMT",
+   "score_parts": {
+    "recency": 0.727,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【続報】那覇空港の滑走路、閉鎖解除へ 立ち往生の自衛隊機を移動 民間機に遅れ 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYakVvY0xTclFSMEpFd0R3TWlzdlExbXYwS3o1bnBZWXhJQm9oejNHN3JBYk1oYVZYZklVWmsyaGFWWEhoWmVqNkZacw?oc=5",
+   "published": "Tue, 18 Aug 2026 08:07:19 GMT",
+   "score_parts": {
+    "recency": 0.727,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "空自F15戦闘機が滑走路上で傾いて停止 パイロットは脱出…ケガ人なし 沖縄・那覇空港 - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUUHBLUnhFN2JWT253MVo1cnljLTJ3Y3RtQWo2dmlNU0plRUFpYm01dFBjc3E3VzdISU1MdzV2aER2aDh6TGxmZ200VktSRTNfd1g5TkRWcHhGdDV0bWxUUU5keDFMUnA0V0tWT1Rzbkx4cGxLdDl5cHlXdjJCUQ?oc=5",
+   "published": "Tue, 18 Aug 2026 06:50:01 GMT",
+   "score_parts": {
+    "recency": 0.7,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で自衛隊のF15戦闘機が立ち往生 滑走路1本が4時間閉鎖 [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rS1hQSE1yc2J1cThPaUMtRnNDcnFvOUl0NHExMF9WQUZzMmxfdHFnenI3SGpsak9PRGR5UzdJRGk5V192eTJ4Vy1vOHp1ZHFlbVBJeHptSHpkbzFidVhGOWpKUFJvR2s?oc=5",
+   "published": "Tue, 18 Aug 2026 06:05:00 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で自衛隊のF15戦闘機が立ち往生 滑走路1本が閉鎖 [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRXd5YmNMeHNpeTFMeHNnWFg2U05yTDFEWmx0WXE1NUQxdjJoMEJDb3VpSGZNUzdWMENVNU85T0swR2tMVlNjcUpiN0pTM2lBSWRHQUFMRHNUUWU3WkV3TEtHaTVJblBSMXVSUko1ZFlMLWNiSHdKbTZ1US1nbG1iQTdGMnZGc2tpb0ZJ?oc=5",
+   "published": "Tue, 18 Aug 2026 06:05:25 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【速報】那覇空港の滑走路1本を閉鎖中 自衛隊F15の主翼が地面に触れた状態 民間機で最大2時間超の遅れも 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2haN2kwS2VsVEJiYW5QTTRyczVCM3I2NEY4ZXpQT3N5ck5CX0JXNVBvMUZHZzFUWmFPTldESzFGNlhRbDNlVVJHczZVd0xfUGFoZ0hWblBqQkpkaFpkRlR2bUJsYmN1Y25MM1JqaS1uSF9kXzFFdFVTeFBDX2h2S0k3OE9rd0JUYldMTVN3?oc=5",
+   "published": "Tue, 18 Aug 2026 05:21:26 GMT",
+   "score_parts": {
+    "recency": 0.67,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【速報】那覇空港の第2滑走路を閉鎖 空自F15戦闘機とみられる機体が停止 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDMwd3dzSlcwMTJnLTdiZWZYZ1FhdUNEczUwdzNJTVF4UTB3RWNiSlJaMFVNWHI0ZEZoOUxJWDdiUFJIZjlHaDVzaTFGaHA3Q2xRbFprekZsb3Q2cjkxcU95dU1XN2JJMDlpQWlJNFQxenpRamZPOGxuR2dQbnlLeWs5N18xR1QzUTRPRW9B?oc=5",
+   "published": "Tue, 18 Aug 2026 05:21:24 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  }
+ ]
+}
