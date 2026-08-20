@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-21",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 172,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「たった1回の『逸脱』が重大事故に」 那覇空港周辺で航空自衛隊F15の高度逸脱相次ぐ 米軍機とニアミスの恐れ【図あり】 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3Mm1QRDdyYjFpTkp6QnNGWmpJUVhTZHEybjNOem5qRVk2UFAtWkNXbE00bWl2TnZJd0ZGRXlkS3pvdGNrOXZGNEFLV1h1X0RERFQyMnJjUHhvTzE2WWc?oc=5",
+   "published": "Thu, 20 Aug 2026 19:37:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "原因究明 空自に要求 F15戦闘機 那覇空港事故で県 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EWFFodUpSUUlBSzd6MmtDVWpGV2VyRmJNUktobkdkOGlFTjlOM2FJaTdzSS1EZ1NqQVhpYXlPdzZoRWEzUG9CbjNvOTh3UXdzSHE4NzEtcHJ2a2p0M1E?oc=5",
+   "published": "Thu, 20 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "Snow Man佐久間大介、A.B.C-Z塚田僚一の運転で土屋太鳳の子どもと沖縄観光【マッチング】（モデルプレス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yU1MzYmduOEdyalVBU0dKdThJX3ZPNEpQNWpQRGdGQU9rWFdqVGFmZEpua0lYenhBaGZIc0E0U2haaEJBaml6YzhYckROV0d2b1VaU3lQVnhxTXprWjZhUDZNZURkM0FRLURZOV9lRGVyMURMNkd0VElYd3VWZVk?oc=5",
+   "published": "Thu, 20 Aug 2026 12:47:21 GMT",
+   "score_parts": {
+    "recency": 0.823,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "Snow Man佐久間大介、A.B.C-Z塚田僚一の運転で土屋太鳳の子どもと沖縄観光【マッチング】 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVkJkcTlpUDZvQW5uTW04d244TUkyRy15NDVxOW1PcVV2WlVUOWt5T2dZWkx4VG5LX3hwcGZvMkdtdWNGZzEzSENMWFdWRjE0TUE5T0dUWVhXcUdOT0FBNjduUEM1a3RkZkNYdW1EQ1ktRzJjeDI3dHZVQVhTc292emdNZjbSAYABQVVfeXFMUHYzTmNRVXB4YXdteTdYRS1DUHZpbzQ4N1lJal9ZWXdMTndHUUJmZjQyb2JQWmtfdE1mWTVHTTJGMUxuM1Y2cm15UVFsTDNfcFRGcVBHbW1nRmY3aE8yNUZxa1hBbmRLZFNLbWxldUo4THhjZFpVelk3YXpYazJzamo?oc=5",
+   "published": "Thu, 20 Aug 2026 12:47:00 GMT",
+   "score_parts": {
+    "recency": 0.823,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "(画像35/42) Snow Man佐久間大介、A.B.C-Z塚田僚一の運転で土屋太鳳の子どもと沖縄観光【マッチング】 - モデルプレス",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1BdVRlLXpIUVNNOXltajQwNUZBRFBxQ2ktRDkyVXVDQnQ0SnJhb0xaTERuUzlTcG9iTHdWNEZrOFNRSTNER084dXkzSWJIUQ?oc=5",
+   "published": "Thu, 20 Aug 2026 12:47:00 GMT",
+   "score_parts": {
+    "recency": 0.823,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の税関検査で「大麻」発覚 21歳米兵を関税法違反の疑いで告発 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HQUpWNlB3SmtNVWJzb0l1R01WNWFZX0tkN1kxcF8yR3Jyem8wVkZ0RHFTRm1fR0lSSm5kZ2NId3JOUHIxNTVGeGUxVFVYMjYxcmhqb2k1c1pQNmhZNEE?oc=5",
+   "published": "Thu, 20 Aug 2026 11:03:00 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【沖縄ハーバービューホテル】沖縄で楽しむ「ラストサマー」イベント 神戸の名手を迎える一夜限りのPREMIUM JAZZ LIVEや秋の限定メニューをシルバーウィークに合わせ提供 - 石垣経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVM1lweWFMbUpLRjNucy0zZzl1eGFBelgzZTZZaURvcHBYQ2tHRVpUYzJYZlIwdXlCQXlmNXZoNTdiTnBWd1MtdHhYZXUwZXdQYlFDZU9R?oc=5",
+   "published": "Thu, 20 Aug 2026 10:17:14 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "バンドウイルカの赤ちゃん誕生 沖縄美ら海水族館で一般公開 [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FcFRiaEIxLXliTnhlQ2x5SzJoWm9pcVhveUV4ejgzamFtdHZUaXpCVTBNMkRzdWdhYnBDb1dkMzhLSFZlN2RfSkFtUHZuMW9ZQzdybVRCakNZUDVETFVLajJBMmxiNUR4Y3c?oc=5",
+   "published": "Thu, 20 Aug 2026 18:06:54 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証(3/3) - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ldmRBdzlBYmFrcGJHeldjWS01QUtjV0pTb1NOTENFSktSZ3V1dWx0UlBpeVRTZHpGSWRpMTVPNVVTNlBSdGNpWk5YNEpVYTNUTTVEODdNTThpMndEeFE?oc=5",
+   "published": "Thu, 20 Aug 2026 09:39:24 GMT",
+   "score_parts": {
+    "recency": 0.757,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄美ら海水族館、水族館では全国初の近距離モビリティ「WHILL」を導入 - ループバウンド",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VbDJ1RXlNbmx1bEVxMldpZlRGN1QtcUJCXzUwRmNRRlBIbHNvUDNSbTVZUlJNZjdvMmVmQ0tVVElDcE1XMmtMZnhkcGFpQXRSS09fOUFvRkhZeFU?oc=5",
+   "published": "Thu, 20 Aug 2026 15:18:38 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像1 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYkctSkFqWUFLeEdBOGlFenVqaVRuOFhVSDNjU1V1emtCZ040cmJJbDY0eWYxZHdhMG5xSHZuZUVSUm5aaXI5WHN6RnpaeUdPYTFydFpLRG5DMFVyYkJzWE01RDhEOFlOMFhMOUVB?oc=5",
+   "published": "Thu, 20 Aug 2026 06:17:29 GMT",
+   "score_parts": {
+    "recency": 0.687,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港のF15戦闘機事故、実弾ミサイル搭載の疑い 専門家が画像や映像で分析 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nemU2SGluSnpQYW9WcDFYLWRlWnVxSXA1WnNtRWRENE56V196TVFkd1EzY3dtUWNoWTBPajZKQnJSQ3pTbVd1QkM1OEZzZ0FtS05vV1pNMjBQQy1tX2c?oc=5",
+   "published": "Thu, 20 Aug 2026 06:11:00 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：那覇空港のF15戦闘機事故、実弾ミサイル搭載の疑い 専門家が画像や映像で分析 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6bVc3OTVHZGlHbnZ1ZXNGMDVNQ1VfTTVwZEpFSFNxSFZ5b25xYWVILXFJNnVudVN4ck9xdTNScUw2YmRPTFdtWnk2Vnd1dlpqTjdNb1RUMm12YWJWV3I2M1Y2RXByUQ?oc=5",
+   "published": "Thu, 20 Aug 2026 06:11:00 GMT",
+   "score_parts": {
+    "recency": 0.685,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄ハーバービューホテル】沖縄で楽しむ「ラストサマー」イベント 神戸の名手を迎える一夜限りのPREMIUM JAZZ LIVEや秋の限定メニューをシルバーウィークに合わせ提供 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzNUNwNUx2Mm1TTUR3eDF2ZVpuZ3FIcnkzMDZMVW03RkVUZXlsdVhDUVF4QXFEWWVrbTltR0ctUWczaEFIR2NZcnFtaGdWaGN4eFdHZjg1cjJvcWcxNWc?oc=5",
+   "published": "Thu, 20 Aug 2026 04:43:12 GMT",
+   "score_parts": {
+    "recency": 0.655,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光計画、後期5年へ見直し着手 オーバーツーリズムなど課題に対応 - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44WmM5cllya2MxMlBReF9odHVXa3N4R08yVEtSWVlPeHR5WkdfMzBMTkxzUEZGOHVwVFBfVlhpX29BM2NmZmMtMXItMDlPV3FKTUo4QTd2Z1U?oc=5",
+   "published": "Thu, 20 Aug 2026 20:00:30 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  }
+ ]
+}
