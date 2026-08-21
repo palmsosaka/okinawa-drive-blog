@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-22",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 230,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "名護の貸家着工55％減 25年度 ジャングリア需要一巡 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnLWQxNFNxZHY5LVhzZ1RNMFdrUU4ydE1obFpmRl9jNnNla2dSMENqT3g5QUVjR1pmTmRVMHNsMUFVSmlxWTNjT1hkZ2c3MEhPdFJLZk5DT3hlMVdxVXc?oc=5",
+   "published": "Fri, 21 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像4 / 22＞【大人旅の新定番】やんばるの森にあるジャングリア沖縄だからこそ実現する“本物の旅”！大人が体感したかった“沖縄”と出合う - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Q0lMRDF6Tl8tZFVQUzBlZ1h1YVlaV2ZJRmtTSEItOS1hRXAwc3d2ZFdZN3ZLVUxPQWFnU3lmMHh6RG9oRFBSWE1obkJUaWdRdUpSUXBvVFdkUmN5QU82eHZyN1hJaU1JSHo0alNn?oc=5",
+   "published": "Fri, 21 Aug 2026 13:14:59 GMT",
+   "score_parts": {
+    "recency": 0.834,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Fri, 21 Aug 2026 13:13:32 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米兵が麻薬密輸疑い 那覇空港でリュックから 沖縄地区税関が告発 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjNYTU5IYkYwT0NzeGpwX3lCbi1FTG9RZlhLZG42dHhZbUduYjNLZUNPd2RtUl9hRU15RGdFZE5UbDlWUXhCUGpwQ201Rm9aeDRuX0pZSTUzU1hzcXBuWFJPcWpvMi1kOXZjZWQwWXpWS28wdDNxMG1HOHh3amliLXNyX0NXLVdKVnZVZDJ3?oc=5",
+   "published": "Fri, 21 Aug 2026 11:01:31 GMT",
+   "score_parts": {
+    "recency": 0.788,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "南城市役所と那覇空港、バスで直結 来年1月末まで1日3往復 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pWFdjX01zU0kwUmxiMkZUMUJhVGF0QUNFZHNZUU1ReFhDQVVVcUJUc1pRMURWNkN1SV8tZG5YR1hSWmw5d3hSQ1J5UlcweWlUZEhfYWFYNGZXUXZqR2c?oc=5",
+   "published": "Fri, 21 Aug 2026 10:04:00 GMT",
+   "score_parts": {
+    "recency": 0.768,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：南城市役所と那覇空港、バスで直結 来年1月末まで1日3往復 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lZDU0Skc0aTVoalZoYW90d0VRRXB4TUxHV2FPY0RsUUYzajFLZE1oTXBnWHVtb24xMzRfMnAwT3VNMVVaOEppTVlhd2JUX1p0NTBJQXFYQVRFQTVlWmNvM0FubmZOZw?oc=5",
+   "published": "Fri, 21 Aug 2026 10:04:00 GMT",
+   "score_parts": {
+    "recency": 0.768,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.63
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄を舞台に初の水着カットにも挑戦！ 月音こな1st写真集『ひととき』12月9日刊行へ 発売記念イベントも開催（リアルサウンド） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OcDhnR18xZGl3QXZrclBsZ2xtWlpJTnNZNUMxLU5yUldLbWdJT1NVdzRaeW5rc1dUbXBrUTh1aHFuT3pGR3EzTzJoOENwSFpmVGhqTnA4UDVXVjZyd1B1OUEwUkNLN0NRNXFKQ09ORDFoXy1NQ0l3UzczV0paNjg?oc=5",
+   "published": "Fri, 21 Aug 2026 16:04:45 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄「スコールダンス」に “ジャンボリミッキー感” 指摘する声…拡散の裏に透ける「低い好感度」 - smart-flash.jp",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2LU02LVZPNjdfQ1JidEhOYWlTZmkxaWZBX0JsQU40MkJNdEtXYnBpRjdta0JQU0RfeG1TYXg1NjhwSXV4MkJsd2VOZ0t4bEQzUG9xNFIzWkctY3AzTmc5WDZaMmhYNmg3ZTY2SWQxSnVLaFRMalVJbFZCOA?oc=5",
+   "published": "Fri, 21 Aug 2026 07:52:26 GMT",
+   "score_parts": {
+    "recency": 0.722,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄「スコールダンス」に “ジャンボリミッキー感” 指摘する声…拡散の裏に透ける「低い好感度」 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wcFFybWZpYmluUEJ6elliTlVoRWU1X0VYUXBKMU81eEdjVUlGMG1DWnFFcFVqVGw2OElzM09xMVJJVldLY05qVjNTbzY5SUVYX19wQTFZUFZVQ215ZG5zbXNlaUJHNkVKNElsb2h0djdHcTZtRVJz?oc=5",
+   "published": "Fri, 21 Aug 2026 07:44:00 GMT",
+   "score_parts": {
+    "recency": 0.719,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄「スコールダンス」に “ジャンボリミッキー感” 指摘する声…拡散の裏に透ける「低い好感度」（SmartFLASH） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VR0V2blAwaUlvcW1MWEtuemdPWm1zT2xFR0hrVUh2TmdVRU5sUTBReWxBN1dRamdzVy1EZXRXS3pMRzB3Z3dMYzI2T2w3TXRsMGM5cVpPS3dPNUktNENkOXZ2NEg2aVJYcE5PU3o2VHAtN0xqel9COW1mbExrX1k?oc=5",
+   "published": "Fri, 21 Aug 2026 07:30:46 GMT",
+   "score_parts": {
+    "recency": 0.714,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "画像3 / 36＞那覇空港一望の絶景！沖縄・瀬長島に南伊をテーマにしたレストラン＆ラウンジオープン - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIMEFqX1ZBVG5CX3U2Tk10RWlBMl82M2h1a1dycDgtSFp4V0lOVEI0T0MzMDVVUVdzd0RoX195Xy1Dbl9QSUtMRWZnV19fQ3RVS1haSm9weUc1OGVCaTEwRk50T2FibEJX?oc=5",
+   "published": "Fri, 21 Aug 2026 07:31:10 GMT",
+   "score_parts": {
+    "recency": 0.715,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像12 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1melVwZWloc2xDeVpNWHdjS1I5bV9McWIwbTVjM0hDWS1LSUtibkU3Vzh2bVBWNUZDQ2R4Sy1sQ2JTZ3pzb3RpNVZULWNOdmRBV0VUdnU1MFFYN2NxbzJoMWVXcjhyWjFvSkZmaEF3?oc=5",
+   "published": "Fri, 21 Aug 2026 14:02:14 GMT",
+   "score_parts": {
+    "recency": 0.85,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Fri, 21 Aug 2026 13:42:00 GMT",
+   "score_parts": {
+    "recency": 0.843,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄を舞台に初の水着カットにも挑戦！ 月音こな1st写真集『ひととき』12月9日刊行へ 発売記念イベントも開催 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJbnNXT1MzTlk1UkdJVzg2QU5IUnNBVElKNG5pd1Fra1ZxUVNQb2JZRW9XdDQ1MkU2SV9VNHpWZGdlYkx2TjNYNUdZZ19ZUjRqd0RWak9mUzVaOW5hM1lv?oc=5",
+   "published": "Fri, 21 Aug 2026 13:00:55 GMT",
+   "score_parts": {
+    "recency": 0.829,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄を舞台に初の水着カットにも挑戦！ 月音こな1st写真集『ひととき』12月9日刊行へ 発売記念イベントも開催 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1YW5sWWdGeHlVeUMxMHB4Q3B6Nmd3QXJsS1dscXFqbHpjZEUxdTRVNFJ2Z1dVMVZfRFA2bzY4T3pOQzdpVU1TQ0ZtVHdiY3RQZWxZX0NnbEhieTNvV1E?oc=5",
+   "published": "Fri, 21 Aug 2026 12:47:49 GMT",
+   "score_parts": {
+    "recency": 0.824,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  }
+ ]
+}
