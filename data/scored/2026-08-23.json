@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-23",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 214,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "息の合ったダンス披露 宮古島でイベント盛況 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wc3RXdUE1WDZiZ1h3QkliOEdEZW9PY3NtOElfbUppcm4weEQxT3J4WW41cDdScWVaOW96TnpEejBJanN0ZkVKdkJfZkhhVjE4Q1pNLUxUUWh5SmJTMWc?oc=5",
+   "published": "Sat, 22 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で21日、第2滑走路が一時閉鎖 NZ機が故障で着陸、35分間 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLUVkYW53bEhweFp5cXRWSlBpa1k3eTl0YjR1aEgwdlowemJoYzV1SWRZRkRoVDhGc0xCaGdwNTdvWlRJQkJabVpWaVlrOHQ2Wk1UYS1VeFVrVkMyVV9wWXd3bDQySjVJajRHdTdpdkJtRW0yUVJvVzhKUGZseklwdW5HR0lkc3EzR3NTOHJR?oc=5",
+   "published": "Sat, 22 Aug 2026 06:00:56 GMT",
+   "score_parts": {
+    "recency": 0.684,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄知事、F15立ち往生は遺憾 近く那覇空港視察へ - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUIxYnBDd1J4TWtGLTRsOU9mQXhWLTBmSklFc1d2ekZKaDNHUDg2ZHFHeGZxNjdWUHNYeFNFSGlkOWNLdzVOWlBFai0wUTNGeVNodVhmemEtSm9icEtkOVlITkJTX3NzN0RjeS1VNnZ1OUVidWtVNU9uLWQtWFVYd2R2aWRCMDdT?oc=5",
+   "published": "Sat, 22 Aug 2026 05:47:01 GMT",
+   "score_parts": {
+    "recency": 0.679,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 31＞ジャングリアも美ら海水族館も近い！この秋「オリオンホテル モトブ リゾート＆スパ」で過ごす最高のファミリーバカンス - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdkladmFDRXNHRl9oX0ZES05tVGhYeHpZejVCaTNmbEVSdjJDUFQwT1NNWFBKTEd3Q3BrZHlfXzB3ZE5nUnl5VVl5OHZVc2s0NmZUMFJVLVRxc2c0NUtLSmZrV1ZVTEVVbkE2QkdB?oc=5",
+   "published": "Sat, 22 Aug 2026 06:42:52 GMT",
+   "score_parts": {
+    "recency": 0.698,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像5 / 9＞沖縄でリゾートワーク&離島観光もできる「Re:sort@OKINAWA」を紹介！【前編】 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aNVYzcFVDb0R2djBkT0lUVW40UTBxcy00OVZELUNwTUgyUkdCZTZGdTFlRnVqNThWR0t2T1k0Snk5MXhwS1NVbDdjN3JoWjNQUmdPa2ZCUVMtSmdJZ2JGWEhxUGRLeEREYnFDYTNYcjBHSFY5V2ZpLWJRdjFHRlU?oc=5",
+   "published": "Sat, 22 Aug 2026 19:15:14 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［NBA］「富山でプレーしたい」 バスケ八村 将来希望明言 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxalZsSnY0Tk1wVXBmM3A4OWRJcHc1UTJwQkY3WXVBRWdzdkgyUGVYT1JvZ0hRVDZuUGhHN1IxU2lYS09sS3NRamxRQnUtcDNvR1BlSTJoVkFRZElEdUE?oc=5",
+   "published": "Sat, 22 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Sat, 22 Aug 2026 18:37:30 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、「ロイヤルチケット」新登場 / 「マンホールサミットin荒川・下水道フェスタ2026」を開催へ【まとめ記事】 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Idk5URDBjTWdvY3hUSkt1UlBMQVpYWjFrRUVSUUFvZ2Jac1lZRkpXY2JRMk9rS2pGMUxtekM5UERPTWowOUtZR3hHdlRPd05IU1g3SEtVaGtJbWdpNVg5dlE1ZWNqSFdWbUQtMXBlb0ZTa1h6MHV6cUFvdw?oc=5",
+   "published": "Sat, 22 Aug 2026 02:12:08 GMT",
+   "score_parts": {
+    "recency": 0.604,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】ジャングリア沖縄、「ロイヤルチケット」新登場 / 「マンホールサミットin荒川・下水道フェスタ2026」を開催へ【まとめ記事】 2/6 - ライブドアニュース - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04ZGhvOGNiV3lkMDVvMFVQVEx4alNfSkpOYmZzMTVMeDBiRVl4eVNneE9vaFg4d2NPX0NyS2NwUVozdWZKUE5kbjM4dUpYUTBhbU1pOThxb1VpTkxIaGpKdFVKWWtVbXYxUUt2MUI3Y1RJZXFrR0NMLWpUc2o?oc=5",
+   "published": "Sat, 22 Aug 2026 02:00:08 GMT",
+   "score_parts": {
+    "recency": 0.6,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ジャングリア沖縄、「ロイヤルチケット」新登場 / 「マンホールサミットin荒川・下水道フェスタ2026」を開催へ【まとめ記事】 - ITライフハック",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41bG94ZUlJT0swcmtlUF9PeEZ2aEtiNUcxSjQ5N2kyWDBNbmxnbUYtNkxOQkplYWV3T2NRakhJUk52RlM3aXhsUUFzSUUzZjd3NC1GMG80VQ?oc=5",
+   "published": "Sat, 22 Aug 2026 02:00:08 GMT",
+   "score_parts": {
+    "recency": 0.6,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Sat, 22 Aug 2026 16:49:49 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "名護の貸家着工が55.4％減 ジャングリア需要落ち着く 単身向けは供給過剰 沖縄県内の2025年動向 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnLWQxNFNxZHY5LVhzZ1RNMFdrUU4ydE1obFpmRl9jNnNla2dSMENqT3g5QUVjR1pmTmRVMHNsMUFVSmlxWTNjT1hkZ2c3MEhPdFJLZk5DT3hlMVdxVXc?oc=5",
+   "published": "Sat, 22 Aug 2026 00:57:00 GMT",
+   "score_parts": {
+    "recency": 0.578,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像2 / 4＞楽しいイベントが目白押し！沖縄・カヌチャビーチの海開き - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pTTlnaUpQODJITk1YTUR0aEtranJxd1ZXcVNwdFFBQ1VHM2dqWE01dXQzVS1ZdHJPTWRIa0tKdEFvSnF5eEh1WjcwX1piMy1ONEtLNXBOOVZWaWxuMGtob25NZTA4c19GNTdN?oc=5",
+   "published": "Sat, 22 Aug 2026 08:48:38 GMT",
+   "score_parts": {
+    "recency": 0.742,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【ちいかわ】「シーサーのおみやげやさん」那覇空港内に8月12日オープン！沖縄定番のスッパイマン、オリオンビールとのコラボアイテムに注目 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwSnB3dXBoNFk1dTh4aWoyT2VtSDlQMjkySXdyR1pkbU9FdEZaWVdnTjNlX2kxVllpNVd4Vk9GVWQtZkZVZHR3R0szN0xWR0drMlVqbC1B0gFbQVVfeXFMTUdPTGR3SU11LXNVVHhsTDhpTlcwMzJ4cmd5OTZjNmx2UkJXc19nZlpnSUlEWjNjdlllZDV3RW5VYk9kOFFRSDZMS2ZQZFVpQ0htdEk3bGVWNUwyNA?oc=5",
+   "published": "Sat, 22 Aug 2026 16:31:16 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "Ｆ15事故受け「自衛隊は立ち去れ」 市民団体、那覇空港の民間専用化要求 - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5YnhaRVR2ck05NTZZUEU5WHFxMVpRNzVjLTFEVlR6c1Z6dnFkdkI5M05iaEFlM1JpSGxPUEJBOHpHc09uaWNENzByNHhSY0dlQ3hFcDI5bFY?oc=5",
+   "published": "Fri, 21 Aug 2026 22:30:45 GMT",
+   "score_parts": {
+    "recency": 0.528,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  }
+ ]
+}
