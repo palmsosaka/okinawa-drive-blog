@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-24",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 201,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "リムジンバス運行開始 南城市役所と那覇空港結ぶ 来年1月末まで1日3往復 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpVDNDWkhaN05ZZnJkMkRCWEdUWUdFdVA4YXJncTZhWm1GMW9YN2FiT0JtQmllWDFEaWJPUW5aQjlqS2s4bUR1a1lYUXRUcUtGZXplcVFfcndSdUVIU1E?oc=5",
+   "published": "Sun, 23 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：リムジンバス運行開始 南城市役所と那覇空港結ぶ 来年1月末まで1日3往復 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5abElmZkszelhfVkI2enRHVWRNS3Qxc2R3S1BWd0U4U1NoOWNDQlhFVmtPLXdEZjRhaWdJLXpIaXlZMmxBWXc4cTAxU3VUNnl3MVMzWWxqZ21fcllUUmtYY3dob2t5UQ?oc=5",
+   "published": "Sun, 23 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "通信部 夏をエンジョイ！ イベント真っ盛り 沖縄太鼓や踊りに挑戦 大山きゃらぼく保育園サマーフェスティバル - nnn.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aMkZxVkRYOFdNVWVMMTI1ZEt4d3IzZUlKaWxPcDhoVUY5TGUtNDMyLWhRR0g4b2g1NFVkdDhjeENuaFdoRHZ5UGxXUFJJTXNR?oc=5",
+   "published": "Sun, 23 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風18号】大東島地方、今夜にも暴風警報 沖縄本島はあす25日の昼過ぎ以降に接近の見込み - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBid2k2M2NFSS00WFFkT0FtdDVVaVZUdVcwZkFqOG5JV0ttbjZHbURjQnRUOU1UbGx3UnBJZW1udktFc1ZyMUpxMkRGcWNuYzQ4S2liaXVBUXpyZmJfaVE?oc=5",
+   "published": "Sun, 23 Aug 2026 20:06:00 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［記者の眼］県知事選挙 公開討論会増え議論深まる 銘苅一哲 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DTWZSVEdWaEl5Y0l2NVpDbnVWVEFZZlA4bkRpSi1sMXQ4cFJoTVpsWV9LRmRvWEp0M2lNeTRERzdwMEtLTUJ5TWc1TlNSN3NaQkpjWEpjbFJ1UHZEenc?oc=5",
+   "published": "Sun, 23 Aug 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "石垣で200ミリ超す大雨 台風20号 車2台 冠水し動けず - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mMEdRUFRnNlZXUURkZ3VGZEh6dkdsZXd1clJqQm5BWnRiVjFEejNDTTI2eldDdnJ6eklQNC1tQ29ZNlF1YXpya1lSWDJmSjBFQUVzOHlRYmV0alZXZnc?oc=5",
+   "published": "Sun, 23 Aug 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＠ブラジル おきなわ祭り盛況 大城副知事ら祝福 琉舞や空手演武 舞台彩る 県人会創立100年とビラ・カロン支部70年記念 ［ワールド通信員ネット］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LRzdjX2gzdjZCQVZEMFJJTXludk4wZHR0Z19FeXFpRW9IZU5sclZHQ2s1TkFzeG9KS1p5VThqdVUyTUxEbERhM25KcXA4Uml0OVhtbVVDMlo5QlBXNnc?oc=5",
+   "published": "Sun, 23 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【山形イベント情報8/25-31】沖縄の“うまいもの”が大集合！エスパル山形に『南国沖縄市』が期間限定オープン - やまがたぐらし",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SYkQ0dTVJci1VbzJmbUZoc2czdlYwWXhhSWdwV3R2U1ZrNk9fLWFoMThBV2xfU2FmMzVOUWkwcDB3WGJrWngwcWVVaHpaSU92amNtdVZzUjBFU2g3ZE56aQ?oc=5",
+   "published": "Sun, 23 Aug 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.746,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像1 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mcXdjWWNHOFJ3UTVCeEpXTFNHOGdDcEhncGZ5R21uMzN5MkVHTi1CYklZRExvb1B6Zlh2Y0xvTDNLQkNQVER4U1RpakRQdzl4bmdOdnhBZmN3T213aEY0cHdHaERhLWZCaU1fVTJR?oc=5",
+   "published": "Sun, 23 Aug 2026 16:42:57 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "柔道の武岡毅、世界Ｖ２へ意欲 連盟イベントで小学生指導 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MWjl0RlB2MF9VWWVxRFNZMUdKNTZIYlY5RlNsVGZmX25xNEczUlFqd0tMaU1KTTdGWk5jZElpUG9tN0hpcmlySFVuam1Wbl8wVUE0SldUeXNCVDNhaGc?oc=5",
+   "published": "Sun, 23 Aug 2026 08:01:15 GMT",
+   "score_parts": {
+    "recency": 0.726,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【ちいかわ】「シーサーのおみやげやさん」那覇空港内に8月12日オープン！沖縄定番のスッパイマン、オリオンビールとのコラボアイテムに注目 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwSnB3dXBoNFk1dTh4aWoyT2VtSDlQMjkySXdyR1pkbU9FdEZaWVdnTjNlX2kxVllpNVd4Vk9GVWQtZkZVZHR3R0szN0xWR0drMlVqbC1B0gFbQVVfeXFMTUdPTGR3SU11LXNVVHhsTDhpTlcwMzJ4cmd5OTZjNmx2UkJXc19nZlpnSUlEWjNjdlllZDV3RW5VYk9kOFFRSDZMS2ZQZFVpQ0htdEk3bGVWNUwyNA?oc=5",
+   "published": "Sun, 23 Aug 2026 15:00:59 GMT",
+   "score_parts": {
+    "recency": 0.871,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "那覇のジュンク堂 泊まって楽しむ「ミッドナイト」イベント盛況 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU3BvcklrTlBzbDNCLTctdTdtemZQUUdtNElnTmtiVm04SVlXRkc5a1JFZnJ3ME9tb2k0MFl3NXVocTBuVWFwTWl0aDJWQno2WUk3NmFacTJ4VmxKYVlXeWFSejNlTnF1ejhwb1hVLUNvZW9OZ2RSR0dPdGJGUHJ0d01XVF9wSXJxZEVqVmZR?oc=5",
+   "published": "Sun, 23 Aug 2026 05:10:51 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 20＞ふるさと大好き！HYが地元沖縄で初イベント「SKY Fes 2011」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54cERLWTA2b1pyNW1xLTlfcGlTUmhnczdpYTd5ckVGcWVPeU9aRUJ6SlVWTFhQMDVsSjR3OWJUUjNsWklILUt1U2FGZmwzczFSTHNDYThucWRUWHRvamx5eVg0NG1JWEJY?oc=5",
+   "published": "Sun, 23 Aug 2026 04:44:55 GMT",
+   "score_parts": {
+    "recency": 0.657,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "全日空 沖縄発着119便が欠航へ (2026年8月23日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84dEVEYkFEMGttVktla1ZzMlVrbVFtV2dmZ0pELWdRd3N0WFlIYkJWcEd4OFEtZ2tsQmt5NEk0T1VaeEFPZ1lCTTFPZGtRQjJuQzBUdmNXLWg1bW1JQ3c?oc=5",
+   "published": "Sun, 23 Aug 2026 11:44:21 GMT",
+   "score_parts": {
+    "recency": 0.803,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「全く味が違う！」北海道から沖縄まで全国の絶品やきとりが室蘭に集結 北海道内初開催のやきとりイベント - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXblREamlOMWx4U1NDN3FMLXhvZUJOOHBhbldjU0U5QUYwSE5PM1Y0ZFZBN0Utajc0ZC1uZlU2cUFUal9lWlFxR2g5eFdDOFRlQWNhMUZKVHRZYzFsOWdzX0NEOXZXY2p0dEdBb0N3?oc=5",
+   "published": "Sun, 23 Aug 2026 03:47:00 GMT",
+   "score_parts": {
+    "recency": 0.637,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  }
+ ]
+}
