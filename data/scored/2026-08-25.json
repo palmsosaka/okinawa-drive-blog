@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-25",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 204,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "台風18号 25日に沖縄直撃の恐れ 日本の南に4つの台風 那覇空港の発着便を中心に影響 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwTGxvM2g0MC1qdlpUR0tBOW9mZW45NXZVcUhvTzd4R2ZYamV0QjgzZ1pTeHZ5cFFIRWZZUXB1SjVQblZzV2JPYTlqSkVZZw?oc=5",
+   "published": "Mon, 24 Aug 2026 14:52:00 GMT",
+   "score_parts": {
+    "recency": 0.866,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.66
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "台風18号あす沖縄直撃の恐れ 日本の南に4つの台風 那覇空港の発着便を中心に影響 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzZHZFSUtLVmtIZjhuWlFMUDgyYzBNWXR4Vm10b2xueXI0TnVueTBjalhiMVVNek1OVkFfWC1oZnNVQ1RwX2VaTExsbndiWlRyUEZoYlJuSEhOMU9pZGVB?oc=5",
+   "published": "Mon, 24 Aug 2026 14:54:38 GMT",
+   "score_parts": {
+    "recency": 0.867,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.66
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "台風18号あす沖縄直撃の恐れ 日本の南に4つの台風 那覇空港の発着便を中心に影響 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9faTNEcDdhM05KUzR6WVFlbnlPZHUzbUFqckVydnd1SGM5WDVMeXZpdUozZXFIRGZib3BSODFjcWEyRlBPdG1CSEdidEdkRktXSGFYTmw3VVFpWFdTUGFDdC1CcGZybldYTE9ReTN3?oc=5",
+   "published": "Mon, 24 Aug 2026 14:54:00 GMT",
+   "score_parts": {
+    "recency": 0.866,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.66
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【アウフグースイベント】さふぃスパ沖縄にて2名の琉球熱波師が集結する特別アウフグースイベントを開催 | 沖縄・ラグナガーデンホテル - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEdVRTYng2UldoN0dhU2NlejRPcnV2Q3l3bl9YbzRKQWM5UzY1YURKYTFmSDcyV0wxTjUxNVhuM0p5cXdkYmU3eHBWZzBYM2dpRlowN2NOeXd1NG1ma055X1phd0ktclZkbGc?oc=5",
+   "published": "Mon, 24 Aug 2026 10:00:01 GMT",
+   "score_parts": {
+    "recency": 0.764,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【台風18号】ジャングリア沖縄、25.26日は終日休園 購入済みチケットは無料で日時変更 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WZmdHTHBTdWF5R0tfUldoTTBWalVvNGJ6SHA1M25nUGZoeGRjaGRRMWc0NXp0OTZNQkcyTmNsOXR2ZmtQUHZMY21MNWZpZWdSa29UMXkyc2pqelBSUmVTR1lKdy1PTkFiNG9ETmFkbU40aWE4TzU3LQ?oc=5",
+   "published": "Mon, 24 Aug 2026 07:29:29 GMT",
+   "score_parts": {
+    "recency": 0.712,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【台風18号】ジャングリア沖縄、25・26日は終日休園 購入済みチケットは無料で日時変更 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWljajRjSVRVeGlGU2ZCY3hJY0JpUnlHX0Rsa180enlCbWphVnlDOVUtaEsxMTBPRW96Y1cyZ20xVmZFMzdveGhqN1VHajNZS0hDRmRicHQwTk9JSHExUlBEMTZULVdkYXJwOS1pZE8tVjAxeDk3UEVyM3NEYVc1SzJpZ1pXVG9XZjJvQUR3?oc=5",
+   "published": "Mon, 24 Aug 2026 07:01:20 GMT",
+   "score_parts": {
+    "recency": 0.702,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像・写真】ジャングリア沖縄の「スコールダンス」に“AI生成”“ジャンボリミッキー激似”の声…運営が回答「特定の楽曲を参考にした事実はない」 - 週刊女性PRIME",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XdFVBdHJHMk0ydFlMVXU0cXF2NUpRWFF2Q2ZZRkVPeGNfZ25FV3VIODlSdWdzV3NKTTVfbzY1TUpJaHlCLWUzVkFOYk9ZYk9BSm1xbg?oc=5",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.702,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の「スコールダンス」に“AI生成”“ジャンボリミッキー激似”の声…運営が回答「特定の楽曲を参考にした事実はない」 - 週刊女性PRIME",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwbHBHZWtvVXVPLVQ3MmIxc1pWemg4UUlqcm9ZWkVFME9ZVE9tY0wzVllRX0F2U01IZ2lzdklpXzZ3MlVYdGdKRGhVdGY1YVk?oc=5",
+   "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.702,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【台風18号】ジャングリア沖縄、25・26日は終日休園 購入済みチケットは無料で日時変更 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nbVljajEtOGVoQWhWdHlIek5TOVpGRS1oQXlXdHVQQ1FVTkJmTnZOQW9LTkc5UGlGMFpMNTBYcjhoWW1qRVNWeW1tRDEybDNHaDF1QVNUQkJkZ2JnOXc?oc=5",
+   "published": "Mon, 24 Aug 2026 06:42:00 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：【台風18号】ジャングリア沖縄、25・26日は終日休園 購入済みチケットは無料で日時変更 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QcnRza1lNcFJNUG5JNTBTNlJUekh4cllqckQ2OHkwNlh5QnFmSkdIZDlDUU5xY1pMLWNneGVSSlVBQmx6MUZVWkdlNlE5U05WTXBSY3EwbDVQU2p3dmFCM3pDbkpwQQ?oc=5",
+   "published": "Mon, 24 Aug 2026 06:42:00 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "アートホテル鹿島セントラル 8月30日のハワイアンイベントに3県7市から総勢239名が集結 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1teW1BdkRIRlhsUkMtMnRwZ1h3VWZTOF9JY21CT3ZGT3M0cHhfeDR3QXYtTlQyNnYxczFtSkQ1MTNBUnQ1alI0cmh5S0J1dnN1cE5SV3lhTmlFdTdvaHc?oc=5",
+   "published": "Mon, 24 Aug 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.681,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "＜主張＞玉城沖縄県知事 国防の重任へ理解足りぬ 社説 - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BZkpKSW5rOU1SdUlqNmxNUWp3SE1BZFZ6UTNfdWF2clpjcG0tcWRQZE1QcnAwRGhzZVkyZnN2c2VVZ1lGNUc1eGh0NzVjeVAxQnpMbTVLeEczN3BZMWI1Z2hzMjJJd3pSWUp2cUc4bzBDN01rMEE?oc=5",
+   "published": "Mon, 24 Aug 2026 20:00:01 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "クールジャパン機構「撤退戦」の命運を握るジャングリア沖縄の今後 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBd2tIRUZXT3BNam9hdGFuX0syNHZRLThIMmJtVzI3dG9HMU9xUTFyRkRfVXU0NjBOTzJpNlZHcEJNUWNJbWRJNF9nTDRIQkdYTUhHMWRDUWVLQTdCQWxOQWt1UWxUNEFoUGZ1MW4zNlNULXFka01v0gF3QVVfeXFMUEF3a0hFRldPcE1qb2F0YW5fSzI0dlEtOEgyYm1XMjd0b0cxT3FRMXJGRF9VdTQ2ME5PMmk2VkdwQk1RY0ltZEk0X2dMNEhCR1hNSEcxZENRZUtBN0JBbE5Ba3VRbFQ0QWhQZnUxbjM2U1QtcWRrTW8?oc=5",
+   "published": "Mon, 24 Aug 2026 03:03:00 GMT",
+   "score_parts": {
+    "recency": 0.62,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "クールジャパン機構「撤退戦」の命運を握るジャングリア沖縄の今後 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CV1lTODBwR0RoM3pTcnJuM3hYUWsxTmxEQngxV2JFVWtTV1FKUXBoREtpMEgxZEpmdUhRT3FUSTJXaGxsRXB1N2o3T1I2QkRTLXEwbTlvNzBKTm8wa1NVYnZlbFg?oc=5",
+   "published": "Mon, 24 Aug 2026 03:03:00 GMT",
+   "score_parts": {
+    "recency": 0.62,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "クールジャパン機構「撤退戦」の命運を握るジャングリア沖縄の今後 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Xel84akhSM2dsRWtQUG1SWkNKWG9qSnY5MXFtd2lXWGxhT0pSblU0TmNOSjN5Rk9ZUzRlX1lFd0hUbXV5UE5XRWZ5U2RTUDZjZlp4RGlvc3hPdzRGbzZJ?oc=5",
+   "published": "Mon, 24 Aug 2026 03:03:00 GMT",
+   "score_parts": {
+    "recency": 0.62,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  }
+ ]
+}
