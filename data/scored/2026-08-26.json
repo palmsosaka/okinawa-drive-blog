@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-26",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 237,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "旧盆台風にため息 18号接近 欠航相次ぐ 那覇空港観光客 足止めに「散々」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lNFN1ZHZBQlpVRDdfNEVkdXBHa3Y5UlZ0ZnlzSkx3QlI4ZW9heHRyZmdaYTFYbDVMOHNualJoRDNFWXFpWlpJUm9FZk0tbmk2UnZWVEpNUzFsbzBKV3c?oc=5",
+   "published": "Tue, 25 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍のスペース 「存在しうるか」 那覇空港巡り知事認識 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zV1h0OTVHbUNlRkw4ZkptV3BIWllzOXBOWVFMTG1MWVdvdnNId3RQb2ZDVDhmak93RlF4eXEwTEpYVWdLazBMR1RkT3Y3aUtqWUZDSlNuVURxUG1hUXc?oc=5",
+   "published": "Tue, 25 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【台風18号】那覇空港ターミナル、26日は通常通り午前6時開館（動画） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxYmtpOWNpdTFBeEZseEpJQWMzVHZYZFpVOTEzcloyVTM3UWlJZTNSU0hWQ05JZGlYVzg3WnFsSTc5c1RTU2tpeEdUdDFRaUtoMG9BZnZCV2NkM1lVRVE?oc=5",
+   "published": "Tue, 25 Aug 2026 08:27:00 GMT",
+   "score_parts": {
+    "recency": 0.732,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍の那覇空港使用に難色 沖縄知事が視察 - 岩手日報",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VdG41Q2QtZmNnNk9Eb1JaMTZSNXZCM2l5dklxRmlNbE16dFlGb1Exc0lNS0NHZW5WZFRKRzB2Mzl1aERSNUJ1eEEwclpJNldaWkxxMy1GRmp0Y0tWSUtIYi1TUXVsUU5VQzhjUlFGekNNSlRN?oc=5",
+   "published": "Tue, 25 Aug 2026 06:49:52 GMT",
+   "score_parts": {
+    "recency": 0.699,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港を視察後、記者団の取材に応じる沖縄県の玉城デニー知事＝25日午前 - 米軍の那覇空港使用に難色 沖縄知事が視察 - 写真・画像(1/1) - 西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRajJQU21SSk1iVUNuZTg4dGZwY0t6eHQ1MVVoRW1oTi0wa2EtTTF6cEVwQmZMcmJ5aUxFNW5OUmRCUE1FSXdpY3JaalRxaHJEM3dXTThoVQ?oc=5",
+   "published": "Tue, 25 Aug 2026 06:43:32 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【台風18号速報まとめ】最新の進路・休業・交通・イベント中止情報（随時更新） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SWkZ3NUtHVU5oQVRudlpYZ0tYV1N2bEFIWkxfVkIwTEtFck8zSnBETTN5aHJkQkMxX2lNVVZSTGxRWUNVQzlFalpGRnVzNzVWVW9DSTdWZ1dWdC1md1E?oc=5",
+   "published": "Tue, 25 Aug 2026 14:12:00 GMT",
+   "score_parts": {
+    "recency": 0.852,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄県の玉城デニー知事、米軍の那覇空港使用に改めて難色示す (2026年8月25日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pMFhPWGs4OFN2SllmX2tEOXNQdkFvZklwbmNyandiT3hQM1FRQWRHa0F0XzVIRXJBS2ZRSUxoUXAzX3NLblhNSXM4cmxjNzJkRUVobFptaUlnRlRLZ2c?oc=5",
+   "published": "Tue, 25 Aug 2026 05:58:54 GMT",
+   "score_parts": {
+    "recency": 0.681,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【画像】沖縄県の玉城デニー知事、米軍の那覇空港使用に改めて難色示す - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiS1BfN1FPcW9zWldZZ2VHOGNYaDI3Q3dYYlpueF9JTUhRTi1VTi0wOXdHYWZWSmxOWlpENlZOUVJ6R3VoWG5uN1RzTUlKZTVOWFJIQW9VbTVqVDFpdWJkNE93c2djR1NuTkN2ZGZyQ0ZZSlp4b2hTRmV6cHc?oc=5",
+   "published": "Tue, 25 Aug 2026 05:58:54 GMT",
+   "score_parts": {
+    "recency": 0.681,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍の那覇空港使用に難色 沖縄知事が視察 | | 全国のニュース - 佐賀新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95ME5pUWVDby1NQTRwWVo1X2lsTEg1a3hQMU1sM0ZoVE1ZeDRjUFlKbi1MTURhXzFaZl81Mm9GUnhERzBHaWJ1a1VsMzB3R0NKWWRxSU53?oc=5",
+   "published": "Tue, 25 Aug 2026 05:48:00 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍の那覇空港使用に難色 沖縄知事が視察 - 西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lS2hJdUFXeXRRU1hVX01uOUNMLXFUZUFvdzU5Q3dncTF3OF9PZ1FvLUYwbHJubGp0YmJnV3FueFlXOWRqQmEzQS14dGdYcWJuRkYxb0dR?oc=5",
+   "published": "Tue, 25 Aug 2026 05:49:01 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍の那覇空港使用に難色 沖縄知事が視察 (共同通信) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYkhfbjAyN1BTLWNtWU5McjVCMlFPMEoxR3Y4cjZIMVAtckpmNU0zTGgtTXA2OFlmbm8zWGw4NzRQR1R4UmlsVFNVRlpHSElEMDRiR0pmOGJoeDRtMXRfTUx0Y2o0VkxsQ3Bpams4UGdoLWxQZ0xfVTRKemxNcGpBb2h6TFBMOTJTeDZXbnVn?oc=5",
+   "published": "Tue, 25 Aug 2026 05:48:59 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：米軍の那覇空港使用に難色 沖縄知事が視察 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyLUtGQ3lKbnRyUnRoeW1iVzk1WWU4dm9xNnVwakFEU2NYcVI3NGxJWVEzOXh0bmZIVTZqTkpLT0pRSUphSnRhOXhFQWhuSXI4a2NOejVOYVNpaldBRUZDNUJFNGpwdw?oc=5",
+   "published": "Tue, 25 Aug 2026 05:48:59 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍の那覇空港使用に難色　沖縄知事が視察 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcDZtRTZfQlVNNnhvQ1FqQnlrY0V5TkxNMGlRTnpuVjA0bXotZjUwNG4yQVdfa044MDJXZklaVE5lYlJFazhZYVRYLTFBbjJWQWZjNzRDMjMwVEVmdjAxRFptNVpzNzJna2NWVmlPREdNcE50MlgzT1U3TVB2RXk4T3MyRWw2VlBPMXVIcTFMQnZzZUnSAZMBQVVfeXFMUHA2bUU2X0JVTTZ4b0NRakJ5a2NFeU5MTTBpUU56blYwNG16LWY1MDRuMkFXX2tOODAyV2ZJWlROZWJSRWs4WWFUWC0xQW4yVkFmYzc0QzIzMFRFZnYwMURabTVaczcyZ2tjVlZpT0RHTXBOdDJYM09VN01QdkV5OE9zMkVsNlZQTzF1SHExTEJ2c2VJ?oc=5",
+   "published": "Tue, 25 Aug 2026 05:48:00 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【写真】米軍の那覇空港使用に難色 沖縄知事が視察 - 南日本新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHSEpzRmMxOWYwNHBYbDJfUlNWREVFNDI4b24wS3JfMng0N3pQYUlpbWF6aHZkd2YxNVdJTHFVLTJsMDB1b1hsZENwc2d6R25xamV4ajFXV3ByaV9NRXoxUzJaUlhadzA?oc=5",
+   "published": "Tue, 25 Aug 2026 05:48:59 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "浦添市役所で観光パネル展 31日まで - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81QnNOTUtYVG4tUkJPY2F6alg2eFZJbjZnR3FCNDA5cmlaRUJ6dDg1RV9LVHl4NWN4NUVrRGVZMU5sb05TNmZQbmxvbUxRR2c3RGtWbGE5MDRPNzVlbWc?oc=5",
+   "published": "Tue, 25 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  }
+ ]
+}
