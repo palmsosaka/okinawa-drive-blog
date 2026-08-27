@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-27",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 254,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "アップル、折り畳みスマホ披露か 来月９日に特別イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52QjRuVnVwanA0V0M4OEhKNXVKWm5MRWdSMGxFb3hqX080a1hNSkJqMDRKemVWSnFqVndQYmx6OWJIRVQwZTZfbmFyMkF1aUJ4YkRkd3NSMmMzTzU2Umc?oc=5",
+   "published": "Wed, 26 Aug 2026 22:27:09 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "なんじぃコスプレ競う 大賞は1歳の新城智加ちゃん 南城でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10YVMyS3FYRzhQZHZtMzBkY2h5TGkwa3RJcXktLXc1bk9jM3hJS0k4N1drOHBhbFFWc2dVTFYtdndVdUoxbFFxTmdiRVVPSllFWENBMmVWalZtcE9rbEE?oc=5",
+   "published": "Wed, 26 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.888,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「沖縄のお盆はやっぱりエイサーがないとね」 台風で初日は中止も、力強い演舞でご先祖さまを歓待 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96a1BvYmpVZ2lrZnlhUDRoU1BVeDNpM2hGeWxoSUxMQUxoSTdISWlTNGJtNFBUQ3BPRnpFUnphNTRfZkZXc1dOQklLcmxwNGZraXU5cTFmNDNXTTdKYTNnSGJ0YWVDdFlESDNObzYzMkZ4cHdDZklsQg?oc=5",
+   "published": "Wed, 26 Aug 2026 21:13:00 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "那覇―米本土に直行便 沖縄復帰後初 ユナイテッド航空、来年3月から - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyVnNSRUV6WDUtc24teWZHZlFHNFZyQ3VNbUU5Q1duQk52bk5nREZQS0ZFSEVacnpoYk5FLWpQWkdXYXJsVjFOSDFYWUZfTmNtaExwVzlINGVZdGlsQmc?oc=5",
+   "published": "Wed, 26 Aug 2026 21:02:00 GMT",
+   "score_parts": {
+    "recency": 0.931,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【まとめてわかる】沖縄知事選9月13日投開票 過去の争点、今回は [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZVldwTU5rUEFiS1owOWo4WmNYRlVUb2lhUUZQVHJaeVJTbi05akJJN3E0c193RldrWm5lQ3hNVUk2TVFHbENrSWNaNnFjbW5KVE9WTk9wd3dwOGdGNVBtOGhpMmRJaDhIeDUxVGNn?oc=5",
+   "published": "Wed, 26 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【オリエンタルホテル 沖縄リゾート＆スパ】国産シャインマスカットで秋の訪れを表現「白露のアフタヌーンティー」を1日5組限定で提供 - フーズチャネル",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFaldqX3V0NDBaenBlMGZqSVNEV1Y1LUFiTFl4dmJKM2hZUjVUZS1mYkJYblBNVlo2eExUMm9kOVBpVDZObHJLX1ZfVWxTVlZVWXAtN0Jn?oc=5",
+   "published": "Wed, 26 Aug 2026 11:35:25 GMT",
+   "score_parts": {
+    "recency": 0.734,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "レンタカー店に登場した｢かんばん｣ - PRESIDENT Online（プレジデントオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FSVFkeDg4VmRBZFZmU2tORVBkV0JuZ25SbDlCaGtLMjJrZm5TT0dUTWRVNEFINXc2MS1PWFJlbXd1aENGR1pOM1hUcHlXeVk?oc=5",
+   "published": "Wed, 26 Aug 2026 22:21:01 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "外国人も済州で運転を開始…韓国のレンタカー予約154%増加 - jp.ajunews.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51ZTcyYUZmRncyYzJfZzRlZHBNZGU3V1lRQ0FGeU8zRmtxc25RWkdsR2k4bm1Yb0laREFWZGdaQ0JZaE9EOE9PZms1VnV6a2VKSHZCdklsbFQxYzg?oc=5",
+   "published": "Wed, 26 Aug 2026 05:52:00 GMT",
+   "score_parts": {
+    "recency": 0.615,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【バンタカフェ】沖縄の工芸品を見て、触れて、味わう秋のイベント「海辺のやちむん市」開催。今年はやちむんを実際に使った「やちむんアフタヌーンティー」が新たに誕生！ - tv-tokyo.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzdDAydy1JZW5KbkItODZ2NlBDaWRGZURHbV83cFcwQ0FqeFBzS2N5WUp2QTJKcHIxSDJoMkUzRXBmRUlUc3BDX3Rka2NDanBFUFo1UlZuLTZENVJUR05nTnFuaGZ3MHAzbXpFQThn?oc=5",
+   "published": "Wed, 26 Aug 2026 09:45:13 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港 運用適正に 米軍使用けん制知事視察 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TajQ5UDhDQWZMMmMwSzJ5cFBTUU1nYnN6VGlFUkRxaHBIUTBNS1BNR2lJbEhVS2pjU2hSVjl0RGhlQy1WZDhkc0FFcm1Hd1FDb245TUdlWjlIb0JUR3JFcg?oc=5",
+   "published": "Wed, 26 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "沖縄美ら海水族館は本日8月26日(水)13:30から開館します - 沖縄美ら海水族館",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FSUVLaTF0Ynk0c2ZOQW9wb2lZYVdXdTdPMlIxSUEtWi1XOWZScmdwMkpzc0M2RU04SEJneHR4N3QtOVZnc3VXbmppS2EycmJhWHRMcmxR?oc=5",
+   "published": "Wed, 26 Aug 2026 08:48:55 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【オリエンタルホテル 沖縄リゾート＆スパ】国産シャインマスカットで秋の訪れを表現「白露のアフタヌーンティー」を1日5組限定で提供 - 時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XWUFsY1JuSEZrTWFmRVJ6NlBzQmw1QkdwNVZIbnJ2ODc1dlgyX29tUC0wdXc5bnRsbzlFaV9GY3FoOVpaT1cxeGtlaV9hcjA2OXVrZ3NHWVhEU2JxRURoZGhuakd3VllIamRB?oc=5",
+   "published": "Wed, 26 Aug 2026 08:16:00 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【京都先端科学大学】「万博レガシーイベント Resona EXPO Re：Future」にロボットを出展 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YQmpva2IxT0c2ZTdycW9obnl0Q01MR0VhVGpYQnJ3SlNqZWZpOHY4RU9VZ3lnTk1ScHdxdThYRVlxSHVEekpqMXl0b05jTkNsd3p2bEZOYlY4M0E5MHc?oc=5",
+   "published": "Wed, 26 Aug 2026 08:20:18 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "旧盆時に台風…各地でため息 那覇空港は大混雑 親戚回りの後に避難所で過ごす人も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lNFN1ZHZBQlpVRDdfNEVkdXBHa3Y5UlZ0ZnlzSkx3QlI4ZW9heHRyZmdaYTFYbDVMOHNualJoRDNFWXFpWlpJUm9FZk0tbmk2UnZWVEpNUzFsbzBKV3c?oc=5",
+   "published": "Tue, 25 Aug 2026 23:04:00 GMT",
+   "score_parts": {
+    "recency": 0.474,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.542
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：旧盆時に台風…各地でため息 那覇空港は大混雑 親戚回りの後に避難所で過ごす人も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SMEVhZGNMM2xLTU1CbmJNRkdOYzRwTEltSDJUbVhpTndRb2VYYWtJaWhGLUpyd2lpZVJ0cEJpM0wzeGRmVlUxN1Bkakx4N09rNWZHenc5SzlBb3RIZV93QUlmdVg3QQ?oc=5",
+   "published": "Tue, 25 Aug 2026 23:04:00 GMT",
+   "score_parts": {
+    "recency": 0.474,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.542
+  }
+ ]
+}
