@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 231,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「操作が不十分」運輸安全委報告 那覇空港 セスナ損傷 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96Qm54TEFrbUVlV2VOcnFMMERJRTNkb3BPNFNCQ1JxbUdCWWZ2NDlQNFRrX1JBcEgycm1yOF9iU0ZNWWFnTzI1TXozMEpBbzdqUk1TMEE2TDctMGRrM3c?oc=5",
+   "published": "Thu, 27 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄旅行するなら必見】2歳と楽しむ水着コーデ・宿泊ホテル・大満足グルメなど！一挙ご紹介 | HugMug - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UVjNIMWFxVnNULWFCblRUamhZUDJJWHRFb051ZllGTzZCYnBPRzFrWTcwRHI2WXpVZ3JUU01kY0JONGNjQUk4ajBiUHpBcGJmTmRodFdlNmFLOWlDV0toUXhOekZXbFV6ZXdUZnU0UGx4WXBF0gF6QVVfeXFMTkZ0ZTJwMVRHVmVpSTNtNUxWRS1KUXFxcmJLYzRlN0VmWjN1TnZkTW1yM1FrUGJFWEhmS0w2Q2RLSmxOb0FKWEVfb0EwNTNoQWQ4ajZKX3lGVkRDVXhJbFpFRXJGWS1yZjhtVWVVOWVPU1NlSUNleC1KdXc?oc=5",
+   "published": "Fri, 28 Aug 2026 02:30:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄へ批判殺到、現在地を森岡毅が告白 - 日経クロストレンド",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90M0pfbkFBTjRJZC1yYTdMVkpEUGZ2Z1pscEdYcUp6bFdxaXF4ZF9UMXJVT2VIdG52ZlVPanZUQnEtb0JLLVFZbk9PZHQtXzI4WldEQUZVdUE1WlA1LVplUUVQX0c5UQ?oc=5",
+   "published": "Thu, 27 Aug 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.708,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「ブロックブラスト！」、日本国内のプレイヤー体験を拡充 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pOHIxeUhjamh5cE1yUTUxSjRhVUo3NG5fWGhmMTRsdWtuTzc3eEZ4dHk2NFh6Vy14cG9TSmVwWHhna3BWZXZOMUZMcTRCeHZyWXYwekV5MnFIeWc0dEE?oc=5",
+   "published": "Fri, 28 Aug 2026 04:18:00 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "国際通りde沖縄黒糖祭り９月６日「黒（クロ）の日」Start！ - 毎日キレイ",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2RE1PSFJfSUZxRlpCdWF1dlphNmIyaHI5TVQ0b2RZSUxteVV3VTVHSWZ6ZGFfYzhVYlVLTkdBOS0tQXl0Mjl1SHkxRDVSQ1lLMnF4M1JnUUNGX0dZZU5qaG9pU3VZNUc4a2VDRXhNT3lOUmZGSHZVMXJB?oc=5",
+   "published": "Fri, 28 Aug 2026 03:20:37 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "辺野古沖転覆受け…同志社国際高 今年度の「沖縄研修旅行」中止を検討（2026年8月27日掲載）｜YTV NEWS NNN - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4a3hkckh2WjNqZ1lRYnViU0ljdVQwdzJSbzY5S3hWWkJLU2RGcWEtdEdhbEU2WGhYV0stRHo3SUsySzNxRi1qbFFVVzBrd0trazBNdjRVWWpBeENsVHR3ODNubzFuMXdnQjQxcmVjcmJRc0gtMFVHYkNyTjJIQ0U?oc=5",
+   "published": "Fri, 28 Aug 2026 03:15:00 GMT",
+   "score_parts": {
+    "recency": 0.963,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "スイカ割り挑戦 夏休みイベント 那覇 沖縄国際命の会 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qVmxBajNJYm1adlpVOW5QNm5RZWZoY3RXWVdlNHM0YTYwVC1GMlZ0RE1nS2RTejcwQ05MekxmdmMyRm1CMW16QjY5LUJEbDB5VEJNNm1MMzNSdnZoSHc?oc=5",
+   "published": "Thu, 27 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "折り畳みスマホ初披露か 米アップル 来月特別イベントで - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14T1dMOWNjcm90Wkk2TEhBZkdqWUthZDl0RkZOXzNqQTQ5Zi1kQXpJM1BxSXdMLS11aElZSWdvWENWWHR6Rk02aUIwMFZ4YlpoTi1RNjZKdDBZaV9rWmc?oc=5",
+   "published": "Thu, 27 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "九州応援割、１０月開始 熊本・鹿児島旅行は６割引き - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSWdRcE9qZi1vcmliTnBiZ0FjOGp5b2lRWUJKeWpVODZPTlQ5X09GckpwVlVNM0ZqY2x0OTZvOVZ0TUluZ3lwbXo1eWRlQ2NpT3Nya2pVOE84OXJ4Mnc?oc=5",
+   "published": "Fri, 28 Aug 2026 02:47:48 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「水の壁」国境地帯襲う 氷河崩落 温暖化の影響か 聖地巡礼者や観光客被害 ネパール洪水 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6Y3k2dzNsQkRCZGViNkphT21ScWdZalYzLTU1alZxQzFZenJzbFp4RG1wXzBGb3UwSzRqNmlINmpmMjBRUF9RN0dvVjJTUzJ3WmEzeGdyMWlxRlRVeVE?oc=5",
+   "published": "Fri, 28 Aug 2026 02:08:21 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "台風18号 沖縄地方に接近か 旧盆時期直撃の恐れ（沖縄テレビ）2026/08/21 Surrey Shooting (igpMvzIucm) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EeDlpclJsM3A0N3Rsc3VYR0JUOHZ3X3d3SUxmeDRYN3hZQWIzUS11UUhUcUNqQjUwMnlMb2J6R251ZW42aGRVMDZhWmZpVVdELWxtb1l1UTFRQXc?oc=5",
+   "published": "Fri, 28 Aug 2026 01:54:31 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "北海道×沖縄の味覚が集結！初の物産展を8/28(金)より開催 - valuepress",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43YTV5VmJKLUJZenpRcGNJLUxLY1BtdG5EMFh0elNHNm9NVE1iYzE0MXJGMm16b2h2TEJPWmVxSG5VLVQ1Y1Z5clloZUIzM2N3QkFQR2F2TllpYlU?oc=5",
+   "published": "Fri, 28 Aug 2026 02:00:00 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍の那覇空港使用に難色 沖縄知事が視察 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLanBfOUtJUzV6aTNMZGcxVTRXT3B5UTh1RXlicWxERkl6VkFuRG8xNjVWX0JvaEx0SzhvX1dNOFNGdGZWMnl6Z3dHblh6bzUwVXZOdm1kV1g2OFBVSUJtUUN4QzVkMERLLXBMQ2JhaVVuanZ5UjJlSw?oc=5",
+   "published": "Thu, 27 Aug 2026 09:53:27 GMT",
+   "score_parts": {
+    "recency": 0.602,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、一周年アニバーサリープログラム第八弾沖縄のクラフツマンシップと“パワーバカンス”が融合！ 沖縄発アロハブランド「Eanbe」とコラボレーションアイテムを発売！ - CREA WEB",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tZVFMZk1zaGZ1ZHh0UHVkV3o5dERYRTBxUktCc3VhcHdiU25aNnZzMHoyV1BnRXNyNVJMX0ZES3hIeFFBd01sTHFlbnBJeE5ZdGlObFBwMjk1TUZJekxDMjFZTmVzekJfY0pFZy1Mc0diUQ?oc=5",
+   "published": "Thu, 27 Aug 2026 09:21:15 GMT",
+   "score_parts": {
+    "recency": 0.59,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "新基地反対・普天間撤去を 知事選告示/誰ひとり取り残さない沖縄/デニー知事 平和な未来へ | しんぶん赤旗 - jcp.or.jp",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HRVRHaldaQmhaQ0VMMnMzVEVfZnB4OGYtZjJvamxxdjR4cG8yUXZyYUZrU25MeTBoMW1PVFYtUVhYbXRyZTRwN0JHV0ZqSm1JcjJxa240YkRQa3AzZTJuV1BCazdOY0NtWVdxYk1NdzQ4QzJn?oc=5",
+   "published": "Fri, 28 Aug 2026 01:07:19 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  }
+ ]
+}
