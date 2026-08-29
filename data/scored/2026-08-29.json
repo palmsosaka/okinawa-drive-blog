@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-29",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 244,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "漫画 | 沖縄社員旅行で｢レンタカーに\"軽\"｣選んだ若手社員のまさかの\"言い分\" 名機『オプティ エアロダウンビークス』が凄かった - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZS1FVeWd0Mm4wQ0RyR1V6TkFLN3dHMHc0YW1wQ2ZWTFd6RFNvNXFtc2R0bS14VzZTT2ROWV8wSnJfSlVoRm1sQmd5azE0WXZuTERYSFdhOA?oc=5",
+   "published": "Sat, 29 Aug 2026 01:30:00 GMT",
+   "score_parts": {
+    "recency": 0.97,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【恐怖】台風フライト！飛行機が暴風の中を飛ぶとどれくらい揺れる？【東京羽田→沖縄那覇空港】 Cbse Class 12 Result 2026 Expected Date (GqzbKuuHzk) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbnlrVlVOMjUtOU5LbmphaFUxWmNKZkFoREFzUjhyaEhLMG1URW13S3Faa1d0bVNoVjNnLVZRcFJUaTN6dnNiN3dlLTNUVXdZeXZsVzU4SXFKaWc?oc=5",
+   "published": "Fri, 28 Aug 2026 19:07:18 GMT",
+   "score_parts": {
+    "recency": 0.837,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ホテルシェフの屋台村やライブに雑貨市も　ホテルゆがふいんフェスタ　沖縄・名護市で8月30日 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObmhVZV8wTkFSTDdOd3JNWHpUdGFmcnhON2I0N3VicWg4VlhIcUd2NHVTZXdkVndiLVY3by1rdElHcmprY2ZCS0hFb0JMQ2VCS2FKT1pqUjBSQkxNRnJXZW9zVXBDYkdFUThSNkczLVRjWjljMG44U2NLWlo2S2lSSlRBSdIBiAFBVV95cUxNOHZ5bFZFV3pvRzU0NGYwUkxyNXBwYlAzdmVQT3ZyU20weld2ZXlKNGxfQncxLVQyaTN3Ml82QXgtMFVEYi1XZGFJTXE0c1B6R0ZYSEozMk50clVBbDVWaEJPWWJPU0dScF9wcnpsQXdKcXN6aDN0VUxrbWtVYkZjSDA0M2NaQTN5?oc=5",
+   "published": "Fri, 28 Aug 2026 23:50:00 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "松本明子さん、緊急入院の真相。そしてレンタカー事業沖縄進出！（BE-PAL.NET） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RejJ2d3EwOHk1SjdqRUpNWU9xU0h0UFpBN0dlVUFteVFKcXc0N2F1M3hpa0pFazlVbkVBZWpPV1IycHBNZmFZQUUxeGgwSGdjbjNwOC1YcE9PbnlOMlVCS1ZHaDdmd2N3YVhSSE1HdlVoREZ1WDBSUUdIbFB5ZmM?oc=5",
+   "published": "Fri, 28 Aug 2026 09:05:49 GMT",
+   "score_parts": {
+    "recency": 0.628,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "松本明子さん、緊急入院の真相。そしてレンタカー事業沖縄進出！ (BE-PAL.NET) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2dUU0pBbGVkY0JSdzlRWU9ja2tEZGV2TVJpN1dLeExRZ1dvZTlsdkcxUk9VcUdBQzJFMWN1QXVlbU5lNXNmM01sMV8wbVY1Zm1sV3ZKYm9FNFJQZHhTa2tyb3piakhZSGYwR1lIZGpNcmY3eWFZalgyeDFJRkxSb2ZKN3F2R3A0NkVuTFVR?oc=5",
+   "published": "Fri, 28 Aug 2026 09:05:49 GMT",
+   "score_parts": {
+    "recency": 0.628,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "同志社国際高、沖縄研修旅行の中止検討 2026年度 辺野古沖転覆事故で - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92c3RtVnNVQlNJbnRXYVZ2UmhkMUVlSy1IZGJMSl9PUzd1b1l3a0FGT0ItOXhjaUhDQ1dKRnBod0ZFZ3ZxSlYwVWRjUExWY0MwWVZKcmQ3b1JOOEdNbUE?oc=5",
+   "published": "Sat, 29 Aug 2026 00:40:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像14 / 15＞伊勢丹新宿店の「大沖縄展」が20回目！県外では貴重な沖縄本島＆宮古島のいいものが満載 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01TzFxZllsTk5GRWYwRm9zR0dhS2F1LUp6dHQ3anNRTmg5cGNFaUdOUGJGdlQ2UWU2NW1vZ2pjZF8xazRJb3Z6bEJKQ0dJLU9PbmwyNlpzQWhVR0NZRktMaVJlbXNDUnNX?oc=5",
+   "published": "Fri, 28 Aug 2026 23:27:39 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Fri, 28 Aug 2026 23:13:38 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Fri, 28 Aug 2026 23:02:39 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄県知事選 読者から候補者に質問 玉城デニー氏・古謝玄太氏が回答 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92M3BMcFZfcm9McUJKVUxzN3lEelNuWlNidEFiTXBFaDBoZ2loTWJfZzdaVkRna192TEVGZ25mRzhoZnJvdldRbnJFQXBFR3d4M0hMZTRnczFSc2JSWmc?oc=5",
+   "published": "Fri, 28 Aug 2026 22:40:00 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "幽霊？沖縄旅行中、観光施設で「半袖短パン姿の男性」がトイレに入る姿を目撃 そのあとに入ったら「姿がどこにも見当たらない」 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SS2l6cTdsNDNTY1AxMl8wdFptN3dTbFhrSzljZTBNMDFaNnZFQXppMHNKNlBxSllHOGhhbV9hV1dQbU1tT2hCOXQ3R3ZMRHBwWG5SWmFJak1qcG5NcFJNbFlJMzc3TWo4Nm80eHZzNnJuRzd6SUhUQw?oc=5",
+   "published": "Fri, 28 Aug 2026 22:32:15 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［社説］［9・13 知事選］経済・暮らし 物価高克服の具体策を（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Oc2xhaWZiOFNRdEo2SnE4cGh0R2xLdktNNjJvdmhEckhLMERLYVZ3RU83UDhPTFhxcFRyRGRXa09yd3QwT2RBTmVoOGlfQ2Jzald0cGNfc004U2lRcTZuRGhtOUxtcjRXM3VzZ3h2MzRXSUgzbFlvTDVqbFhRdVE?oc=5",
+   "published": "Fri, 28 Aug 2026 22:05:48 GMT",
+   "score_parts": {
+    "recency": 0.899,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "幽霊？沖縄旅行中、観光施設で「半袖短パン姿の男性」がトイレに入る姿を目撃 そのあとに入ったら「姿がどこにも見当たらない」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mcVpsWnB3cmlTZnQweFVoZW8yM3FTeUtORDVkcWt1dU5ERURMWXNIOGZ0ckpJUFVhZENsV0gwWjNVOE02WWRwS21kbjh0OWlWWjNlVzl1cW9CbzBkY3c?oc=5",
+   "published": "Fri, 28 Aug 2026 21:00:40 GMT",
+   "score_parts": {
+    "recency": 0.876,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ネパール死者550人超 不明5邦人 「ヤマモト」姓 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSUg0ZGZuYTRxNWpraUZqcGlkRU9HNXViWHdOUHJka1lRdHdoLVg4Mm9IOW81c05yMnFMaVFJTm8xRXdGZEFVa05ZRnVtQUIyOWx0QXRCS011eWF2NHc?oc=5",
+   "published": "Fri, 28 Aug 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［ひと粋］FMやんばるを卒業 池田麻里子さん（46） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5WEYwcXkwZ0NGV3AxSS04SVBzU1lubmV4Rl9jUlg5b0dKeERHcmNHcGZpWmM1clBwZllxU1BPT3JUV1dXQkNKNm9jbTJabWtxb1h5Ry1ZMWVtNEhWOHc?oc=5",
+   "published": "Fri, 28 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  }
+ ]
+}
