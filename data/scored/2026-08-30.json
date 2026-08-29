@@ -1,0 +1,239 @@
+{
+ "date": "2026-08-30",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 214,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "Tcab（ティーキャブ）、8言語対応、110カ国のパスポートに対応した24時間365日出発可能なレンタカーを福岡・沖縄で提供開始 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Tbm5DaHVjeGhUT2dVVjVHQXI2NFd1NGk5TGd5MXY5eUsyV3JMOE0xWjRsM1VHQjlpaUtsdjVIWnNxampDLVozMDVQQlRuZC1oTHlPMDBQZXJUb2w2MEZLc1BR?oc=5",
+   "published": "Sat, 29 Aug 2026 15:49:30 GMT",
+   "score_parts": {
+    "recency": 0.852,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.656
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "Tcab（ティーキャブ）、8言語対応、110カ国のパスポートに対応した24時間365日出発可能なレンタカーを福岡・沖縄で提供開始 - Newscast.jp",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BY3RDMGY4Y1FyQ04zYzBMdTBzRmRGRTM4b3dTVlQycVk1WjZLemF6NFJzbnUyeVhrdTBUSWR4N2VuY3ZYc0ZN?oc=5",
+   "published": "Sat, 29 Aug 2026 13:55:00 GMT",
+   "score_parts": {
+    "recency": 0.812,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "＜画像2 / 20＞沖縄美ら海水族館が4年連続1位に！行ってよかった動物園＆水族館トップ20を発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vS1gtRllxcEZJdW94WFFTVzQ0YlplNjJyVkdWMzgxRlZNNzctZm1xZ0U1bzU2bjhTOHdEelJiNnZSclBWR1M4YV9QUWRjZVZLMTd4bkpHZXB6VFNHTnVURWM1Yi1Ja0JS?oc=5",
+   "published": "Sat, 29 Aug 2026 18:58:47 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "子が描く平和 巨大絵本に沖縄平和賞イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RM2NzUG9MRjlNemRBQ09rTE5ndDhzQVZrdzNJd3F5Q2VBekMtZXJDZ0Z0bWR1ZXNhdUx2dE0yRlBORzREeVdGM0VvOEdnMUpKY3VIbzdReW1JT25pSUE?oc=5",
+   "published": "Sat, 29 Aug 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "新基地建設反対 市民運動考える 名護でトークイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1aDJySVU0SHc4M21BM0RqMEs0Q095LWxDa0QtOHlIM2JrMzZYVDMwMmFHaGQ2VjJVLXV3RVk0akNnR3ctcDNBVjZWNFFWQ2Y1cEVJcFZncDdHMmtUQUE?oc=5",
+   "published": "Sat, 29 Aug 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：子が描く平和 巨大絵本に沖縄平和賞イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUjkwRFdHU2VPc2w0amJsWXJxaFlJSHExWnBxTUoxMk9KYVFjbm1WbGRFQ2VXb293eHAtMm1PaF85d1gyTzF6RXp3WGxKQjRjS0NQNG5VVFY1TmJuZDktdlVhXzJfdw?oc=5",
+   "published": "Sat, 29 Aug 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 20＞大型イベントが盛りだくさん！沖縄で｢観光月間｣PRイベント開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GM2dCLXl3TFo5T3kwZ0FMU2RIYS1feGhDOEVsd19hNFV6Njg5SmhkZlpuQmFYVDBjUjBUem5tN0VPZ05hdHgteWVCeGp5aW5yU1NQNnJWcEE5SUFrd29zZzlwVmdPY2xE?oc=5",
+   "published": "Sat, 29 Aug 2026 16:10:43 GMT",
+   "score_parts": {
+    "recency": 0.86,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "41歳で妊娠の女子ゴルファー ふっくらワンピース姿！イケメン選手の年下夫と2ショット「沖縄旅行」順調そうな佐伯三貴 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZmVjYi1GMkViZVV1OHYyWVVHRlU4LUNTRTgya0lwVHQtbEYzRjM3b2dJY0k5ZEs1emxIVFJFUVprUERtWUdNNzJXZDZPOUczc3JyYk5hSFc0YXVMdExKMUJwNTlOQUdrdUoyd2l5Y0xnX3hta2doamIwRFg0UDQ?oc=5",
+   "published": "Sat, 29 Aug 2026 21:58:51 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "４１歳で妊娠の女子ゴルファー　ふっくらワンピース姿！イケメン選手の年下夫と２ショット「沖縄旅行」順調そうな佐伯三貴 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XR2FRQUlRUEhlLVlzTV9xc29qNkNVZkltTUhvTEVGN2dJNHVDNDQ4VXRfTmpGbVJfNTF2MDVSSVlpS2h5aHVvTWdxajJkYzRQa3g5OFBsX0kwSWRxYlo3MVVQUGlrZHQ0c1BWbTdnSkVKVk440gF0QVVfeXFMT1dHYVFBSVFQSGUtWXNNX3Fzb2o2Q1VmSW1NSG9MRUY3Z0k0dUM0NDhVdF9OakZtUl81MXYwNVJJWWlLaHlodW9NZ3FqMmRjNFBreDk4UGxfSTBJZHFiWjcxVVBQaWtkdDRzUFZtN2dKRUpWTjg?oc=5",
+   "published": "Sat, 29 Aug 2026 21:36:00 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "漫画 | 沖縄社員旅行で｢レンタカーに\"軽\"｣選んだ若手社員のまさかの\"言い分\" 名機『オプティ エアロダウンビークス』が凄かった - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZS1FVeWd0Mm4wQ0RyR1V6TkFLN3dHMHc0YW1wQ2ZWTFd6RFNvNXFtc2R0bS14VzZTT2ROWV8wSnJfSlVoRm1sQmd5azE0WXZuTERYSFdhOA?oc=5",
+   "published": "Sat, 29 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像1 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mcXdjWWNHOFJ3UTVCeEpXTFNHOGdDcEhncGZ5R21uMzN5MkVHTi1CYklZRExvb1B6Zlh2Y0xvTDNLQkNQVER4U1RpakRQdzl4bmdOdnhBZmN3T213aEY0cHdHaERhLWZCaU1fVTJR?oc=5",
+   "published": "Sat, 29 Aug 2026 20:59:03 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄と日の丸 国旗損壊罪を考える - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UGRtSmhNQmttV3FkZGM4Mi1kb1ZoUmE1M1dRQ2tBMzNFLXlVLUdXdDBweEVRWDJ2aHZEcUFZR2kxZkxPOURIejJGU0xUWTZjZVJycEJwbE1ldw?oc=5",
+   "published": "Sat, 29 Aug 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "伊勢・二見町のプライベートビーチで「伊勢志摩×沖縄」文化交流イベント（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10aE1uUEFqMUxyby1OZFZHUkV6ZXhoSlhaQ2k3UHBsdzRKZ3RsWjZKRWFzM0RweV9fWW8yRDBUODJDdjNrc2YtWGxtS040WEl6ZWxpdnVVWWl0MFRGQ010dGlHbkc3N1JkLU9fUU1BMnRpbTkwdzZ2dXJQV3JPYnM?oc=5",
+   "published": "Sat, 29 Aug 2026 11:23:29 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「旅荘 海の蝶」「グランオーシャン伊勢志摩」のプライベートビーチで伊勢志摩×沖縄」文化交流イベント - 伊勢志摩経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Hb0lTZHd2eTZ5d3FxZXlhcGpCX3QtYXgxSHBTZVhpZHVBMHpHU1NHMm4yd2k0ZnFhS0lOVHlleUpsVEx6eUx1WUZqdlkyeThqcEU4ejhmYS0?oc=5",
+   "published": "Sat, 29 Aug 2026 11:25:44 GMT",
+   "score_parts": {
+    "recency": 0.761,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "伊勢・二見町のプライベートビーチで「伊勢志摩×沖縄」文化交流イベント (みんなの経済新聞ネットワーク) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOanp5NTFjWTV2RjVJalJpdmNSQzlPMGU2WkZTOTY5bF9Wc1U3bnFIRkF4OGJ1TndIa1NwTXB2SFVDQUd4c3Jkam0weTNZaExNZER2cnhWSnh4N1ZkeXJmUEVFdzR0emlxYmlDWkpoWVNNWnFNVE03MVIyX1ZGLWJQU05GdkZ4UmxfdWtFLUZB?oc=5",
+   "published": "Sat, 29 Aug 2026 11:23:29 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  }
+ ]
+}
