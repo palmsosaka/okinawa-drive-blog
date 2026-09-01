@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-01",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 201,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "好みのパーツで沖縄の海を閉じ込める「美ら海ドーム」を製作！沖縄プリンスホテル オーシャンビューぎのわん「イルミネーション美ら海ドーム＆オルゴール製作」 - TRILL",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwNDBMelRueGZaNXByaEZGaXAzLWNRU1F2TWhPVVNJNFA4R0ZPYzFBaDdRUnNyV0FwRGRFZjl6aUw3MkdtSy1wR1ZVbW9TdUk?oc=5",
+   "published": "Mon, 31 Aug 2026 18:20:00 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.663
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "酒気帯び運転で大型バイクが車に接触、衝突した歩行者2人もケガ 沖縄市 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9peG9zQ1VIdzBXRWxLOWxoRWU5M1c2bURxR0VnWTB5dHpuamdwVG5kS1gya2E4ZC15ekxBODFsNzFFaEk3bzRmTnNtcTAyTGdqVjZlQzBqN0FaUQ?oc=5",
+   "published": "Mon, 31 Aug 2026 11:12:00 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "好みのパーツで沖縄の海を閉じ込める「美ら海ドーム」を製作！沖縄プリンスホテル オーシャンビューぎのわん「イルミネーション美ら海ドーム＆オルゴール製作」 - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QcF8yRDVFT2xJR0RYbDZHdUloTks4cFdNQ2pXc1hnSWc5M0lCWU1QR0dZRE5CRkVETHIwOU0xTnM3dWxuY0E?oc=5",
+   "published": "Mon, 31 Aug 2026 09:16:20 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "7月の沖縄県内景況「拡大」維持 りゅうぎん総研・おきぎん経研【2026年7月の各指標】 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FXzIxaEFMUFdOeGdnN2ZKcmlsYld2TmpsLWZkMWs1S29KaTdZYWJLelMwc1ZMZXpFTm9RR19WQUxGNVprMFpiUUtZY3J2UXpxMHRNN1ZTNUFJTXAyZ1E?oc=5",
+   "published": "Mon, 31 Aug 2026 23:51:00 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［沖縄days］「ウチナー弁当」に熱い視線　那覇市鏡水 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2daVXZrUVo4Y2ZFNnRuQnVxSHBua0tZZHBoNTZlcm5Xc29McWpLYzVqZk15dXNwRVhMZUZ0LUtVQUJqcnZmUFI1NktJWV9wMGdCSzRrVTVEanBqeXMwcktuakI5dDM2RGhhb1BvS2xOekFzT1lDUjdoUjljTnVIc3JKc9IBiAFBVV95cUxPa3NzVjdMbVBwM3I3VVB5QlhXaGFRSlpEbUgyNDFrX0hNY0ppZWxGVnlSb09UelExUjVFQW5oOGVlT2s0TFlkWGttWXNCQmtfUDhzQzBrR2w0eHRIdTJDSEFpUXVWQlBLWk1zMWRjS19DT3VwQ0ZtaExxazhmc3p3bE0xYmVMa0hZ?oc=5",
+   "published": "Mon, 31 Aug 2026 23:04:53 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【2026年9月】沖縄のライブハウスイベント｜地獄車ミニライブ＆トークショー｜Solunaリリースライブ｜津波信一芸歴35周年 （9月1日時点） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94N2s5aGpuLXhSUzJpNDFmOW00RGNpT3UxRzF3TDdfVVFnUDB2M0Z2Qm9JSGZSTWlZcHA5UWVrWjhvc3FwdmdQSWtDd2RMWmp4dVhSQjZrUjVPTGtTS0E?oc=5",
+   "published": "Mon, 31 Aug 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.809,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：【2026年9月】沖縄のライブハウスイベント｜地獄車ミニライブ＆トークショー｜Solunaリリースライブ｜津波信一芸歴35周年 （9月1日時点） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ONEdiMXk1Rk5mYXVDcXhrVXozU1JUeG9NOXlZUjBfek9md1Z3M1pMNU8zWUxoakxPUjYzdGs4SHNLbmpYOHpBS0hDd1prYkxjSEhlMVNiT29kMG5rV0lzR0ZVQndSUQ?oc=5",
+   "published": "Mon, 31 Aug 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.809,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "フォトギャラリー5枚目 開業１年のジャングリア沖縄を現地取材…来場者半減、暑さ対策の限界と「乗れない」真夏の厳しい実態 - FRIDAYデジタル",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sTE0xaEtJVWppTUFzZFFfcGNhY3ZrR2liN2NfRkR1TVc4WGltNXpPbUNHSzNxTlJkbmNtOW5tS2FKTFR1WlN1R29tMTVHb0pfSHZuMy1CeEFfMXZLbERZMlhSU2oySTFSQVdR?oc=5",
+   "published": "Mon, 31 Aug 2026 06:49:57 GMT",
+   "score_parts": {
+    "recency": 0.639,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「3つしか乗れなかった」開業1年のジャングリア沖縄…待ち時間改善の裏で残る運休と地元との深い溝 (FRIDAY) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG85TV9SOUl6LUpFVEJpUlp4c1BVZjhrZDVNMnE3UHJoRElvelFRSi1yR1pNSzNZbk1ZRHdKc29idEh0Q0w2NUE5eW9hRHpKZGIzNFdvX0YzR3lQc1lzVi1Pa2ZhZlVuQmxhSGNjN240Z1V0SDBGLWNIOHd4X0d4SDI3NHVCQ1NneExabjVn?oc=5",
+   "published": "Mon, 31 Aug 2026 06:00:43 GMT",
+   "score_parts": {
+    "recency": 0.621,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「3つしか乗れなかった」開業1年のジャングリア沖縄…待ち時間改善の裏で残る運休と地元との深い溝（FRIDAY） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jaTVuLTRJY19Hd2RHbzloSHkwZF9XR1lGTFhMSFdIa0NtdkRJWGxZdmgxQzE1VHQ5UmZ4YTFZM0pRYm9LTVByU1F0V0pZSzlQbVpiUGdEa09rSFdFQV9yT1JBcDF4MmJoVHUxX3RwU180TWl6ZmxmZlJtUS1YbE0?oc=5",
+   "published": "Mon, 31 Aug 2026 06:00:43 GMT",
+   "score_parts": {
+    "recency": 0.621,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "［社説］沖縄予算2897億円要求　知事選でも振興議論を - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOelNJRDdEdnF5alVkMW8xUWlEQ0VRWGZIVkpjRExYSGlSSHFFZG9tNHVkVl8zbUF5VkZoVDdtc2tkd29tdTdNc3BLMko1WDVaQkoyaGlaR3pESnRrekZQeWRuTEVibW1HNnEyTlRqdlZHalZuVzBBMWRuOEN5bm5DdTNGenVKeVhBSnY1RdIBiAFBVV95cUxNb0VJYUpJVUJpQmNTcWlMbzFLLVg3WmVsaVB6VTgzTy12UWpMZ2FpR1lNSjBvR1ZMa0FLYlZINzVmd3d1cGJXbW94SWlFd0haOVJGa3dJS29SNFE2Z2c5bDE5SjFmQnhGMUtWbVhnWVRNTVp1UXpveVNWeTR2d2ZHdTFKOGNMVkpL?oc=5",
+   "published": "Mon, 31 Aug 2026 21:07:44 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「慰霊の日」特集を評価 沖縄タイムスと読者委員会 普天間飛行場の報道に意見も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xQU1qZExHVlFiRVRaZ0h5NWQtSXhmRXAyOVVoY2dvUVpRUm1OLWllSmdVZ3FEdVZ3U0ZqQmpqVkM2NXFEZWtsaVJHUWZwcURxV0VDZVF0dFNaR0dBblE?oc=5",
+   "published": "Mon, 31 Aug 2026 20:01:00 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「慰霊の日」特集を評価 沖縄タイムスと読者委員会 普天間飛行場の報道に意見も - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hd09WWXZMem1jSDNnWFllcng3QVA5dWZYOEpzc1hNOV93N29TRXFWYjhBWHh4MmtiWW80NVltMm51cTFNcGc2bWdWdw?oc=5",
+   "published": "Mon, 31 Aug 2026 20:01:00 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "交際相手の首をベルトで締めた疑い、殺人未遂容疑で観光客の男逮捕 那覇・沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Db2lWUkVCQklodzQzOE5WVERlVGZ6RTRIbWl3MHhxb1h0U3Nveno4N3hRbGVyTjFUSTJ1MDR1N05iOEpSTmxFMzJIdEtybUVTNHZ1R1pCTlZwcUhBTVNEdw?oc=5",
+   "published": "Mon, 31 Aug 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宮沢さん「粟国島大好き」 観光大使 大工さんから継ぐ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Z0ZOZk1YR2p6Mk5UU1g4V2paTHpsaktzRmJBNDUtajRPWGVGMGQ0NXViQ2pIdVZXUVNHYllkaHpmdVpnSnZEWDhiYWtseEhFUXgxNW8ySjRCV3Z2OFE?oc=5",
+   "published": "Mon, 31 Aug 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.892,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  }
+ ]
+}
