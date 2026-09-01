@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-02",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 214,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港での自衛隊戦闘機トラブルに意見書と抗議決議 那覇市議会で全会一致 - OTV 沖縄テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVMUhoeDdveVk3Z0JaNWJIOVpUcGxhWHY1eXJNNGFldFZVRzEtWHpxSWxSYU9YMzd2d2Q3aDFsVE9OTUdFcXh4aVVjOFpjVkxBLWRMajlEWUoxNlVmakFieC01YWlJWW0zRExv?oc=5",
+   "published": "Tue, 01 Sep 2026 11:31:43 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港での自衛隊戦闘機トラブルに意見書と抗議決議 那覇市議会で全会一致（沖縄テレビOTV） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IamEzY2FGblVDbGxuWnZScUp6VDZZVVU2eFFjTUZwR2ZLaGVsZGJOWXNDbzV4NldDWDZzM25iLWNVc2c5eUQ0Z2tsTlVmUjVsS3RSUjU5Tld2SC05VVNKS3gtSHo3Z0dicENlaWFjT2ZfWkpBejZ5TW44d1dBNTQ?oc=5",
+   "published": "Tue, 01 Sep 2026 10:15:01 GMT",
+   "score_parts": {
+    "recency": 0.737,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍が岩国空港の滑走路閉鎖 那覇空港発のANA便が欠航 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02bFg1NUJKWTlqR3c0WnRXQVhNVlJ6alg4ZExyN1pCQy1ZUjVzZDJQMXpmUmFLTUVFdDlMMG5kbUZJQ1Q3N2QxWGRFdXFkeE4zMURiTW5XcVNSSWc?oc=5",
+   "published": "Tue, 01 Sep 2026 06:43:40 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍が岩国空港の滑走路閉鎖 那覇空港発のANA便が欠航 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PTXFFeU1nMVhEanBDbEVsbVVBVkRJVzdfVkx4Y3M2NUZyazRzNzJJcTdKNy1LdUtQd1NfcEhRUnV2TEg3alJMUHYyNA?oc=5",
+   "published": "Tue, 01 Sep 2026 06:43:40 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄県内の「観光収入」１兆７４７億円で初の１兆円超え - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4U3V2X3JGUXRJZE9HQzZUbEhwOHJHQjRzRUZiSWJCWmRjUDVSeU4wbG9PbG5EU3ZjNnQwYXMyYVd0QkZoVndReWlPc3ozcmhRYl9rSnZuZGk?oc=5",
+   "published": "Tue, 01 Sep 2026 20:08:00 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "琉球フォーラム ９日に９月例会 沖縄観光の現状、インバウンド、そして沖縄の未来は 鳥海 高太朗氏（航空・旅行アナリスト） - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1naDVNdmQ2UllFYW9faVQtTmRGY0pwU0hKNVIzX0VpTW90TVh5VlZqTjVBQmh4ekQ5MUk1NXpONndOc0VXQnNRWkF5amJ0QnAwRE5aR1dtbGxJSDIyMmx1RA?oc=5",
+   "published": "Tue, 01 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光地経営戦略会議が発足 使途事業、石垣市が基本方針 基盤強化20％、重点施策80％ 宿泊税 - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBma2twNFNWU3R6cDJOVXRKNnJxcW9uTEk2alJ1MEc0Slh2djVWLTZGempiSy03WXkzaUJUQnhpcW5VM1FHMFdZODRBSzdMRjk0blkzWmgxVmU?oc=5",
+   "published": "Tue, 01 Sep 2026 20:00:48 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "写真：観光客2．0％減見通し 県内8～10月 台風で伸び悩み - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NLWlYdW9hVmxFRmdEVmpxT0g5T3VsbHVqV0JXbU9fSWtrOGR6aTJKc0E4ekEyMW1ZLVFITXNRMDZTR0hsanFoWWlBZzBXOWR3X0ZnZXlvY3RFaGFaVThVV2lDNmJYdw?oc=5",
+   "published": "Tue, 01 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像11 / 20＞沖縄女子の素人モデルが写真集とカレンダーで子ども医療支援 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tUld4bmo3R2FnczBUQk5hMnNUVVdqYkRkQTg3WkJabjVlbm9wWG1TMkIwSDJIYVUtRjFtZHpidmtwby1RMlo1MG9QTllHNmFPZzcyUE1YR0lnaDNXSHlqcGtQd0gtMVZT?oc=5",
+   "published": "Tue, 01 Sep 2026 17:23:03 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【速報】沖縄・北谷町のホテル火災 米国籍の男を放火・殺人未遂容疑で逮捕 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LZHhPM2tlWXdScGN3X2FJTURDaWhjUHlGSnFxMWM1cm5EZTVKdTZJd2VmV1BiaVQxaUN0MkdGUFNFTzdSUHBwdlhnRmpBZ202eng4Ul9oZ0dzZTZlMmc?oc=5",
+   "published": "Tue, 01 Sep 2026 08:55:00 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【速報】沖縄・北谷町のホテル火災 米国籍の男を放火・殺人未遂容疑で逮捕 - excite.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mX0ttZzIzeTBfalRCUURUeDZfbUptSHhqdjNDZVFZSVhhWWJ0TW5CTVR0UW9PVXdhaWV3ZzN5dTlZbnk2Z1B2a2VJeG9tWFFWVTQ5aHBoZUhILU9sdDkzV3hOVlQ5TUw4U1E?oc=5",
+   "published": "Tue, 01 Sep 2026 08:55:00 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像1 / 9＞北川景子がシーサーに!? 沖縄ではしゃぐ北川景子の新CM完成 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNjlBbzZvNk4zdk5WdVFjUFZCZjZabDZ1a0p4T1p2WVRUZkhhSDNzdjhyVUdGMTRBVFZuOWlVeGJWMXlKaXJmQm1GQkg1d0F4TU02QkE3N19IbklIaVhTVzVQZTRBY3c?oc=5",
+   "published": "Tue, 01 Sep 2026 15:18:09 GMT",
+   "score_parts": {
+    "recency": 0.842,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "霞ヶ関キャピタルが沖縄県恩納村でホテル開発用地を取得 - ニュースメディアVOIX",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MTUdjNm9uZWVsWHZ4TTh1T3o1RnlkZC1EdUdreHhXcHJ5RnNHZDhXYUxqUGMwdXRrb01uSnJZel8tMGJ5aXVLUXdwbmswRlMzanpz?oc=5",
+   "published": "Tue, 01 Sep 2026 07:07:51 GMT",
+   "score_parts": {
+    "recency": 0.672,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄旅行 おすすめ】台風８号接近と緊急事態宣言！那覇市内の状況【沖縄観光】 Co Op Live (GlgyKBBv7z) - Mshale",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCZmIxVlpzX2hoa2tiU3MwWnBmUVlMdkZPUElrTXY2RGxTUzIyT3NyNXlFN29mU2FaTkR1ck9MTFVXSGxvcDhETjE1OWVpNkEzcGN3MWg3QU42Q3c?oc=5",
+   "published": "Tue, 01 Sep 2026 13:21:57 GMT",
+   "score_parts": {
+    "recency": 0.801,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.54
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像7 / 7＞SNS映え間違いなし！沖縄・ホテル日航アリビラが光と幸せに包まれるラグジュアリーリゾートに - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56b2Y2LUc0VWRZUEVHT1EzbV9pRkp1YkY0a0UwU1BEbmREbGNyd2hUTzZQUUF3cnVob3VjRlJJYmRjdzV5UWtnb3FZSWJ5MklFVVRhdnAtMzJFTkVXdFJONUlLQXdtMEVmY01MelZKM0N3ZUZ0MnJiMHVYSQ?oc=5",
+   "published": "Tue, 01 Sep 2026 04:13:10 GMT",
+   "score_parts": {
+    "recency": 0.611,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.533
+  }
+ ]
+}
