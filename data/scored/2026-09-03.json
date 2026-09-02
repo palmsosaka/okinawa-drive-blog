@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-03",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 209,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【9月26日・27日】記念日に行きたい「沖縄旅」イベント、大阪のカフェで無料開催 三線ライブ・撮影会・高級ホテル宿泊券のプレゼントも！ - Lmaga.jp",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuel9vLTJZTWQ5S3dKS0VDN3dCQXZZdjU0RGxDYlZQX1ZYbzlwMnF4OUxUaXFlYThrQWxfM3FORFZCVVZzbDdDcjg3VWlzY1kwREludQ?oc=5",
+   "published": "Wed, 02 Sep 2026 22:00:29 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊税の活用巡りでフォーラム データ共有など提言 - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nYjRISlo1ZU8ya0syaUFrbFZvM3RrQkRQLVBDN1JlOE0wZDRTT1RYbHM4WmZudjdqMng1d1ZDeVpQRTZ1UzUzaEZPTU1sbU5QSDNQU2tkb1o?oc=5",
+   "published": "Wed, 02 Sep 2026 20:00:49 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ホテル放火殺人未遂の疑い“沖縄旅行中”米国籍の男を逮捕 最新の社会ニュース【随時更新】 - ABEMA",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBWmlIZ0NHNXdYbzFhSlZoSGlPVVpobXZjWWpZWXgtRnFOeUxsejNaMHNWMVFGRlpncFNOaXdtdWhjNzdQbXhRY01wdmF2VEJHNUI1Rjk4aVJCNjA?oc=5",
+   "published": "Wed, 02 Sep 2026 11:25:55 GMT",
+   "score_parts": {
+    "recency": 0.761,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ホテル放火殺人未遂の疑い“沖縄旅行中”米国籍の男を逮捕 - テレ朝NEWS",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHbzVCQmdxUnpGMUFPbl80dGJJTWNoSjMxV0Iwb09iVTdiRUpyaFdjZUdVRzZJLWJ6VmdUWHdLSS1fYlJnU0t1a3pIaVI2MFI3SGZWQW5pV0ZvemlsRE5Cdl9uZjVmT2RqWXNtWDIwcDk1QQ?oc=5",
+   "published": "Wed, 02 Sep 2026 11:05:00 GMT",
+   "score_parts": {
+    "recency": 0.754,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "南城―那覇空港間の利便性向上 リムジンバスが実証運行 - ryukyushimpo.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zaTYtcXRKQWFUN2FtWURnVGlPbUZQcFNIS3M4bHJwNDd4Mmw5WE9OOFZsWFB1amZEdnNaS25lZmRRZ1VFMUw5R2V2SHdEOHNGblJXNFNFNnRCQTRwMmc?oc=5",
+   "published": "Wed, 02 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "旅行先の沖縄でホテルに放火か、米国籍の男を再逮捕 男性客が一酸化炭素中毒などの重傷 - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsUEo2VWFBU0xGMzcxZDAwR3NZQUpqQkU5V19LcEhqaXZURkgxbWJDeEh2eWNTU3d6d3hDajNGYjJJLWtJTFdWVC05ZnI3ZHl4MktSdFpxTGNnZHFUbFA1SVNWWjd2TGFMX3FsZHdNVlh5MFNnUFE?oc=5",
+   "published": "Wed, 02 Sep 2026 07:13:26 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【BEB5沖縄瀬良垣】沖縄の伝統工芸「紅型」を身近に、カジュアルに楽しむ冬のイベント「紅型チルナイト」初開催 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pd2lZelhlandsNWlIT3pDNC00VmRSZ2s1ZnZ1dktCV3k0MUZSbGgtWGc2N2p5Nk5lQ1lFVVZnUVNBZFJ1VU1UM1pEOFBxU05YbEVUaUVVNjZzRmZtcFZfWGFXR1pXQkhPaGc?oc=5",
+   "published": "Wed, 02 Sep 2026 04:00:01 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.532
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "アールグレイ香る黒糖スイーツが沖縄で新登場！セブン‐イレブン・沖縄「アールグレイ香る生ドーナツ（黒糖ホイップ）』と、より滑らかな口どけにリニューアルした『黒糖ラテプリン」 - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2ZUc3OWFobkVtQmR5SEZZMHpDWjhTY0NrR2RXLUtPNkRIVmdYUVdGQmdsSEM3WTZMZjVFY09HWGI0VVQ2ekE?oc=5",
+   "published": "Wed, 02 Sep 2026 10:43:16 GMT",
+   "score_parts": {
+    "recency": 0.746,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.524
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像10 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPNHRfbzJ6QmdnYmk3anI1b1hmQ3F5dlhOMnp0SHI3WHpOWFl5akN3R1p4U0VLOXJXSUdvZlNwTU52d3NkNzZwajB0SUFVVVFwQW84Rm1tRmstS3NuZUV5UXl0X1YycEhtUk9adlNB?oc=5",
+   "published": "Wed, 02 Sep 2026 09:57:54 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.519
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 3＞沖縄ポッカのさんぴん茶が期間限定でMONGOL800コラボバージョンに！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uM2FrYkdWelZ6T3NiNV8xcWlwRHQ3VDRlcVN5ZUxGTm4tdm0waWdVN3dzNWVkUkFFY01FVXFtalRxMW4xNTFrT1NTU0NybC1HbFJtMmVWLUlJU244MWloMmRWSHZjS0V4?oc=5",
+   "published": "Wed, 02 Sep 2026 08:25:15 GMT",
+   "score_parts": {
+    "recency": 0.698,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.509
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像11 / 28＞【大阪観光】民謡酒場にチャンプルーも！本場グルメがひしめく大正・リトル沖縄 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03OG9OUllJbm5xcDFBRHlUYkJkRE5FTWcteGZQMW1pQmhxbndIZ0hYM1ZyQ1lEdjNSemhyTE5KbEphaVpxRU15VjJtZ3pvZzVsdkxobEY3SlZ4T3hWM1M5R2NaYVI2MEZsam1XRUhkZ3hld1VUMlN5MWZfTQ?oc=5",
+   "published": "Wed, 02 Sep 2026 08:15:32 GMT",
+   "score_parts": {
+    "recency": 0.695,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.508
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像11 / 20＞沖縄最大の“エイサー”祭りに、史上最多33万人が来場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZRlJMcjV0TmJDMmZoYjlESWFwYTRlam8wR3kyMU0xdjlldDJvZkw2Sjd6aF9UcjNsODFtSGhNMk5hRjdqTVVuSmg5Q0pIVGJ5ZFB5OWRDMVVxdDFtVzhnT1hZSDdBbDlB?oc=5",
+   "published": "Wed, 02 Sep 2026 08:03:41 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.507
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "コロナビールが沖縄と東京で仕掛けるリゾートラウンジ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jNjZEa1hQbXdPTDF3RVJwWGQxekkxVENtWWV2UW4tTmRVYWtQaGVheUR6bV91cnJyem42S0NZcnlxclI5RWJtRHZVSVBjT3F6VWFPal9PX1RESHJ0aHJRQTF5U2bSAWpBVV95cUxPQnNKaGpmTE56VlRRNWFfNy1ON2JXQ21fSGd0aTdQRFk4Z0puZ2NvUmdKaDRmRzY3aHVUUjB5Q1lDLWtyZUo0NnJqRGJzMHM4OER3alM3QWZpbWtmV2x5ZDNqY2FUTi0tUndB?oc=5",
+   "published": "Wed, 02 Sep 2026 07:43:35 GMT",
+   "score_parts": {
+    "recency": 0.684,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.505
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄・北谷町で19人宿泊の施設に放火し宿泊者殺そうと…アメリカ国籍の旅行者（32）逮捕 50代男性が一時意識不明 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41ZVdQMVpla1ZoMm9RTFRfTW1IeUZVUHh6T1ZnV3YzZGJDcmxZbTd5TlhLRGY2dFFuZjdZdUVDd3JmWmZQVG5qS25iZS11YVY1eGJBRTd5TFY4clNOZFlv?oc=5",
+   "published": "Wed, 02 Sep 2026 07:20:15 GMT",
+   "score_parts": {
+    "recency": 0.676,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.503
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄の美食＆手仕事を求めて。新生リゾートで見つけた美しき琉球カルチャー｜エディターズOKINI - ELLE",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckVfcHJOZ0ZDOEhCcEdvWjlybzJpVkZEUC02MENmYXBaWTZZQzdpaUNCeU9pSUItYUI0dzBCOFJWaWJqcW9YaTFNR1BkYjNqUlVvcEw4YkdUYTUwRnRlUjJUQ3lfSzB0Wjhka18xcGpUbzNrMG1MamlRLXdyZGRQckVqMFV4LVk1V3c?oc=5",
+   "published": "Wed, 02 Sep 2026 07:01:25 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.501
+  }
+ ]
+}
