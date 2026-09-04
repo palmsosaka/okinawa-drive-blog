@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-05",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 216,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像15 / 36＞【ジャングリア沖縄の最新攻略法】混雑＆待ち時間に変化！暑さ対策は？開業から1年、進化した姿の最新レポ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VS0N3ZkdOZjFHT1RiWUJYQXRaZXVhTUM5dU5pNHJBZzN0YlV5ZUVpY3ZjanF2UFdSQWpLbXNDZjZmbVVHblctOUNxNVlyOGV1QkxpMkhOdTRnX2EwYjl1b1BhWjhKM0Q5ZG0wQ0V3?oc=5",
+   "published": "Fri, 04 Sep 2026 12:57:06 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 2027年1月から月曜日が休業に（沖縄テレビOTV） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIWU8wSE1Ja3Z5amhVcms1M1dOV2lvOFdMOVB1eEFFQXdaVlhqUWVxN3hLRDZNNXJpd3ZINllrdDRXUFN0Y29TSGQwOC1Dc0Y4czdlY0hycE5wa3hLMWVsUGIwWFM4NmduMlBBem5Lc2VkWlFzVllaak9GbWxUZ0k?oc=5",
+   "published": "Fri, 04 Sep 2026 09:59:02 GMT",
+   "score_parts": {
+    "recency": 0.737,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ご当地グルメが大集合！お土産や銘菓を旅行気分で楽しむ 「行きたい観光地物産展〜北海道・京都・沖縄〜」 伊丹市 - Kiss PRESS(キッスプレス)",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43azd6eVNac09wcTdrdXBFWVN0V1JEcjJSNVR0NTdaRWcyQm53VFpLazVzNEdTNWd5QVE4eDNXbjVfWWhCRVNaTw?oc=5",
+   "published": "Fri, 04 Sep 2026 21:14:00 GMT",
+   "score_parts": {
+    "recency": 0.971,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄の振興 自立度上げる施策を重ねたい - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yNFFhbV9rMFptb2pJamF6OTAtYS1ueHlNMFNycFBqOGtOTkhHckJqU3hUSXI5emhnekpobDBwZmFCaDJEd1l3SGMtMTMxeUdkS0l3NWNlSExaZEp0WE5Z?oc=5",
+   "published": "Fri, 04 Sep 2026 21:05:24 GMT",
+   "score_parts": {
+    "recency": 0.968,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄の振興　自立度上げる施策を重ねたい - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRFFFLXZ0Y1JHSF9JME1xZmlyT2RPRmhJQUFPanBuY0EyYTdtOEthSnJvMmNhUDFTYTlmRkV0em1IWWNoOFVoVEdaWm1aUlgtOWkxWGRoaEwtTXpobUFuRGlHNG16OTBlb2dGY2lFcDRkb29oOUltUmw4SEJzVUpDSUs3bDJtaWhZSnfSAYoBQVVfeXFMTURRRS12dGNSR0hfSTBNcWZpck9kT0ZoSUFBT2pwbmNBMmE3bThLYUpybzJjYVAxU2E5ZkZFdHptSFljaDhVaFRHWlptWlJYLTlpMVhkaGhMLU16aG1BbkRpRzRtejkwZW9nRmNpRXA0ZG9vaDlJbVJsOEhCc1VKQ0lLN2wybWloWUp3?oc=5",
+   "published": "Fri, 04 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "BEB5沖縄瀬良垣 by 星野リゾート、伝統工芸「紅型」をテーマにした冬のイベント「紅型チルナイト」開催 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zUHRaamZrejRsZFBFZmJnZEJIWnBsR2FDd0pTWXRfRDkxS2dJeWZxWXVsQk5Rc1NoNE9BWmZZR1VjYmU3U0QtTHcwUWdCOU1NTm4zdTFuam9raWZjeVRNTDloTVhERG10TU92QkJB?oc=5",
+   "published": "Fri, 04 Sep 2026 11:56:59 GMT",
+   "score_parts": {
+    "recency": 0.778,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、月曜定休に 2027年から保守点検やトレーニングで - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjdzJNV3VRcHdtUTFvYnNPM2RWMmhUSHZXODY2NklfOU80MDh3UkJpdzlEVlJyM09OX3o0ZlE3cWNrOGU3ZkU5WEFOMUQ4UUE2WEVKS3RFRmt5dVBOUkZmdEc0anBkbG5ETnJtag?oc=5",
+   "published": "Fri, 04 Sep 2026 03:44:10 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "［社説］［9・13 知事選］公共交通 渋滞解消への道筋示せ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GLWdJT2R5QUxfYzBpUVJzRkVSal9OeGZBQlh1N1d6TkFyOWpiWExGdlVXY3RMZERla3BPcEVPVmlTZEpERURWbTFFNFVuYUxtMHEwc3VMdFF6Wnk2WHc?oc=5",
+   "published": "Fri, 04 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "豊見城にBYD正規店開店 「AUTO沖縄」 年度内販売100台超目標 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BUG0welNmZWNLU2lub1lMLW5DdmhiaTYwUDUtdlVKeDNRSHJRTm5UZ0JXYklfWXFCb05ZZGE3WE5wVk55U0dkdEM4aWwzVXltcXdTQTExUWVQUWtRdFE?oc=5",
+   "published": "Fri, 04 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "大田氏が立候補表明 豊見城市長選 「大型事業見直す」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvT3NxR01fb0o4RWdrN0MyYkV4UXoteENJT0hHeE1sZGtoSC1odnJUTElQR2NyUkVOdzJuN3NXZk9zUWZVVGRrTEtBaVFIVHNHUzR0S09XZXpmR0V3aHc?oc=5",
+   "published": "Fri, 04 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "周辺3市町村と防災協定を締結 ジャングリア沖縄 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IRmRpMzlXVWN3cEhyMkRZUWR1NGlDVGRNZ0NielpIWGo0YXhOYlpWd0FPdExRUFExTjlzbDB1XzBRc2hEMmdEY0thMTVlSVNYaEc1Wk0xNDc0Qzlydmc?oc=5",
+   "published": "Fri, 04 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 3＞日本と中国の観光について考える大規模イベント「日中観光交流会議」が沖縄で開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54NXhoSWtpZGdJR3pmLUhheERCUjJKeG93OFJ5bkdHRjNjcVRldW5LLTFqWE5COHRjX214RGRsSHRFUnpZbEMzYlFCVnVxRWs5azA4VTBmTm1kN2c2LVh3enRSaXVNVTlx?oc=5",
+   "published": "Fri, 04 Sep 2026 10:50:17 GMT",
+   "score_parts": {
+    "recency": 0.754,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "《来年から月曜休業》ジャングリア沖縄はどうなるのか？ テーマパーク再建カリスマ・森岡毅「刀」に何が？ 不振＆相次ぐ幹部離脱の裏側を追う - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RSmpOcHZWUmNuT2lzSUMtcUN0Rjdvb0VEbWMtWnpTMGVSNTRmVG9uZnExSktFc0I5TVNWc3RtNXVTcFZOS0h2VnF3RQ?oc=5",
+   "published": "Thu, 03 Sep 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.508,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【我孫子市】北海道・京都・沖縄が一度に楽しめる！あびこショッピングプラザで「行きたい人気の観光地 物産展」が開催中 - abiko.goguynet.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pNGdNT2hsWDdxREtCMVh3UnlIUlU3RldWRE9iaFNlOUdqbm1sZkVUT0NXam9wSDhXZXIySlJvR2phczdkZXVlU3JjNUxJeDBydzNrXzJyV1BkajVM?oc=5",
+   "published": "Fri, 04 Sep 2026 14:30:35 GMT",
+   "score_parts": {
+    "recency": 0.831,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄で熱中症を補償する1日型傷害保険の案内を開始 - South65",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQd0E3Qjd5NWJkdHAxdU1FMnFnY25odjhIcWU0WTBzZGloNjJNSGpYMm4tVGFLWjQ5SVhzN1IxWnV3QWhfMDlnQXJTYlJMamMtYjUwZmRLVHIwejIxaHBhU2VOaEVrN1I3Z0d5Z3JJOFJ5dlJ0cVY4TnBMNjBpS21nVGExSk9aMWRoa0JXaFN3M0s0cXcxNDdlT2pscEVBenAyX2xKSnNXOXhOZ1pLWmtwZTFZNDVCaFlBeFBfWmRySi1pVlRlYmM2Ulo2bHdEYU1hUTBhV3hPY253SThUbU5lR3dyMzdKVUhiTTFNTmxVcmtYV0VXbVJacUVMZ1czb2Y0YklSem1RLWVCWjF4azJxU3hnel9qd3pRUzFST3hzalQ2UWhsWWJqdGR5U2dFN3c4Z21MZnhIeHJqWXd0UHpLV9IBxgJBVV95cUxNdExfa2ozVm0tMDdPY3JnaGw5RXNmUzUwR3VveFNtMzZkOERjZmRjeFlEQ0hoQ1ZqLW5RYU54aXFUUzN2UE1UZFl4UFJ6RnJpeVc0dFhIaEg0TEdOMHVpSGFiN1huTVN0R1htVGdyQndqZm5KUkFHa0tzOHJaZmgxaVEtVC1XcWVzdklILXc3Qk9wVnFoZzBMTjNrU2hVdDhlaXlvR2JVRklEUGg5RjdlQ2ZEVEJ3SDdjNzQ4SmRRby1EdFRJVjZvdEdZeFVZNVFpYW15bmpOVjUxN1ozbks3TUdGXzdaUDlJaWtKMDc5ZC14eEk1TWx0OUt5VUdBbDd0ZFlDejFvajB5UF8tUkNZejJ6cU9MRW0yV2ZDVC1ONW9FSFRWYTYzaENld3lCbDFVYmZiNElmaF9ZSDVma1dGLVBYN1UyQQ?oc=5",
+   "published": "Thu, 03 Sep 2026 21:50:29 GMT",
+   "score_parts": {
+    "recency": 0.484,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  }
+ ]
+}
