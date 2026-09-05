@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-06",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 227,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」来場者に“熱中症”補償、MSプラスワン少額短期保険が商品を案内 - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yZUhOdW9CeEtUbm93aWFpRjR1XzB2XzJzMUNBaHdERGkzY3pmWUh6RURPNGI1UFV0TDZvM1BEUjNWeU1nNnNUblFjN0Q0MUV6MXY0UUJWOGNrYnR3ZTlKTG5tMXR1UQ?oc=5",
+   "published": "Sat, 05 Sep 2026 15:58:15 GMT",
+   "score_parts": {
+    "recency": 0.865,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.659
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「沖縄を味わう」旅に ユインチホテル レストラン一新 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xNkZOaWxxNFkwNzU5N0FYa1QxMk9uMklpMDVfbHRDdkl6VUhDMDR5akYtRG5FOTdfdF9EX21Gb1BnTkNWdkRySVBKcWpXc0Q3MGJEX1NSd3ZraWJ2amc?oc=5",
+   "published": "Sat, 05 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Sat, 05 Sep 2026 17:52:08 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像12 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hY2N0S1AwbFdLUV9wWktlSk1PMlQtWVR4SlVWLWVoR1BpY1NoLUVZSnNiOWg0UmFuam93VzdxelRVRFh0YXNrZE9qc3BsRFd1Nm9wWnNGbUJIejR6QTNMZzE2YzRqeEZfODhydHRn?oc=5",
+   "published": "Sat, 05 Sep 2026 05:22:39 GMT",
+   "score_parts": {
+    "recency": 0.644,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "京都市の中学校で沖縄への修学旅行が「半減」した理由は 同志社国際高校の事故で拍車かかる懸念 - 京都新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQTFGdzR5X01RS2xtQzR0MUNBc3pwZTVTZzkzTGFJUHlfaUlxeFExaU1xeVJvdjhHY0J1bjVvUEdsSmpldkJpQmdzMUdmMUpRanlwQ21ad1U?oc=5",
+   "published": "Sat, 05 Sep 2026 20:13:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［アジア便り］モンゴルから誘客探る 北京 前田健志 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIT0RDSXp4ZkhBU2dRWGNxZUtudjIwWE9pV2ZNQmtxeXk1UWFXdFlKYzMzTDFXQWlZUEdKNEd0Zk44eDY2d19id2k5cE9zNktuZ1ZWbXFrOHhNci1NUUE?oc=5",
+   "published": "Sat, 05 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄戦 報道継続に意義 第33回沖縄タイムスと読者委員会 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nRG9RbUNQN2lkTTRVc2xQZ2p5aWxFeDRpWkk0c1JrTXdsSnpYc04zX1VRRzhlQThzTi0xMG1TaHVqRUgwenZFRkM4VWF4WGx2OC1aNXdUMGh2azU3Z0E?oc=5",
+   "published": "Sat, 05 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄が２０２７年１月から原則として月曜日を定休日に…大型連休や年末年始などは月曜日も開園 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91bDk3cFdKMnViNFd1aXZ2TEF4WUlEcVhXcXFPRU9lUXozdldJVTRZUmNhVTBXbHp2WjNrLWZVX2lvb212cE5ESVhNVk12Ri1aWjgyTjhoNzJRaFhrVUs4S2k5WUtEendEcUFaak1YRzk2c1hpUGJma1Jsc2RhVjg?oc=5",
+   "published": "Sat, 05 Sep 2026 02:07:38 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄が２０２７年１月から原則として月曜日を定休日に…大型連休や年末年始などは月曜日も開園 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3BvRlRscVp1cUFycC1uaGFtQmxSZmNZdG9yZGJmVl9uRFByMjlnZl82NlJnSUhfVFdZMnk5ODRNaTNkdFl4T0ZsWTZtOG5kM2VMWC1IZUZnSHRtZmxtWWI1RFdFVk13bTgyS3VtcDBQelRSN1dsNTBkNjdlTi01cW9lWlNnYTNKcHZ1c1pB?oc=5",
+   "published": "Sat, 05 Sep 2026 02:07:38 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像6 / 6＞プロスポーツの醍醐味を体感！沖縄「全島サッカー1万人祭り」を8月に開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZY2NsbHlrSDRzbklYZG9seUZSdGV0TldjZWxfa0hDdTJLY1FrNUdFM01uc1VuMVdSRGNfRTlkWTNOcUZqWWJEendwa3BmdWlKb1NObFBTazBUOU9pNHRoemZDdXF2c2Yw?oc=5",
+   "published": "Sat, 05 Sep 2026 17:58:27 GMT",
+   "score_parts": {
+    "recency": 0.906,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Sat, 05 Sep 2026 17:06:14 GMT",
+   "score_parts": {
+    "recency": 0.888,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像1 / 3＞南国・沖縄の春を感じる！｢第13回やえせ桜まつり｣開催中 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04RWI1ZDFLZkFxNkllcGo5cGQ5eXVMMzF0RmxyZlZDcFNEUFJfLWd3X3NTaFo1dXdxbDFKMnlQVS1jQXQzR2JTVFNaYWRzZEw3aHlXTW5uWWl2MFJGYWFKWUNxNGw3ZFRCTFdj?oc=5",
+   "published": "Sat, 05 Sep 2026 17:01:54 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像26 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wOTEza1AtVEV4N21fYnhHT01QUDJ0aVJoTVdCV24tRXdvNXBhOTFTTk9DcDNrT1ItbC1QakoyanUtbkdnTUEzQ3ZTbjE5c3FjZHhfSnZleHFUb1pVNFNMcTVza3RfRXJLQzVZSkhn?oc=5",
+   "published": "Sat, 05 Sep 2026 00:31:21 GMT",
+   "score_parts": {
+    "recency": 0.543,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "岩手サファリパークではシルバーウィークイベント【わくわくアニマルフェスタ】を開催！ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01emloRlFMYzdCc05pZ1hKcDNrWWttdkhKVTgxeWZqM3gyTUxkTmIxU3VudUFYNkNBN19XMXg2NzhwM3d5TDZJR21YcHJ4aThFdFVzU0xJV1J4eUxndHc?oc=5",
+   "published": "Sat, 05 Sep 2026 08:30:00 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：岩手サファリパークではシルバーウィークイベント【わくわくアニマルフェスタ】を開催！ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NQlBEUXVYd3RGcmdMZlo1SlZFczNhRE4zZlVPTUFCZGdlMjkxQWhVSDBvU2g0V090Ml9xZzVxNEpGY0RURWJjRTNkM2FRNEFWUzBhM0RkcWJ4WWJQWGJmM3N4TjBKZw?oc=5",
+   "published": "Sat, 05 Sep 2026 08:30:00 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  }
+ ]
+}
