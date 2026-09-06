@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-07",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 226,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "大好評イベントが今年も開催決定！沖縄県うるま市　第38回全島獅子舞フェスティバル - エンタメラッシュ",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DNFBWMjRZTUtyWGMwdHVrcFJiQktHMzFOQTVwOHhMazlDcTRBSGZWSld2TXFUUEhPWG9ydXZOOTluRVVQWEZ5cNIBSEFVX3lxTE5DNFBWMjRZTUtyWGMwdHVrcFJiQktHMzFOQTVwOHhMazlDcTRBSGZWSld2TXFUUEhPWG9ydXZOOTluRVVQWEZ5cA?oc=5",
+   "published": "Sun, 06 Sep 2026 20:47:47 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄道、那覇空港道 道路の気象影響リスク予測・天気予報 - tenki.jp",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YN1c4MzU2ajRCUFIydmZmRE5mOGhRTjVLVllYbXF6WlJtSjg2dHRXM3plYXlzbkVYcUVlRV9VZEZfMkNZMUE?oc=5",
+   "published": "Sun, 06 Sep 2026 09:35:32 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄アロハEanbeとコラボ ジャングリア沖縄1周年グッズ - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xOGdUV244R0ZGaldVWmZZY0N1ejRwYVRCN3VQSVN1YmlvVDgxcFlOR2VzSUd3bFEzNjdfelhSN2pmNlBxUFVwdjNDNW5acjlUTklncmMtVDVwU05zdWxv?oc=5",
+   "published": "Sun, 06 Sep 2026 09:03:28 GMT",
+   "score_parts": {
+    "recency": 0.719,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄アロハEanbeとコラボ　ジャングリア沖縄1周年グッズ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lNHB4WmRuU2tRb2d4cTUwM2pyS2w4QU1wYzRPNFNYbVNfMEZ6N2JwWGthN1Nla3U0NlhLZDAwZUdyckp1Z1lObE8yOWFad25kSi03dHkySnRGSXVWMUVtdHRpVGdGLXQ0TGtMYm1rbENhQlpQ0gF6QVVfeXFMTXJxcExvWTRfbnRROWNYXzdTTkktMThhcEwxcEU1U3B6WDJzSG5xSkxzcWFyXzd5UEdOdUIySTJJYXBXSGhSZzJoYlNtSC1iUlNYZGg5c0Y1VEQzU0VfUjZpbVdRY0dPdWpNRENLMlZORDN5bzZxSnFicGc?oc=5",
+   "published": "Sun, 06 Sep 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.718,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、県民限定「子ども無料」再び 反響を受け“期間限定”で実施 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JYWQwQ01uZjBVc2gyQlprOUd1Q0ZEOVVzNUp4Z3NUZ29BRy1rWHQ1bFhocE85T0toWjlvdUdkN2kzaEtKVXIyV0xfTURhZkNCWEE?oc=5",
+   "published": "Sun, 06 Sep 2026 07:31:36 GMT",
+   "score_parts": {
+    "recency": 0.687,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 3＞家族そろって楽しめるフラワーイベント！沖縄こどもの国で「花まつり2019」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rQXQ4X3dPb1FwSVo1ODRaNmNIUXBtSGJEZTY0MUNhTF9pOWhtMngwMjRuZUo4T1VyYjdMQmJpRWxETnV2LS1FSy0zQlZ4N1hOVnJma2FidWlzVnNrVjBsREMyZnZqeU1Rd25z?oc=5",
+   "published": "Sun, 06 Sep 2026 15:16:40 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Sun, 06 Sep 2026 06:27:44 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "古謝・玉城両氏が横一線で争う 沖縄知事選情勢、経済政策重視 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZMUpMaG9lSFN1X2p1WklTdVJZanRaSzNULUdGMEhVYlF1QlFoRFFlcTl0OVhIXzdXZzhCd19tV3VlVEdXdzEyZDJLVFo3SWI4UWVwZG1ra2QxY2VZTFE?oc=5",
+   "published": "Sun, 06 Sep 2026 20:00:01 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "古謝・玉城両氏が横一線で争う 沖縄知事選情勢、経済政策重視 - 静岡新聞DIGITAL",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pWVg3YlVuVXZ3RlFQU1NyajZNTXFWTjZQR0VucktUVVdYQkRtOWdSZHhrRkVjUnlIc3dzTjRZRjlqajRWdC1pdG15Ry0tUQ?oc=5",
+   "published": "Sun, 06 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Sun, 06 Sep 2026 19:26:31 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「沖縄を味わう」 ユインチホテル南城がレストラン一新 県産食材で地域の魅力を料理 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xNkZOaWxxNFkwNzU5N0FYa1QxMk9uMklpMDVfbHRDdkl6VUhDMDR5akYtRG5FOTdfdF9EX21Gb1BnTkNWdkRySVBKcWpXc0Q3MGJEX1NSd3ZraWJ2amc?oc=5",
+   "published": "Sun, 06 Sep 2026 10:00:00 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「沖縄を味わう」 ユインチホテル南城がレストラン一新 県産食材で地域の魅力を料理 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfSWNuYTFxOTJLV1doNjB1MXJ6R01YakVZd0pfVGw2azdJN1ZpdFU5TTRieTlxVUtrbmZxdWVfYllOSjV6Y1lUbzhDSQ?oc=5",
+   "published": "Sun, 06 Sep 2026 10:00:00 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像1 / 20＞総重量745kgのジャンボタコライス！発祥の地・沖縄金武町でギネス記録達成 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lcFl3bWxZb2JhTW45aXBSazV6dnJ1enRnRzJwa3V4T3N4MFJPY1ZsdVdBaWZIaGlQazBGT2llUTd3MUFOdWJlbFBTQXJISk91ZURCZWlUNGdQMjBUR0puUVprRDJ6cFU?oc=5",
+   "published": "Sun, 06 Sep 2026 16:56:51 GMT",
+   "score_parts": {
+    "recency": 0.883,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「本物の動物に触れて」 乳牛の搾乳や家畜の心音を聞く体験など 9月20日、沖縄・糸満市でイベント - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84QUl0SnNIbjdGZVZaTVd2eXU1b2FRS0J6WHRXemdsWEgxa2VJbk5SWExPdVF5N2tFTWRxNjFJOU1qUnZtNVpQUk1YbXdFZnQxYkhBWjV6cFBfTzdwRmpYTzlkOWdfRExNU0t1NHhiOWJBbnc2cDZHOA?oc=5",
+   "published": "Sun, 06 Sep 2026 08:17:53 GMT",
+   "score_parts": {
+    "recency": 0.703,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Sun, 06 Sep 2026 16:12:42 GMT",
+   "score_parts": {
+    "recency": 0.868,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.56
+  }
+ ]
+}
