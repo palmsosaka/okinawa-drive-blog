@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-08",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 234,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "リゾートホテル宿泊券も当たる！カフェで楽しむ「沖縄アニバーサリー旅」イベントが名古屋・栄で開催【入場無料・2日間限定】 - 名古屋情報通",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sYVN4dUpEUVZ4UXpIYms0TjBvUUlzS1VSLXdlVDAxbDc2Q2dnNUluMzFKdzJrcWJlM3N3bzYzU2ttb2xnY1VYRVdjb0VIV0ozVmxyNnltdzcteUNZaFZlVnJn?oc=5",
+   "published": "Mon, 07 Sep 2026 23:00:06 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.699
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、災害時に入浴支援や駐車場開放へ 周辺3市町村と防災協定 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IRmRpMzlXVWN3cEhyMkRZUWR1NGlDVGRNZ0NielpIWGo0YXhOYlpWd0FPdExRUFExTjlzbDB1XzBRc2hEMmdEY0thMTVlSVNYaEc1Wk0xNDc0Qzlydmc?oc=5",
+   "published": "Mon, 07 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、災害時に入浴支援や駐車場開放へ 周辺3市町村と防災協定 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SZU9lV2RNcjBqcG5TNW9GZGVPTWh0MVNib0FaN2FVNEIyRVdRRFF1NndScndpMWpNQkhmM1lLdThaNzFKejE2MTNPYw?oc=5",
+   "published": "Mon, 07 Sep 2026 21:08:55 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［寄稿］ドイツで沖縄文化イベント 前田彬 海越え人を結ぶ工芸と芸能 自分たちらしく表現 結果残す - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yUkxHS1daai1FeFFxU24zNHR6c0FsSGgzLUlTeEJmbGE2cFB3TWdQZTdfS1ZsUUl1bkZmNW02ZmVQclNtWkNJTHlCSndMV2w5VmRUOThYYmdjSzc3T3c?oc=5",
+   "published": "Mon, 07 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.914,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：［寄稿］ドイツで沖縄文化イベント 前田彬 海越え人を結ぶ工芸と芸能 自分たちらしく表現 結果残す - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oUnl3ak1fdGhIbUliaEdxUXNQSzNOVWY1QkwxN3hUOUNucHJEd2ZTX1RmLUlmbk1PclByQVJVRjY3eDM4bWNIN2lNQ1AwWS12ZUl1emVYc0tkMjB0eUU4VEVGa0JsUQ?oc=5",
+   "published": "Mon, 07 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.914,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "キンコン西野亮廣、ジャングリア沖縄に提案「素人がすんません」（サンケイスポーツ） - t.co",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0tbjhRbEc1aEFBTzBMaUloU0dLd19VUDNmaGFKaU9oRHVyQzNDVlZ6Vk5CQzVnc0dMVWl3?oc=5",
+   "published": "Mon, 07 Sep 2026 09:43:00 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "営業力向上にAI活用 沖縄セルラー、模擬練習ツール導入 グループ全体の提案力向上へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93cmVfNV9LUlhOc1RxWm91QS03bEhlbnZlQXQ3VmlNNmdoLVJ2Qm1pUFpyS21VUUx0V1FzcTBVbGszejB5QzI3Mnc0VTRsbVYyZWNaLUhhZHhBTC1oV3c?oc=5",
+   "published": "Mon, 07 Sep 2026 22:35:00 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【連載】沖縄県知事選 公約比較（上）経済と暮らし、県民所得は最下位 - 世界日報DIGITAL",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wSjFvZFZnRnBEV1VabkNFbDlQRmMxc1FaLTlTYkNQaU83UENSZElGQ1pDSFpnYXRpZmFJUjVUUmhMellHUXJoOTdKa0ZpeVN2SXp2OVRVbTdrNmdrOUpNU0FiSmFaUUpJNUJn?oc=5",
+   "published": "Mon, 07 Sep 2026 21:20:00 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄県知事選に関するＸ投稿 昨年の宮城知事選の3倍 11日間に107万件、県外からが91％ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Rc1l4ZmhJZEtJdjJKYlptNWxCVG01VDlOOTdJWEduMmdxc2hNWm94MW5UMXJERHFaU2x0c0Vjd0VtaF9vZmhoMTMxOWs1TlMzN19NNjVFVGg5X1JRM2c?oc=5",
+   "published": "Mon, 07 Sep 2026 20:09:00 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米空軍F15EX、近く沖縄へ配備 米国外初 騒音増大の懸念 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95QWhTcEc4SWlBWW44a3BMSU9nTXJqaVhZQTZia3A3NDJVMmtCRDVUVVRrQjVfemVndUdLN25GdEhWcVBxeFJGZkZUVkJFTnlQaWdIT3FwYUhlNkprU2VGMg?oc=5",
+   "published": "Mon, 07 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "障がい者雇用沖縄１位 県や労働局 未達成も４割、拡大要請 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uWmNVcEJ6VDR6QWNCUWJpdVNjcm9tOGk0b1hYUC1jb09BZ3BGWkpaZEVub1ZQTGE2XzMtVnVaZWNrcFhCR2hfaDRvenpWMTFsRkFmWGpSNzBxY3ZVelVwOTNB?oc=5",
+   "published": "Mon, 07 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "物価高、子育て教育重視 基地問題も一定の関心 有権者に聞く＜沖縄知事選・歩く民主主義100の声＞① - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZR3E1RU9LS2RJaFRfMXBTamY4Zzg4UFpsVDA5Z2lZenl0a2xjNGt6WWUzemYxMTVVOEgyWlYxWlFxNEtkU0JUdFZHVVJkUXA5LW8tZkI1MEdRX0xDMGJDYVNn?oc=5",
+   "published": "Mon, 07 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［経済フラッシュ］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZQzZwd2VtbE9aY3ZKNmJyNFI4a0E0X3ZYSjZhQ25LM0RUR254QWV3RnJGQ2RjT0s0aHYydnNoU0NxdldBQ2pRRFNxa1VJU1Fob0xFdURSX3FFTjh6VFE?oc=5",
+   "published": "Mon, 07 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「平和」の意味 考える 沖縄市記念行事で劇 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKM1o4RkFNcHd0MXJtUlNLSGRyV05mWFNwaHlDT2Y5NmRDQ3phRWhSeml6eFllaWVRdzNpZ3lMYVUybVB0ODBqdHI1NlNMQ196VXlqUDRiazRDbjBJOHc?oc=5",
+   "published": "Mon, 07 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "統一地方選で まとめサイト 沖縄タイムスが公開 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxcG1fUUFtNDJnYmJiaTZUM3lSVTJ3Rm1GZjdhbXlmRGxqY3hiV0lxLVY0NWNpYVEzLU55Yl9pdmV3VlM1OFZYcXpPd2lsUTl5NFdodGtJUFk3UDh3WFE?oc=5",
+   "published": "Mon, 07 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  }
+ ]
+}
