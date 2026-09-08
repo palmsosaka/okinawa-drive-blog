@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-09",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 248,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の仕事紹介 irc卒業生が高校生に - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nS3dpYVN1aGZDT2xQY2JORHZOWW1BMXp4dlBaT3JpVi1yT1lTMEhUWkJKWkIzRlZGd056ZU81Y3lndDF3RkZMRDFfVk9RMTNoS3dITDNiVzRJc0VtZ1E?oc=5",
+   "published": "Tue, 08 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.674
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "［ファクトデマ チェック］那覇空港「県管理」は 玉城氏が発言 一元的に国が管理 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VYmdwVVFocnRaMlRwR2dzZVBFWW96aXdWQ09QRjJndzQ0TnVQZWh6SHNPVkRhQ0tpR19laHdSZ0NvQjJNVWc1azdzVTBWUmV1Vm5Wa3o3b2tFaHJTMUE?oc=5",
+   "published": "Tue, 08 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.674
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、災害時に入浴支援や駐車場開放へ 周辺3市町村と防災協定 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4REprb2NaNUpibU9HMnEzeWVZejRJYWlzTHVvbzRjZVQya3dFQks2TzZDNzZYTzhOZXFudDRiZzUtbDM0c3hWZmV6YlQxaVRZNnlXODlYNjZySjk5clFmUGk3SDhnTFhSbXdVZEM4eXR5LVBocE1FcA?oc=5",
+   "published": "Tue, 08 Sep 2026 16:16:19 GMT",
+   "score_parts": {
+    "recency": 0.859,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.658
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像26 / 31＞ジャングリアも美ら海水族館も近い！この秋「オリオンホテル モトブ リゾート＆スパ」で過ごす最高のファミリーバカンス - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WaklpWG1XU1NNMUp2XzJJSmxvSXhDRFgtOUR0MmRkNlloNmRyME9FMWZ6RzJaMFlDcXdyQ0pqMEF3ZlhRS3A2Q1BTMEt0Z0pZMHE1NlBVUnJ3Z0pCS2xlQi1VeTRtLTA5TXdnVDJn?oc=5",
+   "published": "Tue, 08 Sep 2026 18:09:06 GMT",
+   "score_parts": {
+    "recency": 0.898,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【沖縄県知事選】玉城デニー 今度はレンタカーで違法街宣し刑事告発されるｗ公職選挙法違反か！ - youtu.be",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtM19iVTNKOGpxd0pBblJFd3lrSll6Um4yMVIyRUdnUUtUd0dSSmJCczhiZGVWWXp4dGtSM1B4T0xQWldfaF90dmw2Vy1QLVpaNS0zNkg4SVBSVnd2?oc=5",
+   "published": "Tue, 08 Sep 2026 13:04:31 GMT",
+   "score_parts": {
+    "recency": 0.792,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 31＞ジャングリアも美ら海水族館も近い！この秋「オリオンホテル モトブ リゾート＆スパ」で過ごす最高のファミリーバカンス - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdkladmFDRXNHRl9oX0ZES05tVGhYeHpZejVCaTNmbEVSdjJDUFQwT1NNWFBKTEd3Q3BrZHlfXzB3ZE5nUnl5VVl5OHZVc2s0NmZUMFJVLVRxc2c0NUtLSmZrV1ZVTEVVbkE2QkdB?oc=5",
+   "published": "Tue, 08 Sep 2026 16:17:12 GMT",
+   "score_parts": {
+    "recency": 0.859,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "広島知事、日本酒とカキＰＲ ロンドンでイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XeGY2UkFXOEgzbGs1TlptMDkzdDlDZE5DN0RSbFY2MWpKbXZuN2RUb2NmRjhyQnFPOTVMbVl3Wm4yM1QtZGtSeGg1c0pPNG0wUFhGWkYtbmZnbmJ3WlE?oc=5",
+   "published": "Tue, 08 Sep 2026 20:31:27 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［インフォ］［イベント］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYaUhyQWhiNHpvTHYxOGpDcHJGbVR2ZGpoSVNfMGNmeUNoeXVTV25qSnBKSXhQLVNXVnFRWlIyWjBxQTU4Z1BPS2d6OWRGYW15Wjc1bGJNRnRIMEsyeWc?oc=5",
+   "published": "Tue, 08 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "お笑いブッフェ 21日から3日間 ハーバービューホテル - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ic19BQzZoazBPNlVrYXhaTDBrUUdUb3VubU9RZTNrMTBFNEhYX1ZOX3Z3MlFmQmlQbFlsNTc2dzlzdHB2ZWJSUUg5aGdaUVo0cEdCbTBoaDEwbU9wQUE?oc=5",
+   "published": "Tue, 08 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「沖縄移住で人生が変わった」東京・神奈川から竹富島へ“自然体の島暮らし”家族ができた8年間。全てが近い島の魅力 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1leXBJQTUxNTAyWkFZLXc1ajZMQ09qdktwVmRVNnFURnA5R1NPd1lTcXpTM2l5N2VwZ3dpTE53aU9vMzIyUXk3VWdkQ1RkR0h5aFByTS1GTm5BWTJBZUlpMlFMeDdUQWJPUXFnSTg3OUU2WG1ndVhV0gF8QVVfeXFMT1loQXhYLWxyUWlybTFOZEs4VGxLUy1fcU1xbHpBWDdSVmUtaElmbFhab3F4bzFmYjJ3dTFSZXBPSXFTRGgtN3d0QWIwY0pkSjBfYmtubUJJUjJKdFg0SWt5YXFhZ1p0b3lJaGR2M1ZtZXUxYlNQLUkyd1cwNQ?oc=5",
+   "published": "Tue, 08 Sep 2026 22:01:54 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【能登復興】震災から再起した郷土料理店と魚醤「いしる」を体感！能登の親子無料招待イベントを9/23開催 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GOVFyQ2NtOEJ1M0NQd0RaZF9kc2F6NE56NjQ0NlEyX0J1ZDZwQjFlUjFMQlc2c0NXNXUwV19SZ2FzdzRIUllSdWkzbkVlSEpQV0ttZ2N3X2JHT0txN1E?oc=5",
+   "published": "Tue, 08 Sep 2026 13:58:00 GMT",
+   "score_parts": {
+    "recency": 0.811,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "■沖縄食糧が２７日、健康応援講演会 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14T2RlaS14M0RMYm5pWVU1UW9KNFJxeVJYTjJpUWt2RG1IOVduQ1ZHRVd2c01kWEQ4cV9JUzRIc2lod3JBd2pfNmROZ19EazY1Z2lmUU93dEMyYlo5eUt2YlFB?oc=5",
+   "published": "Tue, 08 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 3＞祭の熱い3日間！ 沖縄県浦添市で「第42回浦添てだこまつり」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ucmdyRWNMZmpXc3F6QW92NU9Pd1NjUzFjZzdPQk1sQmZwVmFod2FxVTVEcmhDWXJsWkItbzVZaG50WTg4dkN3MHgyUEw4VS1WaXhPZkhCQ3lMVlJ1SEM3WmxCN0dZVGxCbzVJ?oc=5",
+   "published": "Tue, 08 Sep 2026 19:28:14 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Tue, 08 Sep 2026 19:15:20 GMT",
+   "score_parts": {
+    "recency": 0.921,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 4＞沖縄好き待望！新宿・歌舞伎町でうちな～イベント - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pd1dlRGNyam1QbUZhQ3Z6Rnl1Ti1qb1BSc0xsUk1aQWFSb2lmM091ZzB0Z1BtMzVva3dGb0pMYnVLaVlIMDF5TXludmYwYXB4dGt5OUlEMG9RQmluSzhUYjNsTnNNTDYwRnc?oc=5",
+   "published": "Tue, 08 Sep 2026 11:16:13 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  }
+ ]
+}
