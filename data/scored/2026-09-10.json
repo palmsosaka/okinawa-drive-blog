@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-10",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 194,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 “災害時の生活支援”で地元３市町村と協定 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPUmFLVmJocmdrV2dMcHhaRmNSclZDcXQwY2JVdXoxaXR0aWFJdEhoMmxDc3hReXVMbE9wWkNOdEZyTmZ4X2xSdUs4aTByYVBSUXNoR2lEWEk?oc=5",
+   "published": "Wed, 09 Sep 2026 20:05:00 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "画像17 / 18＞【ちいかわ】「シーサーのおみやげやさん」那覇空港内に8月12日オープン！沖縄定番のスッパイマン、オリオンビールとのコラボアイテムに注目 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IYWl5VnZFNVJDU1hjQjJ4QXgwcXp3d3pZQ3pBUWlmZXRscVo3TGUyN2wxZS1vU0o3WHRLNlNNbWR3RkVYZTR6TFowMG5lT2M0NHQyTnlVUWJhMHpTNC12VkowN0VPQnc4R3otS2NR?oc=5",
+   "published": "Wed, 09 Sep 2026 18:21:40 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.672
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "《沖縄県知事選》玉城デニー氏、那覇空港にまつわる“発言”が拡散で波紋「理解していないの？」と指摘相次ぐ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TQjZVbUJKdG9ucTZrWjVnSWViRU9YUHRyTXFhUFlkUVJ6SERCV0xzV0ppb1BRcW43UWVzd2NHR2ZsOEtwc0NsaVdlRWJXempBUXVETkRheEN5RUppX2lZeDVKTWJyTDZ3ZC1OdjNlcDE3c3Q0dFVwag?oc=5",
+   "published": "Wed, 09 Sep 2026 11:55:27 GMT",
+   "score_parts": {
+    "recency": 0.773,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄、ガザ、日本の戦争加害を考える 平塚で平和イベント - カナロコ",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBteHlHbVhnLXZwcWJpeWhSYkVMTlAwNkZCNWl2eHNJNzFYM2c1Vl9zdzNyTktNXzJpeW91RkZENW9jQjlLN01fdXZxTTM4dE9VU1BpQmF4SnRqczBKTlJuQi1ZeDF5QkMxcTdoX3daQzY?oc=5",
+   "published": "Wed, 09 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【画像】沖縄県知事の「那覇空港の管理は沖縄県です」発言が…SNS上で波紋 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03WDhuMzJ3al8xZFNULXlHRU85ZWdoQk1BVE1DSFFXc2I2cm1KSk9GVXhNTndHb2RaaG9WMEY5M2dxQk1VM0RiWWVmQmlVQTBydlo1em9iV011XzZzVURGWGNNa1VLLUVSM0VuWEdEUEZvNUJrYWp2UWJFcUw?oc=5",
+   "published": "Wed, 09 Sep 2026 07:55:21 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "玉城デニー氏「那覇空港の管理は県です」は誤り 国が一元的に管理【沖縄知事選ファクトチェック】 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcW1HUzhRSDBZTnBzOGZGSnloT2cyY3NqTV9mZEY4RVAtLVFuS2M2Y2t0MDdiRnNVbGNKWUFaYmFWTFU2WGxxOWhjbjhSVE1MUzQ1WjNyOTFuYUtjXzlxSktkdDRNRUVlWlJSVVJoNWNzZnplUU5CYS1GRVZBaWhpaVlLbWQ5OVlRU3ZBUm53?oc=5",
+   "published": "Wed, 09 Sep 2026 07:01:22 GMT",
+   "score_parts": {
+    "recency": 0.671,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "グレーターミナミ構想が進む 南大阪活性化へ観光列車企画 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BdXJRMGNyU2paQnhiNnFZaVVTa0RYTmJUQVRaRUd0R2ZfME56YTNITlFBS21OTXhISk5IaXhSYXpORmhYdHp1N1huRFpRNkxhTE14ZWo0OUQ3c0g3REE?oc=5",
+   "published": "Wed, 09 Sep 2026 22:00:02 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像16 / 28＞沖縄・読谷村の「ゆんラボ・未来館」で見つけた。旅の途中で味わいたい、本とコーヒーが溶け合う静かで贅沢なひととき - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcGd5dXpuVXhSQy1zYmpULUlwbkRRYW5EczZaNmVVUy02M1pmZVdFbUxIUk54MGplNnNBOTd1Zk13OUpSc2FneThOanc1X3psSkh2bUNhVDJEcG1fbXJJWjA0dHBrX0VSMk1nTVR3?oc=5",
+   "published": "Wed, 09 Sep 2026 19:24:59 GMT",
+   "score_parts": {
+    "recency": 0.929,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "玉城デニー氏「那覇空港の管理は県です」は誤り 国が一元的に管理【沖縄知事選ファクトチェック】 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VYmdwVVFocnRaMlRwR2dzZVBFWW96aXdWQ09QRjJndzQ0TnVQZWh6SHNPVkRhQ0tpR19laHdSZ0NvQjJNVWc1azdzVTBWUmV1Vm5Wa3o3b2tFaHJTMUE?oc=5",
+   "published": "Wed, 09 Sep 2026 03:05:00 GMT",
+   "score_parts": {
+    "recency": 0.589,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［識者の目線 2026知事選］（5） 持続的発展 県民豊かに 観光 柳銀珠（りゅううんじゅ）氏 琉球大学准教授 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DcE1IM3lyeTg3d0lSY0ozdGU2eWZUMlAxZ1RaVWlfV2lDb0lQR05GQVZhbkg5MWNOY1ROaXpxelJhaVRLNGRiallNTkcxY2t2NTF1OHNCcmIzeFN0SlE?oc=5",
+   "published": "Wed, 09 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.92,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［季節風］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1URmVlSG81U3Fxc3dING4wQ3EyY21rc2NBSk40TndBbENKZWlRT0c5Y0ZjV3VxU09LLVhCYkRFWllyLUZ3XzBBRk9OWXFIRURtNHBtZEh1ejVmWTJKdGc?oc=5",
+   "published": "Wed, 09 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "下地島で操縦士訓練 ANA 11月から再開 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9odGhWa0Z2cEpXWmlLT29ONTVCMExMZDlEUUJoMGZnTlVmVXlKSlZHRVRRbF9ZT19zWkFCMWZQY0NYbXgtUERCRHp2ZVF1djdPdzc1OURwWVFmYWJKRVE?oc=5",
+   "published": "Wed, 09 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［大相撲］霧島はつらつ 19勝2敗 時津風連合稽古 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45ajdaa0gxbnVKY3M3cGZGN2F2bW9BVUpld3hLLVk2d01FWHBySkJhMG1idEI3ajZhQUw0YWVNalRhMVBHUjBRU1YwSndlQlpla0lUU29lV2ZvbWFvNGc?oc=5",
+   "published": "Wed, 09 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "メッシや長谷川候補 バロンドール - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYZ2JQNHdyVXdkZktJN3hLZTFmVUxFSjVxMERhT1lXSDB2dHdhY2tBY2RkVmFzWW9LRjFmVjZleGZ3YmMwV29Id2cxUzJGRjNwYmJoRWpNNmtvallhNFE?oc=5",
+   "published": "Wed, 09 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "三幸の味 銀天街で紡ぐ 総菜や祝い料理 注文販売へ 店舗43年で幕 客から労い 沖縄市 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55NGVocFNPdFZBQkhqZXZQMmFpWXlBUl9ZSUZXRy1LSGctb1J1VG9hWlc1YmJBOHZ4SWFEWUliRklXU2pKdnhFRlJOeXJwbVlqY3BES2tCSVdxWUx0X1E?oc=5",
+   "published": "Wed, 09 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.92,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  }
+ ]
+}
