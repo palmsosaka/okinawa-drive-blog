@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 232,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の滑走路また閉鎖 自衛隊F15が緊急着陸 油圧系に不具合、火花も 先月18日も空自機事故で閉鎖 沖縄 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02OFdtMkdoRU5tZTBPQnFaRFRrT3ZqZmtPOE1EWVduRjY2SW9FLTZlOU9YTW90WlZ6OGZyZjVscmtEYUp4cTd1SzVIZzZPOVZWaGxxZzdRZElRVmdQRUR1MVoyZGEtZFcwZUtUcnpRMURlU2sxdDZiQg?oc=5",
+   "published": "Thu, 10 Sep 2026 21:13:37 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.69
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の滑走路また閉鎖 自衛隊F15が緊急着陸 油圧系に不具合、火花も 先月18日も空自機事故で閉鎖 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GbV9tN09SSUlMZHF1bE9IdjNTVXBLZGJRS2tYSnpEQnAxam16STBDQkJXSVZKRldFZFFzSVBRb3lVck82S1VIbWwxcHZMRk9qQng4WnpoVDczVHFDX3Vhbw?oc=5",
+   "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "空自機また立ち往生 那覇空港 滑走路一時閉鎖 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmQU1kNV8yR1l0N0VSSVQwTnJiRHF4QkVkOFZJa0RRQmR0dkNibW0ycjVEQWczREVkT0xZdFhVdlEtLVZ2allLUnd1WWplWkRGZWhia25kXy1HNnMxZFE?oc=5",
+   "published": "Thu, 10 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.676
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "空自F15火花散らす 那覇空港 利用者 不安の声 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBack40T1N1dGxMY3k0V0VRYXVudElZVFl5ZmN1V2NyQ3BoejA5dHpRc1pseGk4NDJEalN0eTdEWGlEQ1dvYkxLbDVmT2kwRVpfeUp3d0FtUk10ZUJheHc?oc=5",
+   "published": "Thu, 10 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.676
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【速報】那覇空港の第2滑走路が一時閉鎖 空自F15が油圧トラブルで着陸 約1時間後再開、到着14便に遅れ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95TDFTQkJkblNIOEdFTHJ2Q3NaV3VRSFVpdVF6cTRSVmlCNGVvNGVaUVFPeWJvVDg0b1JYelRNTmhDcFB1Ulc2NFVvREFmVlg4Qmg5YkhZaHhyenVOeWc?oc=5",
+   "published": "Thu, 10 Sep 2026 12:47:00 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：【速報】那覇空港の第2滑走路が一時閉鎖 空自F15が油圧トラブルで着陸 約1時間後再開、到着14便に遅れ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJWnR2MnVwbm5GcDBjV2FvX0MwQ0NzYzVNYzFNWktZbmVIU0xYWm9DdEc5cllyMkZPN2R5QTAyYjBZNHZjeXpwdWdHa0Z6WU9mc09SSUIydkZYVDhob05KQlFxbm44UQ?oc=5",
+   "published": "Thu, 10 Sep 2026 12:47:00 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄文化イベント『ぬちぐすいぬ宵』第二夜 うちなー結髪師ぬ手業｜レッツエンジョイ東京 - レッツエンジョイ東京",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mY1FoRjdTVU94WERfaEhKQ05jdEFHLS1DTi1pQy1zclR4ZURLczliUWNrMm5XdUIxLTVaME1uQXByX0hGakREM0pobm45T3ZxaVE?oc=5",
+   "published": "Thu, 10 Sep 2026 19:56:45 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の滑走路1本が一時閉鎖 空自F15戦闘機が緊急着陸で [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJeEN3MS1pbnFORWJLbnJKWG9mNXA4X05BMmV6VHJhRXk1dENEZTN6ZmpXa3FFSUw2Z3E1N0tab3g3LUwzWGRlVE1sMVk0NFRwZXY2bUEzbi1STWR2RGhkcDE3VXFfSUU?oc=5",
+   "published": "Thu, 10 Sep 2026 11:27:00 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の滑走路1本が閉鎖 空自F15戦闘機が緊急着陸した影響で [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2d0aUV4VGhZRF9PU3NTSk1rN19EZFBTZjQ2UFB1OFpFRGpfNXRTMTR2TndWVzF5ZUNaR0ZxWnBWV1pXOGhHM0ZseGxpUjNiQXZPYVRoZll2ZkJfclFWVlEySHZHSnEyYkVxNTQ3aElqUWMxUy1hQXFweW1mZTNRV3ByNUJqUF9LYUdiTFVtWFFNRjZxTEF2TFdiRTVpejFTZG5vd280MnZUNDN3RXF3VUZUaHdWZnE5aGhNMGFKMHBDVHVyM0taZjFR?oc=5",
+   "published": "Thu, 10 Sep 2026 11:27:44 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の滑走路1本が閉鎖 空自F15戦闘機が緊急着陸した影響で [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVaGNnbzZ5LU1IYlZPQlFsNVh4M1Fxekl2bC01OG1rTWNlZjdWQ0NjTUQ5bnNLNjdQTTl2elNYQk96eVdVNGdfUS1fS0YtU0U3Y1Q1ZDhuNTI2cWUtQlRMYXBmLTNUU2Nlb3JtWjNn?oc=5",
+   "published": "Thu, 10 Sep 2026 11:27:44 GMT",
+   "score_parts": {
+    "recency": 0.763,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の第2滑走路が一時閉鎖 空自F15が油圧トラブルで着陸 約1時間後再開、到着14便に遅れ（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40bElRaGhCXzFhZ2h3OGNsYk1vNGo5NW1GNzM0d29yMzFXbEZkOFJvZ3VPSFZ3U1FHUVhYdTgxMGRYZUFfX0YwTlktWlBmejdadFF5bkFTZFpfWHN3Y0UxN3JzRWFkb0UzbmljTnZHaG5TakY5aC1hblBDbnNvaDA?oc=5",
+   "published": "Thu, 10 Sep 2026 10:56:17 GMT",
+   "score_parts": {
+    "recency": 0.752,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄でITビジネスの共創を加速する「JIET EXPO in Okinawa」11月18日開催 8月から連動企画「夏のビジネスマッチングまつり」も全3回展開 - MICE TIMES ONLINE",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53ckFaWk51ZFJlUmhjbWVZTjJMNDkzY1BEbVlpY3F6b2xuTFhGeUFMaEoySVNHcEhxbHJncW9Ebk1Hd0VWSGpkaElzQ3ZKV0E?oc=5",
+   "published": "Thu, 10 Sep 2026 21:12:02 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "第38回「全島獅子舞フェスティバル」が10/10・11、沖縄県うるま市の勝連城跡で開催 - risvel.com",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zM1pKbTVxaFplSk9BZm9JbS1fSFlfWk5tV0c3OWZOU1VOOFFPZS1SX2FwSE9yMUdjRWF3aFRPZ0hYUEFOcjE0?oc=5",
+   "published": "Thu, 10 Sep 2026 20:44:21 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【沖縄県知事選挙】 争点 深刻な交通渋滞、路線バスの衰退、交通空白地帯…「交通インフラ」を問う - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DOERUQ29jSHBQdXZEckZnbnloVTVoLWdCelMzbjgxY1M4T0dYX2paZTZpRnhmX2N3Tmo2M2Z3WXdsbkRUTDlrVTNGRnhtUzhLa2JQZUNHOHE4UQ?oc=5",
+   "published": "Thu, 10 Sep 2026 20:50:00 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "旅行需要拡大へ商談会 沖縄リゾートウエディングウィーク２０２６ 沖縄の文化・自然体感 県内２１社出展、１００人参加 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1acDlKX2FYeFdGRncyVWhLeEg2LVdNWXlsS0loTXVPZG1iNUE1OHE0ZUxCZVRFZUN4RGFaVjF0RlVjOFc0c016bkowYjBvU0Z6Ym80N3B0QlpNWkFNaGc3aDR3?oc=5",
+   "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.941,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  }
+ ]
+}
