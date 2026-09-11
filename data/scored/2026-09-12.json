@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-12",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 265,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【VOICE】ジャングリア沖縄の挑戦 株式会社ジャパンエンターテイメント 取締役副社長COO 佐藤 大介氏 - 観光経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yU2NmZUp3R2E1Zjg4NG9ENHRVVktNOFM1QlNNUEg5MW1uMHZxUUlkTDNzaGNLOG1WeG4wQnE5aFJIeHpmcjlQTTVhWnhYNk4wSXROYw?oc=5",
+   "published": "Fri, 11 Sep 2026 11:04:36 GMT",
+   "score_parts": {
+    "recency": 0.754,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "平和について語り合う 20日 那覇でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ROE1hb2xlNnZkWlYzV0dvWTVsVTBZSkduUWZXX3k1RlZzdlZXc3ZXcEFuVHZyUDZsOTFoNmp1ZlpaRUJsaU9ORFMzaTJnZlN0OGF1MXM3VkQwelQta3c?oc=5",
+   "published": "Fri, 11 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：平和について語り合う 20日 那覇でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qZ0VWNWZHcUVJNWVLOWVDeTRkSkZWQkl0YmVOQnFLaU5NUnFmQ2ZjcU92TU1KSmY2dXp5N3BOT3dWR3FIY3F2cDFnWkxRZXBxZzNra1B1UHZRQkIyYVhiVndUQndGUQ?oc=5",
+   "published": "Fri, 11 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄だけじゃない、イマーシブ・フォート東京、ネスタリゾート神戸、横浜・上瀬谷新テーマパーク構想でも相次ぐ失敗…森岡毅＆株式会社「刀」に何が起きているのか - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TU2ppM0tMZm95VHJaMkpOVFhIQ1JlUTZTdEVOcXZnbmRwbHJQcFJiNjJwUzdnYXV1U1I1THdESWdONm1JdlJxQXJ5bw?oc=5",
+   "published": "Fri, 11 Sep 2026 08:10:00 GMT",
+   "score_parts": {
+    "recency": 0.694,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "土石流ネパール被害２７６０億円 キャンセル相次ぎ観光業にも影響 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sMFQyU3MwOXhBWERGWHBPVmo2Sy1CenE4TDVEOWlXMGd2UnlGV1h0WEhlNVNIMWc5RVNRSV9jR05McnFpZUZqWHBwTDZVMFdRYVlMcW1DZWo5TlUtQ3c?oc=5",
+   "published": "Fri, 11 Sep 2026 21:33:04 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄観光、次なるステージへ。地元企業かりゆしが描く「幸せ、癒し、感動」の未来【OKINAWA BUSINESS FRONTLINE】 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Rkw3WlNDMnExUXNEZndLSjM4aHJRMlhJd3doYjZXS3A5ZXN4V2U3RXk5eFcyV24yVXRURGRVR194RFZ3U3VHNUpmWnV6a0pNSzkwQW5zbUctVERSUkt0bzVqR3lsQVoyX0IybE50UUNMWjQ0NjZFc3JKZ21hUdIBfkFVX3lxTE56Rkw3WlNDMnExUXNEZndLSjM4aHJRMlhJd3doYjZXS3A5ZXN4V2U3RXk5eFcyV24yVXRURGRVR194RFZ3U3VHNUpmWnV6a0pNSzkwQW5zbUctVERSUkt0bzVqR3lsQVoyX0IybE50UUNMWjQ0NjZFc3JKZ21hUQ?oc=5",
+   "published": "Fri, 11 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄知事選、安保論戦は低調 あす投開票 - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZNk9NdHdWZ2NFcUNTaExaSjM1Wml4alh2aXh6MjljNGtWS29KenVaVklhSWpPM2MwakRfTW9yblpqMkYtNE9UY0cya25qbHVhTXk0TVZvU3A4MnZB?oc=5",
+   "published": "Fri, 11 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［愛知・名古屋 アジア大会 2026］日本連勝 準々決勝へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11dHlnb1A2Nk44SV9mM3MybFJINnVoN0ZJbll5UnRNNzJiTEF6QXRiYVJSdk1FUEtBc0I5QmRid2tvQmkzU1BGTXR5dENjM2dNaDdCWFVVeG9TSXlJLWc?oc=5",
+   "published": "Fri, 11 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "空自F15 拘束装置使用 那覇緊急着陸で防衛相 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01TjBMYXNFa1JtNk1kNzdpLTBGNS1BSUdDMGVtTkxKcVhCV2luT3lqOURCYVY0M25FY2MtQ0FiWmRpRjB0SzhjanV3d3cwWlNGQU03YTFWYVlPZEs4TGc?oc=5",
+   "published": "Fri, 11 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "VRでボートレーサー体験 振興会が特設エリア 沖縄市 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YN0VyRFF2YVZ0Ri1fY28zUmVhX0VpY2lsd3pib2FPODdIVUlnRlQwSlZLVjN5UlVVN1hpa09tS0dTSDJXcVhSZHR4dzB1RGhuOEwtQjlCWlNZY3BwM0E?oc=5",
+   "published": "Fri, 11 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "空自F15、拘束装置使い緊急着陸 那覇空港で14便遅延 小泉防衛相「ご迷惑とご心配かけ真摯に受け止め」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fTDg0dk9PeWFrTW82ZVI4VDlGSVVJOGN0TEprZE9TTm1pZy1LWExYMGp1RFNyUUNmRWVYV1p0d2dTWXBURnI2UTZwUWUxWEQ2V1k4R1RDUHZ6ejJ0ZGc?oc=5",
+   "published": "Fri, 11 Sep 2026 02:51:00 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：空自F15、拘束装置使い緊急着陸 那覇空港で14便遅延 小泉防衛相「ご迷惑とご心配かけ真摯に受け止め」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QbFpzMGYtcjE5d2ZHVVJKMXZRdUlYMEFpcXpQSTFIRnlLV182Y1U5SzlZcERteF9xWlp2Y1BOQXlDYS1qNy1RSlB6cEhSdm1VWUpKT2NRdk9QZzkySXZjWXhHS3dpZw?oc=5",
+   "published": "Fri, 11 Sep 2026 02:51:00 GMT",
+   "score_parts": {
+    "recency": 0.583,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "沖縄道のETC 割引継続を要請 大城副知事、国交省に - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kY0dHLXVVOVRKMWh4WkZMVU1hV1ppN01MNTVLYkszUjVpZFNOOXpyTW5lcEY2Q3VXUUlOdjZLSlJpbFdFRFI4T0lvOGRPSkJEYW9adlJmdUhhSHBGVkE?oc=5",
+   "published": "Fri, 11 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "感謝込め催し多彩 名護 「ゆがふいんフェス」盛況 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YcThBbGhtY3ZTaHRERm9xUXcxU0FrUGZTdXdTNUdLOXVYOVJHc29XQ19QVzFmTERqclowV2ZQTnNVUFQtUHI5WDgyM2YwUFV5S2FlUHRHV21PdWhMSkE?oc=5",
+   "published": "Fri, 11 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄県：航空自衛隊那覇基地のＦ１５戦闘機が油圧系統の不具合で着陸…那覇空港の滑走路が１時間閉鎖 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZ1JUMktqQWxmTXZLR3pNbjVtZUlkVTRuS1FRLUtLUE1LNFUtNWxXLUh3ekFOOEZQeHlQeGZQWGV2V0EzZEEzSnZBdWdyVTdZbXlHamtmZ0lLc1dsaHdfTFhwQy1neS1LVE1rUHNadG15dw?oc=5",
+   "published": "Fri, 11 Sep 2026 01:27:00 GMT",
+   "score_parts": {
+    "recency": 0.554,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  }
+ ]
+}
