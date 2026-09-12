@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-13",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 230,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "投票前に政策チェック 沖縄県知事選 候補者が答えた主要14分野 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZZGdpVFlkd01sR3FyTkU2Y1NDbTBUSHNzZnZMTmY3dnN2NFhJSEpieUU5STBPekM4Nk80ZTQ4eEZyMUJtcDM5LWJIY05NYzZfekFoRi0zUnhqWlB1dkE?oc=5",
+   "published": "Sat, 12 Sep 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像2 / 3＞「旅好きが選ぶ！日本の水族館ランキング2018」が決定！1位は「沖縄美ら海水族館」、トップ10には九州からもランクイン！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwazVQMGNWRnJqMnc3b1JCSDlic0l0cUpGTEN3Sy1NWXowLWlXdVMtR1JmcWo1OHhkYUZBUm82NkdwdUpfRm02bWNkLXl5R2lfNnRDUW1Dbk1fZjAzRm9meE1rYU5CTFZsQl9zMlpyOWJuX1dnWVk2RHc3SQ?oc=5",
+   "published": "Sat, 12 Sep 2026 13:04:39 GMT",
+   "score_parts": {
+    "recency": 0.799,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄県知事選投開票へ…知っておきたい〝沖縄問題〟～基地、産業、経済、貧困など課題を伝える記事６選～ - Wedge ONLINE(ウェッジ・オンライン)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pbVdlcjRyWUF1M2YxbEs4SFNMZmxWUXlkUkI1cXRHRmJQVTh0RnFtSWdCMHB4VHBfYklVYkpGV0h2N1ZVLUdvYk9YZ2t6c254NDF0NXZ0bjZoNFZTU2xn?oc=5",
+   "published": "Sat, 12 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Sat, 12 Sep 2026 19:38:26 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［きょうの歴史］9月13日（日） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ldE85TVVtUW01WlloZ3BsVnpENUdKLWdybVFlc0ZxY0dZcmZyQ1djd01GR215aUZHTkxuMHdPNjU3My1MLUNTZEFjaFJRc2Q0ZVFDQV9yS1FZX1BBS0E?oc=5",
+   "published": "Sat, 12 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［学びバンク］沖縄サントリーアリーナ 地域経済の中核拠点に 前里慎也 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1SS0p0ZS1oOTdmWTN2anpoRC1KckR1MWlPU21tclBfcmVCcW1jbFNWOFRCQ1k4czZielJxNDRwdnV0OENhaENpb3dIUFBtQXRXeXliQ2ZOSXprWEJBUXc?oc=5",
+   "published": "Sat, 12 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像10 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPNHRfbzJ6QmdnYmk3anI1b1hmQ3F5dlhOMnp0SHI3WHpOWFl5akN3R1p4U0VLOXJXSUdvZlNwTU52d3NkNzZwajB0SUFVVVFwQW84Rm1tRmstS3NuZUV5UXl0X1YycEhtUk9adlNB?oc=5",
+   "published": "Sat, 12 Sep 2026 18:41:40 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「旅好きが選ぶ！日本の水族館ランキング2018」が決定！1位は「沖縄美ら海水族館」、トップ10には九州からもランクイン！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJZWdhTTdlOUdZWnhQMmhvWXFIM0tUeXNETlpaSERKdFdrX002ZHdUVVA2Z1VvRTI1TU1sdXlNcnl5TGxzTGRBX1BsSHBBQUsxSFVlRmdEcHNLSEZQZjZxNjZTUFdVZ9IBa0FVX3lxTE9FNUx4VHR1NlNnbllWQ3JhMDQ1TlZEeFZjeDhCX1RUcE95bFlicUpXWmlnbC00S0pzZmlJSHExTDY2RHNpOWxpUzhYZndVRmZzdWEteFp0ZmNwWGtva21pcllzc2JpcVY1aTlz?oc=5",
+   "published": "Sat, 12 Sep 2026 08:00:36 GMT",
+   "score_parts": {
+    "recency": 0.694,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "自民党関係者「沖縄知事選、圧勝する空気」も…玉城デニー「2期8年の実績」vs古謝玄太「県民所得倍増」、どちらがマシなのか？ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ua3NtNG9yQWRpRHp4WW1MVVNDSlRHa01NRng5UWFHRTQtaDUxeGw0dWhOdWpWbG02UkdJZ1lMZXlwaUVwUmpjVmsxVVVFWnB4UklScFVuVHBtNlZvelFKWHN4eXpMTFluYkNWLUZIMWFoSUs4TjVNag?oc=5",
+   "published": "Sat, 12 Sep 2026 16:00:12 GMT",
+   "score_parts": {
+    "recency": 0.86,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像1 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mcXdjWWNHOFJ3UTVCeEpXTFNHOGdDcEhncGZ5R21uMzN5MkVHTi1CYklZRExvb1B6Zlh2Y0xvTDNLQkNQVER4U1RpakRQdzl4bmdOdnhBZmN3T213aEY0cHdHaERhLWZCaU1fVTJR?oc=5",
+   "published": "Sat, 12 Sep 2026 15:08:56 GMT",
+   "score_parts": {
+    "recency": 0.843,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像2 / 2＞マック“夏シェイク”第1弾は100％沖縄県産パイン - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aaVNobGpWQ1ZNLVZzSkNqN2JVNFV4ZVlSZElKNzhyYXM1bXlzNFhxR0RUejhuRlVUVUhDLWhWZjRnaXJqSHJGZEFsN21sQlR4eUxNT1h0WlNUZ09mLW9KUUkxT3F2bnFW?oc=5",
+   "published": "Sat, 12 Sep 2026 14:10:02 GMT",
+   "score_parts": {
+    "recency": 0.822,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像8 / 20＞マッチョな沖縄消防士、チャリティーカレンダー第3弾の撮影会に潜入！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LV2FUQURWZ3BsQVlyUXEtMnJZWml2N3B1TUdTeHhFMXhtX2VFYlpUWDhpQURfb2p2MFV3ZGpQcGo3YU44ek5uSExURkpMT0VhekpMNmRNaTZ0Z2VRS0ZiVlRJTmViNmtX?oc=5",
+   "published": "Sat, 12 Sep 2026 13:52:55 GMT",
+   "score_parts": {
+    "recency": 0.816,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄知事選、１３日投開票 - 日向経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3aDh4T2l6UzZKRzF5SUVhYXNNamNKV2pLWW8yWEh1Y2dNYjJEdWdiQ3NVSnhCaXIzMHB6WHRGZ3NqWE5SZWJxTmdTeTd2SlV5dUE?oc=5",
+   "published": "Sat, 12 Sep 2026 12:45:49 GMT",
+   "score_parts": {
+    "recency": 0.793,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.538
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像1 / 4＞新感覚ナイトクルーズ、沖縄県沖縄市で「MOONLIGHT CRUISE in 東南植物楽園」が開催中 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ycnVFNHBjd3VkLTNRUnlfU0VYVXM1a2x3OW5mcTVsb3JVeGxTRG9CVWtQLWJsNnVsRXRIMDgteUY1Y0lxMWR1MjA1bTdiZDhXaHV2Vl9oVEM4YVVJVmNBV29oV1ZzNF9WRW9WT1pB?oc=5",
+   "published": "Sat, 12 Sep 2026 12:31:49 GMT",
+   "score_parts": {
+    "recency": 0.788,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.536
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "緊急着陸時、ミサイル搭載 那覇空港に自衛隊機 他のF15訓練は継続 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoT2ROMjZlT08zLUcyMVUzWHh5eEhTa2tyekluOHhJcDk1c2Y0YXI0UHV5SGVBY2F5ODU0UzUzOXZuNkxkQ05sTXNueHlNREVjRi1iRHdJaWZMOS1Nc0pRNw?oc=5",
+   "published": "Fri, 11 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.444,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.533
+  }
+ ]
+}
