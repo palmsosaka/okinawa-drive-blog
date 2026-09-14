@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-15",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 186,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【政界地獄耳】国の大盤振る舞いの後は…これからの沖縄 - 政界地獄耳 - 社会コラム - 日刊スポーツ",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUlrQzVLYXZOd0hRVVJkVTNBNU9icHVlYXhZQm85MDRuN3F5MjF3UUJEajloTS15dVdVUktZS2RtTGc1Z2FDcTByLTdOajBBTkdBbzRXSGJVUzZVak1GLVZPa0hpR2kwb290eWRmbHZ6Wlo0VWRIRURfR1QyYzFqd2FFVUloN3c?oc=5",
+   "published": "Mon, 14 Sep 2026 22:35:18 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄県知事選 経済振興推進を期待したい【社説】 - 世界日報DIGITAL",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DZ3N6elQ4WnQyeVdFR2FfUVlfWS1GOTZ5X1REZmJCcWp1ZkF2cWpaeFBCOG9wSC1lcVIycHRRV1YzcEJ6MUJGVjNHazFFZElZNi00UWFfMkFaMERFZnlJd2pNVFZsQkhxY1FEVVFfaG4?oc=5",
+   "published": "Mon, 14 Sep 2026 21:27:22 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄・豊見城でeスポーツ×ごみ拾いイベント「eスポGOMI with 琉球コラソン」開催！ - STRAIGHT PRESS",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zZFE0YWdDWG1TRWU5c2cwV1pDNFgtNUVBSjhOQkpzQk45V3RCbGhVZkkybU14MV84YndRSHMzSFdhR1hJaHFPb2NBUEQwbE12UTdZ?oc=5",
+   "published": "Mon, 14 Sep 2026 13:20:51 GMT",
+   "score_parts": {
+    "recency": 0.787,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像15 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZ3BoRy15OVZkS21GWTc3QmVmT0RtV2tEbDFZZDBsWmhmYVM0aXlWeEd6ZVkzOFlEREV6WWJ1UGN4Y1lfMlBNTGNpSklmWWNsVDg0dkxYeW8yZ2dZRGVXcTY5SnhBY29Sc3lYekd3?oc=5",
+   "published": "Mon, 14 Sep 2026 19:16:19 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "論説 沖縄知事選 対立避け普天間返還を - 山陰中央新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02Uk5pdkVnbjE2dUJyMWhrUjNXbk1qc2Y5cDRXd3BpdTMyS01kWFUzejhScldUbGJSaVRRbGdBb0piMXhHbVpKS0NCaUhPQUtVZmVFSW85T2hwTFU?oc=5",
+   "published": "Mon, 14 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "地域の足 ローソンに拠点 Lime社 シェア用電動ボード 那覇7店に駐輪場 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MMDlYYmlJYWhXMWxhd2RUN1ZPajdsM0p1N3hoTTFGUG1Ba2ZjY25URTc0LU5PU2FkLTY1ZWlWU3dmVUoxUzM5NEZwM2RpbmZSM2tIdk5RQndpcll6Nmc?oc=5",
+   "published": "Mon, 14 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "F15トラブルで 2件の抗議決議 那覇市議会 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84UWJjVjVSZmh2ZE9Nc21ERTNrVEdrbGQyY0RVSUt1My1ULWN2MUZZNkpkY0ZHczdkZE1DQmVCemlvS0xhME9SU2JMVWh1N1ZkTndMMGowOE5tN2QtcUE?oc=5",
+   "published": "Mon, 14 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "相次ぐトラブル 再発防止を要請 豊見城市 空自へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tSGhXLWJsNmtHcDdMVEtJTUZEWGFOLXdtbHBNS2xqZ0wyTm9WZWV6b3lid0N6bEloaWZUZ2dfdVJnWmNZZlF0V21CbGdHOXhPa2J6SlFlSkQzTGxBZ0E?oc=5",
+   "published": "Mon, 14 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "2026年9月14日(月)24:00～「ぐらんぶる Ｓｅａｓｏｎ３」＃１１「沖縄再上陸（表）」 - TOKYO MX",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbFprQVU1TTBJZXBKV3o1czlVS24yNXY0VnhIeGZtdFI0YlN2ZTJuY085S2Z2SUwyZVZtblRKX1NwaTVKUUkyYXhrU3lUS1ljM3FacnlDYjNyRTFvcGRyc25fUk5PZEYzVEd2WkR3aENhc28?oc=5",
+   "published": "Mon, 14 Sep 2026 14:30:21 GMT",
+   "score_parts": {
+    "recency": 0.811,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ニンビン省は、「九州・沖縄で開催されるベトナムデー2026」において、文化とOCOP製品のプロモーションを強化している。 - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcHIxd2JkdUNvNFFsZjZyckdoSjVxNFJuMXJzM2phZVdJal85V1RPSDJWakFUQm54Ny1VQ0w3TlFYZVFZVzFBU1NzRkhaRjBRd2J2QmNrTzdYdFk2VmgxNHM4Wkc0VnVYeGg5MXloUW43YWtYd0JCRU9TYnd2YVJrclV3TmFWSFFfV0hUcmZQV2lSeXAzN3RJMTRNWW9lY1pmN0FyajhCWGxZRldUUnFGWFV4em5OeFVieTJj?oc=5",
+   "published": "Mon, 14 Sep 2026 14:23:05 GMT",
+   "score_parts": {
+    "recency": 0.809,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像12 / 20＞沖縄初のK-POPスタジアムライブに1万6000人、KARAは4人で出演 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcGM0QzBBSXM4UXktQ1BYV3pfRTgxWVhvTGI2eTBpam9BV3ZIR2M3ekFBa3J5RXNUVWlvMXVJbHItUGFrU19oeFlveC1haThyWkk5c3Q5QlRyX0Zjb09aUmQtTG4wVkZO?oc=5",
+   "published": "Mon, 14 Sep 2026 14:26:40 GMT",
+   "score_parts": {
+    "recency": 0.81,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像1 / 4＞沖縄県にウルトラ戦士が集結！ヒーローショー＆展示会が同時開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNT1FlWmVHWnUzZFRQWlVBVkRxa0g0X2VOb0F3UUdWOE01U2N6bGtWOGpqMkVNQ3FOT0VtRnI3TjZqWjBWZG9yd29HM0tIVm9IRVk2U2tJQk9KQ3RJZTJlNHl0SVFQcFI3LVZyZk1RcldfMFRad2pvVFA0SQ?oc=5",
+   "published": "Mon, 14 Sep 2026 14:11:12 GMT",
+   "score_parts": {
+    "recency": 0.804,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 4＞沖縄好き待望！新宿・歌舞伎町でうちな～イベント - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pd1dlRGNyam1QbUZhQ3Z6Rnl1Ti1qb1BSc0xsUk1aQWFSb2lmM091ZzB0Z1BtMzVva3dGb0pMYnVLaVlIMDF5TXludmYwYXB4dGt5OUlEMG9RQmluSzhUYjNsTnNNTDYwRnc?oc=5",
+   "published": "Mon, 14 Sep 2026 21:06:30 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.535
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 14＞沖縄・粟国島の年に1度の祭り「『ア』の国まつり」の開催が決定！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kMW5pNkVTcGNjYk8zOXpxRTR1aGRUR3dtSXhKZE9RSm9JbEpvXzdzSG1ReG02QWpHZFhOVVhLTXQ3S01acTUxYzdBYk9Hc1lVWi15Q0hXWlpoWldsTWltd2RTQVluOE5X?oc=5",
+   "published": "Mon, 14 Sep 2026 12:02:51 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.528
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "台風で外出できない観光客にネイル体験 15～21歳の生徒が施術 那覇のホテルでイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TWFFCWFlFakgtQ3hwN19TM1dVeGJ6NWRBeGJ3Zy1pY19CdVhUeHBBeE5VTDVIODZydTZXVVgwLWpYQnJzekF0UEJmX0V6SDhzOEpxM2lwZVlyZ3dCTlE?oc=5",
+   "published": "Sun, 13 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.404,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.521
+  }
+ ]
+}
