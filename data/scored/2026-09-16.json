@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 208,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄トヨタ自動車、国土交通大臣認定「交通空白地有償運送運転者講習機関」として講習を開始 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Fd2pjSTlYRHZGUlpXdk9YbWtQOFVaRUtmYXZHU25IZFU3Rm12WDRhMFVCMU1ZVVZacVdqRHhPWW95U05sTDZwU2RjeE4zNzBZTnFOaUhlTmxLbWg4VXpBbzdBYnVFOGlV?oc=5",
+   "published": "Tue, 15 Sep 2026 12:51:17 GMT",
+   "score_parts": {
+    "recency": 0.783,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄ー福岡路線が就航70周年 那覇空港で記念セレモニー - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrMGd2dmNYTVo1Z3hjWjAzOHM1SU1JdDJzb0lWX1dMY1d1ZVJLVEk0aE5VVnBid0VhUUJDQUZIcjhwX20waHFEckRhNHZiSVZQVVZfb09NdXFjVDhROS01MEY2blY0UTJZVXN5b21R?oc=5",
+   "published": "Tue, 15 Sep 2026 10:08:12 GMT",
+   "score_parts": {
+    "recency": 0.726,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄ー福岡路線が就航70周年 那覇空港で記念セレモニー（沖縄テレビOTV） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjcldleWdjeWhKMmY1MGV4MWotUVk4VDZibVVOQmRld0JweHNuN29CQUtsOE00Nm5zWjFXaFZReVVqb0dOQ0pCdVNLOHpfcThSdHNBZWRxZG90VVRDRUdpV1AzcG53ZXZtM29IZS13Q3ZGMzVHWkJLR2Njam1rRG8?oc=5",
+   "published": "Tue, 15 Sep 2026 09:55:01 GMT",
+   "score_parts": {
+    "recency": 0.721,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄ー福岡路線が就航７０周年　那覇空港で記念セレモニー - topics.smt.docomo.ne.jp",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTl1TFZqLTRrdXJoSmJ5dVhNM1NzbWtReDgwaWF2ZDVtR2FWclRxTGQ5OG53ZzJjTGJtZzllZmw3aFlLZWdjMkhubzdyR2w4TlBwdV9xaUg4RFdLSVM5dUVOY3ZGeElCaThEaGhVTU9SZDl4Mks4U1VxbVZlR2hiZdIBgAFBVV95cUxQdTl1TFZqLTRrdXJoSmJ5dVhNM1NzbWtReDgwaWF2ZDVtR2FWclRxTGQ5OG53ZzJjTGJtZzllZmw3aFlLZWdjMkhubzdyR2w4TlBwdV9xaUg4RFdLSVM5dUVOY3ZGeElCaThEaGhVTU9SZDl4Mks4U1VxbVZlR2hiZQ?oc=5",
+   "published": "Tue, 15 Sep 2026 09:09:00 GMT",
+   "score_parts": {
+    "recency": 0.705,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄ー福岡路線が就航７０周年　那覇空港で記念セレモニー - topics.smt.docomo.ne.jp",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtWVFjajFVYktrTDlWZ3p4aGMzc1hpdlNGSFBnZmpIb2JjdEdaNmkxcnl1OExBWGJRc0UwWEpaa0dOY2dYb0hrNzJHRV9wLWFHekNwOUpVZ0xtNDdTOTV3WmlPcEYyZDZVMXFEUm5Jd1BiTWJSVlFrUWxGZ9IBgAFBVV95cUxQdTl1TFZqLTRrdXJoSmJ5dVhNM1NzbWtReDgwaWF2ZDVtR2FWclRxTGQ5OG53ZzJjTGJtZzllZmw3aFlLZWdjMkhubzdyR2w4TlBwdV9xaUg4RFdLSVM5dUVOY3ZGeElCaThEaGhVTU9SZDl4Mks4U1VxbVZlR2hiZQ?oc=5",
+   "published": "Tue, 15 Sep 2026 09:09:00 GMT",
+   "score_parts": {
+    "recency": 0.705,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像18 / 20＞大型イベントが盛りだくさん！沖縄で｢観光月間｣PRイベント開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OeXEybWVJMWRvOEtEZm1ETlgzb2ZHQTdhdDlRVGs5a2lCOUdCQjVqbEVTX1JWV0ViekQ2TmxRWGxNT0ZtWWJielk5b2M4bkVPTC1PS0ZtNGxUdUdTYVk1Q1l6WHpVbnNm?oc=5",
+   "published": "Tue, 15 Sep 2026 15:33:10 GMT",
+   "score_parts": {
+    "recency": 0.839,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "頑張る自分へのご褒美に…心とカラダをチャージする癒やしの沖縄旅 - シティリビングWeb",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wbVJBblh5SEZMek9BcG1EdnB5NTJZdVZjcm1MdzJkOXFQVEltSGZQQ3hvT21YZmc1cW1xQU5Ub1FxUkg3eEo2VEVfT1NMb2xjQlFLQ01FcTFlOXRoNGNJc3BoNA?oc=5",
+   "published": "Tue, 15 Sep 2026 23:00:51 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "共産党・田村智子委員長「なんと情けない政権なのか」と涙の訴え、沖縄知事選後の政府予算3000億円超“増額”が波紋 - 週刊女性PRIME",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0taW5ZX3A0Z1RCdERtUUZsMnJYbi10aXdGRWlTeHQtTnRvSzZwZFBvMEc2Q21FbkxoNlBrbWU2LTQ1Qm9sdVBVLWlxTjhpdGM?oc=5",
+   "published": "Tue, 15 Sep 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.963,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［解説］潜在的な住宅需要反映 県内地価上昇 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5taWRlWklPNGhmMG1YbW41cUU1dkdSdHZ6LURscVViMFZ1c2VLMkkyb2VYRTZpb0J1NkhBa2dCQ1FvZzBPeDJDTHdJOHgxTUdUejM2eDB6RmY5TjE0Y0E?oc=5",
+   "published": "Tue, 15 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：熱帯低気圧 台風発達へ 連休中 沖縄接近の可能性 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1Ni00NU9VUk9abVN5UXpEMzBycy12SS1Gbnc5aGdNUUwtNE9KMWgzOVlwQmZfb0kwN21tVnhtbmVwYnIxMmRhNGlIbmdpUWdFaXVLTHF3Z2otQVlaZTM2ODJEYkhKdw?oc=5",
+   "published": "Tue, 15 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "名護市議選2026 候補者一覧と開票速報 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ibV9FRWFrelZhRW1zOHpPRHpITWdVNGpwdHVPS1RMVTh2WGtKSVQ2b3dJbnpPbXJYNTB0eFY3djNYaGY2SEhSblhRMnVaaWQ0dzRyTVdueDRULXcyYndUQlV1TF9EblBlb3FEaENJZXNtTEdiazFlR3hn?oc=5",
+   "published": "Tue, 15 Sep 2026 19:01:59 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "悪役主役のディズニー、今年も ハロウィーンイベント１６日から - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWM0J4a1c1bDRWYVpPOHlFZ2JBSlhfcHRDRUR5NFpEWk55Z3ZvS0FGekxmemlfdldaekUwbnZBSGh0dzVxLWx4dVdtSE5MQVNEbUVKMnU1YV9PVmtGdlE?oc=5",
+   "published": "Tue, 15 Sep 2026 09:08:51 GMT",
+   "score_parts": {
+    "recency": 0.705,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "10月25日手稲山の日記念ウォークイベントSTEP２ファンウォーク＆マルシェ編を開催します - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04U25mbDBXb2ZNR2lPRUVIWXFsNmlXT1ZKckJJT2podnA1M2cxTnY0NGhNYW5JZ2ludXBWY3pTWllpUlpjdXFXSTZqSS1sSkYydFVwRUozbDNNVzAzMkE?oc=5",
+   "published": "Tue, 15 Sep 2026 08:20:11 GMT",
+   "score_parts": {
+    "recency": 0.688,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄銀行、那覇のホテル計画にノンリコース融資 中国銀と協調 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeVZ4ZUpuNmt1ZGdxTjJja2FtcVlELS10XzFfMU9pZ0dKM0pjYzJoRXRHLXdmQS14MDJnWFZhSnNPUDFVeEVmbkpfYklnRlktQmxGRWRYRlFFVnpGZXhJZlN6TjlmRzZCLWhaTQ?oc=5",
+   "published": "Tue, 15 Sep 2026 06:29:49 GMT",
+   "score_parts": {
+    "recency": 0.65,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "高雄と石垣島を結ぶ直行便が開通 沖縄・石垣市長が代表団を率いて訪問・交流 - rti.org.tw",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zdGNnYVhqX2JsazFOc0QyU1BnZldyalA0SEt4NUVVeU1NT3RIcG9OQkszNktVcGlsX2pKQmZJWjZycWFoc25iZnBfVjlWUkdzVkFQcS11cXBaM2c?oc=5",
+   "published": "Tue, 15 Sep 2026 14:29:56 GMT",
+   "score_parts": {
+    "recency": 0.817,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.545
+  }
+ ]
+}
