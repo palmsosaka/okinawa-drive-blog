@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-17",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 199,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄の文化や食楽しんで ２６日 藤枝・鬼岩寺でイベント エイサーや三線、琉球舞踊 - 静岡新聞DIGITAL",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lcnBId3loMmhzU2JfVTh1RmwwMms2UmpQUWJvak0yb003Vm03Z2trZU5BVE41TnhKUllyWnF0NmdJOXc0SGlaejhtdVdZQQ?oc=5",
+   "published": "Wed, 16 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.95,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄のロボットホテルに泊まってみた 近未来を体感、企業実証の場に - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzb2gxVHQtdnZGai1ncndGT2JtUlBsUXBrOWgyWTc3QUtXaDF3Mm1KV0tNSHc1UVNXNnF2RkF0MGRnTXpuNlFLbHpuUG9LMWpZMXlrTmdVOWFUT1h5eXhNME1STG1Fa2d3bzNpUQ?oc=5",
+   "published": "Wed, 16 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「樋川ホテル」に融資 沖銀、中国銀行と協調 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnaGhHX1U0VnE2UFg2eFBlV1VhNkNyVVFOOUhuc0pLbWQwSDdObUJSTzNFN2ZyRkhUTjJwb0xrQ0xwYzFVVi14T05ob0NETlRVdS15dFBfNmhFZnlrWVE?oc=5",
+   "published": "Wed, 16 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "■イベント会社に罰金判決 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91UkZKY0J3U1E5dXBRclBMTGIxOXluV2x4TVpTTGlzcExpZ2NJTzFRbFowdDZNcEZZZmVaUHFPVkR5RlQ5N005UVZpQ3k2VmxQVWhjQlRDbF9la3RXMEE?oc=5",
+   "published": "Wed, 16 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "首里城周辺で防災イベント 19～21日 展示や舞台 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1QTNzci1jcGN0ZGxiOTJyd2JyOHcycEg1bFRsaTRKV05iV0kySFUtMGk5N3R1SmhYbkhlZVdSUW5yTVFraW1wTGdoM1BKN1poVVJMQk5WYkFpcm5SUGc?oc=5",
+   "published": "Wed, 16 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄県の「県民所得倍増」、担当職員配置に向けて調整…米軍施設跡地と那覇空港の一体開発構想にも配置意向 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHNyWHh4RGhXZDZmWVhwWlI1MjBDWUxubWxCTkRwRGNlS1VGZ3ZMeGpKeFJzcUtpcG9LSHBvMEZOdDVBTHdlbkRxZE4wVXlFWGZUNHZtbTdhUEc0bUQ0a0VrVnZ6cU5qTUJqdlRiYV9mWFhrVmNGcG9sUVI5RUJlb1JGSGxLTEVjZHRrN2ln?oc=5",
+   "published": "Wed, 16 Sep 2026 09:39:30 GMT",
+   "score_parts": {
+    "recency": 0.714,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "果物や喜多方ラーメン 福島県の特産品約50品を販売 沖縄ツーリスト、9月26日にフェア開催へ - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SRlVUcWMwdk5sUFJuV1lmREFQVkxVdF9lMFRydjhOdTdSREM0bmFfUEFjaGtBcHNvT2xYbXZWOGJGeldFSXJiRzk3OV9SWHFnamZxM0w1SkVZNjVLcGhUR2tjbThyNkJpUWc?oc=5",
+   "published": "Wed, 16 Sep 2026 22:14:00 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "［社説］高市政権と普天間返還 なぜできぬ期日の明示（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YZVFmbEdYVFQ1Zk1MUFJsNG1KcGZQalZ2cVBQZk4wa0Y2aGxiR3FuVlRxZE14YzlIT3FQT08tVDVwSFd4S2ZRMDhMSEh1M2toenJVR0Qzd2xrWTJQSlY5UkVwcFVjUGcxRDBGT1RJbFpHMGlyWEhfZFgxOGNmOG8?oc=5",
+   "published": "Wed, 16 Sep 2026 22:16:18 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄県の「県民所得倍増」、担当職員配置に向けて調整…米軍施設跡地と那覇空港の一体開発構想にも配置意向 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIWnJTZHJTeFd1a29QSjZHS3hqR2NqbVRNZjBoN1NKbGZjZmJLYmFhZWN1b1JRRXBLWVhvcHdYRm9Vazd5V1JlT25PU3BoWkYwYnJKRVdBMFpPZXJ2SjRwR2FqMzMyQnkxRHE5MlpfU0xFckQxMEMwNU1YWWpFTlE?oc=5",
+   "published": "Wed, 16 Sep 2026 06:00:20 GMT",
+   "score_parts": {
+    "recency": 0.638,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【（一財）沖縄美ら島財団】沖縄美ら島財団 総合研究所 小中学生向けイベント開催！「さがそう！わくわくのタネ～あなたの好奇心の花を咲かせます～」 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zOW5pYnptYi10THBIbmhmRy00RnR3dEJHNV9vd2w5NG1NakdJdnpRMUR6a2hEdWY2VEY5aUk4UFJVNTFHZ3Z5a3I2WjR5MXJINXNPZFFiNHZnVnVqQkIxa0Y2ajM3cXBCclE?oc=5",
+   "published": "Wed, 16 Sep 2026 12:45:28 GMT",
+   "score_parts": {
+    "recency": 0.779,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "そりゃ若者は離れるわ…沖縄県知事選で玉城デニー氏が大敗した納得の理由 - ダイヤモンド・オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fU25OMFhIRlZWS3JGM0pzNlRoVlVyWGJYZVdVQk53TFd4QTRURjdBTmltSEFFTjdnM2hTUlNTT2NDQnJoUjdpNFRMSC1NTjTSAU9BVV95cUxNX1NuTjBYSEZWVktyRjNKczZUaFZVclhiWGVXVUJOd0xXeEE0VEY3QU5pbUhBRU43ZzNoU1JTU09jQ0JyaFI3aTRUTEgtTU40?oc=5",
+   "published": "Wed, 16 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "そりゃ若者は離れるわ…沖縄県知事選で玉城デニー氏が大敗した納得の理由 - ダイヤモンド・オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxU0tjXzVHcnZ1RkFVenBYYzNKYktwMjc5LVlDMWVrWjZqeEU1S2hhdUJFV1hYa1lzdGVMU1ZKMzk5Qmt5RW1CemtQTUlTbDhjYnlxcTN30gFPQVVfeXFMTV9Tbk4wWEhGVlZLckYzSnM2VGhWVXJYYlhlV1VCTndMV3hBNFRGN0FOaW1IQUVON2czaFNSU1NPY0NCcmhSN2k0VExILU1ONA?oc=5",
+   "published": "Wed, 16 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像19 / 24＞【沖縄】息のむ絶景ビーチから雨の日でも楽しめる工芸体験まで！「宮古島」でまず行きたい観光スポット - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51Y1FDc3dpMjFsM05Pd29PN1MxSEY5SGhTcmQzNmFqZzd0Tk43TlRUV3c1QVBuTHFhWjJRYmF3VjJzWFRNUk5HRVlsd3NXbTVYc3B2M0FhTEJrbFlILS1UNl94UDduNXcxSTJJVmR3?oc=5",
+   "published": "Wed, 16 Sep 2026 19:23:04 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "豊見城市長のレンタカー問題 市民が「糾す会」を結成 市長に車使用の契約内容など公開質問へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91SS01MGJ3NGxpd3pEZElvNmFQZ01QM3Fnc3J3WjVXRW5tS0pYblJQUXE0RkJqdldXdHR1ZmxsbVNNQks1TXRHZWVNNjFpNFpYeXpiZVNhaUFaQ2FOYWc?oc=5",
+   "published": "Wed, 16 Sep 2026 02:49:00 GMT",
+   "score_parts": {
+    "recency": 0.572,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "初音ミク×沖縄！CHURA MIKU STREET 2026第2弾情報 - Koubo",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15dHQ3bEJzQzRDZ2pnTEtlUVVXQ0d5ZlRQNjg4LUE4X3g1M3lBR2VHeVUtVEZnSXRldW5ZTGxLMDMtcll6Nmc?oc=5",
+   "published": "Wed, 16 Sep 2026 18:26:54 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  }
+ ]
+}
