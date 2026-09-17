@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 185,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "那覇空港、5G通信整備　沖縄セルラー　きょうから全館 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaElNTmRWeG90SWp0WFhZRFlSYWdTcXlSOXo5dGVtTDE5aUVWYlRQUWZ3Y3RYVFRFbW1VZ2RUTlNIeXdTdFdxOFRHMmJtdmhNVFRJUzlNeURGQ1JvcmlZVW0xTzdFU1prS005X0k1SzRnMzVXaGRXOUQ3WWhaazNBWtIBhgFBVV95cUxPVTVwcHpabWtYWG5ON0RNVFE3SUFTa0FNUk8xZ01GLTY1QTRCTzJXbVgzcTFvekVKb1hTSW45QUJJMzMwSWs4d0tMUy04QTNaa1YxbGtmOW9JWDNJeFVtMGE5Q21VbWtwZ3JpaDB4SktkbXFMRnBmbGJuc2pxVGNWMG50Y3V2Zw?oc=5",
+   "published": "Thu, 17 Sep 2026 23:02:18 GMT",
+   "score_parts": {
+    "recency": 0.996,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.699
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港、5G通信整備 沖縄セルラー きょうから全館（琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJMl9hN0Zsb1dveDZWeEJkYVc0VEpUcm40LWdyZVU1UUJaQTJEallQbEZ1MmhLX0Vfc0g2STktWVU3cVltNDJtS0hMUnUzWFZLaGx4Zmt5RFZ0MzY3YmdCYmJzUWJyZUVEYU4wcktlSV93S2FMamdVbUdPNndRR28?oc=5",
+   "published": "Thu, 17 Sep 2026 22:41:21 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "九州新幹線５２日ぶり全線運転 熊本地震、復興へ観光促進 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nZHRJUDV6UTg0Q09WRVhHcTlDV1pzYUtjRnZqYWxBWHdiQUxzcjNqcWFHdHk4OEpESzVKV0hZMVJiT0lrSXVjN1dWb2R1bjZ6dkU1THhwaGZVcWdITlE?oc=5",
+   "published": "Thu, 17 Sep 2026 21:36:02 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.69
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港、5G通信整備 沖縄セルラー きょうから全館 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hamc4a2twMEhrVU9LS2JnU1VIeGNERUd3LWxXeUZtT1U2SlhCM2U5YmFKRVFzZDU2WGpXZGVXem0xUXRNRmxrNUJnVQ?oc=5",
+   "published": "Thu, 17 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.68
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "羽田線就航20年で式典 スカイマークが那覇空港で 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xRFJRbDN0NVo0dUJzM2ZPbEhkdWZiQzBFMlNrb0h2YnVhZG1QQndHTE5RUV9jZ2FDX3NFNWxIWVJxYmNTVHNPZHM1UQ?oc=5",
+   "published": "Thu, 17 Sep 2026 05:46:34 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "岩田剛典さん、夜の市長に 名古屋イベント盛り上げへ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44cWZMSVlpc2cwa0ZiamF0MVRfNzJPVVFvbG5sLXlURnc1VlJkNnM2Sl9FVm5TUk5aQ0ZGWW4yRWY3S3kwaUMxbDFCMVZZLUUzR1VzMVh5YjJtVlB0cVE?oc=5",
+   "published": "Thu, 17 Sep 2026 12:16:31 GMT",
+   "score_parts": {
+    "recency": 0.772,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「ジンベーニョ」観光大使に 那覇市長 委嘱状手渡す - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZVVJbEtLamJFdmZVYlZHVmhvRzUzVFNpYXZESC0weFlNRC1adXQ3LXhBa2FMOWNJNWU3TFM2R200ZmRwNmRoeWN4d1cycTBVSmUySE8zNFdKWFAtYkE?oc=5",
+   "published": "Thu, 17 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "3町出展やちむん市PR 西原観光まちづくり協 西原で22日 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jOHFTalNUQWNzY0V2SVdBLXV3UW1OREtKYmJVemtXdFI1aVZ1Sk9BODZKWlk3dUZwX29JVmM0WEdJRzMzRkxUYW9FNDgxM19XdDBMYW5RaUhSQV9YV3c?oc=5",
+   "published": "Thu, 17 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄の出版文化学ぶ 台湾若手編集者 来沖し交流 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81dGtRancwOGZwUWlfeWJNS3lvR2NXQm9oM2JSX3VTbUZndnF0NWxnNEtOQWR0WURYbzhxNVNtOUVKc2VYMTlUUDUyNkZqc3BPM1dPd0ZKb3VYaS1sU1E?oc=5",
+   "published": "Thu, 17 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "県内水難事故 29人増109人 シュノーケリング最多 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSnFNUzg5MDVKVWZCYjliQlVLQmxxRk1mdG5jTTlVSElfa0NXNXFtSmZ5REF2U2E4c1lKcmpBdkE0OTlnLTV4NkE2WEVyQWFlZmM1aGtfa0pEYl9CbEE?oc=5",
+   "published": "Thu, 17 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇-福岡線の就航70周年祝う 那覇空港でJALとJTA [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HNjNkRnN4OXJiUms5dG5yN2hSTHIyN3p1ODRCem1uWmwxZk13S28zR0VPT3VHNmdUd2R6MlRDbU9tb1dNd1NmYzZMTjhOUUU3SU9BbmctQkpJN3NKQ1d3YlB6TzM5Q3JxdnZrSzh3?oc=5",
+   "published": "Thu, 17 Sep 2026 02:30:00 GMT",
+   "score_parts": {
+    "recency": 0.568,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港、５Ｇ通信整備 セルラー、きょうから全館 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wVlZtSkR2WGtNN29kNDlzX1FIcHhjSGVqUE93U2pJRzZTSUhHWTFjWHRsS01NZVpLODF2M2tQcC1NNzFtcUlZX01BNmlJZzJTVllBQzBlX2lOMFJOcnVNWHZB?oc=5",
+   "published": "Thu, 17 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Thu, 17 Sep 2026 16:40:22 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像4 / 4＞“怖い”を“楽しい”に変える「お化け屋敷」イベントが沖縄上陸！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xMWhGc3hoZ3BXNndjVUsxVGQwX21lRVd1a3RDVzJTTHl6MFYySFYwb19oSnZuWXEycTF1M01HUjJUSlEtTlRxU1hLQUpZTjVVY0FtdE54TWdfVkt4NW1PUzRWTUVZWW9z?oc=5",
+   "published": "Thu, 17 Sep 2026 06:13:55 GMT",
+   "score_parts": {
+    "recency": 0.646,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.544
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：【東京ウオッチ】“東京という舞台”で国境を超え創作対話 グラフィックアーティストＶＥＲＤＹさん初監修―表参道ＧＹＲＥで現代アートのグループ展 いまのＴｏｋｙｏをつかむイベント情報（１９日～２９日） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tbUpXU0NoNWZTMFZJWEJRRDNGSVJ4a0F1UUtudURLRG9QZ2pDZDh0d215Ul9sM1JRYVBJOFVLZXU0ZlBucllQaGJZaVZzSktEY1Z2c2VMMHpYbHc2T2w4QmFFZm1rdw?oc=5",
+   "published": "Thu, 17 Sep 2026 05:44:52 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  }
+ ]
+}
