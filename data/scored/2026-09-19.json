@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 178,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【大人の沖縄旅】那覇空港から車で約20分。「サザンビーチホテル＆リゾート沖縄」で過ごす1泊2日の弾丸旅へ - topics.smt.docomo.ne.jp",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW5BV2I4TkZDRVpnclB3OHp3Y3lWWnBvYmdwb2wwbm4zN29FNDdWa0JqVWVfdV9tbXhIdEVtdFMxQWhmZDVFOVJFYXZuUUJlZzdIaHpXMlZaTDBVVHdhQ3NfeEJNcm1NU1A1QXRtVXFKNGNDazNDbndYeDhmT3AxcGFDSDRzLU3SAYcBQVVfeXFMTXFuQVdiOE5GQ0VaZ3JQdzh6d2N5Vlpwb2JncG9sMG5uMzdvRTQ3VmtCalVlX3VfbW14SHRFbXRTMUFoZmQ1RTlSRWF2blFCZWc3SGh6VzJWWkwwVVR3YUNzX3hCTXJtTVNQNUF0bVVxSjRjQ2szQ253WHg4Zk9wMXBhQ0g0cy1N?oc=5",
+   "published": "Fri, 18 Sep 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.701
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ＤＪ集結、テクノイベント 沖縄市 本の世界へもいざなう - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KY1VsV1ZGa3BXRTIxWWd2VGtJZ1AzQWhoX2NIYTlXbDFQVTR2enBjRTcwOXc1ZGxVMDFvUmdnTHpOTFR4RWtEcHQ3ZlNNcEttek1mQjhGLS1pVFFwM2c?oc=5",
+   "published": "Fri, 18 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "ホウライザメ繁殖成功 美ら海水族館 世界初 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiUTBtTmtoSl8zZnR4VmVkVlFKMVM4LTlDVnJBR2hwQVhGelpvUmFndlJURmJHQkFoSlI5aUFGR0NTVTRiZUdFX00wUTlYZ1VCTzB6LVR4QUZRbU5OWmc?oc=5",
+   "published": "Fri, 18 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "写真：ホウライザメ繁殖成功 美ら海水族館 世界初 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zaUY3bnlxZW1Sb0szeEtZN25lVUNTbmNGTVV2OC13ejJWYkhaV2l5TVhQZzRtM0lsNWZ6bVdnTmk2clFRRWkzNUJLblFWVzlsWGh4R2JlZG0yNGRncUxaUHEydndTZw?oc=5",
+   "published": "Fri, 18 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「ベトナムデー2026in九州・沖縄」の開会式 - ベトナムの観光や食紹介、福岡市で初のイベント 九州と交流拡大目指し 在福岡ベトナム総領事館 - 写真・画像(1/1) - 西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1V3pnQkp5U3dtWDF3WHBjNjVoTjJvWFdoNW5IU0VIUTdad01sM3Q3a3ExYzU1Z0c1UVlocFhJYk9CbkhnZEZiT0tMRENTUDVmMWRwM2NlNA?oc=5",
+   "published": "Fri, 18 Sep 2026 15:28:11 GMT",
+   "score_parts": {
+    "recency": 0.845,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊キャンセル、観光打撃 噴火警戒レベル３の十勝岳 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zcmkyTlFPUnZhQWZjSjUzQ2hxd2liX2lKRE1JUXVrZ011dGJtTEtPN3k0X2pIQXk2QmdUcGVnYXNmbFV1di1XYXpFWjQzX21jY1hWUjZMOC15RFBHaVE?oc=5",
+   "published": "Fri, 18 Sep 2026 22:07:44 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄・小浜島のリゾート「はいむるぶし」、島の記憶と文化に触れる体験プログラム「Yaeyama Journey」を始動 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9maF9HVmJxdVozUEg3dUh6eDZtWGdkVkZrUkY4MmllT1RaYlJnM0xNUVNVLTFZVFhxMzE3dFMtTG5INlIzcV9nT0VIRC01TUtBTUZpUkY4Y2twNF82Vy10OG50UU1kWE1j?oc=5",
+   "published": "Fri, 18 Sep 2026 20:18:23 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "世界一高い橋 観光資源に 通信網を充実 中国貴州 情報発信が集客後押し - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zc3ZwLXhNLWhudFdweGpDWHprUmxzRkZUMFJndDF6ZTVOMVFiaDhnYmFqRi1Kc0pIUEZLblJqQXZGNm56N0NUNzNSeGMtMWpRVGpSX0hqdEVaYWtjVnc?oc=5",
+   "published": "Fri, 18 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "泥酔者見守りに終始 巡回中米兵いても見ぬふり 米軍関係通報 1年間ゼロ 青パト元隊員証言 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fdmVKYnlHRmJwaE11bkp6VnFDNm5lblBqcDVGNEhZMkdPUmVSZ243QzVFMnlDQjNXTW5hdWlxMUxTbU9md3Qtc0JiYVpVMTRIelZ0Z2FkS01lR1FLTFE?oc=5",
+   "published": "Fri, 18 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「F15飛行停止せず」 空自那覇トラブル 防衛相が見解 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qLWdkUFJ3aWMyZ2dhbjB5T0txd1o4X1I0aFlvWm1SbkVtTGpWcHNEUEJPd25acTd5TVRwZGg1Wk4zMUMwSi1EQkdPS3hudFRnb3dWRC1WZzRWd0FLMkE?oc=5",
+   "published": "Fri, 18 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "那覇空港、観光客続々と きょうからシルバーウイーク - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94ZHBYVDk5M3R4Nl91ZmV6aFRWNXZCRG9QWDdsdkVlYU0tQ2VhZVZRaGVPX1lOUWxld1JLeVEycUxUUndNalp0bGJsY0x0cGcxTmtVUjFkVUFQYW14aWE2Rw?oc=5",
+   "published": "Fri, 18 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄地区税関の動き - customs.go.jp",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmc0tZdDFHaktyUTdDYUZwcEg4SndLclhKR3RNYWEyblVYZDJPMVRNZlEtdUVYN2gxX1NjTG1hOF9XVm1hRU16b2hYWm9DN3pqVlZnZklFYzBmZnVxbG9INzVPM3M?oc=5",
+   "published": "Fri, 18 Sep 2026 16:19:39 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "レッドクリフ、9/19「沖縄かなさ花火」で500機のドローンショーを実施 - ドローンジャーナル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43T3EwMmwtQ19VMGlWOXhIa1Ata2R5Rkgtb0dmYmljMTFCUnByZGFJWjVKQkJvclhhT21Za1ktYTUzZUFqaC1IRl9VSmw1OHRwUlpPZ29SUmhfRFI5QXVGNVBpSkQ2YzlCaEw5c1BfZm42d24yQlFBVw?oc=5",
+   "published": "Fri, 18 Sep 2026 16:19:12 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "妻夫木聡、土井裕泰監督ら登壇ーー沖縄で映画『涙そうそう』公開20周年＆『宝島』公開1周年記念上映会・舞台挨拶を開催 - エンタメ特化型情報メディア スパイス",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44YjktbkZCWTF1Mi1YWDhUQzBMT2VIcXZDSVdLVU5mMjlMczJ6TWdxTmQ5SnpHR3FGR25IQzBQT0w1cElXUUp5azVlVEFRaVnSAVRBVV95cUxOQWNsWlZPdm81WS1nRUw0dVdURWlWS1hadzNJTnpMcXFIN05VRVVnY1hWR28yRFRZMVhjQ002d0pFb00teEVtR3ZOM3cxelctUFZKMEQ?oc=5",
+   "published": "Fri, 18 Sep 2026 13:46:25 GMT",
+   "score_parts": {
+    "recency": 0.81,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.543
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "うんこミュージアムの秋は「うんこバンド」 東京・名古屋・沖縄の3館で参加型イベント - ママリ",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBrSjFmcnFtRjJ5UTJYcnhvMzFKNDhqYXVRRm1CQ3Z0WmJicVp5cGpkVXgtaEtGWVVsLXBn?oc=5",
+   "published": "Fri, 18 Sep 2026 05:26:21 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.541
+  }
+ ]
+}
