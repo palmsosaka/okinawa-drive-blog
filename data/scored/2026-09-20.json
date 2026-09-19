@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-20",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 165,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ネパール復興 支援呼びかけ 兵庫でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BV2dYTDgyZTFuUU56TnhHdnZkVm1TRm5oMV9zNjl3ZDNQaFhRd2VSQktOYjhKV2NiVUNYRnBYUjVWdzF2ZTVaOGtHaUFzaTlFYnBRdmJqU2RjdEtlNVE?oc=5",
+   "published": "Sat, 19 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "川崎フロンターレvs鹿島は土壇場ホマーノ弾でドロー決着、「海豚の日」イベントに沖縄県恩納村やU-21PRで野田裕人らも登場 - 武蔵小杉ブログ（武蔵小杉ライフ 公式ブログ）",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MRE5PazNtNDBDLXVNaFJiVHotNmFaRE5XbFpQcm9RSjFjUnU1VHhHcG1ENmNZUFJjaktkVC1iMmhmMkdwc2ktaG5LZmZ1TXAxaFI0bHc1NmhKTTVaUmc?oc=5",
+   "published": "Sat, 19 Sep 2026 15:17:36 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄の天気】9月20日から21日 沖縄本島地方・宮古島地方・八重山地方・大東島地方｜Infoseekニュース - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91cVAySEJTaGZoUTVQdV9YNHpjakJ4cTBtekN3dlB6SFpDOVVXOFE2Z20yM081UlhRQk9KWVB1WXdmREY0SElVUmQ3M3lTTWpscE1FVGZkb3ROMkVUaW1mWUFXZW96YktxeVJXTzFxcXo1YVVWd2NucQ?oc=5",
+   "published": "Sat, 19 Sep 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄セルラー、那覇空港の全館で5G提供開始 通信速度は4Gの4倍 auなどが対象 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWtCcC1ZQ3hob1BEOFVWY3o5bHpGQmhYMTZORXRFQldBMFVBcFlhUWh4aGFiaU53ZXVPMk1NUTlhOXFyYXRtWlpYcDJMM3ByTUs5WHV6TGlmVXRvTzh0MU53Z3VOTU1uOVA4b0lSUFhOOVBMSUJLNDhvM1Rxd0ZvbldhNFhnQW9SOTBLNVBB?oc=5",
+   "published": "Sat, 19 Sep 2026 04:01:20 GMT",
+   "score_parts": {
+    "recency": 0.614,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "不具合続く空自F15参加 事故や緊急着陸 日米訓練 本島沖で - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFZlNtUzRaUjNhUFlCZmpnUndCc0dIVVkxQXBUb1lSQ05OVDNyaU52ZTRYenBEekZDajN1WEhHVVJaSE5ieE1ldjFmMGl0SnNINUNKY21JeFdaWnpDd3c?oc=5",
+   "published": "Sat, 19 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "うるま伝統の舞 熱演 エイサーまつり開幕 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HZ0MyUHlwSXE3UWExS095djlWU3BBWHBCM1dTMjhPc2R6SFBJMEp6dmpTenlXU0tZZFBsNXZLdDRiZ05DRHhYMy02MUh4dDc5TzNQVFdMZTN3cGdEY3c?oc=5",
+   "published": "Sat, 19 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "迫力演舞 沿道と一体 うるま市エイサーまつり - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4WUttdmdKSmVKLWNDODhBSTlwOHZHZzVtNlZUcmtEVnFxVzNwNkJDcE9yb1pCWjBaUjJqcFM0dWVua1ozTHhUTWJVM29rLWZnNjdRZWRnVUh2b3JsY0E?oc=5",
+   "published": "Sat, 19 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「海がきれいでテンション上がった」那覇空港に観光客、続々と 秋の大型連休「シルバーウィーク」 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUNWc1VnbGhLWDRJdE9oMThsejhvaktrU1J4TzJ1RHFwclAxRTV4V3B5UktWX2M1VnFvZU5LZVBmU0toYkxqbEI5Z3NBTzdNcFM3VnVLeFotcV9kTXByOEpDYXg2MGNORE0xQkZTVU9RZHJuZHZaa3lEaW13VGVrOGdYenBPNHMtaUV5RnNB?oc=5",
+   "published": "Sat, 19 Sep 2026 02:11:25 GMT",
+   "score_parts": {
+    "recency": 0.576,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄セルラー、那覇空港の全館で5G提供開始 通信速度は4Gの4倍 auなどが対象 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ybi1iM1lJWngxOFdqQ2NqMVFvOEp3NXZwUHBhSWVaRncxa05hUHh3MGpGYy14bS1vQy1faEpyeTNkTklzS2xjY1o3S2ZuSWZWVTZMejRZek11WXpjeXc?oc=5",
+   "published": "Sat, 19 Sep 2026 00:52:00 GMT",
+   "score_parts": {
+    "recency": 0.548,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄セルラー、那覇空港の全館で5G提供開始 通信速度は4Gの4倍 auなどが対象 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ydlNWRHdlQm9YRUdGXzdrYjZKRUNDUmpxdzd1c0U4OTNBZkFQNlZENUx4N0VIZjNpQUpLUl9NRUlXNElSemR3dGMwRQ?oc=5",
+   "published": "Sat, 19 Sep 2026 00:52:00 GMT",
+   "score_parts": {
+    "recency": 0.548,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄セルラー、那覇空港の全館で5G提供開始 通信速度は4Gの4倍 auなどが対象 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iWWhiSHBsWEZGLVotVFVrLTNVSl9kdXhfVmlVMTFxalZIMzYxcnd0blVpVjNsWDRZZzU3aVctd1djVzNMV2ZmV2NQUmRDUTJ4MF9Zd3cxYlJleFdRZnBfUGl4c3QzOGxrRnBMYkpfVDE0djZSODlBMw?oc=5",
+   "published": "Sat, 19 Sep 2026 00:52:00 GMT",
+   "score_parts": {
+    "recency": 0.548,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "太陽が映える絶景スポット！那覇空港から車で15分の「美らSUNビーチ」の開放感と充実施設を徹底ガイド（豊見城市） - OTV 沖縄テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tRlhydHB1Wlg0eWs4aURzM1pBTkRTQ3RnZGtqd0p4NmxCNXZUT2ZQbHM5N0tDZE1pYlB6dUktclRmN1d3dDRfZ3pxMUJLSEN1MjE4bkdiTQ?oc=5",
+   "published": "Sat, 19 Sep 2026 00:40:06 GMT",
+   "score_parts": {
+    "recency": 0.544,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "関大の魅力を九州で発信！受験生から卒業生までが集う一大イベント◆「関西大学フェスティバルin九州・沖縄」を福岡で開催～関大出身のお笑い芸人、人気YouTuberらによるステージも - 毎日キレイ",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sY3VwME5aanAzdHF1UmxkUTh6b2dIWmZDdDhxZmdnWmh6Q3BjSmVoUTlhaFh3ZmhQSGNRTzExVU1yZVFsRHBqRUo1NGtqak14eEltY2lXaWM3R1F6c2h3akU3a0M4UlJGX3JBRXVGUFZ2d3dycVBuZklB?oc=5",
+   "published": "Sat, 19 Sep 2026 08:21:32 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【屋富祖】沖縄のディープな街を遊びつくす！！ – Quebee キュエビー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXWnN1YjdhRVdTOTU5cU15eXdZbUxFWktkQnRtcWZ0MEpzc1JxSGwwSUUtUHVDN2xLZk5UMmtDWnpwUUU1S0F1NTVLTUFxYTllN0YtVTFPOHZSOUNaNHQwUg?oc=5",
+   "published": "Sat, 19 Sep 2026 15:30:17 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「意外と知られていない日本の風景」沖縄県で海の絶景を撮影 「日本だと思えない」「天国のよう」と反響（LIMO） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONXpRRGpBV0lwNXZJaTBHVXJkUDdCbHNHWjZ4RFZIT2JLblZkOXpMLWRQcTlRQWx1Sks2RXJBLUJVMDROOW9Zdi1IZTZqMjJpMzE4RW01MC1JSXFRc0pkeERRazBoNUlXYTdZOXJPMDlCSXlqcTB5dEYtZmZ1Vms1OGhZSGhxNGhf?oc=5",
+   "published": "Sat, 19 Sep 2026 12:36:59 GMT",
+   "score_parts": {
+    "recency": 0.793,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.538
+  }
+ ]
+}
