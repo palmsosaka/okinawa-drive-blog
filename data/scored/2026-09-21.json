@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-21",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 133,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画家故山城見信の足跡紹介 県博で展覧会 27日トークイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5adUlKcGwxaTVLTkZiNnkzWU5PZGw3c3F6NzRQWGVCZFhiLTBfbXFmUFU1NUdTM3JkTkVKUlZZWjBta2w5NTUyNzFIWGNkSFVJb3ViSG9wTW9qUnRyb1E?oc=5",
+   "published": "Sun, 20 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.921,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Sun, 20 Sep 2026 14:40:49 GMT",
+   "score_parts": {
+    "recency": 0.831,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Sun, 20 Sep 2026 21:10:59 GMT",
+   "score_parts": {
+    "recency": 0.967,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "キングス、Bプレミア開幕戦へ那覇空港を出発 声援に笑顔やタッチ 22日にA東京戦 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeXpxTlJqZ2lSdVNOOUFCaGFiRktndlBLd2hSM2JJQXhjYi1TQmNvdWQxRmlPN1EtdzJSbHdhRjRyNmRfMHUwZlRHZ3lhUEJMaktrM3YtQkhONkU3VVROcnlhSVFmbXluV1Exd19xQ0QzZUItbkMtYUFHenJuNWlDYWNqX3hvTkw1by1GWE5B?oc=5",
+   "published": "Sun, 20 Sep 2026 05:01:21 GMT",
+   "score_parts": {
+    "recency": 0.63,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "キングス、Bプレミア開幕戦へ那覇空港を出発 声援に笑顔 22日にA東京戦 沖縄【動画あり】 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EV2ZrQ1pjMDZJUm5wTTFNTk0zZ25MU3p1OTBTTzBfNi1DNmp4T3Y4RzJ2NUVSTTBhZ0l6NThyOUhzRTFGWEJUb3Y5Zw?oc=5",
+   "published": "Sun, 20 Sep 2026 04:39:06 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "キングス、Bプレミア開幕戦へ那覇空港を出発 声援に笑顔やタッチ 22日にA東京戦 沖縄 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DTGZmcFJKODRSV3IxdVZtVXV3RkZHTUs1LS13a3I3Q0g4czBUM1Y1ZHhnZGVDQkZHYjJFZ3lpV1ZSR3FYN1ZNOGN4RmNjZlhoeUpvakl0YnNHM2VGYmRSUldjRkdwTlVHRlZlUlFLZW5odWNqV1BQQQ?oc=5",
+   "published": "Sun, 20 Sep 2026 04:39:00 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "キングス、Bプレミア開幕戦へ那覇空港を出発 声援に笑顔 22日にA東京戦 沖縄【動画あり】 - ryukyushimpo.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iRUhqT2lCVm1lRG9hbENDaWs0S2VCVE9PcnJWNHJBQjRRNXZ6WmZtQWJqYnRjU3g3c2djVkJVcGR2QUtfQWZONGpROGRZNlJMZmpoV2dnSUFvWVVwemc?oc=5",
+   "published": "Sun, 20 Sep 2026 04:39:06 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "開園1周年で大進化！やんばるの森を突き抜ける超絶スリル「パワーアップ！ジャングリア沖縄！」 - OTV 沖縄テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TdkJCLWdDSy1hM2F4Q2lVanY1Z250Mzh0RlNTbVVJOU1ZV0ZyZTZkOHByaTNMdUtKTHowTG56LWtxV24wejRYdXhIRHVOMjFwNWlJN3VROWI?oc=5",
+   "published": "Sun, 20 Sep 2026 02:56:30 GMT",
+   "score_parts": {
+    "recency": 0.587,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄セルラー電話、那覇空港で5G強化 - blog of mobile",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IdFgzZHVodEktT1VWQzIwa3RFNGJoMTJLdFN5N19ZWmNZd2hyeUFjSTFGNk1Ca3FkbVFMMjIzRUVOcEtzQVE2c183MERfZXM?oc=5",
+   "published": "Sun, 20 Sep 2026 02:03:12 GMT",
+   "score_parts": {
+    "recency": 0.568,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアは「約3万円のファストパス」を発売 各テーマパークで「高くても乗れる」チケットが普及した、納得の背景 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WN3Z4RXNzMHFnZHpMUVFnVlRQcEhfN1JoWkh1emplWlhpLVIwclVIZi14WnNfazI4SVY3b0VrY0VJVWhldW1VLWtra1ZaWk1sZGxkUVEwb2lLZEFBNzl6OWZna3pRUEdpeFRKX0hURjNIRmFkeTJMQVVqblFXRmM?oc=5",
+   "published": "Sun, 20 Sep 2026 20:36:47 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度2 熊本県天草・芦北地方 2026年09月21日01:57ごろ 地震詳細 | 沖縄のニュース｜RBC 琉球放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW9HQ1ZEWjFIYVNSRWpNd1RqSG54eUVKLVhlaFVUdEk1aWt1M0RSUnNoYnhfTFpSc1hocVUtREtIaERtdkVVUkZ2U0pZcGFjZFRMWUFLa3V3d0puYXJNODktelhONl9nMExwdXVBcmVqeWkwLVQtUm9aRW0xSUgxRHlnWjBlUE0?oc=5",
+   "published": "Sun, 20 Sep 2026 16:57:00 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアは「約3万円のファストパス」を発売 各テーマパークで「高くても乗れる」チケットが普及した、納得の背景 - ITmedia",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdkV0SFIybWYzazV5cVhFRExPenE4RjQxUjNJRXA2RDFZenNkVlpjM2J3TllOdE4zMHVUY2pobVIzSXcyZGxBaHEyNVM2a3VVZjlCZU9KazdrRThTMFRMcW5yX2kzc1NaYlF0VGh4MXRIUQ?oc=5",
+   "published": "Sun, 20 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像8 / 20＞ウィルコム沖縄、新イメージガールに真玉橋さやが就任！ヒガリノも名誉イメージガールに - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83c1g5el8wWGpORlNibmtFRTdxakxhdFBtalc2amdXQkRpclE4ZmFfOTI0Nm1YUGpfTUhsYjA4dUQ1TnhWVld3NkQ0a3VieS1EUDFJRExVY3VyUjQyMFBaRndnWFRHMG8?oc=5",
+   "published": "Sun, 20 Sep 2026 16:04:14 GMT",
+   "score_parts": {
+    "recency": 0.86,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "台風、千葉でイベント中止相次ぐ ２５号の接近予想で - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YUkVzaUlSY1NkTGJMY29uc3lhU0Q2VjA5RVVKS1RDSzd5S2NodzROWTlETUZVeFBzX1hMenUzS2VXWVp4dURiS0JVU05hWHFXa25ocTB6NW5GYXJ4dnc?oc=5",
+   "published": "Sun, 20 Sep 2026 07:47:05 GMT",
+   "score_parts": {
+    "recency": 0.687,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Sun, 20 Sep 2026 13:35:22 GMT",
+   "score_parts": {
+    "recency": 0.808,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.543
+  }
+ ]
+}
