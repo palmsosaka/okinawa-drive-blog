@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-23",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 193,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港と業務協力意欲 ハワイ、相互発展に期待 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UFEtbUxiRDhtYzcyMUdGOTU1VEVjdWNpMWtOSmhUVFJZdnZydlNLbEhwa1gtOTZiY0ZyeU43RlJLMlBORGhWSTdGUHZYMjl3aVJaODJydHBFR3VWMEE?oc=5",
+   "published": "Tue, 22 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.673
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "浦添の観光や食 魅力発信 あすから那覇でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbXJVYjk4M2QydlE3N2VoLXd3X1gxTDN5czBkaUhlM1RyTkF1Smw1VmhENmcyRGMyN0JOc2ZITklNVUM5QVg4WWlUaHNsVE02YlJMNzlMUzkwQi15emc?oc=5",
+   "published": "Tue, 22 Sep 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "環境問題と米の生産学ぶ 沖縄トヨタ・沖食 体感型食育イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxVkJxbkZfOU1lNkE3ZmNWeWdYMmtEVV80WEF4LWxCQmN3VzRQbUU5SDRfX2xHQjdFOHdBdFk5RkUxZ2VLbzFNeDdsN3hwVkxmR2JsRGFLNDN5cVpVMGc?oc=5",
+   "published": "Tue, 22 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宜野湾でひき逃げ、男児軽傷 運転手の男性「大丈夫？」と声掛けも 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1jU3owS081UEJ1TnVISVZNY3dmWkVFOXUyU2RVX1hmMkpPQ09VaGs3Q0l0VVhRTnRhSy1OUXdKdmp0TE9oa0dkclUxdw?oc=5",
+   "published": "Tue, 22 Sep 2026 07:00:54 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "首相、対ロシア制裁の継続表明 ゼレンスキー氏と初会談 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00U2dHYnFvUjZadGN1MWlDUlRFZFpOd2VmVkxLWVp1aldsTVJ5cmZPNUVJTk9iaHBKSlhndG5kT1pVdVJiQ01TWmZzNGIzNG9nLTBic0FmR2xtT2EtSkE?oc=5",
+   "published": "Tue, 22 Sep 2026 22:34:05 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "２４日の天気（西日本） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxRU9XdTM3V3Ata2JhMWhEbWdjbWduNWRjWC1SQTVPbEFKbDNLZndrbF9TWnNIU1pwNnVZMlZhLW1kczN1SU1Bd0JfZHQtSWRuNDhtLTh1aUx4NTAxUkE?oc=5",
+   "published": "Tue, 22 Sep 2026 22:00:08 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「キングス、初代王者に」 沖縄からファン、敗戦も次期待 Bプレミア開幕 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5faWxVMmNxZjJvcDdYUWtjdGpsbXZLUE5iMWpxUHBXcThmSk5iZ3FIczVLU2tnUEZsMnoxdWszX1FCUERjV2xKUndWQmtNd3FITTMtQ0NyOGtSMU9uMWc?oc=5",
+   "published": "Tue, 22 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄 自己決定権を追求 経済思想家の斎藤幸平さん 「内発的発展」が必要 自立力鍛え未来に道筋 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OOFdoMmE5ZmQ5NzJJTmhTYVdVVGhwQU1WaldRc29fWmRSV3A3aTFGVlRJQ0xBa2llaGVuRldiN1VDdFR4UXJBU0Y5NjJkcmx6OVl2MHpjajZrN0hDOEE?oc=5",
+   "published": "Tue, 22 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Tue, 22 Sep 2026 17:10:21 GMT",
+   "score_parts": {
+    "recency": 0.871,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "北極圏巡る安保強化の合意文書に署名 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RcUNOWGZJRVVYSVhLOHhDc3J2MmRWSXJUM0ZqM0tEY0RTT0czUVZRVW9SS0NvVk1Xek5YWWlWOVZrTms2OXRMYXdzYTFVV0wxTXZlbURGWUhqSHJwd1E?oc=5",
+   "published": "Tue, 22 Sep 2026 15:42:55 GMT",
+   "score_parts": {
+    "recency": 0.841,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Tue, 22 Sep 2026 21:53:16 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.541
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄振興予算】なぜ、沖縄振興予算を投じ続けても「沖縄の貧困」は解決しないのか？ - youtu.be",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Qb2tCc0w2akg5VmxZSXY4NVdrdGdUMWhrSmVqWGZsYWQyVGxoWUl5Z0hEYWZHVkg5V1dJVjBEeDVkZw?oc=5",
+   "published": "Tue, 22 Sep 2026 13:41:13 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.539
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像4 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRTd6QklLSHpTdkh6ZXNjVThiTUF2SkpUNUJYZXNRdHpkQWtvR1JXclphU3NkaTVtc0E1aFNxbnNTdml2QlJfREZzaXFmQmlBNXQ2QTM4RHVwUVp6TXNweWtmR01tcnFWQUhUSkJR?oc=5",
+   "published": "Tue, 22 Sep 2026 13:07:46 GMT",
+   "score_parts": {
+    "recency": 0.787,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.536
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "イスラエルで収監された女性の声伝える パレスチナの女性監督 27日から沖縄で上映会とトークイベント （琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FelFGOHQxeWd3N25USm9NdV9GUkdjNHNEUXkxYmdYMk5ZcnZtVjdFd1Zlc1R6dTJrWWZ6dUpieG5xYnNhWkkwdXA2bmlmOTNTT3dYMzI2QS1waTRnLVNmSG5VbnI5WWRLLTBCb1I1YVJBM0c0WGI3U2toeVo2ZUE?oc=5",
+   "published": "Tue, 22 Sep 2026 05:00:52 GMT",
+   "score_parts": {
+    "recency": 0.618,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.535
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "こどもからおとなまで。沖縄の命を守る高規格救急車導入にご支援を！ - クラウドファンディング - READYFOR",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yak0zUkNqdm5yRXcyOTZnSGhEajFGRUFPQVlGenl6ZG5QeDJHdnlrY1NmR3pocGJlYnI5M2dNaFphc3p3aE8yby1pTGk?oc=5",
+   "published": "Tue, 22 Sep 2026 12:39:11 GMT",
+   "score_parts": {
+    "recency": 0.777,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.533
+  }
+ ]
+}
