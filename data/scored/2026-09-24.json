@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-24",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 239,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「焦げ臭いにおい」「ガタガタガタという振動」 ＡＮＡ機が那覇空港に緊急着陸 乗客らが語る機内の様子 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10LWtFMXVHSkw4VlRRZU1hVkJ0UnoyMmNSdUVkeVdPTGN6S09NZDhTQnltRGRDeDB0bG9HRjlnQmVxaG1qdmpLcG43Ty1peFBrYW1uekdCbXhnY2MycUE?oc=5",
+   "published": "Wed, 23 Sep 2026 21:38:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.69
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の親会社の決算で １７３億円余の最終赤字に - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tQ0RaTzBVNk8wVWZkMEdqdC1obUtRcUd5TnFBM2lGd2ZwRWhlS2R4R0ZzNEpPRjdrd0ltRl9YSGx5MHlibTdjSVRYT3RmNk1QemNXTk1Eai0?oc=5",
+   "published": "Wed, 23 Sep 2026 21:03:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "全日空機が那覇空港に緊急着陸 エンジンの異常高温を検知 [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Sd1U4TEtrNHZxOElnR2h3QVAzU2MydW9oWHRBZFRnX1I3dzdOZm91ZkhsaXRnMTZaTlhvMVNRMnZwelZEVFdONGo5U0d3OWF6dXdaZ3hJWW5FeHM4MFZqWllacTF2WTA?oc=5",
+   "published": "Wed, 23 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.931,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.679
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【シルバーウィーク最終日】県内行楽地は家族連れでにぎわう 那覇空港は帰省客で混雑 - OTV 沖縄テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FMEp0LWpTcy1nV1JPazdsbFdyam1yUHdva1NhT0xIdWhreDhVS0c1REFZVkJqUXcta0h0dlpTX2IxaXhWOWVzM011ckhXaXQzM0hWcTROc0lNNkVtb1Q5YUY5TlNwZFVoUGdN?oc=5",
+   "published": "Wed, 23 Sep 2026 17:16:13 GMT",
+   "score_parts": {
+    "recency": 0.874,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.662
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ANA機が那覇空港に緊急着陸 乗客乗員160人は全員脱出 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XUHVtM21QcnZRV1FLSnVCaml2YTNySHRGSlhfb0drdVVzXzhoZmJvMDNVSE9hOGF0N2NTVDZWRGpndnJERjFSZXZ1REdNTEpBOGFzQ2h0Z2cyV1o3NWc?oc=5",
+   "published": "Wed, 23 Sep 2026 15:37:00 GMT",
+   "score_parts": {
+    "recency": 0.84,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.652
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【速報】全日空機でエンジントラブル 沖縄・那覇空港に引き返し緊急着陸 乗客ら機体から緊急脱出 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEOHU1QnBXY3V3V295OUYxYlU2bnRDNThGZm85MGVOYjlnYVZxRmdZMEZnUEllaDdMWElDeEVDZU1rQ0hXTHpQekxsMW9ja2hPaUJQLV9OU1hzMDRmWHc0?oc=5",
+   "published": "Wed, 23 Sep 2026 15:20:31 GMT",
+   "score_parts": {
+    "recency": 0.834,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【速報】全日空機でエンジントラブル 沖縄・那覇空港に引き返し緊急着陸 乗客ら機体から緊急脱出 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44R1BoVGdDUXFfeEJBTXNXOTI4M0hRdzE4OWVmRnJkNUpHRkxlbkR2bVZQRE5XOTVRcUIzN3ZXUU5DVVk0OGthQUhjR1NUUQ?oc=5",
+   "published": "Wed, 23 Sep 2026 15:11:00 GMT",
+   "score_parts": {
+    "recency": 0.831,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ANA機が那覇空港に緊急着陸 エンジントラブルか 乗客はシューターで緊急脱出 3人けが 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93b00ySVlmTmctRjNRS1hIeTVZRmVEbWV4akZ5WEFXdWtLbGFjV0lJZkhYd2xfbF9oVG12Q2JUWlNrUk1NU3RNTGRXRQ?oc=5",
+   "published": "Wed, 23 Sep 2026 14:57:16 GMT",
+   "score_parts": {
+    "recency": 0.826,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.648
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ANA機が那覇空港に緊急着陸 エンジントラブルか 乗客はシューターで緊急脱出 3人けが 沖縄 - ryukyushimpo.jp",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yTC1lamEyYXZlemZwRndITUp6aU4xUk9uLUZNdFVBUHJhbDNldlZjSzlJVUtILVd1SXZ5R2l3TDFTVXVzYUlvZXpmeGp3MnVfYUxIa3JBX2hDdEFCRVNCSw?oc=5",
+   "published": "Wed, 23 Sep 2026 14:57:16 GMT",
+   "score_parts": {
+    "recency": 0.826,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.648
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Wed, 23 Sep 2026 11:58:21 GMT",
+   "score_parts": {
+    "recency": 0.764,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "エイサー披露で名古屋に「沖縄の風」 「ふるさと全国県人会まつり」が開催 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XZnU3TENvX1dkcEhxcnVYemtIekE1UFV0Y0hWanBPaG1zUlhGQUVDZ0tybDVZejliWmFsUDUyZV9GR0puWS1pc2l3Zk5vUFRzdkhkUDFMVHF1aER3Ync?oc=5",
+   "published": "Wed, 23 Sep 2026 22:58:00 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【台風情報】台風26号の進路予想 沖縄に接近へ その後北東に進めば西日本・東海・関東に影響のおそれ 今後の進路は不確定で最新情報に注意 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LVFpUX1pod0ZpQmtWdVNlaEpCSUNxNmVLbDJ0YzhVX0otMmtWbWNxVDVRY3NoWnFwamtuQVZINmFYTFEydUc1d2daMzNVZw?oc=5",
+   "published": "Wed, 23 Sep 2026 22:34:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄道、那覇空港道 道路の気象影響リスク予測・天気予報 - tenki.jp",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YN1c4MzU2ajRCUFIydmZmRE5mOGhRTjVLVllYbXF6WlJtSjg2dHRXM3plYXlzbkVYcUVlRV9VZEZfMkNZMUE?oc=5",
+   "published": "Wed, 23 Sep 2026 06:28:20 GMT",
+   "score_parts": {
+    "recency": 0.649,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "台風26号が発生 沖縄に直撃か - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WNzBSWDlGb0ZjeHVBRXkwUF9kOXROaGgyRC1hYldoYmpSZndEa0h3aXppMVppeENQbWlnTlVUWXV5dzd6YlhSc3htZw?oc=5",
+   "published": "Wed, 23 Sep 2026 21:11:44 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリア沖縄 親会社が173億円余の赤字 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55WVRuVXhPUkVaNHpNM2FadHNPcHA4M3l3ZXhjOTlkNl9JVk5LT3NXVllxU1B1SncxYWRVMDBDc2xpc3hyd3BWaTlYX3RySVRQZERtMXRDcEtRVHpnSERB?oc=5",
+   "published": "Wed, 23 Sep 2026 20:47:53 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.584
+  }
+ ]
+}
