@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-25",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 249,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアに沖縄公庫がつなぎ融資30億円 続く赤字、25日株主総会 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZM2pNZFpNN3Rqcnc0VUVRNU1mZUxXTENwSWktMkJ2NHJnTmFsejREMXNOV0JUaFVUbXZiRURJdkpiTTlPSU9RTHlzUmh2b2JXdE5UMThqcUI5T1RJLW5TUzdRQXA3T2JZSGxMOQ?oc=5",
+   "published": "Thu, 24 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 173億円赤字 親会社、開業後初決算 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yOHBGNWY4VDByZkVNTEItRlpVbWlaeU9RYTgtX1drYnRZemlpUUZlUDhjY3FJNm5qckFFUi1SN3JCWlNrS3BNcU41MUJjbldlbmF5aGU5c3VUWkhiSUxybG1n?oc=5",
+   "published": "Thu, 24 Sep 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［インサイドクリック］再出発へ財務再建急務 ジャングリア1年余で暗礁 コスト削減や魅力向上課題 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12b1NNYUt3a09YR29XVW0xcmdGRl9JMEd6RlJKeEl5RWM2cHJ2VldOb1UxN0tsRUJMVlFyRUNPZWxqcFlCVy13WDJtdVplVEFfNjJiaEY0WUlFX2p2WUE?oc=5",
+   "published": "Thu, 24 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "173億円赤字のジャングリア運営会社 実質経営率いる「刀」の責任が焦点 開業1年目の株主総会 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NeVJXdDFxYVl3T001Qm93OGE5Mzd3T3hWRk9PNzlOLTRBUE5TM3B1Tkx4Wm12TzJDWG8tVDhLMHJndTZTUTdmOGJuZ0ItcWlMdC1SLWVCc3IwYk5GNnc?oc=5",
+   "published": "Thu, 24 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "親子で乳搾りを体験 糸満で畜産イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vQUt5cXhsMDAwVUt2Mnlqand1YnY4bGtMZGctclRXMmdoRVg3b1VJeUhzR1VaZFRZaXY1T2VnTHI2bW5hUnpTVElmQl9IUnV2SkZGTHFzckFtSG5ETlE?oc=5",
+   "published": "Thu, 24 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "首里城イベント 出演団体を募集 来月23日締め切り - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MRHFSa1RxNlgtUV92YU5lbjl3Z3ZPM1ZTRWRuamJjaGtyUGhiS29RV0lFVWx6eDhpWG16YndJYUhBTXdIVzF5eE9tVEU2a1FJTTFpSjlXVXVpQ00yWGc?oc=5",
+   "published": "Thu, 24 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "全日空機から緊急脱出 離陸後エンジントラブルで那覇空港へ引き返し緊急着陸 重大インシデント認定 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EY2YxbzdoYUt3eHBiRDhFbzlhaWpKV2lSbXZsSGtPSXBOYWhqVVQ2eExrM1lXaFlzNnJxMER0Q2t5VVhGY2ZwVXhrOEZuZmZlQVdzWGoxNkFHQU9ZaTU5emVEZ01ISGMwbnNiLVpsY3puaVdHUV82M1F0OXhJSVU?oc=5",
+   "published": "Thu, 24 Sep 2026 10:15:48 GMT",
+   "score_parts": {
+    "recency": 0.721,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【速報】ジャングリア親会社、開業後初決算で173億円の最終赤字 来場者は想定150万人を大きく下回る（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZNXNqcDdRVEprbGxxWTJrVmVrX2tubjhrLWRtMFcxNXFvRFV3dE5zb0lKbFpVWl9BejRWcUtVV1lUQldTOG5pQzJ1OEprTWJtbURjblV1cTBLOEhRMXgwcS05NlpnakhWYXM2SkpZc1VNaVJjMFJmamtjdDdGQzg?oc=5",
+   "published": "Thu, 24 Sep 2026 05:31:21 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【速報】ジャングリア親会社、開業後初決算で173億円の最終赤字 来場者は想定150万人を大きく下回る (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkZ3VUFlZUpzeUo3TUh0c1M1clJ3azNtYlRnUEJEV05id2lKREZBYmo3YlU0OE5JRENBU2VSSG1WbGNPY3NwVFdFTXdvWlcxX2dMTE80OXlhNWZCdFJjYnNkdnQ1djJ6Tk8xa2Z6aUpfY2pneGRNdUdLRnFKWVZYOUg2eFd4cFZpOU4wYmZn?oc=5",
+   "published": "Thu, 24 Sep 2026 05:31:21 GMT",
+   "score_parts": {
+    "recency": 0.622,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：【速報】ジャングリア親会社、開業後初決算で173億円の最終赤字 来場者は想定150万人を大きく下回る - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnWUIzYjNPMkVGcXE2NWUzU1pRX3F0d3lkS1hJQVB0T2lKSWVuZko3LS1jNlYtMlFyS2ZvNFc4cXFWSkNVcWxyQjFDQTRNSkhyR25IQ0ZGLWJwNS01YzcyZmFBQ0pzQQ?oc=5",
+   "published": "Thu, 24 Sep 2026 05:20:00 GMT",
+   "score_parts": {
+    "recency": 0.618,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "30日に知事就任の古謝玄太氏 葉梨沖縄担当大臣と非公式に面談、「沖縄政策協議会」の年内開催を要望 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84MGRTZ2ZJdzg0aERqVmNuZXJOelMxNy11MFA2aDlENFJCMTE4SzdEOGRDeEVCeklqdWotV2tJWDd5RWpuaTdiazN6OFIzZlJvN2g2Tkk3bjlZdw?oc=5",
+   "published": "Thu, 24 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Thu, 24 Sep 2026 20:48:17 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "全日空機が那覇空港に緊急着陸 重大インシデント認定 (沖縄テレビOTV) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNzhRMTRUalFqb2pycGVodm4ybXNWdXhWdHdxS1dPNXJlOWpLbVNPMkxUa25fWFFaS1pLRVVGcVcwUHZWR1FjVDJMOHd5Z2NkWUpaYXB5dTBUcWNQUFQzY2xNajBpSXA4VzhDTUkxRXU0NTFwcmtHOWZ1ZzRraE9hSDNaSzZRekgwZFh6ZWhB?oc=5",
+   "published": "Thu, 24 Sep 2026 03:10:01 GMT",
+   "score_parts": {
+    "recency": 0.573,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：［ワラビーくいず］（5531） | ワラビーくいず - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TTEZzcG0wRVpmWHlDV1lHUXcyMF9SSDdaVi1RUHk4NUdjUlA2clBhT3pzYWdNNExBSXROYXhKcGpCNTh5cTVscjkwMkQxbE9KSzlHVjRTNXFyWGRxeG9EakZUR3JGUQ?oc=5",
+   "published": "Thu, 24 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：［訃報］白木万理さん 「必殺」シリーズ俳優 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95RWJJUTZLM2JjUVhtOGF4RHZrVjJDRG9YZTZQd3dNT1hnVFFERlhpMVltQjJrb3ZfTGJxZldqNm1kdjlRT1NpMUVKYU9mbE9lZ00zSlV6X01MM2c5dEtQOUpLVTVIQQ?oc=5",
+   "published": "Thu, 24 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  }
+ ]
+}
