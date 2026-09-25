@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-26",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 307,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "議事「10分満たず」 再建策は不透明、株主の不満噴出 ジャングリア親会社の株主総会 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52VUNNSzVhQnlYV2thdlp4cGFOMENSTWx1T3EwamVoU2U5elZmdGZhUmQ2ZUxZR2UtUHNrUmx6cWJSRldoUE1QWXR3RDFFR1c2a1ZNa3N4RmpWdE1vaEE?oc=5",
+   "published": "Fri, 25 Sep 2026 22:11:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリア沖縄について指摘されているマーケティング上の課題 #エキスパートトピ（濵田俊也） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSFF0ZE5Sd0w4U01uRTFFdHAyR0xqNFlPalpObktSbEUyTmxfbHJMUmVaMEJvRzAwcEJJanRib2NrT1p2VVJlYWFBOW1qTE9pVHdIZXVGb24xMHFpaE44VHFXbGxZR3JFdDR3QjlwQkFDd09waEdzUGNmVlljY0lQRFFPU01MZVhR?oc=5",
+   "published": "Fri, 25 Sep 2026 19:36:46 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.675
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「申し訳ありませんでした」刀の森岡毅氏が謝罪 「ジャングリア沖縄」親会社が株主総会 経営悪化、決算示さず - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CQnRRakNnWlFTWFNkZHJadUhZZXB4dzZhd2xoR3M3SVQ1b0xJLUlQNjhXS2kxSzcwYW9mR3VXcV9ZbHExdzhCY0hiSzVLQ3dXUzliaG92bVN6WkZYZEE?oc=5",
+   "published": "Fri, 25 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "名桜大生がエイサー 今帰仁 ジャングリアで披露 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82VERNbU9reVBuUEM0TVJqUDNiaEJISjFGZDdNMTdjWVFxdE5xZktlc0MyaExpOTM5OFVzLVY0TFZMVWhoeDVQS2k3aDhBUGFkcjhZSE9tcXpYYU9QWHc?oc=5",
+   "published": "Fri, 25 Sep 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア173億円赤字】沖縄の「北部」に人を呼ぶ難しさ。カジノにすれば勝ち筋はありそうか【林直人】 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ySFFNQm16WTNwUVFLM3dWZ3UtdjJ6S1RJdE5RWHNVMlBNb0hSRGUwRy03QmdmeW1GVHdicVpNdGJ1bFFpU2lyNlpRSzgwTDc3Zy1MZHRVeHpuVDROWERrNUdTbXdaSjRsQUVoV0lB?oc=5",
+   "published": "Fri, 25 Sep 2026 14:52:00 GMT",
+   "score_parts": {
+    "recency": 0.816,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア173億円赤字】沖縄の「北部」に人を呼ぶ難しさ。カジノにすれば勝ち筋はありそうか【林直人】 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XYzlybUVzNXNWYWVMZlJfRjFvdkdGU2kxTGdhRTNUNXJCYk1CejU5UVZrZWM2ZU5odVhVZDhIMzBtM2VGR0M2dWNWYUd1Y1phN3BLNWhESmFrVWZpNEFB?oc=5",
+   "published": "Fri, 25 Sep 2026 14:52:37 GMT",
+   "score_parts": {
+    "recency": 0.816,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.645
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」株主総会　代表「改善進める」　開業１年、来場者伸びず｜四国新聞WEB朝刊 - 四国新聞",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxUGlJMnpCb2o3X2FEQ1Bvd2hEODd3NTlZZkpWaWZHTmVPVF9zaGVycWllQXJITGRfdzJ3Rlpfek1EVGJyb3dGbFBnVEJRY1NVMHJMLW9ETUJETHYzaVk4cUVqNjhocFFJdUxWeXRjeVh5VFEtNlZ4bllza2_SAXxBVV95cUxQMVBpSTJ6Qm9qN19hRENQb3doRDg3dzU5WWZKVmlmR05lT1Rfc2hlcnFpZUFySExkX3cyd0ZaX3pNRFRicm93RmxQZ1RCUWNTVTByTC1vRE1CREx2M2lZOHFFajY4aHBRSXVMVnl0Y3lYeVRRLTZWeG5Zc2tv?oc=5",
+   "published": "Fri, 25 Sep 2026 14:47:44 GMT",
+   "score_parts": {
+    "recency": 0.815,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像1 / 3＞最大級のエイサーイベント！沖縄県沖縄市で「第64回沖縄全島エイサーまつり2019」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RNkVEZHhOWlFJVEVXTXlmVXA0RE5WOEVWN1VidjhpOFNVRzAyZ2FNc1psUUFuNzBZR1U3Y3o3Q3Y0S1Yydy0tVlFHTXlNVDNESE1jTlZvd1Z5Z2hWeDh6Vm1KVjRYRk1tRHl3?oc=5",
+   "published": "Fri, 25 Sep 2026 19:04:14 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "来場者を笑顔で迎える「ジャングリア沖縄」のキャストたち＝9月25日午前、沖縄県今帰仁村 - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaENGbUhEcjdYWGtMQXRPUmd4RGVOVm1Yd3R3RnYycVpkLXJZd2VvV2VReTBEREpobVNVOHNCd256bUFEQ0NwZy1BU0Z2Qm1GYkIxdUYyTUJTbjJDMGVoTmZtQ1JtY19VbUIzZ1ZGejB3U0ZrSUNOcWtLRElUX0NldVgzM0VpMHJ3blpyenl5b2Z0eU1jdjlJM0lNcFAydmVOSkE?oc=5",
+   "published": "Fri, 25 Sep 2026 09:50:03 GMT",
+   "score_parts": {
+    "recency": 0.711,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリア沖縄 親会社で株主総会 新スポンサーを探す方針 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvU0EtZjJvSkhEQWwxdXptZWxMeDlKS0FMMFVQb1pOZkFzX3RxQWFPUVhKWU1HLTN4RXVuanlvTTBjdGFiZEgtZjA5dEp5aWNKcXMzeUJWUzZrckM4M2sw?oc=5",
+   "published": "Fri, 25 Sep 2026 09:29:29 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄親会社が約173億円の赤字 - fnn.jp",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MZnlDR09sYU4xSllqS0JaWmU3OVk0WGdXdllJMElkemNOMDJTTmh4cnNNTndYR1hRT2lrZmpLRGNCdmxJVFdLdkRQZFpxUQ?oc=5",
+   "published": "Fri, 25 Sep 2026 09:09:00 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄親会社が約１７３億円の赤字 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3RsdnExWDE1VE9hMUxZYWxuRllZSWNtb2phTGtCYUdRWnF3THBZcUt3RHBLbmdLcU5qTjFZR1V5UEFCMGVaYXptMGd3YzczVmYyQTZfaVhRbFNLQmZmd1dHM3NPXzdVUENWR0tCV0NTb3dadUVTdTh1d19lWTh6ZtIBgAFBVV95cUxQS3RsdnExWDE1VE9hMUxZYWxuRllZSWNtb2phTGtCYUdRWnF3THBZcUt3RHBLbmdLcU5qTjFZR1V5UEFCMGVaYXptMGd3YzczVmYyQTZfaVhRbFNLQmZmd1dHM3NPXzdVUENWR0tCV0NTb3dadUVTdTh1d19lWTh6Zg?oc=5",
+   "published": "Fri, 25 Sep 2026 09:09:00 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【速報】ジャングリア親会社の株主総会終わる 「刀」代表の森岡毅氏も参加 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEdOVGtlbm5OX2F3YUc3U3hPTGVvSHlBWl85S2ZPTU1SQUZSeko5anI2cS1uX3I3LUEyM0lYTndqTDFyTkdaR0VUUGtPYThLajQtaGhPdk9XQ1BzVVRtMXZiOWhuVXJmazFzRm9keUdFYXBVelMzXy1TXzlSSC1YMDQxb292emR1V1A4RlB3?oc=5",
+   "published": "Fri, 25 Sep 2026 08:26:09 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【速報】ジャングリア親会社の株主総会終わる 「刀」代表の森岡毅氏も参加 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ib1BvN1BXSi1SWGdJeUE1THpvSTFVajFKN2lVemhNY1ZUeVVkRnFSZWt4UHNQODd2bXNaOEk5MXl5VVMxVXVrWFhqaW05cm5VMVRMcVFvSlpoVGplSHc?oc=5",
+   "published": "Fri, 25 Sep 2026 08:16:00 GMT",
+   "score_parts": {
+    "recency": 0.679,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：【速報】ジャングリア親会社の株主総会終わる 「刀」代表の森岡毅氏も参加 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBSGd1U0JsUW9TTkJoMGVSdFkwcWVxWEdxNkFXQlgyZkNtRnB1d2NORnIzaVpGRVRJMDZWT2RCUXhmdDI5S19zMWhRVHNTbFFOazRnX1FpYVJVYTRvX2dFWk1GRk53Zw?oc=5",
+   "published": "Fri, 25 Sep 2026 08:16:00 GMT",
+   "score_parts": {
+    "recency": 0.679,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  }
+ ]
+}
