@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 186,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄が大赤字、イマーシブ・フォート東京は閉業…森岡毅「刀」神話に異論噴出 なぜ“マーケティングの神様”は苦戦しているのか？ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YenowTm1TMktHN0VlV1NkdWwxSXlEWkdFZHhoaW5rRkxpM1ZVdFFNTUZvYkxoazE5cGFaZ3h4Y1lha2dwSC1ydVI4U0FOT1QxQUUtZDFBTGh5RGhlYWtj?oc=5",
+   "published": "Sun, 27 Sep 2026 22:30:12 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.694
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "『ジャングリア沖縄』初決算で赤字170億円超、スリムクラブの真栄田はエールもやまぬ辛辣な意見、さらに勃発する“シビア”な問題 - 週刊女性PRIME",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91R0czbXJRQXd5THA0eVZROUpPd0FCU3ZYaFdCNjlEVndrSHBpakhDeV84bGRYWGVHWXlTZHlDRGdfaDloeHpoRjE4NUlMdjN0SzNuRA?oc=5",
+   "published": "Sun, 27 Sep 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「料金と内容が見合ってない」といまだ辛辣声〈ジャングリア沖縄〉赤字170億円超より“シビア”な問題（週刊女性PRIME） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12MWFZU2ctUmxKRGhUNDFxbUpKTmNvbWJDbE93aFhmSWdVRk5CVzh0Q1VWOWNsVHNvWmxPYjdyS3RFVU5QNEFGNXpSSkRsWlNGMUhHbDJqQ0gyQXRldWctbUxUTGt4QjFKcHNKWmhWOGhDbkdlb0tkM29UdWxjMTA?oc=5",
+   "published": "Sun, 27 Sep 2026 22:04:53 GMT",
+   "score_parts": {
+    "recency": 0.971,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "『ジャングリア沖縄』初決算で赤字170億円超、スリムクラブの真栄田はエールもやまぬ辛辣な意見、さらに勃発する“シビア”な問題 - 週刊女性PRIME",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RLU8yTV9JQ2xPb2FWUVlGNXRHVm9wUTNLYU5nZlpuRlJhLUZTeElqSWx4SUlxSUFGZGVXOEVrdnJ2RlozREZmUVJDUWdpUEk?oc=5",
+   "published": "Sun, 27 Sep 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の運営を主導する「刀」内部崩壊が深刻な事態に発展か (2026年9月27日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5Rks3cmY3NkFIVV8xdEhnVFVEZEg3djc1UGMtNk1QUEFKeUJiaHRadmUyMUI0bnFpOENQRXFpUUhXWUJOdlZwOEpzRGRPVUpRem8xZ1drLVBrY0Q0Q3c?oc=5",
+   "published": "Sun, 27 Sep 2026 22:00:13 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【台風26号】沖縄の最新情報まとめ　進路・休業・交通・イベント中止などを随時更新 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3doNGtHMmhxWGRxVFBaOWVfN05kdENodDB1RjVBbno2MnJwYU5BbXlsNUlBN3RaejFKVXZyX252Q3EyMmYybDRNVW9McGJMV3hRS1FUc3FuOU1TWS03STk4elYySkh3c0VmZXZCX1U2MzkxSEY0eGVHdkJwYVZ0MkNfa3pwR2VuV0xHMTA3bUJydTZQOHlJSHA5UXRGenNaelBaV3hlTUF0aGIwWFZMZlJjRFA3Q0JBYUEwSGJpZEJjYUVBVWNMUGctd1BSQ1gtOHlfUUJYTjXSAYgBQVVfeXFMUEdCT3NjV2l1YXc2Tnh4b0dBS29VQ0FFT2IwUzg3Tk5TUXNNN2FuM1NlU1RjdXp6VU0xTmR6RkFZeURTNmZ5a2V1T25wVnJmU0s2WEdEZU9hM1JMcUFaa0E5Yll5ZXJoeFRQSlVJYzg3c3k4MkZQenB0cVJFT0pFVTlIZVozeTYxdw?oc=5",
+   "published": "Sun, 27 Sep 2026 22:14:55 GMT",
+   "score_parts": {
+    "recency": 0.974,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像1 / 3＞【アクセス抜群】美ら海水族館の観光拠点に！沖縄本島北部の絶景リゾートホテル【楽天トラベル】 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZFYzajdlX2tpcUZGMy1HTjY4Y0xJbUk0QnhEOGFOb0gyUWZkb29fdW5PdC1lYkFiVDZWcE83TUwyc01FY191RU9DT0JvN25tZm5XYWhZR1hGTUViOGFOMTZ1MEdqRWZwRldQTEl3?oc=5",
+   "published": "Sun, 27 Sep 2026 13:49:29 GMT",
+   "score_parts": {
+    "recency": 0.799,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【台風26号】沖縄の最新情報まとめ 進路・休業・交通・イベント中止などを随時更新 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80R1Bab21KcmQ0VWQ4VjNoQmdyMkUtM284OVR3TlZkMlR5ZWh0WlBzRW5wNEVPZDVhcXFiVGdLLWJOMkR5ejBWdTRTRnBXMGQ4SmJYNkxqYUVpcGVLX3c?oc=5",
+   "published": "Sun, 27 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【台風26号】沖縄の最新情報まとめ 進路・休業・交通・イベント中止などを随時更新 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XVmM5UThDZWpyeTUzc3N6MWNoLTZBVHpWckpCUGc1QjY2R1BFYWdJZlhRclR0LXpfU19feURTSUcyZjhiam5KODhSYw?oc=5",
+   "published": "Sun, 27 Sep 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】人がいないと噂のジャングリア沖縄を本音でわかりやすくガチレビューしてみた Tallahassee Weather (VbxK9s0g1b) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0RGhjSDkwX0RRdVUtdGRZdEV3RW5TcFN0RHNvOWVHZWw3U21NTEc3YWFJQlZicVlvOXJadDlHd3RLN0EzRHUzTG90TUpubkhOdWtwM1hiLVNwLW5tR1ZOQWR6Xy0xUQ?oc=5",
+   "published": "Sun, 27 Sep 2026 11:51:10 GMT",
+   "score_parts": {
+    "recency": 0.758,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "若者へ戦争どう伝える 「ペリリュー」上映会 原作の武田さんトークイベント 「仕事として描く」覚悟 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HYUIyTUE1ZzhUdm56Wm1iZGxoUXJnYWlHdlRKdlRfVnpBbUczVTc3aWdyZzdtSXdvT0lQamRFSXN4WmRFclk0S1ZYaG9ma2pUN0R2N1pMdHBHa2w3THc?oc=5",
+   "published": "Sun, 27 Sep 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "許田からジャングリア沖縄までの最速ルート!! Fondo Pensione (GmpLPmaBcD) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3eGFPUlVrSU9aWTd6Z1FxNkk5VEtVa0tORjd0Q0JiTTJiRk5hSDI2T004bHlvQTdJYVdLOW0tUkxBWXRkSUdxVTJQVnAyU1REM2lGaG5EWXVNTnFLcXNqU2hDSHp0ZG44cmN3?oc=5",
+   "published": "Sun, 27 Sep 2026 09:41:42 GMT",
+   "score_parts": {
+    "recency": 0.713,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像8 / 20＞マッチョな沖縄消防士、チャリティーカレンダー第3弾の撮影会に潜入！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LV2FUQURWZ3BsQVlyUXEtMnJZWml2N3B1TUdTeHhFMXhtX2VFYlpUWDhpQURfb2p2MFV3ZGpQcGo3YU44ek5uSExURkpMT0VhekpMNmRNaTZ0Z2VRS0ZiVlRJTmViNmtX?oc=5",
+   "published": "Sun, 27 Sep 2026 21:45:24 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリア沖縄、親会社が173億円超の赤字…SNSで広がる財務懸念😳💰 Sandisk (DZs20mv9hQ) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zSjlOWG95eGlacFpGbHpRNHpDVnNZcEdWdmxjY0Jjb3p1YVEwRzB4X3RzcVFVbzJJMUMxQWh1cHNZZ0dIRVF6TTVob0trS0VHbFgwc096TU5ZQ1BYWm9nNmtLRHNOcjN0WkZN?oc=5",
+   "published": "Sun, 27 Sep 2026 04:12:55 GMT",
+   "score_parts": {
+    "recency": 0.599,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "金の１１歳栗原「本当に幸せ」 「ぷよぷよ」、祝福イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JNzh0aUdzOXU1dWhGREVVUnJsM1AzaVBJNGN3cUpRQ1QyN3I4eWJweDBkdW16TlZsMFRneUNVQTdXTW56ZTBWS0pTa3pPa2F2U01wQ1RWTGZabVFSUFE?oc=5",
+   "published": "Sun, 27 Sep 2026 11:56:31 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  }
+ ]
+}
