@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-29",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 199,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【トラブル続出！】かまいたち山内が夏休みにジャングリア沖縄へ行ってきた！〜沖縄＆宮古島〜 Texas Softball (TQFImmeAoe) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Vll1b1NHU1E5MlQ1ejY4WEdEV2xwQlUxck16X3lYUjY3VVJ1aVBRWk4yYUV3b1lkbEN5SXA2bVlOMkMwanFKczJSeGZsWm9UM2YxRXlKazRlVUxPc1dBUFNEVnF6UTdYVFdz?oc=5",
+   "published": "Mon, 28 Sep 2026 22:26:47 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ハイサイ酒店那覇空港店V 軟式野球秋季実年 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfWUJkandZZ2ZyNEszQ2p0Wl9mNmhkU1Z2LXZ0YkliZElGVUJxQURjeXJGMUtJY01fUnZjcnpaTXl5dXd0SUY1VU01dkkxaFpJdHVmZENOY1E5czBLV3c?oc=5",
+   "published": "Mon, 28 Sep 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.88,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "オープンしたばかりの「ジャングリア沖縄」に行ってみた！刀の森岡さん率いる新テーマパークの実情は？【HORIE ONE】 Antonino Cannavacciuolo (BNqZ1fZW5W) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BSG9IdEgtWmRlUXpyVzlBdVNmek5pN0w2eHJsVDctREhYVGpoSVBTXy1udE45R01KbmM2NUFWdnMwQ3lKZTdiZGpjcERJXzd2TDRIVHpXZE9LdWlKM2g3bWM3WS1LOVhkeFdz?oc=5",
+   "published": "Mon, 28 Sep 2026 18:08:44 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.659
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "昼はランチ夜はカクテル！沖縄ハーバービューホテル「ラウンジ＆バー」 - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqRUhUc01SUXdvd0lYMzktU3NNZEk0dXU1WjNyZEFlWU1IWFJSYXQxTGNxUmxFdFlIbUhZOVpad1MwTFlDWWc?oc=5",
+   "published": "Mon, 28 Sep 2026 19:27:38 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "泳いで食べて生演奏まで楽しめる！沖縄ハーバービューホテル「ガーデンプール＆プールサイドバー」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DS20wWnFoeFhGa0dMa0ZXZ1NBYU0zOVVlRWQyT0dQRk5TQU5QQ3E3TzhFNVJERVUzbXA3dnMtbUtUTUozdC1WeXRmbmZrXzZZQ3lLYWxoRE1kam5XSW1z?oc=5",
+   "published": "Mon, 28 Sep 2026 19:31:42 GMT",
+   "score_parts": {
+    "recency": 0.892,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ゴーヤバーガーも沖縄そばも食べ放題！沖縄ハーバービューホテル「プランタン」朝食ビュッフェ - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4cU8tZ3FjaGNQUnFIZHVsbnRobWh6bHlDODNRbTFRRm9rRnZLTjctUnRMejhtM1JQNXdjWVdYaFMxRU1LdWc?oc=5",
+   "published": "Mon, 28 Sep 2026 19:17:35 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.616
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄の食と歴史を味わう那覇の迎賓館！沖縄ハーバービューホテル徹底ガイド - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uczhhelFaaFlEQWlCc2F6aV9jbkRTenFsX1VpdGM3YTMzQ2U2LW5zZHRXczJjcmRzLVNmTlBZNnJOc1Znamc?oc=5",
+   "published": "Mon, 28 Sep 2026 18:52:23 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "泊まれば朝から深夜まで沖縄の味！沖縄ハーバービューホテル「クラブラウンジ」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QaDRHT2VieElnYXowNWN5YkRRVUREaURodlpVcnV2ZS12N0xpY0haLXhXUnAxNjVxYW9NdGNCZVVBMF8xRUN2OGoxRUZwTUpzazVNRlRvWnJTQXZpU2JF?oc=5",
+   "published": "Mon, 28 Sep 2026 18:48:18 GMT",
+   "score_parts": {
+    "recency": 0.877,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄の食と歴史を味わう那覇の迎賓館！沖縄ハーバービューホテル徹底ガイド - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PTHo2Yy04eXJsSmNESTl3aTNqZFFGRWJWMzhqWmR1ZXFNdm96c3ZhSzRHbjdTRW4tWkVpMV95THdzRF84ZjUzeDBaRU94Q01YdDlPajZfT2tEazFzVlc1OGZiY3pqZ19LZ3VVV2tRVUVSV1JJYUVLWG02Yw?oc=5",
+   "published": "Mon, 28 Sep 2026 18:48:20 GMT",
+   "score_parts": {
+    "recency": 0.877,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - walkerplus.com",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CR2JnZmVOa3p5THZGUnVFcGhNUjU0bjFuTlFXbFhmTFc3aWtPV1ZpZ1YtY0tISE5YbzdUSnBNalhlRW45NTJMZE1fY0xrOWJnbkplX0s4a3pwVm52MEQyMl9WNEVENllhVVVINmVn?oc=5",
+   "published": "Mon, 28 Sep 2026 08:17:49 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "エイサー踊る横浜のカモメ その名は「ちゅらドン」 初のかりゆし祭りで愛称決定 沖縄との懸け橋に（琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKSmNSbHNNQVFTWUZJN3djNlItNGNVbjVSdTRlSWV2UUVVQWNYeDNXSjNFOVpsX05OTS0zcVA2UWpod2NrU09VTTJBdHZCR29acl9XMnA0RHlxRHd2ekszSjNWZlQ5LTdvajFXNWpqVUQ3M2cyY253ZURfRzIwTXM?oc=5",
+   "published": "Tue, 29 Sep 2026 00:01:26 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の親会社が173億円の赤字 株主総会で経営陣が「お詫び」 新規スポンサー獲得へ（RBC琉球放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yclVxcTczRzNVd2dEQTJPUUNHcmo0WEVqRmdwZlNDQzRxbEZrNUo4WDNWR0I3WEF4enhsNy14NzNtakNUekJXZV9vbTFwMThxZmI3Z2t2bUt6Ty1MaU9fZnRRb1lKaGE1OGIzcGE1MDZQWEY0S2RCU21lbS1EVmM?oc=5",
+   "published": "Mon, 28 Sep 2026 07:59:13 GMT",
+   "score_parts": {
+    "recency": 0.651,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の親会社が173億円の赤字 株主総会で経営陣が「お詫び」 新規スポンサー獲得へ - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HekgzQUZlOFo5S2FNaFBTb04td2FWQ3RZNDZFdC1TcVpGUzEwN3JzZUNUSzNBeW8yOXJ3ZFRZdlktVG9mNTVPUFJqZGtjWFRSQUdVTUM4RW9TdFExdGFF?oc=5",
+   "published": "Mon, 28 Sep 2026 07:58:00 GMT",
+   "score_parts": {
+    "recency": 0.651,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の親会社が173億円の赤字 株主総会で経営陣が「お詫び」 新規スポンサー獲得へ (RBC琉球放送) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUVOYXdza3NCVkYwNnZOR2x5MWJDbDYyY1BGcENjcjZGa0lZMi1vZ2lVUWdDWlBxZElGUkE5RW5RYWM3czZBdEJ2RFFsNlk0dGdiSXNhS3M4dVA1T2UtWlV4WGV6ZzMzbGxwMTdDRnJMdm54Vkd6Z1VzaGNLQkJBdDZRZXpCOWZFSkhfYWl3?oc=5",
+   "published": "Mon, 28 Sep 2026 07:59:13 GMT",
+   "score_parts": {
+    "recency": 0.651,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ジャングリア沖縄の親会社が173億円の赤字 株主総会で経営陣が「お詫び」 新規スポンサー獲得へ - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JSVBYZUd6MlBpUG9DS0FiQTVtRDRFSF9TSUpLb0Q5NVNlRDhHWTBKRGN0Qktza2pDcVFwNFVuRzViR01Sd0luQXhQcDVBQTV2OW1MeS1DNEpOMmlFQlAtRi1hWC1jQW8?oc=5",
+   "published": "Mon, 28 Sep 2026 07:58:00 GMT",
+   "score_parts": {
+    "recency": 0.651,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  }
+ ]
+}
