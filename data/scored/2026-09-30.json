@@ -1,0 +1,239 @@
+{
+ "date": "2026-09-30",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 260,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄旅行①】ジャングリア＆美ら海水族館編 Véhicule électrique (SmnuY9DoSG) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWWptM1otN2pFb3hLb0taREtfT29NY2d3bWlPenhoTjJnQ1g0MHByMmRwVTA5UVZDZC1MOTVxd2VUQU1wUDh3Qkx2WUVIVXlDN1RicWo2MHd2VEVFaWk1dDBDU2gxUQ?oc=5",
+   "published": "Tue, 29 Sep 2026 17:33:02 GMT",
+   "score_parts": {
+    "recency": 0.866,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.71
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "世代を超えて楽しめる！ジャングリア沖縄と沖縄本島満喫ツアー 森のリゾートホテルに2連泊 前編 Guantanamo Bay Detention Camp (iP0pdIf9HV) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YcUpvUW5kVkRsWmVnWldSeS10UXdJbGNQWDBFdmxuRDNsLTZtOXNuZmJYQ0VWb0IwUnVMeElEU2UtQXgxQTk3eG45dW9JdHB3UXNOMGtXTzVPX2hDczcyMFJJOHNMYkVvZXln?oc=5",
+   "published": "Tue, 29 Sep 2026 14:36:59 GMT",
+   "score_parts": {
+    "recency": 0.804,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "カヌチャリゾート沖縄 ジャングリア沖縄公式ホテル Gatineau (WFDlBh1ZSf) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNVi1ScUdQYkg3ZlJwMzJoZndFRDlOZzc4d0pfNGI1UWVkeVpVM1VEdGFtdTZJS0pEX2lqaFJyYjZTWUI0ckpHYVQzNXlaTkRDQno2S1puTUVrNjNLZmwycENZZ3U0d3dKMzJv?oc=5",
+   "published": "Tue, 29 Sep 2026 14:27:08 GMT",
+   "score_parts": {
+    "recency": 0.801,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.69
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、初年度173億円最終赤字 需要予測の狂いが森岡氏の評価に影 - BigGo ファイナンス",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93SkF2R0cwcHVhTEo5eGszcDh5aTU0TFdVYWhRZlQ5UGI5UjZrdXcxLWZOem9mMTdwaFVZSUoxTE03dVFaWG5ua0lHd0FBWGxZeEc1THFHT3RNMWRNQndqUVpMRVZaM1F1NGZkMXJNeTdVLWJE?oc=5",
+   "published": "Tue, 29 Sep 2026 21:55:00 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "森岡毅氏「マーケティングの神様」から評価一転…《「ジャングリア沖縄」の173億円大赤字》で透けて見えた“実力”の正体 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVVUekQtT1NqcUJ2R2NlZ1V2bU1KTDBZcGJua3BsWVZGUnJVLUNaMkxmNzdLeG13NjM5MkxiakI5M2NCd1F5UGhxSHZlOEZ0cmltQTZCOUxJYzBaejFmbDNIcjgwRmRPYWoyV3NHSWhoQy1TdmFuQzE3LWg2el9faXZQcFBwUlYx?oc=5",
+   "published": "Tue, 29 Sep 2026 21:50:45 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "森岡毅氏「マーケティングの神様」から評価一転…《「ジャングリア沖縄」の173億円大赤字》で透けて見えた“実力”の正体 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56dFNzc2ZVdktJVFNvbnlmMl9iMFVVQXVsdk1laVZ1X2h4bnR3VDRmMmU0Q2RHRWNpR3pseTBwTlJVR1YwUHlSajIzOGNCVWxKQVZNdTNWUHBJSHBUaU1peTZoYkw5V1NBMlE5b1hfYzM1RUh1LUxwdVh6bjdQNHM?oc=5",
+   "published": "Tue, 29 Sep 2026 21:33:22 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "そりゃ大赤字だわ…「ジャングリア沖縄」に行ってわかったディズニー・USJとの決定的な違い (ダイヤモンド・オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWi1rV0tyZE9VWHo3Rmk0RFBoTUt1Qi05M2stU1dETk5iTnJvLWZmTVd2b2FCSl9HckM4ejJDdUNRZGNYLXpITUJwelBJR0hiSExkLVlLTkJ5RHlZMXFaeUUtcV9jQlMxZnllY19NYkpISl9nMnprcmw4SUR3WFdyc3Rkay13UFBSbFFQbHBn?oc=5",
+   "published": "Tue, 29 Sep 2026 21:38:46 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "森岡毅氏｢マーケティングの神様｣から評価一転…《｢ジャングリア沖縄｣の173億円大赤字》で透けて見えた\"実力\"の正体 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsUDMtN0RwZjFQVWtaTEQ2R09YbTB2SmxhYzJkVGhlNWlkSHVWSWFJX3hCZ1NIQnNGRTUtTm1zSlRuTjQ0VFFGVGZKR1pvYWRucVE?oc=5",
+   "published": "Tue, 29 Sep 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【オープンから1年】噂に聞く酷評は本当？ジャングリア沖縄の現状 Autoroute 73 (eET9CMDiTk) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDLTFMa01lMDhHRmtHMkRRLXhJYm8yVVBPT09NbG1RUDZZbTU2Y0ZRM3ZRVmtXVW16eU9TR2VHR3JOZ3M2UncxWllFR3Frd2FiNVdib2FVWUJGVkdjbmhuQmRySEo?oc=5",
+   "published": "Tue, 29 Sep 2026 21:30:11 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】話題のテーマパークを全力レポ！アトラクション・グルメ・スパを徹底的に紹介します Buffalo New York (EYY6q0LyIR) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuWUtvMFcwa08yTjBSU2s0VVdqbTMtQ2V1S25aU1Zjd2FNYVZxMWowMzJpbXB1TWk3TnFBQzRLYlVBUXFnVzdNX1d0eVE0Mk5HampndnRNSFRJbjVMcU51WVA5c3Foa21kOTdv?oc=5",
+   "published": "Tue, 29 Sep 2026 21:29:43 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】資金枯渇懸念の続報【VOICEVOX解説】 Trahern Pollard And Jaclyn Mcguigan (xxkxe5Ie6p) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDeFNzUlkyMGtQSUV4OXBfdHhmU1JmdU9HSmtpWmhSR1Ata0llbHJGQ0ZoNEJkWHFhQWhJVW5WUGk2NWRQbDRobDI3NTZrX0cyZEY5SWxja3lONTJpVVNJN2NwMHh4X1dWaDZHTA?oc=5",
+   "published": "Tue, 29 Sep 2026 21:22:30 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "森岡毅氏｢マーケティングの神様｣から評価一転…《｢ジャングリア沖縄｣の173億円大赤字》で透けて見えた\"実力\"の正体 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LY3paamR0d2tBZDNobnJMT3hGMldhNW9tOFFzVjdIVXVKZFJWRGdIcDZrWHE0MkVHdjFKSU1KcWdhWjZPZ2EyekdTblM0VmdPYmg4TURYRjFDZnM?oc=5",
+   "published": "Tue, 29 Sep 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "話題になったジャングリア沖縄に実際に行ったので全部話します Dortmund Vs Eintracht Frankfurt (8yGoA9ltcb) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96OVJmVE01TmN0ZERRTXJtNC04aUhhcWhod0swcVpJeFpkdGdIY0tMQWhUbms2UVB0eEd3c2phZHA2djI3NEc0VUp5TXZ2R18yWUtjRWRIZzB6T1FQSVZHX3JuSm5mQQ?oc=5",
+   "published": "Tue, 29 Sep 2026 21:12:34 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【最新】ジャングリア沖縄の全アトラクション徹底解説！ Pétrole (BHNoHdeMJH) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rTllPa1dkRnZ4UU83S1U0S211cURMd3BnU001ZzQwYTktcWh2blZZZ0RjYWVzVEhTUktsaGVxQm9Sb0NKSmwtX0NtREpLal84LUxGcGpqWEtfUTRCM0JmLWFISDFXT2hJZGRB?oc=5",
+   "published": "Tue, 29 Sep 2026 21:05:21 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "親会社が「赤字173億円」で“ジャングリア沖縄”の正念場…つなぎ融資「30億円」で“資金不足リスク”は解消できるか…知られざる“半官半民”の特殊な実態（デイリー新潮） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmekJuNDdrTENpZks3OU13YUFnVjJYdTBoOGloaF9tc3ZWaGFnUFdLb1djOW9CUmoxd3Y3NjlsU1pSYUd5OFBLVzFQMUZBV3RlazZRdU1lMFdOUEhrTjRiTUlUcGpZR3Nza3VjRHJCcndTMmxmWjRQUURrLWRxSFE?oc=5",
+   "published": "Tue, 29 Sep 2026 21:08:32 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.682
+  }
+ ]
+}
