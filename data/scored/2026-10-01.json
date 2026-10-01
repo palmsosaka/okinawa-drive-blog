@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-01",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 277,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】開業して1ヶ月半経過した土曜日に行った結果…🌲【MOMOLOG_269】 Ethiopian Emperor Artefacts Return (CALasphpoa) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXFfMlN4MjhmS1dMRnhGTm5XNFFHZ05SemdTSWJMSjZhRUhTNTN5SjQwcVNDQlZLeGRIQjA5M0tOUi1pWHlJWFZFdlhpcnNaWFhJUnFVVklDd19OWE1NZC1PczRKOVhTTDJfcU5KUVJyRWVvd3BmVHY5b0ZXZHZNRnh6aFZGQzZucEJkYWxB?oc=5",
+   "published": "Wed, 30 Sep 2026 20:13:29 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.675
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ゆっくり実況】あと数ヶ月で倒産危機？ジャングリア沖縄の現状がヤバすぎた Danhausen (dXLwS3ELRG) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdlMwamVRdWZxeUl4V2F5OHVNZUFlUlhFUXNVTnFoaXpsUzdjM0JiTEk4R1dCdmJrNkp1eXdFelc5TXQ3TnFpaFg4c0Z5dVVMbjMzM2s0ZEdfOG96MzFweHR4N0NkdmtBWERDdzFsRjE5aC1DRG92aEN5dzA2MEwzVDJPNmxLaWM?oc=5",
+   "published": "Wed, 30 Sep 2026 18:01:33 GMT",
+   "score_parts": {
+    "recency": 0.87,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.661
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "リニューアル！！「黒潮の海」バックヤードツアー開催 - 沖縄美ら海水族館",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05dHA4SHVPVXZXaDA0cThWNnVxS3VmcXVNZy1KMGRhemx0VDE3ZTBIaTM2blV2bWFKZnY5ZnNSSUlTbXI0N3NoNjlpMGpTWXZadmF3dVlDc0NXUQ?oc=5",
+   "published": "Thu, 01 Oct 2026 00:04:52 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄こどもの国に行ってきました【那覇空港から車で約４０分】 Unite The Kingdom Rally 2026 (5CuZuHkENB) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmlrOXF5ZDlxVTBzLUpDS1BONWRXTVA3TG91LXl6Q2hvd3o2TnpLbkVuUUIyM2twZFBxVGhweTV0ckdoYkRLbEJPUmpxNXJJVzJTSVFFUkF1Z1ZTRDBTV0VvcXNyV1hiX2RuclNqd0VlOUpoeDVUV1k1Y0RoN0t1OA?oc=5",
+   "published": "Wed, 30 Sep 2026 12:40:34 GMT",
+   "score_parts": {
+    "recency": 0.759,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "NarumiさんがでこぽんFMの2人とジャングリア沖縄に行ってきた感想 Alex De Minaur (EfEdFu6h8t) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLWstcU85allyaXp6bFVEZVk4TXphaElkcXVDOXdrdTRSZVF1bTc3cUd4TjlWMF9rYmZaZGxNS3JXdG9TRzBTbmlXWWVCNUhySGtrdXJ0LWZNRU9yNW9TMFM0QmQxeFRrVHdSUTFjZTZuQnZvTFFwYjdEWkV6RVZjNzItWQ?oc=5",
+   "published": "Wed, 30 Sep 2026 11:17:13 GMT",
+   "score_parts": {
+    "recency": 0.73,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】加藤健史CEOに聞いた「資金繰り」「運営の改善」／オープン直後の「想定外」／どうやって改善していったのか？／新アトラクション導入 Brock Nelson (OhDouD5q0C) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vdFVEdE9HR1I2OUFZMnRZd3J2UkJrQVJZWlhJWmRiR3hpd09UcHo1S1lLWnRPOXlvTUJtN1pteF9wNXd6X0RrZjBTaFB6b3dMY291UUVoaUp4dFJtZllVY3NHemhacXNRRnpN?oc=5",
+   "published": "Wed, 30 Sep 2026 09:28:14 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "「エマール」と星野リゾート・BEB5沖縄瀬良垣がコラボ⁉洗濯物フロートが浮かぶシャボン玉のプールがかわいすぎる - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95R3BzYXVvMzVEcjZlSkx2UUtNSUVNRl9VTHJSNXlLQ0M5Tlo3T2x1Ti1tekFjUEJXWUIwc3VaTHEwdGdjR2NlWEFwRXZIN1l0UnM2RUZhSVM0ZUpVZUg0ckVYZkZQclVUN1AwQUJySGw1R0l6Q1dMX0dndWtnTGM?oc=5",
+   "published": "Thu, 01 Oct 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【ジャングリア沖縄】冬場のジャングリア沖縄は快適♪事前準備やアトラクション情報など盛り沢山♪巷で噂の評判はどう？（観光Vlog）4K Hells Angels (M1f42mswLt) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkUtMG1mamxiUnUwMzI3V1lpbV9TQXh2dkxDSHJCV1pPdXJ2MDdrcVpMaGlaODd6M1JOYng0SHZjbUQtV0trMWdXWUt5TzZvcHVnNllIWjRvdTFBRzc1eDdVWWt1alc0cEpibkdHQ2pNakc1NzlScU0yc2dCMUNWSHphOFViOGM?oc=5",
+   "published": "Wed, 30 Sep 2026 07:19:09 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【内部資料入手】赤字173億円「ジャングリア沖縄」運営会社の再建策が判明《計画名は「シン・ジャングリアプラン」》 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5la21veEYyMjRwbG8wLXQwb3JGZm1Sd2xvUHVrYmt6bXJVQmFUdWZBZ0VoV0JtUUQ5UjlEYVpaWU10dFFzZFNNTk95MkNXQzJ0R3BQUDEyd1JlQ1F3eE9RSmZhMUVZcGY0RnlxSkNEcXlYajBVMW1Gb05qRzM4c00?oc=5",
+   "published": "Wed, 30 Sep 2026 07:12:16 GMT",
+   "score_parts": {
+    "recency": 0.645,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【内部資料入手】赤字173億円「ジャングリア沖縄」運営会社の再建策が判明《計画名は「シン・ジャングリアプラン」》 - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRY2M3VTh2cHBpbVgyR0poZjdMTG1PN01FSVZIQmtqcldOd1ZlQlYtb0FjdXZMRlRndGFGM3hLWTNkSDZrZEl0bEJXbw?oc=5",
+   "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.641,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "《大赤字173億円》ジャングリア沖縄「倒産隠しシナリオ」だけじゃない、森岡毅「刀」失敗はなぜ起きた？ 社内資料を読み解く【深層リポート】 - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6VVN4QmdFbW95SmROOTBiTTcyY2RiRUJrNVFmTHZMY2o4eThTUXB3Zng0a0x2VV9qbEJ5dzZLMWhYTGRWbmF0ZUpVOA?oc=5",
+   "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.641,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "鹿児島～奄美・沖縄航路「ネット早割7」導入。2等が15％引きに - 旅行総合研究所タビリス",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CdGpOMGtZNHlOMDJQV3ByNVVYQ2pqMkVTdkVuTWw0UjRRSU9NYkFqcExmYmlvaWJSVEhiaFI4UXdDcTlxWnRIOHZURWRDWWxQcWxxUUdmWQ?oc=5",
+   "published": "Wed, 30 Sep 2026 21:55:51 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像2 / 3＞「旅好きが選ぶ！日本の水族館ランキング2018」が決定！1位は「沖縄美ら海水族館」、トップ10には九州からもランクイン！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwazVQMGNWRnJqMnc3b1JCSDlic0l0cUpGTEN3Sy1NWXowLWlXdVMtR1JmcWo1OHhkYUZBUm82NkdwdUpfRm02bWNkLXl5R2lfNnRDUW1Dbk1fZjAzRm9meE1rYU5CTFZsQl9zMlpyOWJuX1dnWVk2RHc3SQ?oc=5",
+   "published": "Wed, 30 Sep 2026 13:31:53 GMT",
+   "score_parts": {
+    "recency": 0.777,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【正直レビュー】夫婦でジャングリア沖縄に行ってみた結果…【夏休み旅行】 Great Wall Of China (6cZ8uxywaj) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGTF85dHZaRXFUS3RCaHF6cWNkaWJkbThPU3JIOTVWVVRBM1hMeF9MbjZRZ0FSdWc0R1h6Sm92ZnpLYzF0aVcwWV9wZ1Q5b1VLOER6aHlyVVJjZE90RDJ2TFlGWUtldw?oc=5",
+   "published": "Wed, 30 Sep 2026 04:42:56 GMT",
+   "score_parts": {
+    "recency": 0.593,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】ガラガラだと言われまくり資金枯渇!!10月に倒産危機と報道されマジでお金なくて終わりそう!!国のお金も回収できなそうなのに自分の金出さなくてヤバすぎる!! Teyana Taylor (tJv7buH3AH) - media.unisba.ac.id",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVNiWGhBRXpxNkVJTXZrUXNiREV3VGpXdjdpQ3NQSUFKeEdEQTUzenlqanRWRmhEYXZiTUtGQWcxa05nMzhnRTRYN0VwZ0pfSURUeXNjWk5yeXU1NjZCMlZfVDNWUmVrWGNzdjBQeVhGTE4ycFJfZkpKa3JtY1dfNw?oc=5",
+   "published": "Wed, 30 Sep 2026 04:37:48 GMT",
+   "score_parts": {
+    "recency": 0.591,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  }
+ ]
+}
