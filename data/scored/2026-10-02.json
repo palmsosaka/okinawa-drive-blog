@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-02",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 271,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄決算出た！3年以内に終わりの可能性 Pep Guardiola (TIDLhtaaiT) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BMG81YjlYaFc1Zk52N0RSQTd3ak96Q3VtWmREVHkwc3BFNjk5QTRPOS13ZE5KNTAzTkQ4eEl3SkRTckJ2bmF0X19pX0VqaUxKczhNcVFzc2loempEc0Nqa2ZQazN0dw?oc=5",
+   "published": "Thu, 01 Oct 2026 18:35:20 GMT",
+   "score_parts": {
+    "recency": 0.881,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "流石に大滑りと噂のジャングリア沖縄に行ってみたら、ガチでした・・・ Epidermolisi Bollosa (2TfrkWBkyY) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mUU1ZZ2dseWtydDRWUUxRcVVhbldmaC1GYTVPNGdzQlBPbEFERDlWOER4MHMtbng2MG93Z1IzRFpRLWVPNWpUWDFpdU41T2RDSDBSV0VUS2VSLS0yVzRnU09uVlM0Wnl0ZWpJ?oc=5",
+   "published": "Thu, 01 Oct 2026 16:05:24 GMT",
+   "score_parts": {
+    "recency": 0.829,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【民主改革ゼロ% 4連チャン】4つの世論調査で支持率 0％を記録【沖縄ジャングリア】173億円の赤字！倒産、秒読み。 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rLUtBeklkd0hvTkt2b1hEZ0lyaXZmOFNQVmI2R3NaNGRkZ1hCdk9fZHBDb0p2dXRKbjd6OThxRlRkUjBZN2ZCMHBQamItai1rMWpmVlN4SHI0YVRv?oc=5",
+   "published": "Thu, 01 Oct 2026 14:31:43 GMT",
+   "score_parts": {
+    "recency": 0.796,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄の命運をかけたジャングリア！初年はどうだったのか？ Stephen Miller (wbTtbx5upP) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXRNT2ZvS1ZGYjJ4ajRzSUtGT2c4N3Z2ZVQ4aWZKMWF5Rk9FNXhKR0pINjYwZEswbkt6Mm5fVl9GTWQzXzlaV1VpQ2RVRDVQS3g2VWlVMEFhX0k2ZlY5bzdReGljbVdNVWpWZUlkcVY3OHFmcUdwcVl6bXlrM3VsNTRR?oc=5",
+   "published": "Thu, 01 Oct 2026 11:15:13 GMT",
+   "score_parts": {
+    "recency": 0.728,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】ワイルド ビート！音楽ライブショー Mamdani (tfkx3FNs2B) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFU2QWpCcHZjU3BlNDRaTW0zRTNUZFZibmhwNkU1X0NsMjRVSGszSndsanV5dTZzN2dvXzJJdkJPX2hobU12dGhURVdmRTZTRWY2N00yTW9CQWl2MVo1b3JCandRdmJzZWRjQ2kyalBKOGFKdVdKa2FwNmFVak1ZX1BB?oc=5",
+   "published": "Thu, 01 Oct 2026 10:14:06 GMT",
+   "score_parts": {
+    "recency": 0.707,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「ジャングリア沖縄」が開業1周年 巻き返しのカギは？ Alexander Volkov (bfPFpq8bG0) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtUFR4ZnVZV3c2TzF1NTdhZU5NYlZJNlJ4Y3FFX2NUcEl1Tm5LMW84YUxTaVNsX2tCV1JBWUFPMU1zXzFoM0RnNkFqbUJMQTZTR0FJd3k2dlI1VzIzTHVGblJhVzNNQQ?oc=5",
+   "published": "Thu, 01 Oct 2026 10:02:11 GMT",
+   "score_parts": {
+    "recency": 0.703,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ツーリストホテル『リソルホテルズ』ゴールデンボンバー・鬼龍院翔さん＆ラジオDJやまだひさしさんによるトークイベント「ラジオみたいなイベント」vol.56 沖縄振替公演編に協賛 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56enhEZDJ5UGgzaGJkTm9ITm1OUTFLdTFzblczb0RkNlA2cjRXV1VTSEVjRV85UWxmbGpFcGlnN3RtVWthYWkweEZiVXQyVnJSbWNweHpnMGdOakFVVEdOZGl3ckg1cWRSYWc?oc=5",
+   "published": "Thu, 01 Oct 2026 09:00:01 GMT",
+   "score_parts": {
+    "recency": 0.681,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：ツーリストホテル『リソルホテルズ』ゴールデンボンバー・鬼龍院翔さん＆ラジオDJやまだひさしさんによるトークイベント「ラジオみたいなイベント」vol.56 沖縄振替公演編に協賛 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MT3U0UFhmTW9JSlNlT0lSRTJsTGxrSXh4TE1zR2g1ODk5TU1qTXN1bWdZc2NvV1dpc3RRRF91MXVuT2M0STRzeDV4QmZqOVVZREFwMGRfSW9CM1ZiRUxWS0U3S0xSQQ?oc=5",
+   "published": "Thu, 01 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.681,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "52歳夫婦無課金でジャングリア楽しむ#旅行vlog #沖縄 #ジャングリア Jeff Probst (IuBriIlMjV) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BNUkxeTFfNUwxNnRnU2dNT3lZXzdHdi1HS2h6SGdYTDZBejEwSVNrWjZvamZaemxMUkN3SWcwUUxSMGRyVy1VRzdzejZIY1pBdTJWR3BSZHJnZGkzeGp6d2VtQjdtb1dGMmYwag?oc=5",
+   "published": "Thu, 01 Oct 2026 07:20:56 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ウェディングの枠を超え、人生の節目を彩る総合イベントプロデュース 沖縄ワタベウェディング 新ブランド「結祝（ゆいわい）」誕生 ～沖縄の豊かな祝いの文化を未来へ。2026年10月1日（木）より販売開始～ - news.infoseek.co.jp",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtSmRjMlZ2cl80SWd1b2xCOFAwcmlZTks4TDc4blNOZUoybE14VDg3b0RlVEhnLWFEbkFtQldzZThNdXJyUS04T0VjdnZ1eGQ3UkpsaVV2WEZQdzRQNE5KOXpGMk1mb0RDU1NwVm5jSXdWUQ?oc=5",
+   "published": "Thu, 01 Oct 2026 14:40:00 GMT",
+   "score_parts": {
+    "recency": 0.799,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Thu, 01 Oct 2026 21:51:23 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「非日常感と沖縄らしさを届けられた」 ジャングリアで名桜大生がエイサー披露 カチャーシーで会場盛り上げる（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sb0h6RDdwdmdpMlM2RTloUWVuZUNIOG5fNG1nS3lrVDAyVy1Ta1VSWXl0RTYtVWtpMEV6dHFOeHhpNmJUaXU1VktpSXFfY3NvVW9UWkFBMXUwRk1aLXg1eHJwOVJTZDh4X3BuWmFrV1pGUEZaMXdVRGZCX001WEk?oc=5",
+   "published": "Thu, 01 Oct 2026 05:56:00 GMT",
+   "score_parts": {
+    "recency": 0.617,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【枚方市】くずはモールで北海道・京都・沖縄のお土産が大集合！「行きたい人気の観光地物産展」10月9日まで開催中です！ - 地域ニュースサイト号外NET",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwcHhXOEFDVnQwZzZTSkxQbVFUUHhUdXBZcjVRY3VjOWMzSXlTWjN5ZGRpazEwNGZhOUhRc25Fbk5FLXNyRDFjXzNXeUJwOVBWNzh5Vk8zeEtUNVpRTXJPSktsZVM?oc=5",
+   "published": "Thu, 01 Oct 2026 21:17:00 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Thu, 01 Oct 2026 21:13:01 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄の超巨大新テーマパーク『ジャングリア沖縄』2日間遊び尽くしてみた！【JUNGLIA OKINAWA】 Sean Connery (YX6PChj6rJ) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYlpndFVGQmthQ2NHYmhMUkNjVi1tMjlaa0c3aGpxZnk1aktCNW9fak1mQ1FzTVJqaFdYcVd5WUlWZjlzY01ya3p6c1JNM2REQnU1M0FfWS1LMkxVUGlHUWw3NmdSY0tIQ1Y3SFdaYnRSWHJMQVBKYS1EU1hjb3paWlN0NzJmUQ?oc=5",
+   "published": "Thu, 01 Oct 2026 05:05:33 GMT",
+   "score_parts": {
+    "recency": 0.6,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  }
+ ]
+}
