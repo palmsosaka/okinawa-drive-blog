@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-04",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 223,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "市長の刑事告発検討 豊見城レンタカー問題 「市民の会」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HT281a2VPOTRKMlc3U2xzeHRsbzNHNFlSX1MwZUx3aEVTRjViQW0ycGZZWU5EeEJab2xPazNWbEM0b3ZkTlRESjhqUWt3ZVpkZUlWcDNGeWxIV1FiWVE?oc=5",
+   "published": "Sat, 03 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.672
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【悲報】「二度と行かない」ジャングリア沖縄体験者が語る実態がヤバすぎ る Jessica Pegula (QaRvg9XIU6) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aaXpiNGxDakt0aTltR3huUEFaRXAzRjVjckN5eTNjbUhGWXZPUXZVeXR0akNZa3RHNUx0MDhuOE1QeEtuRTVDaGRLOVlGREQ3Q2FoZXlBMGl0RHFaVGtza255cURncGthUHlz?oc=5",
+   "published": "Sat, 03 Oct 2026 15:31:40 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣が、苦戦する「ジャングリア沖縄」のマーケティングについて「やることなすこと全部古い！」と断言する、これだけの理由 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUdqR25mbEJxRVBBQWFNU0xkczNoTXhPUzJWQ2NaaGFFUzFsU1FvLXBUckhTUGpmRXVpcHBFYWxSZmNuMzBiVHl4ZlA4XzlXd2ROTGJJcndrM0M5UnR2LXRScVpMZm9CcEdPd1d3M1pfYnViOWdFN0h1aU1XM2dCbzV6ekNLY2p0akczQ3JR?oc=5",
+   "published": "Sat, 03 Oct 2026 11:46:27 GMT",
+   "score_parts": {
+    "recency": 0.757,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.627
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "初年度目標150万人→100万人、173億円赤字でスタートの沖縄「ジャングリア」浮上への打開策は「地元企業にまだ恩恵はないが、踏ん張ってほしいと思っている」 (ABEMA TIMES) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTXNpcEw3Sy1HWFdrWFFVR0RNRTZ0U3JhSHFFdDlQUVo3QllJSW92U3ZfMXVkQnl0SmNVNEVkeUZ2cVJGblNYMlBNTS1rdU1QblhwMmlfMHZmaUx2VnFiUEgwbTFXVWJwWFpsTkRLY296X1NabzRZY2tUc3d2Yjl5Tk5oRV9fVnY4MjNILW9R?oc=5",
+   "published": "Sat, 03 Oct 2026 11:40:02 GMT",
+   "score_parts": {
+    "recency": 0.755,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄が開業1年 集客に苦戦、魅力発信へ意欲 運営会社トップ会見 Kooora (BDC4Nv4iM3) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNVhkY1pjY0Zkb3lxY2RWdER1c1NMMTBGb3VJYWF4aWNWdDFyb0VWbGJuRTFLRnJwZ0VlQ0J1VXJQSDNOaDlBMDZlbkNNa2xmZDEybGZhVFlhbjY0eDlkWkpTSE1EMFdTZGJJS3BYeW51S1R6Q0h2OEUtMlR4bE5GT1p4bWFTUQ?oc=5",
+   "published": "Sat, 03 Oct 2026 09:37:17 GMT",
+   "score_parts": {
+    "recency": 0.712,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣が、苦戦する「ジャングリア沖縄」のマーケティングについて「やることなすこと全部古い！」と断言する、これだけの理由 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QWlduUUh1Skw4dlJhR19VMHhPVEhaR1dPOWVqaFJOeEhMSkkwcVVudG1ka2Q1MWd0U2phaGpOLWxyM2FFSkhiN0RUcTBpNHBYREtwck9FMlBodlVnNUhyWjBEUVRCYlBEMno5bFpUUHN0M2JlbnBUWXJZVk5BMGs?oc=5",
+   "published": "Sat, 03 Oct 2026 07:30:50 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄旅行①】ジャングリア＆美ら海水族館編 Véhicule électrique (SmnuY9DoSG) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWWptM1otN2pFb3hLb0taREtfT29NY2d3bWlPenhoTjJnQ1g0MHByMmRwVTA5UVZDZC1MOTVxd2VUQU1wUDh3Qkx2WUVIVXlDN1RicWo2MHd2VEVFaWk1dDBDU2gxUQ?oc=5",
+   "published": "Sat, 03 Oct 2026 14:44:45 GMT",
+   "score_parts": {
+    "recency": 0.819,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の親会社が173億円の赤字 株主総会で経営陣が「お詫び」 新規スポンサー獲得へ - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HekgzQUZlOFo5S2FNaFBTb04td2FWQ3RZNDZFdC1TcVpGUzEwN3JzZUNUSzNBeW8yOXJ3ZFRZdlktVG9mNTVPUFJqZGtjWFRSQUdVTUM4RW9TdFExdGFF?oc=5",
+   "published": "Sat, 03 Oct 2026 21:18:00 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "なぜ「オリオンＴシャツ」は沖縄旅行の“ユニフォーム”になったのか - ニュースイッチ by 日刊工業新聞社",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE03bXdPdnBQb200TThfc2dxRlJKdlltNUJGR2lrZ0JpTnRfRkhLbUlDSlYzUGtFMks4WlFwNV8yMzFudw?oc=5",
+   "published": "Sat, 03 Oct 2026 21:03:00 GMT",
+   "score_parts": {
+    "recency": 0.95,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「JUNGLIA OKINAWAへの旅」でジャングリア沖縄を大満喫！！【JTB公式Official】 Earthquake Now (C8yrvGB0Et) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3BJRVVYOTlkX3lkTWNNT2ZUX2V0MVJDNzl0RERtUkRGZzlLSDBGN3pXNXVhUmpRbUphNGdRdHFSQlZJVW9lQy0zbk9mb0NiNzhwNzY0RXJRcVJsU3o1VEtURUl5dHhERlhYRFE0bHVGeWhGMmhGMi1fZFQ3WTFtV2Vpdw?oc=5",
+   "published": "Sat, 03 Oct 2026 04:22:10 GMT",
+   "score_parts": {
+    "recency": 0.603,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「赤字173億円」ジャングリア沖縄に公金投入110億円超へ 「マーケティングの神様」森岡毅氏の誤算 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xSWdkaXU1c0phYlJhb3lubFVuTDdDUm83OUpDNi0xdDFPczlnME41MEpCeXpJc1pscEsta3ZScm1od0hzanpRMDBmNDIwNTJsQ1hrWk1jaXgwamZpWVdn?oc=5",
+   "published": "Sat, 03 Oct 2026 03:33:09 GMT",
+   "score_parts": {
+    "recency": 0.586,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光案内 AIで充実 音声 42言語に対応 竹富町観光協 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UbE1sSDVuN1NrbnJQY2RDYXBmWnhBd25Ia0dzZE5MNGpRSlJOczlUUDkzRndiRmxDRGNDRk9QdU9ISFJ0c0hFN1Z3UWpkR2h5YmhsZWgxR0REZlRsVGc?oc=5",
+   "published": "Sat, 03 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "オフィスの窓から 26年度下半期執筆者 来週からスタート - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BUUYtYThDUXZRWnhYamloWHJVZVVpOWhBUDAyUHNQM2NzQTF4Mml5RFpmeTNTQy1lTzY2M3hnaFhQT3BRVmViQ3JjRzFkWnkta2FRX1JIRlhPdW9hdlE?oc=5",
+   "published": "Sat, 03 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "＜画像3 / 20＞沖縄美ら海水族館が4年連続1位に！行ってよかった動物園＆水族館トップ20を発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91dUR2eHlXUmNXXzVmd1U0NjNVYURWdDBEZHdoZW1rZWRlck9BTkUzX083V0JPa05VM3c2OUJYSnc0aHlRZUx5X3UySFd3akN1NGQ2RC1Qem9rZC1YOVlucDBrRDJtMUEz?oc=5",
+   "published": "Sat, 03 Oct 2026 10:59:39 GMT",
+   "score_parts": {
+    "recency": 0.741,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "インドで日本アニメ祭り 巨大市場に攻勢 3回目 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04eEFkNGFXSWNENlBsUEgyZm9pRTJBRWxVZ1QtckFzc2lfdFA4dldVY0JiV2c2X1FVa2dSUWNoVUtSc2k4dURCdW1td0ZUei1oZkJnNnYzbmhESF96SUE?oc=5",
+   "published": "Sat, 03 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  }
+ ]
+}
