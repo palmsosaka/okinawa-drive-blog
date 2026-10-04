@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-05",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 220,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "5連休にジャングリアに家族で行ってみて、沖縄北部にテーマパークをつくるという挑戦の難しさと、意義をあらためて感じた話 - note",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkODR5QVRYcjRxdGk1UnBjRlk0aGt3all3RHJKOXNSMFp1N3FIY0EwQlRiYnVQaWtrSUZpRzlkNGZNcUpkWVo3U3E3NUFQbldCX2Fj?oc=5",
+   "published": "Sun, 04 Oct 2026 21:30:00 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［記者の眼］ジャングリア苦境 生まれ変わる道 開いて 大川藍 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3cmoydEV3ZmpjMlduVm9uRi1aNjhWMUV3cTBqRjV3dTM4NGJ6TnA3OUhvX1U4N3hBOVlCSTZRdGQ2X1MyMUt2TVpiX29GQllORk5LUWlsbUY4RExyRFE?oc=5",
+   "published": "Sun, 04 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.67
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【正直レビュー】ジャングリア沖縄｜開業5ヶ月…実際どうなの？ Rachel Mcadams (Sr70btNOlS) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9icVZOWHlOTW1adHRiWUZ5RG8xR0k5dWp4OEZmRWZVR1puREJYU2pEOW91Q2JmUmlqWUpOWWo5SmREUUF5bFo4clFhd2YxRzBxR1g4Wmx3aFYwLVA4NlhUZVFtd2c5Sm5IZjZN?oc=5",
+   "published": "Sun, 04 Oct 2026 14:37:14 GMT",
+   "score_parts": {
+    "recency": 0.811,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "最終赤字89億円のジャングリア沖縄の構造的課題と再建シナリオ - newspicks.com",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NUmxQWFdQalJjaW1pcWh3NGNHdnI1b1R2R293LWtiUlNWVHlERVhwaDlUWGdVY2o4b2xRWTdRSlVZLVgxMHd6ejFUVW91aS1FSWd2azVkX1VCcHM3WkM2M2tB?oc=5",
+   "published": "Sun, 04 Oct 2026 11:18:50 GMT",
+   "score_parts": {
+    "recency": 0.742,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "豊見城市長の刑事告発を検討 レンタカー問題で市民の会 公開質問状への回答受け 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXplVmdMcVFFVFFlT1hPU0FfUWpzR29Pa3ZtcWpRLXdJRGFPaUVCemo2NTl3emJ6TWM3YURtSGVRVUNYRjVRbEJKb2Z5R1NtcmtqS1F6QXhMY3c0YzRNY1VRVU1WMGNwYm5KOVk1RzBzblhyLXgyTTFHamFEbmE4WnZQSVptUzVRS1N4aU5R?oc=5",
+   "published": "Sun, 04 Oct 2026 09:10:51 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港でスーツケースから発見 麻薬密輸疑い、米国籍の男告発 沖縄地区税関 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQmlMSHF2Ql91d0g2UXN4amt5RERHSUZZUlR3cmUwTTU3TFRyelh4ZjRycWp0Vk1oVXRMTS1aNGR5VzU3RllMOU9SN1JZSUFOazVxczNKYWs3SmNmV2lyRkQxc1VHcEh2MTdPYU9YMktVXzlELVpHR0pTcV9GOUJNQlhpVXE0M1VFNEhONTBn?oc=5",
+   "published": "Sun, 04 Oct 2026 08:21:26 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港でスーツケースから発見 麻薬密輸疑い、米国籍の男告発 沖縄地区税関 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIOWhJUWJacGFzZTY0UjBqYW1RSVY1bDlkUTZiaTJfU0xYNkhIYUlZLWdGcmtVRXNhSFRyYzdXaHY0WG03ZHhDVk44Yw?oc=5",
+   "published": "Sun, 04 Oct 2026 08:21:30 GMT",
+   "score_parts": {
+    "recency": 0.68,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【ジャングリア沖縄】過去の遊園地と開業後の現状を比較してみた Rays Vs Red Sox (XOPeKDX7zV) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56MU5NMTF6YW50Z3JRamNKdHd5UnhCNzdyQjRXR2g0bTRpa3dzN245ZjFQQjBlTlZRb1l0emF3UUFzRk11MWc5d21vUFZNVjk1WXBCRHFTNnY1LXJJLXJ3VGZOd1VVWFY0QWNJ?oc=5",
+   "published": "Sun, 04 Oct 2026 07:58:46 GMT",
+   "score_parts": {
+    "recency": 0.672,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄ジャングリア】今行くことはオススメしません・・・オープン初日と2日目に行ってきたが。 Happy Mothers Day Message (jCqVBU6a19) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeHNoRGpBRVZYTlV3WVZPX3Z3YWdqcEJWdmpLZktwZWFzbmNibWF4UmpOdXYxZTJnOU42bTZpNFdEMkFfcmFocFNaWWFiNDhrT1ZHSXJtVUpQUktKdnJDMGZMOVdkT3NZa2dIV3U5TmJ4elYyOVg0Z2VkcjNyWnFmLQ?oc=5",
+   "published": "Sun, 04 Oct 2026 07:04:53 GMT",
+   "score_parts": {
+    "recency": 0.654,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "中野の沖縄を語り継ぐお祭り「中野チャンプルーフェスタ」 初の秋開催へ（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5saWZhNVdvUUdOOU5TQ05uQ0ExT3VaMVVKaDY4NFhTaTg2NG04QlVnZ2NhaGtCRjJnSUhmTGYyRUprbmVpcGFkMmxlTzFLamd3UHNpWExCamdwTmFhX2JPbXo2bV9odm9FN1ctU0tvbGNnS0VTTWl0RmEzZFVfSVE?oc=5",
+   "published": "Sun, 04 Oct 2026 22:53:02 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "目撃した人は？沖縄ホテル女性殺害 米兵を緊急逮捕 知事は「日米両政府に抗議」｜Quebee キュエビー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RNWRERU1WRzZJNS02SHZpOHpwNjZQVnVBNDcwdWVzRkllbmRLb1V5b1dBZEoyRmxjRWlXcDJxSE1XU05yZzJubXlhV0VDUUY1XzdhLXc2UUo?oc=5",
+   "published": "Sun, 04 Oct 2026 14:30:25 GMT",
+   "score_parts": {
+    "recency": 0.808,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】ダイナソーサファリ、ファインディングダイナソーズなどアトラクションが公開 7月25日オープン メディア内覧会 The Late Show With Stephen Colbert (EH11NtYx1m) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWg2cGVZVHNuS1BneEloRHFrZEprOEVDMG9YWEFJcTc3dzJuam5GMzY1dnZYcjJJTGdGbEh0eFB2T1U5S05KQUtkbFhheVBoVkxrY2FnRzhzVGxTVlNzNEdvakpIUXpERlZUektDSTVlTTBpNzVnQnc1dFVIbEpUN1VIOXNORURyTmV3?oc=5",
+   "published": "Sun, 04 Oct 2026 06:00:23 GMT",
+   "score_parts": {
+    "recency": 0.631,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "10/17(土)栃木SC戦 流し沖縄そばイベント開催！ - FC琉球公式サイト",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zUzlGMmN4dUVvdWx0eUctQW5CNEFvYlR2UDVFaFJNa0hqYmRCMXhtcm1uNWhGUko2MUpsVU9JWUI4czR5LTdF?oc=5",
+   "published": "Sun, 04 Oct 2026 13:59:49 GMT",
+   "score_parts": {
+    "recency": 0.798,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリア沖縄の\"今\" 攻略ガイド♪ Busch Light Apple (AcfBbou6Xz) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTVFDM3B4LUhFWHlfb2pTV0JaVWJaMDE4UU9fMEtwZXVQenBJTmdpQ0x0V2VuLTh2UXFiY0tGNHBRbXZSN2pzcEg0aWdpd2dqMHVjMDRGT1VoNlhUN3B4enJKYkQtNHJ0cjJwSlVQY0tHU3Z1UE10LUhwVXFWaGI2UHBKOA?oc=5",
+   "published": "Sun, 04 Oct 2026 05:21:39 GMT",
+   "score_parts": {
+    "recency": 0.618,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "豊見城市長のレンタカー貸与問題 「糾す市民の会」が刑事告発を検討（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fa3FXRTNlLWlpQnhxdmtZTEpLclBEZ0k4QThKZUIyTDN2VDdPODJCTXhsRUZrTGlFWjY3dmYxQ3daaUxJSVZMT1dyb3lFdGFkLUhtcVZsVDR5ZFJTcEF0TEZBMDJsVElfTWFjUXpKdUF3T0lxdmhsTTNhSDlZUFE?oc=5",
+   "published": "Sun, 04 Oct 2026 04:51:17 GMT",
+   "score_parts": {
+    "recency": 0.607,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  }
+ ]
+}
