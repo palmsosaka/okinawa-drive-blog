@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-06",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 200,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【正直レビュー】噂のジャングリア沖縄に行ってみた結果…想像以上の状態でした・・・。 Man City (nTrBUNMGtf) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdEx5elEweEFuVFdJMFJnZ2VVMzVNX2pEMldFVUVyV3Jwek9nbDBfcVRtcEwtSGF0ak1IelJLTEhpbVlOOXNxNjczYm9lQVFaQUJHV2JiYmQyNndVajJQa3dXUHB4UU9aaHllMl9nYlMyeXNYLTV5clZIWE5wMTFYcg?oc=5",
+   "published": "Mon, 05 Oct 2026 21:46:28 GMT",
+   "score_parts": {
+    "recency": 0.92,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.676
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア】沖縄県民がレビュー&食べ歩き【実際どうなの？】 U.s. Department Of Homeland Security (jUBDzUa1RD) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04X0Jxc1M1dGJhNEtkczhhemJPenB5aVMyVDVpQXBjR2hvdTluS0dXODZvRjZxbXo5NHNJZ091dTFOVE1SZ3RvaVF0WFgtN1E1OTZEbnBwbkNfZGZ1QWNKVzlzQTFBLURYUE53?oc=5",
+   "published": "Mon, 05 Oct 2026 20:04:13 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.665
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "常石グループ ビジネスマッチングイベント「Hiroshima Open Innovation Conference-TSUNAGU 広島-2026」に2年連続出展 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQVEFuWjNjQjgzSk42Rkktc0tpSFJBU2xhTnBlQ1NnOWh6Tkxzdy1tSk1sWmJKSmNnNEJvYXRIU1dnUUJVWTB3MzRmdnRGSzBUWU43NExUNHhZSUV1N0E?oc=5",
+   "published": "Mon, 05 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「昼も夜も楽しんで」本部町の食と文化を楽しむフェスタ 海洋博公園で10月10日から 町イベント広場で闘牛大会も（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xSWhxZDNVR0g2cHg4aHlrZVdTblN1bE1jZWtBTTlOaTF0dmRVWGNGNmw0TVpLNFdPemdiV3k2UUtoUU1yejl4T3JFZDBJMEZndkQ2VTZHVS1ZeXhzeFFiekRTTTVqaFJwcG1PaGgtVkpReV9BOXVvWXE4eUFkbEE?oc=5",
+   "published": "Mon, 05 Oct 2026 21:04:53 GMT",
+   "score_parts": {
+    "recency": 0.906,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "今が穴場？ジャングリア沖縄のオープンから2ヶ月たった現状をこの動画で確認してください【PR テーマパーク】 Codazo (XihG0dkrA1) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyY05iTHhXdC1jSUNSQ0ZZMWpQS0RWbzMyNDY4X2dmX01hRkw3dDQ2c3pvSTR6YnhuaVptS3VYQkM3Wk1pM3FxNlhJRTdUNkJZQ1NBMkZNQ2MzVkhROWdnM1VyTTBWdw?oc=5",
+   "published": "Mon, 05 Oct 2026 12:36:01 GMT",
+   "score_parts": {
+    "recency": 0.729,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】バギーボルテージを沖縄テレビアナウンサーが体験！ Nationals Vs Reds (JyrMAjzhur) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0dHckk4RG96OTJiWW9YUnZHN3ZKWHo5cHRHZWNhVW9tWUVGdS15Yl9SQi15WW0xQlF3R1Zzamw4WTQtcVRxUGl2U3FsX0xyUi1CdUMzbm8tTUFoemtFUlVtYTZ6RXVkU003SThvS0l3Snhsa2JqTFZXX3NZcVNvd3FNejZ5cGdT?oc=5",
+   "published": "Mon, 05 Oct 2026 12:40:19 GMT",
+   "score_parts": {
+    "recency": 0.731,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "客室内で里山を体感 岩手のホテル CFで完成 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTSGVyRUoxOUpCR1Q2YXl3dkgtTWV3ZFdpNDRVYWhZSTRrWFNzSkw0WWNrUTBGZGxXWVJjMzluMFZ0Sm1aYWRZODI5ZEo0RXRDVVB3S19vU0s4Skp1RFE?oc=5",
+   "published": "Mon, 05 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.861,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 20＞大型イベントが盛りだくさん！沖縄で｢観光月間｣PRイベント開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GM2dCLXl3TFo5T3kwZ0FMU2RIYS1feGhDOEVsd19hNFV6Njg5SmhkZlpuQmFYVDBjUjBUem5tN0VPZ05hdHgteWVCeGp5aW5yU1NQNnJWcEE5SUFrd29zZzlwVmdPY2xE?oc=5",
+   "published": "Mon, 05 Oct 2026 18:47:44 GMT",
+   "score_parts": {
+    "recency": 0.858,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【実際どう？】遂にオープンした期待の『ジャングリア沖縄』に早速初日に行ってみた‼️【2025.7.25】 Dennis Schroder (rd4FcKZ1vW) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3lKWm9rYUFEWkJGeTJPcmFwRTl5TE1ubjVHNHM0cV9OZHNlY2pkUlhwYmVuU0dlQ3h1c25RX1pyVDJaVm95MVRnYTJFUUVFODJtTlFHaXdLYW1QQ3ZMenhBU2xYVldzRndoSUVQOC1WenBiZ1BqcUZ0eXRQVDJQaUln?oc=5",
+   "published": "Mon, 05 Oct 2026 09:58:26 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【久米島へ深海調査に行ってきました！】 - 沖縄美ら海水族館",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MNHRsa25uV3dGRUhCTjBIdzRaSVZPX1liNWFndGVxal9SbEF6a3QyX01EY0Y5bE5VOVVZNmhndnE4REVwejU2cDAyamp1cVV1TERn?oc=5",
+   "published": "Mon, 05 Oct 2026 16:51:21 GMT",
+   "score_parts": {
+    "recency": 0.818,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄・宮古島市で不発弾処理 10月7日午後9時から 県道などで交通規制 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtWjdvQzNRQzdTYV9kdTNnSG5Pd2V4azVoelcxZ0lFbFFObEc0UW9zS3JCX2pmSGMzaGpBd1UwLXAyY05WVmZNUDJocWQtTTRSUWRhMXVYRHltbW9UTEE?oc=5",
+   "published": "Mon, 05 Oct 2026 23:17:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄・宮古島市で不発弾処理 10月7日午後9時から 県道などで交通規制 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80RUQzNzNqTzQ0THhHa1RFdURBMjNpM05RNHRRLUp3ckdGVTdBeW5tc3A4NDFLeXB0dXk3Wlp6UzdlOFUtSUpJZ3ZQMHNXUWROMUJ2VzR3dDh5ZC11WWJpblhQblBsbmxxZU5qVGNfUzlBaDNPbHlxVw?oc=5",
+   "published": "Mon, 05 Oct 2026 23:17:00 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "1万円台～の『沖縄パック旅行』が販売中。神戸空港発着、受託手荷物20kgまで無料 - 神戸ジャーナル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GdTJHZTU0LUxfaS1xMnNNbmd6OTVmbDV5TUJCeXFET3Z5YThjcTFQeU9yTFE5THBFdjRfR1lQZGcxckZCOTRSUUpnVUdyWDVRME1KX0puTUtDeU1wYUE?oc=5",
+   "published": "Mon, 05 Oct 2026 23:02:45 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 1日目 LOUNGE、タムタムトラム、ダイナソーサファリ紹介! Jake Laravia (HW6Hn8dAtj) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84WS1MVl96QlFXTGVtTDY0UktHNUg0WjN3Yld6U2V2MUtMeF92MWhEWW56VzM4VVVBMzhtYUN5RGhjQU9odUM3NzZUSE5oalh4OXJvaFFxdkxSQ1pqU2o5NUNOQmNWQQ?oc=5",
+   "published": "Mon, 05 Oct 2026 06:03:50 GMT",
+   "score_parts": {
+    "recency": 0.593,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像10 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPNHRfbzJ6QmdnYmk3anI1b1hmQ3F5dlhOMnp0SHI3WHpOWFl5akN3R1p4U0VLOXJXSUdvZlNwTU52d3NkNzZwajB0SUFVVVFwQW84Rm1tRmstS3NuZUV5UXl0X1YycEhtUk9adlNB?oc=5",
+   "published": "Mon, 05 Oct 2026 20:32:23 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.568
+  }
+ ]
+}
