@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-07",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 206,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［インフォ］［イベント］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BaW5QRXpZa05WemV2OGt0TGtoaTlRaE1LZjZ4UklvemtReHkwRFBlU3dhTkVGZHZqSVgteC1JdHdDM2lGWktGQ2VjbWlCMmRqZUd2UWcwb0tjOU1JelE?oc=5",
+   "published": "Tue, 06 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "環境考えコーヒー楽しむ うるまの事業者 来月勝連城跡でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fQ1JqTWlTazdHdFFuM0pFOUYtQ0hMWXAtZzYyajFvVlliR2Q1OFlJT1V4MFVjbnFUSUtTTHdqSGZiV2xHMXhNREZBNmdiUlQ3cklKemdubkN0QnRhaWc?oc=5",
+   "published": "Tue, 06 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.617
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】ジャングリア史上最大の霧が発生！何も見えません… Monday Night Raw (ckhIH2L7tf) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xeDRFOF9aVzlyMTBNRUVzZEpXMGtZblhUMnh6RXlNUFJoeFF4QlRZcXVZdXRxaU00SU1aSFNRNHZJVzIwdHhyNnFQc2ZCMzNRUmZLaWhXYzJRWTVVR2pNSDVEZExYdw?oc=5",
+   "published": "Tue, 06 Oct 2026 10:29:29 GMT",
+   "score_parts": {
+    "recency": 0.714,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "玉城デニー氏はなぜ「辺野古」を封印したのか。“オール沖縄”失速の背景＜石戸諭＞ - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVGdETUZ1RGctZmY0Q2pMbzFSSmJTYUFNZjFJczAzN0ZMaGxLdGs4dWtwWmxYZzJkTUUxUHBvdGlMLVhLdzJtODgyb2xTWmtyTDBiVlNOX2c3aVFDWjVlRHgxcHpHT256SVHSAW9BVV95cUxNQlAtRVY3S1FUSzNfV0Fkb29fZm9QU3BNYUtteE4zUkc3SWxCZTJhdDBjS2ZtWDdVY1VzWWtZTktKNUx1SUNmUFJ6RUxUa0hBbXJCX1hkRUR1d1YtdThuVzM3X1ctOUI2YVMyU0V3WFE?oc=5",
+   "published": "Tue, 06 Oct 2026 23:53:08 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像1 / 2＞沖縄最大の夏祭り｢一万人のエイサー踊り隊｣が8月5日に開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QU3pTc0lQVnoxa1pzZGtRRExlbFNHS2p4MFdfV09rZXJCYUd1TENQblZaTFp0LS1hcDB4RXRyNXJ2aWQyN25ycVptWl9JSTlPZVRxdEM5b0l6ekdEUS1JbmdxNUdlT3hpS0E?oc=5",
+   "published": "Tue, 06 Oct 2026 21:13:19 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「ジャングリア沖縄」苦戦の刀・森岡毅氏と、NIGOやファレルらを巻き込むNOTA・濵渦伸次氏 「観光地」か「カルチャー」か、両者が描く世界観の違い - SEVENTIE TWO",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Oam4wUzBCQ3hfQktYRV9EdjN3NUVQci1qbldvVzR1bmFyMnJYUERqMVEycmtsNFpMMFB6R2wybFFrX0wyc3J3bjZyR01XZ0NKVEwwWlZwQWxtT3RGOWxHNUdhUjlNVVY3Q3dNR2pn?oc=5",
+   "published": "Tue, 06 Oct 2026 04:17:08 GMT",
+   "score_parts": {
+    "recency": 0.585,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "オリエンタルホテル沖縄でサウナ企画 貸し切り利用、プールを水風呂で - やんばる経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PSDBnUmRMN1NjTGZQV0VvTzVBY2p6UmV2alY2OTJWRmdCYWY2NEluLXFKeUtyckQzSWdmWWFLTmpZV1hfUC1QeEZTOXRib284dlE?oc=5",
+   "published": "Tue, 06 Oct 2026 12:03:18 GMT",
+   "score_parts": {
+    "recency": 0.746,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像1 / 20＞ウィルコム沖縄、新イメージガールに真玉橋さやが就任！ヒガリノも名誉イメージガールに - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJNjNpN2I1VmhSQUQ1ZlhSUDdWSjFsWFNlQWtwWlpudm1CbXNzdFdyVFZYaERWbW1ZeW1hMzdNVWJtc3JFem1pTk9oLWkwVlpRMTlYZ2Qyc0gzX0dnbUhVdU5lQm9Ec2c?oc=5",
+   "published": "Tue, 06 Oct 2026 19:29:12 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "若手や中堅 14頭参戦 10日本部でナイター開催 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zR3FBRmlZenFDY0dZeE8yaGw4RW5CblFzb1V3eG5NdEIxekwyaFRBbXJDd1dITXlZZ1U4ZDNVTWpfVFFwXzJQRUVQRHF1OVF2amxxcjJJUVJCclJpVUE?oc=5",
+   "published": "Tue, 06 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米海兵隊の撤去要請 6市民団体、県知事へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LSnd2N2gyNUlpYlNRNjhxaTFnWVY0elp1aURUNWJWRl9hOWxETXNoZUJpcmRqWFdpbmx2cElhVjVpaEQ0SWtSOVg4QXdKQTFzeVcxd2lwdmVpa1dUYXc?oc=5",
+   "published": "Tue, 06 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "本部発「ぬれアンダギー」 シークヮーサー丸ごと活用 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nelVTUW5PX3paNk0wTjBxZDc5bTJnTXdjYXhRcmw4MmlkTHJsX3hBN29YZ0lxcVJ3eTNfTnVLMkxMVjhUckQ2M2l4cnNWaVFWRUljb2lpaHlIZjZ5Q0E?oc=5",
+   "published": "Tue, 06 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［インフォ］［展覧会］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aMDNRVk1xeHhhc2t2WEp1VHFHNThQMTNWc1FKT3Npcy15MGtNdlZUdDBteHg5WUt5NDRzajB4SHpoY1JSbnZJLVBILTR6ZXd6NEV3bUhTSmVJN0RBZEE?oc=5",
+   "published": "Tue, 06 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "B球宴行事に女子選手参加 W杯へ機運醸成 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uNGJ1eG1YMDNCOWF0OFl1QWljMVd3N0JOb0tmMnlsa3I0ZmE1OFZBenViVWpEczYwM3N4ZW1mTEVzdnozcFMyYkd6MHpDb2VvOXBoZHpMY0FMaERHV0E?oc=5",
+   "published": "Tue, 06 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［タイムスからお知らせ］ 第38回全島獅子舞フェスティバル 10日前夜祭 11日本祭り うるま市勝連城跡 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uMGxvdjFmTmplWVA5dHdiaFJ0RElUUk95SGVqVDlqY0FiYWYwRTJ3NF85VXhuMFNsVWxuT3VJUGNDdVUyOXNXTFd5RzlERzlxbzlXOGVXaFFabE00NGc?oc=5",
+   "published": "Tue, 06 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "子ども支援へ 11団体に寄付 北谷町社協 29万円 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcWlHX1l4M0JONHZ0S08wSV9SaTRjN2RzZXZhRXVYaGZFSW5BcUU1TXpUWDRUTVVjRmdMUlFUZ3ZNUXJuOHdIZzgyeS0tMjZscG9sdGw5Mkl0cHpndnc?oc=5",
+   "published": "Tue, 06 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.89,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  }
+ ]
+}
