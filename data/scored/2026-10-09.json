@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-09",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 193,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "画像2 / 18＞【ちいかわ】「シーサーのおみやげやさん」那覇空港内に8月12日オープン！沖縄定番のスッパイマン、オリオンビールとのコラボアイテムに注目 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTUQyM0NKUk5HLUxFVWdQZDNieGJiYzJMUlFLdVJYNkFjT3lxRGxWMXE2YlowalRSZDE4aVk1Y0VQRVdKajdmaFVlSlhaSzdWRXI1WW9oWDJmY3JLT0pCMnFQeXNIRFBPbjVISnF1cVUyTTg1d3ZxdUdrazk0YXlTMnl2dnZtR1daaGRYNWpMbTY2ZjNqaWlPbUx6NjVqOTJWTFlEQXlSeGY2ZU5FeEZ5WVZJaFR6RUxvQjdjTmhjQkF6aHZVQnkzU2N3ZnZma25LcVJYRTYwaEt2YzNfWEZUUzlndUFXdE1uUUNj?oc=5",
+   "published": "Thu, 08 Oct 2026 21:36:55 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.68
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ゆっくり実況】あと数ヶ月で倒産危機？ジャングリア沖縄の現状がヤバすぎた Football Club (oIYA6Xq8xg) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZjk5UkREX1ZJU0x0Q1p2eEpWNjNqVk1iSEtzRlcyYjViSTNhUHQ4aWNLSTM2S0RIWDdFOGh2MjE4d05mNUV1OWlaV3c3LUxzUjFqd2ZPTGl5VE1JZkltcmxTeEluUGVIVUN5U2tpUW9oNVdnbWQ1TXVjLXA3b3RaTGR3?oc=5",
+   "published": "Thu, 08 Oct 2026 12:06:04 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄・ストーカー殺人 逮捕の元交際相手男は刃物とレンタカー用意か 2月には接近禁止命令 宜野湾市 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUzczZUdvOVJjUDVzU1gxWG5pXzZ4dzBiN21LWlF5MWJjcXN2YU1zdUU0MF84bXdPX2ZEN3paeE1sRXZoZGp5dGdWcnNIeG9idU5YU280TlNqSktQanVZ?oc=5",
+   "published": "Thu, 08 Oct 2026 10:58:24 GMT",
+   "score_parts": {
+    "recency": 0.712,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄・ストーカー殺人 逮捕の元交際相手男は刃物とレンタカー用意か 2月には接近禁止命令 宜野湾市 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DMUNLOGFqbE1DVTdWaUVIaU5iZnBfcUdEM2E4b2RqWGVKblZkZXp5d1ZLTFZrTXJaRmRCQTJJb2gxWERLLUI1Z2lIaG82alNUVmpWZm5vSGg4VlNGVzNtSWVkZ1VjT2JCUWpuNUpB?oc=5",
+   "published": "Thu, 08 Oct 2026 10:58:00 GMT",
+   "score_parts": {
+    "recency": 0.712,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.614
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【画像】沖縄・ストーカー殺人 逮捕の元交際相手男は刃物とレンタカー用意か 2月には接近禁止命令 宜野湾市 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xWHVjVllseGtnak13NnZJWnFzSjRwNE1tLW9IS0ZRbXhZckpfYzVrblBoZmhleHY1NjhkZUxSWXpwazk5NUhQT1VsVFBrNTVXRE9RcTR5SXliMC1ZcW1EU2QyQUlWWG81OWdMZlpKYWk4RklHQlR3YS1HNzg?oc=5",
+   "published": "Thu, 08 Oct 2026 10:49:00 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「OTC医薬品」 普及啓発を図る 東京でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VMm41U3ROcDNVNDJFRjJyN2RmY2xieC1CbVhyUHlMN1Q3Wk05b0lER1RhNVF5c0tNa0NrZmR5VE5tUUxZcmNTeWZEbnQ5UEFfc3pzRTV5OVBjcS1nNGc?oc=5",
+   "published": "Thu, 08 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄・女性ストーカー殺人 逮捕された元交際相手の男（25）計画的犯行か 刃物やレンタカーを事前に用意 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43dHEtdEo0YTVDR1ZYaW40NlJVUm45VU95Y0hBZGppNmU2R1F3OC1icGFDTmJ6N3J6ekhDcno0d1NiVGxLZnlIRU4tWWhNSUZzSE1YOTBuQzBzUzJwb3RoNi1VV1ZLbk9iMWhQdGh2czdEdlh2Z0I2SmZQemp1U28?oc=5",
+   "published": "Thu, 08 Oct 2026 08:09:22 GMT",
+   "score_parts": {
+    "recency": 0.653,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄・女性ストーカー殺人 逮捕された元交際相手の男（25）計画的犯行か 刃物やレンタカーを事前に用意 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lUVU4b0pyVkQ0QkNtOTF4dXF0WDZ0VkV6OUdudWhnRmtuakpNSF94SVpZUmp3NmlienJMejVzUjVyZ2U2X3d1SnFNbThUdUwya3NSOExBU0h2RnJSZHF1d2pYRlowTXlVRW5pcG5B?oc=5",
+   "published": "Thu, 08 Oct 2026 08:13:00 GMT",
+   "score_parts": {
+    "recency": 0.654,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【画像】沖縄・女性ストーカー殺人 逮捕された元交際相手の男（25）計画的犯行か 刃物やレンタカーを事前に用意 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FRmFrcGNHQ09nV3FMZDIzTTNvbDVFcE16Y25rTXIzOTA2UjkzckQ5SUFpZlNLY19uajJmTzV0SlkzdENhZjllTmlUQUlWNzRXbE15dkZfSEExQjhlZmxoOVM3ZU1vSV9zMlAtUXNqXzlYSmRiS0RaNF9JdFc?oc=5",
+   "published": "Thu, 08 Oct 2026 08:08:00 GMT",
+   "score_parts": {
+    "recency": 0.653,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "なぜ令和の高校生は修学旅行で「沖縄」を選ぶのか？ 3割以上が支持！ 京都じゃないの？――地名だけでは測れない旅の価値とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObWNNaFNUS1l3R3gybVRyU0Y2aFgyTUt2V3VYVGJIOWFjX09KZFlMR0FPeWxjMVV1RW92NWVBRVBuYm1JMjhyVGt1RGdsOVFLY1pOUUhRMkZrVDAxWTQ5X1MzcFBKTmVqQ19EYU5yd2dCWmN3TTg2NmFPN1dwQXZaWGxBb2VjOUNFSUJGQVp3c3BVOHAxaUNXV196OUpmNmZybC1UbUMyZXUyY2dmMnh1cWhCWnVsUFYtcVRrZV94c1JhaHB1TU9UZlNFLWFUVzdpR3RlRlJwV0fSAYgBQVVfeXFMTjhMdkVTVWMzbVBaZHo1V3ZUbFBfUXo0Y0tQcEQyNENsaGlGczRUZzBIeHV5UlhISGM3bTI2SHlYN2d4NFlyOW04VUR4dFllZFdNVWlhQWNrSXNtTnlEUExBdWdZNXVPTk1GNVBJc29vYWhJRnlmcVBBTVVxRXRicnZEMG5xZEc1Ng?oc=5",
+   "published": "Thu, 08 Oct 2026 22:30:31 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "なぜ令和の高校生は修学旅行で「沖縄」を選ぶのか？ 3割以上が支持！ 京都じゃないの？――地名だけでは測れない旅の価値とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEx2RVNVYzNtUFpkejVXdlRsUF9RejRjS1BwRDI0Q2xoaUZzNFRnMEh4dXlSWEhIYzdtMjZIeVg3Z3g0WXI5bThVRHh0WWVkV01VaWFBY2tJc21OeURQTEF1Z1k1dU9OTUY1UElzb29haElGeWZxUEFNVXFFdGJydkQwbnFkRzU20gGIAUFVX3lxTE44THZFU1VjM21QWmR6NVd2VGxQX1F6NGNLUHBEMjRDbGhpRnM0VGcwSHh1eVJYSEhjN20yNkh5WDdneDRZcjltOFVEeHRZZWRXTVVpYUFja0lzbU55RFBMQXVnWTV1T05NRjVQSXNvb2FoSUZ5ZnFQQU1VcUV0YnJ2RDBucWRHNTY?oc=5",
+   "published": "Thu, 08 Oct 2026 22:21:00 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "なぜ令和の高校生は修学旅行で「沖縄」を選ぶのか？ 3割以上が支持！ 京都じゃないの？――地名だけでは測れない旅の価値とは（Merkmal） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aajBsb29EQ2J1U0xHNW1jcTB6c3p3dHBMQmU4eUhoLTZfUWtqdFJnNktaUmsyQk9MbTJ6ekRKU1U0aFk5czNLNlBvbE5LUzRSQkhGZTNZeVNxS21ya3dnQ0dLZmdUUWVjYXBObTF3RXZUNllXckxoOEY0SUFpWGs?oc=5",
+   "published": "Thu, 08 Oct 2026 22:28:16 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Thu, 08 Oct 2026 05:25:42 GMT",
+   "score_parts": {
+    "recency": 0.596,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "元交際相手を殺害した疑いの25歳男は事前に刃物やレンタカー用意 計画的犯行か 23歳女性の首など切りつけ 沖縄・宜野湾市 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53SDd5cUQ4NkdqTzNpV3JWRVBWSHNYdDFjOTJCR1JLbklBUDVuZkJ5Qm1rZlZpU083SDVoRTlqTXprRjlRcEVkc0dWNVotZw?oc=5",
+   "published": "Thu, 08 Oct 2026 05:00:00 GMT",
+   "score_parts": {
+    "recency": 0.587,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "元交際相手を殺害した疑いの25歳男は事前に刃物やレンタカー用意 計画的犯行か 23歳女性の首など切りつけ 沖縄・宜野湾市 - UQライフ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1NuQlBQdEtITVA3LURLOG9nVFRiS2xWRjVUSUZrRkxFTFBXODh5U3FVY0hEM1dFM1lFTVJaOTkyLUxPWGtJZHVOc00zUko4c1Q2SnI3V2Vhd3FqRGNFZm9iZFJPaTBvNW1ROWdrc1kzWFBZUTY3T01LX1BYRGZfUQ?oc=5",
+   "published": "Thu, 08 Oct 2026 05:01:00 GMT",
+   "score_parts": {
+    "recency": 0.588,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  }
+ ]
+}
