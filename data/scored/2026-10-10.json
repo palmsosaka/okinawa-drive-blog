@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-10",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 200,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇市長選 久手堅幸子氏が立候補表明 「那覇空港の米軍使用認めず」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vcGNFM1R3Z1d2Q2F3bXdIUGVGdHZKcjg1UldUbE03TmtVSUVwdnVlRFFiaHJWQTB6MUo2MkpLVjFqQk5jZC1HSEt5SUl0TkFhdVBzNHN5NlFvVjNYcVE?oc=5",
+   "published": "Fri, 09 Oct 2026 20:57:00 GMT",
+   "score_parts": {
+    "recency": 0.929,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.679
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアで25日音楽祭 6団体出演 実行委がPR - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZRnhwUTFhOUROd2tXajFiNU14UXlyaS03WHVFTS03T3NXLWtiWGlzZGNLSGFUbGItWnBDYTRVSENzVTFWZHZUS25vWV9nSm5HRGZSNVo1WjhmRGRVeFE?oc=5",
+   "published": "Fri, 09 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.666
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "年中行事、イベント 一冊に サン印刷が「沖縄手帳」 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80UE0yYzl1eDF2a1ZfazR5Tk9uVmNULXhnc2I3ZHVGOEJKV2p4azZfZGhnWkp3UWxzVE5PaGw4eXNDYTZ5Sml1eEdsdDd6c0h4NEJ2c1I2NElGU1BVamtTSA?oc=5",
+   "published": "Fri, 09 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "久手堅幸子氏が那覇市長選に立候補へ 「那覇空港の米軍使用認めず」 4人目の表明 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3RONTRtRDFQMmt4aGJtRnRudHJBaUUtRzRnNVFROU92a3JDZWF5bUwxeXdoMzJsMGVzYzU5d1M5eFkzWk5FMXZtWDR1c1lwT1lNV0xzLVZSOUtpRklSeGxaUE43dW1JZDNDaE9oUi1WbC14X0V5Ui1WWFAzNlQtdmpzaV9tZ2g1TnF4Z1JR?oc=5",
+   "published": "Fri, 09 Oct 2026 07:11:21 GMT",
+   "score_parts": {
+    "recency": 0.642,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "久手堅幸子氏が那覇市長選に立候補へ 「那覇空港の米軍使用認めず」 4人目の表明 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jV1lGcXd6WVhzR0FxWnR6T1JIZmdrdDFLR21rckQzLVY1ZW5CR3owOU4tQU5WYlZkLVVteFVLMzNPYnBSV3g2LWJFM0N6MHB0d244VUJrWTlkbm9QaVE?oc=5",
+   "published": "Fri, 09 Oct 2026 07:03:00 GMT",
+   "score_parts": {
+    "recency": 0.639,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「県の駐車場に防火ブランケット」工事を打診 実在しない“県総務部防災課”の狙いとは？（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FVTdjakZaUVlRa0lJdGIwQzZTb3l0T2stdDJzSEdsV3JsSzktbmdydy1EQl9JdFhsN09rZDAxOHJEdlNkWUV0V0NIQ3l3LW9wT19HX2RUTkJhVXRUYmxuT3BFVEJHV0xUU1MtOG1QM1psa09BR0pvT3RQQVlGMXc?oc=5",
+   "published": "Fri, 09 Oct 2026 22:33:16 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "市民団体が豊見城市長を刑事告発 レンタカー問題巡り政治資金規正法違反と収賄の容疑で 弁護士ら会見 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rbURsUm9wNEZXOGs4bV8wcTAyTjBCdVJOVlg2NkpKYXhtVG1mR1pzSDVyMDQxMXh6MTNYVnBPTVNxTmtUSWJPdnFYbVBhU08yTkJfMU5HWFktTzV5VlE?oc=5",
+   "published": "Fri, 09 Oct 2026 06:01:00 GMT",
+   "score_parts": {
+    "recency": 0.617,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ハイサイ酒店那覇空港店V 軟式野球秋季中央大会・実年の部 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KTU1EdzdjZS1kVURqak1LVlM4NlBjdll2U2tHQ1lOT2dQSWxzRGpYZnBvVXNoNUhVamU5TzNhV05BVmVQbk1yZVFFTnZ6anZzbFBMYU13RXExdUx0YWc?oc=5",
+   "published": "Fri, 09 Oct 2026 05:46:48 GMT",
+   "score_parts": {
+    "recency": 0.612,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像 | 森岡毅氏｢マーケティングの神様｣から評価一転…《｢ジャングリア沖縄｣の173億円大赤字》で透けて見えた\"実力\"の正体 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4OUkwckRxQ3ctQmFvZ2ROdkVHcF9hdWFINTBxbTZQOGJBMkoxbHgtRi1CcWZCM3dYVmNRai1fa1lGMmpQel9Rb3JudjVmak5EencwdnBOQQ?oc=5",
+   "published": "Fri, 09 Oct 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇市長選 久手堅幸子氏が立候補表明 「那覇空港の米軍使用認めず」 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lQlp5dWdROGdlOWdaSnJEZW1nY05rYjlpbVprSUI5RjhVdV9aWXllWE9wRlZQWFZLYURXd1prdU5kaGI1aHlqRWxiTQ?oc=5",
+   "published": "Fri, 09 Oct 2026 23:39:00 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄「倒産隠しシナリオ」を暴く、ニデック・永守重信が“企業再生”会社を立ち上げていた！、【630億契約】アジア大会大混乱の“戦犯”仏企業GLイベンツの正体…ほか「週刊文春」企業インサイドリポート【9月27日～10月3日】 - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16ZG5zeWxiUHFfaXpGWDgzX1JCams1M0dKOV92NV9qWUowQk1sYmE0eEFwWTZkSFdmQVNnb3REU3hpdjlLbjJfemJ0QQ?oc=5",
+   "published": "Fri, 09 Oct 2026 04:15:10 GMT",
+   "score_parts": {
+    "recency": 0.581,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で首里城応援イベント ストラップや缶バッジ作りも 13～18日 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lalNuM0wyeTZzSUFFVDhIQkE2ZUR2VzM4X280ejU1ZTNYWG1qekxQdUFYbmZ4Mkx6SmJoTUpuODdZYzk4NnpkQ2ZFY0plS19Ca0c0eWFPSzBvZTUxTU0wUWt3?oc=5",
+   "published": "Thu, 08 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.409,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で首里城応援イベント ストラップや缶バッジ作りも 13～18日 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yaHc1YmxaMFNsYjI0WXc3aE1CTmxjM3R0M1JNNHVrN2JnZ1ZpWmFCOVdNVkxNVGJjMDQ4UlNrcjlucjVvaVNuX3Vidw?oc=5",
+   "published": "Thu, 08 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.409,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像19 / 19＞沖縄でリゾートワーク&離島観光もできる「Re:sort@OKINAWA」を紹介！【後編】 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NNlIxNWFBSGdsRVd5dHV3c2VxSmdCSFpCV25rd3BRUHhBeVc5aEtzdmxDaXBJZDd4eGZIcGJZUUtndGRfR1N4djRqS0pLOUlSWTFDYm9JaXlZZTlNUmZqenJtbEUyTEJ2T011Mmg1ZDMzR3lXWXB2RkwwNlNaYTg?oc=5",
+   "published": "Fri, 09 Oct 2026 19:40:19 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【公式コラボ】ジャングリア沖縄×おきなわちゃんねる。とんでもない事になりました。 Detention (CEWq4DzNSz) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92Y3VsY1JwNXpUd0Z6eG9FUHI4VE1tcUVqbnFHUVBHbjJVQW5HNjVZV1RkZjhBZm1Lb1BhcVVZc1lRT1ozMkozR24tY0h0bHM1UGZ6ZUN5N05PUkxfRlh1Qk03TW1wZ2pfZm9ZeU5B?oc=5",
+   "published": "Fri, 09 Oct 2026 02:56:26 GMT",
+   "score_parts": {
+    "recency": 0.553,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  }
+ ]
+}
