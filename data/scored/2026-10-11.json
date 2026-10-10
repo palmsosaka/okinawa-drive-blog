@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 209,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "きょう那覇大綱挽　午前10時15分〜交通規制も実施　前夜イベント盛り上がる　沖縄 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkk2XzZ3U3Y1bU9uSDFscVU1LUVTNE1FTzZab1FRazh5QWFhOUJUUkNucEJXMXBvV0l5RUpLRTJCT2djTmhISlRFY1Y2TlhRUjUwQzdUVExLZS13cG1iWjFRQnEwcU9ENTdlYjJBeVZXa2NLRXZSMENiSF9kTkRaddIBhgFBVV95cUxNYzZqdDhxV3N1bTNMM3ZkZWVIVjhXRWExbTVsaXFKRV9Ra19xWHQyTndNUXZSVm9zcXVQbXNTNkpnM3BkMFpSNEI3RHRZQlR5V01YNjE1V25UZUxVdTFEZ0tXYmZXeWlVNWN3bzZ4ejBmalRaU2Y2bHRpSDNCSWF5RFN1bWEtUQ?oc=5",
+   "published": "Sat, 10 Oct 2026 23:53:22 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアから車で約10分の「ナゴパイナップルパーク」へ！ N-VAN車中泊で巡る沖縄北部旅（ソトラバ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TaGV0TFJ4UkFRYm8zZk40NTNGZGVOc3MwSHdYTHgtU0VPbDVEZFlrb3FOYzdxYWNGZm91RXdPUWdQcXVFYktrdTA1RnBmdDBNRjJWcWRpMXRKVk5fdVZNUnF6WjhxZWp6Z1I4dVoxYV9sd1ZXX2p0LWt6YVA5TW8?oc=5",
+   "published": "Sat, 10 Oct 2026 11:10:13 GMT",
+   "score_parts": {
+    "recency": 0.734,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "友好都市を紹介 名護でイベント 18日 「友だち祭り」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ySnJYQmt3TXRIR2VqekE3cFYwdl92VWpwdUwwWlJjOHJmcm8yWWRUR0pDR2dWekJua0RjUV9lNWk3YUJIVDZOXzlkT2xDZ183YlNOSGJ0a3FIR0x3LUE?oc=5",
+   "published": "Sat, 10 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「史上初かも」“奇跡の９頭身”斎藤恭代が沖縄・古宇利島でトレカ「CHURA」撮影 - 日刊スポーツ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVN6YkltVGRLODhDdmlENExmQTAwY0xyaGtfeU4zRmoycElUemRIbEpDWjhFUzB2Y1lEa2lMRHlzTzZFdTB1Sy1wR0dwUG1wZWpjOXdaR3lRMi1kLTE2TzlUYXMzVnozRGY0X1g0UnlKNFduMFV4V1ltT2JIM0lnSTBWOWx5MDBJcnpIbnk5ZFNuS0s0VGc?oc=5",
+   "published": "Sat, 10 Oct 2026 17:37:30 GMT",
+   "score_parts": {
+    "recency": 0.868,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "レンタカー問題 豊見城市長を告発 市民の会 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zNG02dTc0WlRNa3VwSzRmSHBBY2Q1TjhOcnpVdDdnWHpCMnNEblc2YmZQbTNsVEtjd1VXTkpxSkdLa0xyWFFJZ00yWQ?oc=5",
+   "published": "Sat, 10 Oct 2026 09:00:56 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "長さ６キロ、防波堤は市民のキャンバス 茨城・神栖、３６年続く「１０００人画廊」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKQXQ1SE9qbEJtOWppRnpBNTdYaEtCbnFScXFGd1hCbEp4RVhxTTk5N3BYOTBUTkV0Rm5OY2U3aGZzS3FVcW5sY1dOYzdWN2V4YzE4R2NwakFkUGpzSnc?oc=5",
+   "published": "Sat, 10 Oct 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄・波照間島で「日本最南端の塩」製造へ　竹富町が事業化に向け調査　「特産品」と期待 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGVkUFRHeVdTNTZCaXFPRXR3N18zOTdWQkJ6cXhraHZOY3dVVi1oODJPZFRoV0dGdlhwWjUzWFUwTEd0NGpzNV95Z3RwQjhlRUp3N1cxSjFSYVg1cGVkNER1NDFNMWRUYl9fc21PM3daeWlON3l4N21hQ3FJQ0lET1BXUmpGeTNTTkdN0gGQAUFVX3lxTE5JNU8xSVV4RTRZUThRRTRWeGNKQjRGUGsxZmZ5RTVicHlPQ3lmdFJkdXR3Qk5YMGpNRFhDTHZXYzZhc0hTczhkNHVDNHozZWpMTmhaWmkwYlN1U2dCV215NnVjTlQyOXdZVFhzSDFYYVRUdy1wX1dpX2l6Zm1wc0lrWUg1M3lHejVybWt6Snl5dg?oc=5",
+   "published": "Sat, 10 Oct 2026 22:02:45 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【現地のプロに聞いた】沖縄のおすすめグルメ20選！名物・ご当地料理&観光名所の混雑回避・移動テク - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VVnJVRzlhd2p2M3NqZUNUMndSd1lBd09uYWR4UXByTHJncWtrNkMxempNTDV5MWRtcEFDcHZyanR4eTJ6MjhYUE5xRjRYd0RsTEFjNlZn0gFbQVVfeXFMTUtwekVHaDVJYWxZTnloUjhlTXdrbTdOQ05VV2VPV3JrZjF2WXQybUFQZzJVN194c0tPX1BIRmVzTHUwemNIWEptaXFqR0NwNEN6c2JWQkp2VlJoQQ?oc=5",
+   "published": "Sat, 10 Oct 2026 20:59:58 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "新曲披露に６００人熱気 沖縄市でチャカランド祭り - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NYXhpNmloTDc0TEVxd1loekhUa1dZQU9aUG9SNmViZ2ItRGpnSjlib3ZMam02OU5EUExpM2Fya2RFOVBCYUp1c0lWUWZKaldBUnFZcUhtQjlRUmZ2SFE?oc=5",
+   "published": "Sat, 10 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "輸送安全確保へ 安栄観光に命令 沖縄総合事務局 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IWHNvMkJsTFpjRmdMZTNuZ18wYUJfWmZLU1ZDTzJGaE83Wk9zRFNvbGNHVWJRVjdiVE41QXNzdF8yM1g3SjdvbHJHd3dJdmxPNnMzSDlLLVJiOXdhWkE?oc=5",
+   "published": "Sat, 10 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［アジア便り］安次嶺修 多彩な魅力で通年誘客 台北 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Q3h1SnExcmlaVWxCSXo5VEFLVUU5YjRpcVVMWHRCNjUxSGJIVUxUcHNmajNqdU43aVhwdF9CVWZUUzFWVFVqVWRvaHVOZUU2QzRaM3JESnIybk9RZ1E?oc=5",
+   "published": "Sat, 10 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［オフィスの窓から］働く魅力豊かな沖縄に 波上こずみ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BSjlqMjRha0ZZWkpObnh4MVlfQnhBZm5FSklaay1Oa09nUmdrV3IwZU9NaG15NFB3S3R0VTB5MExhakJHY2xlYnFKOTBaV2lMQ0stOUFJSk1OVXBYcEE?oc=5",
+   "published": "Sat, 10 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "新城海岸で遊泳 77歳の男性死亡 宮古島 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50d09UWEs3X1BsMkczbVF4S0xMNTdzZlVlZDBMYk50NXVmc1lvUXp5cXdURkRaTzRsZ1lwQ0ozblFxN1ViWHVZNElqNW1UUURVeEtRRVY2N3FPRFFxNEE?oc=5",
+   "published": "Sat, 10 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄道、那覇空港道 道路の気象影響リスク予測・天気予報 - tenki.jp",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YN1c4MzU2ajRCUFIydmZmRE5mOGhRTjVLVllYbXF6WlJtSjg2dHRXM3plYXlzbkVYcUVlRV9VZEZfMkNZMUE?oc=5",
+   "published": "Sat, 10 Oct 2026 01:33:16 GMT",
+   "score_parts": {
+    "recency": 0.533,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ゆいレール、那覇空港近くに第2車両基地が完成 3両編成増やし、朝の混雑緩和へ (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXM0V1oxNXo3OHNOMkVIYkw1UHNZY1U2Zm5Sb3cwOVVVYjkxckJKMmxVQWRtdVd4eHVNOUlYZFY0TW5NMndlaExXSmozQ0x2SjJnTTBfZzVZSkR6WDR6NUNFWmhWMkM4N1RIV3djeDVsTVlBRG1hREJpUXVDSjlUcThQNXJDa3MwV0pFQXBn?oc=5",
+   "published": "Sat, 10 Oct 2026 01:31:32 GMT",
+   "score_parts": {
+    "recency": 0.533,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  }
+ ]
+}
