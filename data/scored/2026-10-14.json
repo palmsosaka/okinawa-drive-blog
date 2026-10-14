@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-14",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 189,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港検査場 閉鎖で29便遅延 はさみ置き忘れで捜索 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51NU1DZkI0aUhWOUdpZ2phRHctQmNwTWU0UXozSFkxdTNwMGcwZG9ieUp4Y0NEdHplUEdkM2hjSjFvenE1Mk9hTlhNUm9LeHh0NUs3aEdqa2RUT0o2MGc?oc=5",
+   "published": "Tue, 13 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.894,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.668
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "豚が届けられた歴史紹介 うるまでイベント ダンスや劇で舞台充実 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GcDFCc3hVSjU5QWo1N191MzdaR3hXVERyTjNRdy1GQ2IyYlJNSEU4Qlg1UUJnNm1RWmRFeUw0Y3VPUW80SlAtZ01pZTk2WEh0by1hTUZZVHpGNmwxM1E?oc=5",
+   "published": "Tue, 13 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.619
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "元TBS・宇内梨沙「正直申し上げレビュー」　話題のジャングリア沖縄 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVlDdmJIdHdCbnoyb2VpXy0tRHdNYzlZNS1ENUZXc1laaXJCZjdycWhTbF9HSWJzMW96anREcTNCT3JtUERfYmxHSVVNbFRzeE5ldXJKYjJyZXZDMmlVYWlOM050bXo1aUEwclZQaGFhZjEyd1ZGTTB4b1lqRmNLYkhWcHZ1MFlwejlMb0x0azRYa0RkY0JKZkxPeXM0Wm1fbkVrYlYtWjlZVEltR1g1S1RqQ2NZUdIBuwFBVV95cUxQV19HSUNnQVBnN1ZHT0xrMkFlTUZWSm9PRjVMSk10MnRDQkEwQkV5dGFuWmg3UEdPV0pvUWtvcnpzUkVKSFJTNTU2WkpGZy1YYW0wdTE0MGlfRzhvQXBhR05QamRtZjFLdUZtaW1ISGxwY1o3MkY4V3Y5TTZJUTJKR2pmNWRmSTRra1hNWEZLeTZCOXdBVDdTY3ZvTl9wVlREUWlSSm9oNVVYa1NkNGc2enRWM1lIMDJ3S2Vn?oc=5",
+   "published": "Tue, 13 Oct 2026 07:06:00 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "元TBS・宇内梨沙「正直申し上げレビュー」 話題のジャングリア沖縄（写真・画像 1/1） - サンスポ",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDF0TE1JZ1BTYUVkMHJzRVlPMjM3WHBxbzB0elpVckVnczY5ckVfUUZYMnhsd1FVdjNWdlhwTmNGMndPRFRBeUhkcG05NW52REV5MEVSRzBydzlVUDluYUk0dzk5dUVJaU9QMGM1NzBiSGF4dHpoUnl4dlg0ZE02Ujc1UHkwdThqNzRULVEydHlxUGVISmNEVGp5aldVWE9F?oc=5",
+   "published": "Tue, 13 Oct 2026 07:06:17 GMT",
+   "score_parts": {
+    "recency": 0.648,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "奈良駅すぐ！スーパーホテルLohas JR奈良に宿泊してみた｜天然温泉＆沖縄料理ゆぃまぁるで大満足の奈良旅行！ Junior Caminero (5KNHkIs4ap) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlcTdhc3pYTVhSQlZXM0xaS0MyRkVjUHFDd3pOME5kMTlUOHNEeEppY2x3UEgxTTlVYmdPbXVPdnRINk5vTGw4N19PY21TQk9QSjRZTHdNcVNJa2pKOGhpbEd2LWVqQQ?oc=5",
+   "published": "Tue, 13 Oct 2026 14:16:17 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "70回目の今帰仁ハーリー 運天漁港で熱戦（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0MHBSZWFBT0pEaEJVLURpWkVhUnZLQ2UtbTRMZVRvSmFTaTMtbHkyb0VlVldqbnppdHI5dldCQ241ZDFhc3EzX0hMeEhWRWVLeW9VblN4LW9LTVp0Yi1ydk1COTk2aXdHSHBCNWhaaTBRQ2xnRHlfemk5QkJrUjA?oc=5",
+   "published": "Tue, 13 Oct 2026 21:09:38 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港トラブルで保安検査場が閉鎖 出発便遅延も (沖縄テレビOTV) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmN0SGNYbHVlRTZjcFAyMlFIT21uU05lVzV4bWJKSjQ3MXBvMDRSSzZIUm51T1NHS25ySGJ5OE1YX3A2d005OC1OalRrOEtfUXppcW9sZU8zbFQ5Rk5RTlVMS21OU0JVWW5GUVJqcFJCRHN0LV9ZR3ZjWXhoY2ZTNHk1Tkc0TGpKWERnbVhR?oc=5",
+   "published": "Tue, 13 Oct 2026 03:13:01 GMT",
+   "score_parts": {
+    "recency": 0.567,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「早朝参拝」事業 白紙に 斎場御嶽観光 市民から反発 南城DMO 構想再考へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rOEVYYWhWVzVPUUFqZWZlbVZocGlwdGEtc2tLMnpKZ3dxYVJzYzdycUJOenk2dWZURy1UMFZZTmQwUzFJaW5ma3BjS1Noa1ZNUU9teXZEdEduZUdGTHc?oc=5",
+   "published": "Tue, 13 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "やんばる観光とまちづくり議論 19日名護市民会館 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jeEF4VnozdGphWndvVWZNQlQ5UTBRTHpoV21Ua0hlUXl0RjhFRTJVY0FCcDFyMS1WemxsZ21PMlAzOWhxNm1wQm9TWHhCRGpIMU9fQzhuMWhWcUVieXc?oc=5",
+   "published": "Tue, 13 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.894,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "首里城復興へ思いの証 メッセージ6200件 ■ 募金590万円 NABCO、財団や県に贈る - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5dmtZa1Z3aGhTMDh4cjhJSF9MYklqajRpRW9ub1REbkNtTW10c3Zhc3NsWGZRczlxNFFGdlM2OEdvdktBSGZvMTJTZGtjRDdFeW05OGRFM092RC1FX2c?oc=5",
+   "published": "Tue, 13 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【速報】空港の清掃業者が持ち込んだはさみが一時行方不明、保安検査を約2時間停止し大幅に遅延する便も 那覇空港国内線 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iMHQ4REc4bFkxb19NUHgzNGRpSU5kakNmNERncER0S0hTbTlOTG5PZy1oQkx4eDVFOUNlU19HSURkSDNXOUVvcVpfMDRmYndoWmhJQlFDeDY1eFZqMkZF?oc=5",
+   "published": "Tue, 13 Oct 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "突進のエゾシカ避けるレンタカー、トヨタが開発 北海道で事故防ぐ - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NYlNCSVNYTDlqcElnLWk2WWJxbmVsSjJJMjhMRUZaOWlFbjBSU2lTR0RVbzRWVlF0NDZYeGpNWGZxTi1Lc19IWU1BWTN3MXlTMkhMUm0yd2VNWVNyTFZOdFpjWjctV1lTQ2gtMw?oc=5",
+   "published": "Tue, 13 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "保安検査場 一時閉鎖 那覇空港 はさみ紛失 遅延欠航も - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdDl3Wi1QOFNURmZSRU9YU0xWNDhtcGMya1dNUXJ6OHFwZV94bEV0MDRLZldyS0U1NldfbU50WllILWFzc2pPaWRpWmF5bFVuTlRac3RaaWg0LVlKMVZ0Mw?oc=5",
+   "published": "Tue, 13 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "美ら島財団に寄付金を贈呈 那覇空港ビルディング - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vOGNmOGFvbVgxX3JiTW0xSDAtZTBtWUxBdVl0emxuM3hSeHRQb2xScTB2MG54TTNfNVgzbjVCdURfZ01YcG9ZWkpDWmREcGM3ZHdLVXlBNlZjUndKR2xTQm9R?oc=5",
+   "published": "Tue, 13 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【スポーツの日】体力測定で汗を流す 動物園でもユニークなイベント（沖縄テレビOTV） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qdmpzclk3VWMzd0ZGajV2ZVdoQzNzRGJLRmNOVTdCT2xGV2p0ZDN0Mkt1clkyX2pUX2lpZEpycDdKV1AyS0lKZGlNVmR0ZlJuZWdyaHdnLVh3a3JfQVFPS01lcWNkWE53Z1FOb2lnZDR0c09CWGRxWEtIRTZnR28?oc=5",
+   "published": "Tue, 13 Oct 2026 08:51:01 GMT",
+   "score_parts": {
+    "recency": 0.684,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  }
+ ]
+}
