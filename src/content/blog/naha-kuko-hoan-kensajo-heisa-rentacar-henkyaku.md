@@ -66,4 +66,4 @@ draft: false
 - レンタカー返却は出発の90〜120分前が目安
 - 遅れそうなら営業所へ早めに連絡
 
-レンタカーの借り方や返却の基本は、[那覇空港でのレンタカー利用ガイド](/blog/junglia-okinawa-rentacar-access/)も参考にしてください。
+空港発の北部ドライブを計画中なら、[ジャングリア沖縄へレンタカーで行く完全ガイド](/blog/junglia-okinawa-rentacar-access/)も参考にしてください。
