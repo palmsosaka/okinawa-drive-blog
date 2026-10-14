@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-15",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 186,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "旬の味 カーブチー人気 ミカン狩りもスタート 本部でPRイベント盛況 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91WGhoR0wwZXJWV1g4UDBIZzl1M0xnQ0tjX0FGcjE5VDhEVm1ROXFoNll3Mzl4MGJWMDZJaHVkUkhRX0REUUxTRVNTNk1hRFIxUUhNRksydnNZc1lzb0E?oc=5",
+   "published": "Wed, 14 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.906,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "名護で音楽と食のイベント 16・17日 物販やダンスも - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zbGJKV1ZsTFIyT3J4MkRzc2UxeTBpSTZWTFRfS3BsY3pZTjFRbmVUclFCQkxwU1VxOGxIM2lSRk5XbzJlN19IM2xrWmNVRk5wX0hMWlZEQ19MSWZmcXc?oc=5",
+   "published": "Wed, 14 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "無人カフェ1年 西原でイベント 17日 イルカ公園 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiX2FtRW1vMnM4amx6VTlUeklxQkNqU3A3V1VXMVhqYnJBNVh1UlNJZlhUMEd6VnNpUUVaLTJ3b0QwbHJGNHM0amhneFh1YWxOWU82aW1QS0tJOTlkbmc?oc=5",
+   "published": "Wed, 14 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "三線コラボやスタンプラリー、AR撮影が楽しめる初音ミクの沖縄周遊イベント！CHURA MIKU STREET 2026 - Dtimes",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lY0FtU0V2NURfbVR4d182QzdUVkNWN25tVmxBYzRhaUlxR0NOYThUTWpwcTZWSmhrTnRRTEotdHNYMWFWd0E?oc=5",
+   "published": "Wed, 14 Oct 2026 13:12:32 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "DMO旅日記－観光地域づくりの視点で歩く世界－#7 地域の未来と観光の魅力を探る 「祈りと歴史、そして観光の原点を歩く」沖縄南部編 その① - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OYzRram01b0ZFdFB4bnZiR3h6ZnBwRVFVcGZNLTlBdEdrVGs3Zm12Q2NqbENobnVXRHNyU2x6YWZ2ZTJGZGFhVE16Y2twU0lFV2M3UHFFdjdVX1VlRGxJ?oc=5",
+   "published": "Wed, 14 Oct 2026 21:01:13 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "中国経済 沖縄発展の力に 識者3氏集いフォーラム - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DTmluVm1ZaGg4eGlubTVBTlQ0OTFTbWhmOVgwVWJqSkFnV2wwY1luT2tjbWVBcl9VMnRwR2ZkWTVUclRReUk2b3JnVzRfcjVCUlYwM0p6S0ZVMTk0N0E?oc=5",
+   "published": "Wed, 14 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.906,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "災害時の観光客 一時避難を訓練 来月10日 豊見城で - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55LTlJOWZGcENydjRLdGc0djZZcXJkLTRvTENmcW56cXowTDhUTVNNRTVtTnotaFdDemkxWDNDUkFYbmF1TmVneTFOT3daOFhZcGRPclJLZWhvLXczY2c?oc=5",
+   "published": "Wed, 14 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像1 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mcXdjWWNHOFJ3UTVCeEpXTFNHOGdDcEhncGZ5R21uMzN5MkVHTi1CYklZRExvb1B6Zlh2Y0xvTDNLQkNQVER4U1RpakRQdzl4bmdOdnhBZmN3T213aEY0cHdHaERhLWZCaU1fVTJR?oc=5",
+   "published": "Wed, 14 Oct 2026 18:12:06 GMT",
+   "score_parts": {
+    "recency": 0.889,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：まもなく開催！『CHURA MIKU STREET 2026』イベント情報 第3弾 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMy1RZ2dadWppR1hnbFpRNmFGeWxXdmRsSkVYbG14SXBMVi14V0tyZEdJaVllMnRZU2tRMnpzWDhnMVUzLUt3bzVtYndjVzV0c1Rpdk9zZ2RVbDZyY2NoVF9sWTBWUQ?oc=5",
+   "published": "Wed, 14 Oct 2026 10:13:03 GMT",
+   "score_parts": {
+    "recency": 0.723,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "あしびかんぱにー、沖縄で初音ミクの周遊型イベントを11月1日より開催へ - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xZUV0M25kaXRYbVBvREJpSWdIZnpkVWM2dXVZTTVJdXZDYU9faWtydHZsc3lsZGRtMjVZNHRnaXBtQlprcW4wamRWbnk0NDljWGxRSHNYZEpBR0FVcDgzMExxSm4?oc=5",
+   "published": "Wed, 14 Oct 2026 09:40:50 GMT",
+   "score_parts": {
+    "recency": 0.711,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "今年の年末は沖縄へ！『ウルトラマン』シリーズの聖地･沖縄で出演俳優･青柳尊哉登場の特別ツアーが12月26日～28日に開催、「観光+学び+交流」 大充実の2泊3日 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14QVQwSHl6ZC1xV081MV95Q3AxaGpaV3BzN2g5S1l0WFAyeEJuU1JIa1JFZkd3d0g5TVk4cVRhc1NRMnVweUp0SmUxbzcxYjJjejNWRmV3?oc=5",
+   "published": "Wed, 14 Oct 2026 16:56:13 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「居場所」を見つけるきっかけに ピンクドット沖縄が11月にイベント開催 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83d1pCSzFYZHJ4NFlzdkVCUjhibUNscGpZemdiel9VRUI2c2p2eVJuV3drYzNtTEhlaGhBeExabU1qcllfVWdBck1tbHhOMEE1cUl1bER5U1ZMVVBhVWkySnRJd0VjNjg?oc=5",
+   "published": "Wed, 14 Oct 2026 08:54:00 GMT",
+   "score_parts": {
+    "recency": 0.695,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像10 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPNHRfbzJ6QmdnYmk3anI1b1hmQ3F5dlhOMnp0SHI3WHpOWFl5akN3R1p4U0VLOXJXSUdvZlNwTU52d3NkNzZwajB0SUFVVVFwQW84Rm1tRmstS3NuZUV5UXl0X1YycEhtUk9adlNB?oc=5",
+   "published": "Wed, 14 Oct 2026 16:34:47 GMT",
+   "score_parts": {
+    "recency": 0.855,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "沖縄美ら海水族館 世界初 グルクン子魚の長期飼育に成功 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53SFFidWdXSmRoUENSZUNPN3kxUU94ZG1aM2gwNUNCaHNtYkVZZlhQbFZlTzFPY1FTbVByalV5MWhOUWVwWlhhdlEtenZza1RkR01BM0QwWGF1NGpXX3V3?oc=5",
+   "published": "Wed, 14 Oct 2026 08:04:23 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "画像3 / 36＞那覇空港一望の絶景！沖縄・瀬長島に南伊をテーマにしたレストラン＆ラウンジオープン - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIMEFqX1ZBVG5CX3U2Tk10RWlBMl82M2h1a1dycDgtSFp4V0lOVEI0T0MzMDVVUVdzd0RoX195Xy1Dbl9QSUtMRWZnV19fQ3RVS1haSm9weUc1OGVCaTEwRk50T2FibEJX?oc=5",
+   "published": "Tue, 13 Oct 2026 22:58:14 GMT",
+   "score_parts": {
+    "recency": 0.488,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.547
+  }
+ ]
+}
