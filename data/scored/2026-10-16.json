@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 180,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "那覇空港内で禁止のレンタカー受け渡し、AIカメラで監視強化へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEdHU0S0U2bF9NQjdVN1ZEQmxaX1poUDVsbzdwYllTX245X2p5VEtYOW9JNDBLVVlzcFFOakh1R0duQVB6bERGc2pYOGRNS2JRQ3dqSkV3MktEVHFQaHc?oc=5",
+   "published": "Thu, 15 Oct 2026 09:58:00 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.716
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "写真：那覇空港内で禁止のレンタカー受け渡し、AIカメラで監視強化へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2MDZXaEFQaDlvVFpCOGgyUXJJR09BZmVXMHRkNDZUSHg2MlpQX0gxY01fa1BSWm9jak9ab1U4MTlRNU5NQ1VNbHQyOWNvbjVUNFFKNzhDUFk0enFfZzI5ZzNyMUc4UQ?oc=5",
+   "published": "Thu, 15 Oct 2026 09:58:00 GMT",
+   "score_parts": {
+    "recency": 0.72,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.716
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄にさらなる経営危機：30億円のつなぎ融資は金利6.9％ - アゴラ 言論プラットフォーム",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83S3E0Znc1aFdhaE04bkx5OHE5aXZ5bWJyRU00YjhkRHlBNFhwNno1cU9zanJKRUpxT0Y5U3Z5emNZS2xHOE9CTjFVb0czTHBsaDE1bnJSYnFuS0k?oc=5",
+   "published": "Thu, 15 Oct 2026 21:30:05 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "２５日にやんばる音楽祭 今帰仁のジャングリア沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLQkY4Z2tydDNKNFdfQmFMd0tXTG1LazdJV0NnLUpvM0hUZzBxeW43TEo0WDc0OHBvQi1idWl0QjRfMlFqSjJpN1ZQVlhjZDVfYzNKanNPN0NzMjRxNHc?oc=5",
+   "published": "Thu, 15 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.929,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.679
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Thu, 15 Oct 2026 11:32:00 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "《約173億円の赤字》ジャングリア沖縄はなぜ失敗？ 刀・森岡毅CEOが抱えている問題、倒産隠しシナリオ…ほか - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KU195SEhvM0ZlcUZEZENkVW9vUEhrc0d1M29oZkpxVWpWRjNWaUkzb1hZRl9LNmlQcE9QV1B6aXEwbFc5R2RBeUdCQQ?oc=5",
+   "published": "Thu, 15 Oct 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.742,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇市長選 県都発展へ意欲 立候補予定者2氏に聞く 現職・知念覚氏、新人・久手堅幸子氏 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yZHhBdzhMMU02M1FuRW9kQWU4MmRHRDlmOFgwYVN2eWU3N2dJdTBkREtvYnpiaUJrQng2MjdmMU95OGloQzhHMFR6Vkx1VmJrUGVyc1lZVzdnOFBodnc?oc=5",
+   "published": "Thu, 15 Oct 2026 22:40:00 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "患者と向き合う気持ち新たに　沖縄看護専門学校で戴帽式 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mNmpWQmR3MncxRE1fRzFVTXpyNzdzNHNnTUM2THlRWTd2UE9CUWt3ZEgwUTZpMjIzSUxSTGZFRFNCTG1falNRT0NwUTlVZFdNYXNkRDdlcEVoMFoxcWV2RGJrbG9PS3IxQ0F4ZFhXTk9TTWNnZkVQbXpwNNIBgAFBVV95cUxPcEhTbTBCanhJZDVTUFZ0VVRCaG9MWXlmVDA4eEdlUnF0WDRQNl9rR2szSzBsbWRWU2ViTTF4azJ1Q2dZT3UwZ081T0NnQklBbXliV3pQNTNjellwUFhYeWlmRnlfam5rR3V4QTU4ekl0Y05GSlZXOXh2cVpwbmFEVw?oc=5",
+   "published": "Thu, 15 Oct 2026 21:54:44 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Thu, 15 Oct 2026 20:31:27 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CR2JnZmVOa3p5THZGUnVFcGhNUjU0bjFuTlFXbFhmTFc3aWtPV1ZpZ1YtY0tISE5YbzdUSnBNalhlRW45NTJMZE1fY0xrOWJnbkplX0s4a3pwVm52MEQyMl9WNEVENllhVVVINmVn?oc=5",
+   "published": "Thu, 15 Oct 2026 04:24:28 GMT",
+   "score_parts": {
+    "recency": 0.604,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ＮＹ株３日ぶり反発、５５６ドル高 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dU1scXZVcXdDcFg5MUtTZEo2Y0JlQ2YtYXZ2NHBKalplTlBGVk9sYnJOU2pWRzR0NzBRTjQzN0xOa0g4N2hRZGFXakhYaGtwQlJEWXpIaTV1YUxKRHc?oc=5",
+   "published": "Thu, 15 Oct 2026 20:22:39 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、なぜ酷評？「話が違う」と不満続出…誇大広告疑惑・低評価レビュー・準備不足を徹底検証 Trapani Shark (yKO7N96t9l) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMFJrT3hJbGt1cFlPVmJiUHN2Z0hnMjdTbWZ4MmlITWozclBnR0dyWUVBZkNEdktQQXNDZEJWYzU5T0NrdkFzY1VnQk5Md0dYXzF0VkRQTWt4ai1RZUNsVjdaQnB3R3ZONmNvcTRoZTRlYjNCaEViWWp4a0VVRThCTm9ETQ?oc=5",
+   "published": "Thu, 15 Oct 2026 03:35:06 GMT",
+   "score_parts": {
+    "recency": 0.587,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【速報】那覇空港近くで電柱倒壊、国道の一部を交通規制 復旧に約4時間の見通し - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kZkJBOEZNRl9waVloZGswazNVb0l4OW4xX3ZvVGF2MzVSSFRlU01FcE52Y3BPamtyMWZEZFNvSFNhUTFQbm9ZQTdGUnRrQllJS3E2V0tYRQ?oc=5",
+   "published": "Thu, 15 Oct 2026 22:17:00 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "21日 修学旅行勉強会 県・OCVB 辺野古事故受け初 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tTktnanhTQ0tuNHI4a0lyNTdGblY1aVMyMjdrY0pSeTZsODlHVV9MRVN0d0NCemRrQ29TdWJUdXFrX3dQUEJROG5oYi1JUENyLW03VjVSSFZtUW1DU1E?oc=5",
+   "published": "Thu, 15 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "タクシーの配車スマホで楽々 南城市・DMO・DiDiが協定 観光客や住民の足に - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11TGJwZzRZVlRBNlgxV3BkM3MtM1IxZDVEODdhUXpzaUNaeWNOYUhtblA5VUt1UkhFbmpIMjY1RURlVlRhS0ExT1lnNnZIZEd1NHBJaU5naF9tN1A5dVE?oc=5",
+   "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  }
+ ]
+}
