@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 202,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "開業1年のジャングリア沖縄を現地取材…来場者半減、暑さ対策の限界と「乗れない」真夏の厳しい実態 Caduta Giro D Italia Oggi (WodwBsHcXj) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rcWRfcDY2MWFkMXZhcUZWWlh1bEV6Q2Z6TE5qdWxXZ0d3QTNoYmQxNlNscU93RUViMDNIX1ZTM2k3S1ZaMVlQdmZkejN5SU1UdWZ3cmo0aU9fTkd3YjJTSFJsMk1rdw?oc=5",
+   "published": "Sat, 17 Oct 2026 15:06:44 GMT",
+   "score_parts": {
+    "recency": 0.841,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.652
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄子連れ旅行】正直ナメてた…ジャングリア地獄の待ち時間 Europa (pO1KFXe2ur) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQmtHSlYxWFdENEtLRk9UdnNDY0VabEJEc3VnS2V6Sk1vM2FvNGZfRmw5YWtUZXFDdlhxWkdUMEFmejB1UFJfT0tEeGh2RWpJeE5iR0hTbmo5OTJBQ3RTVExaM3MzTUNOQXlEUk5WTklTVlgwajQ5c194NEZ0YXBDOXhR?oc=5",
+   "published": "Sat, 17 Oct 2026 11:13:34 GMT",
+   "score_parts": {
+    "recency": 0.76,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "地域連携による経済効果は ジャングリア沖縄 開業から1年（沖縄テレビ）2026/07/23 Fernando Tatis Jr (TP39wEJW9L) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90OEF3dy02TGJfM2VqTGFWcEx5eXZSaWd5dkRDVmU5bE5kNkVxSUdQNkU3dTlQMU12Z3luQWh2MTJhUnhQajIwVFhFbExMR0I2WUJrbWdnS3Z0TUlpUmJ4U190T1p2WTN2RnRZ?oc=5",
+   "published": "Sat, 17 Oct 2026 10:47:32 GMT",
+   "score_parts": {
+    "recency": 0.751,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ひろゆき】視聴者「ジャングリア沖縄に投資した クールジャパン（官民ファンド）失敗の責任は誰が取るの？」 ひろゆき「ほぼほぼ官ファンドですからねｗ」【ひろクエ】#最新 #ひろゆき #hiroyuki - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SUHo0cHhMWmhFOGxLWm9iU0NxZ2cwOFJQMUV5blhhSEE4WlBnTEhrNjE3bjJCMm1UdENLQTI1YlVyNjNsMFR6RlNTbTFYWm1BcHI0YnFjQndTVjM4?oc=5",
+   "published": "Sat, 17 Oct 2026 10:37:39 GMT",
+   "score_parts": {
+    "recency": 0.747,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "人が居なくて潰れかけのジャングリア沖縄を徹底調査してみた！！※3回目 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vZUFUTXd3WFk2V282RkJ6ak05UnVYc1B0TFpFR19hT2dHSFBPaWtrY2ctUkRTMzZQVW1mb0VWRGdFcUM5cGRPVTFKcFladlB0ZHNULUNZUXo1SXVf?oc=5",
+   "published": "Sat, 17 Oct 2026 10:30:13 GMT",
+   "score_parts": {
+    "recency": 0.745,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "人が居なくて潰れかけのジャングリア沖縄を徹底調査してみた！！※3回目 - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLaVlCcHdMdjJWQjRRb3RkX3Y0bWpCU3A0WDhYVnMxY1dNSy02d1JzcHk2cjVwUEEyVkNsbmF0RUJZWXZfTVU0RVNSQmFsR0dNZkFoclQ1RmJhOFZh?oc=5",
+   "published": "Sat, 17 Oct 2026 10:30:13 GMT",
+   "score_parts": {
+    "recency": 0.745,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 完全攻略ガイド Pluto Tv (JaJPIeOgmY) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1X0lnUkxoRkhETFduV0x5N3NENkg0WkpwdjJyVDV4QXA1S3h0Z2tBSm1haGFJSzlGWjlWZ0J1RHV0TG5hbDVmMW1vdEVrdmFqRlYzVFEwQlh2ZTQ4TERqSUJTenNrdw?oc=5",
+   "published": "Sat, 17 Oct 2026 08:41:53 GMT",
+   "score_parts": {
+    "recency": 0.707,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【子連れ必見】ジャングリア沖縄のアトラクション完全ガイド！身長・年齢制限も解説 #ジャングリア #JUNGLIA #沖縄 Pont (gAcXBGzbpt) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGdCaEZ3YzNmeE1UTWQ2RGRsMXlCTWZpd2ZSLUdmQTZPYjV2RkpRd2xyTnl5eHNrcEJfdWFIczFkMmVQLXA3eW1RVjRpemx4MDNUN3dFX0ZUbzRTT0l4azRTeTFWdGdrYWhjekdyYVF0QVRxeDNJRWJwX1hkNmpuSS1B?oc=5",
+   "published": "Sat, 17 Oct 2026 07:58:41 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【初公開】ジャングリア沖縄の人気お土産＆超最新オリオンコラボ商品をご紹介！ Katherine Legge (fNJU428IKE) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ackc5VHA3TTdpTXp2OXZ1ekFuRVRtYllQNVU5dXlDTlc2ZlQ1a1hYNzJaQ0xRMHhJY2Z5TzFTLUhETGdXVm5UNU96U19mTGMzX0JkdURVRkZBTGg3Q2JndnUySDVnUQ?oc=5",
+   "published": "Sat, 17 Oct 2026 07:14:43 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ハイサイ！沖縄めんそーれ♪ー揺るぎなき伝統と躍動する未来ーin福井 - ふーぽ",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNN0xfdWNOdGVBaktrVnBsdjJON004MXBlSzQ4R0JMd1RoZGhuX1ZrTDYwQXc0aGdzVnN0VUIzVjVQSWRtNGthUHVBRWpLb1B6LU5sbGtB?oc=5",
+   "published": "Sat, 17 Oct 2026 21:52:28 GMT",
+   "score_parts": {
+    "recency": 0.982,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】チケット＋ホテル（JTB）はコスパ悪い？沖縄グルメ満載でホテルレビューもしちゃいます。 Premier League Fixtures (JCTNJtCNWZ) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pcGFQLWhoOThzVHlQckpiUUV4Z1NHSzh0VHB3QVhFako3Yk1zNk5fUGNydVE5bEx1eC1UeGtsakliWnY3S29SblFjdlRHbDZCeTZxMHYtV2s0XzBhbWtWdWllRnFCczdpNWww?oc=5",
+   "published": "Fri, 16 Oct 2026 20:31:39 GMT",
+   "score_parts": {
+    "recency": 0.454,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "複合的展開で知財蓄積 付加価値高い沖縄観光へ 山田 雄一氏 日本交通公社理事・観光研究部長 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13dHZRWkxtVG56U3Y5Szc2ZGEzZVRMN09XSEZ0QUYtVDdRVWZ3aGpuT3Zua2QtdVczbE96QU5LTzhycDNBLWNrTGlhTVRlc2NLaWpLeG5nQi1zdzNnRDhmNWNR?oc=5",
+   "published": "Sat, 17 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像22 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zTWJCaVpWdGlyb20zNHhONmZkRzQzUU03ejZoaDZpaGZBVE5maW54SjNkX3JXTFRpdlZQQ0YwMTVxQUVyUEVPSEx2VkZjd0NlNl96dmpIZkN4dzJJVVJFLThZQkV6c1VsMmR2WHNB?oc=5",
+   "published": "Sat, 17 Oct 2026 20:00:31 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "空港や港湾の「軍民共用」沖縄でさらに増やす動き…市民の不安と懸念 政府は「説明」を自治体に丸投げ - 東京新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pdkVCTTdCR2Q5cjJkMk5nVVIxRVFJZ1c2MjNhS1J1N0dTbkZYMllvOXBEeG1BYTBMR3VDQTh4Sms2bjd6eFYzS1k5UGRhcWpEaW9ISzVMaHVXNUtfTXVBYm4xVng?oc=5",
+   "published": "Sat, 17 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "遺族 安全な修学旅行要望 辺野古転覆 沖縄知事と面会 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qVXJrMWJlUnI1MlNURVhBWjlYd0R2V082WHU3X1UyUk8zWHo2d2lhd2RiWlpXYU1pY3pHSnFmc2hmdFV6ZEpIVUVqUkx4dGg5NkQ4RTgtc1VOakhDMHk1X2QtOA?oc=5",
+   "published": "Sat, 17 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  }
+ ]
+}
