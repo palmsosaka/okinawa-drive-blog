@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 210,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【秋の沖縄旅行3泊4日】夫婦で楽しむジャングリア・古宇利島・伊計島ドライブ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NC05c3Z1bTBfQjNZY0RFS0J4d2hzenc0aF96T3ZSamU0T1g2eXkxS3FYcEFGNXc5b0lsNmNFNUFVdEE1WHNDdC04bTJTNWdaVFhmbkU4OVBuVVFwdWh2V1lkUFJHSnhwVWdsNkJWazVZd9IBd0FVX3lxTFB5VTZRam9COGZxUzJzbWJRUFFBLWFQcXhSUXp4bGhLcEJfcWNkaE9ieEVkcllIYURSSW9COE14eThtOXYxUFIteDNuQjBLZkJySG9ZNzFEeHh0YWQ5UGp5ZmJEV3dQeS1iLVNpV3Z2V2ZKRFo2WFFr?oc=5",
+   "published": "Sun, 18 Oct 2026 11:02:00 GMT",
+   "score_parts": {
+    "recency": 0.758,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【秋の沖縄旅行3泊4日】夫婦で楽しむジャングリア・古宇利島・伊計島ドライブ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5VTZRam9COGZxUzJzbWJRUFFBLWFQcXhSUXp4bGhLcEJfcWNkaE9ieEVkcllIYURSSW9COE14eThtOXYxUFIteDNuQjBLZkJySG9ZNzFEeHh0YWQ5UGp5ZmJEV3dQeS1iLVNpV3Z2V2ZKRFo2WFFr0gF3QVVfeXFMUHlVNlFqb0I4ZnFTMnNtYlFQUUEtYVBxeFJRenhsaEtwQl9xY2RoT2J4RWRyWUhhRFJJb0I4TXh5OG05djFQUi14M25CMEtmQnJIb1k3MUR4eHRhZDlQanlmYkRXd1B5LWItU2lXdnZXZkpEWjZYUWs?oc=5",
+   "published": "Sun, 18 Oct 2026 11:02:00 GMT",
+   "score_parts": {
+    "recency": 0.758,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄ホテル人気ランキング不動の1位！】『ハレクラニ沖縄』デラックスオーシャンビューツイン宿泊記 Cavs Vs Pistons (0FwxCn1iV1) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObG1mOTNVeExiRk5GTUdaT3QycUQydEk5ZmZjWDF1enkzeVROUG4tMDBIWWRwOTNZczFFS25mNzRSeVJrcGxYeVJ0TVlEc280MHpKV0RIR0I0OUxvdUtIelBXU3huVWxCVXluVHNOcnNwbGhMcW1DekI0TGtzbGs0eVkwb2U5VlQ5MkE?oc=5",
+   "published": "Sun, 18 Oct 2026 15:35:01 GMT",
+   "score_parts": {
+    "recency": 0.852,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "V字回復はこれだ！ 最後の切り札｢ナイトチケット戦略｣こそが巨額赤字のジャングリア沖縄の救世主だ - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VbEY0RGZhcExEVFRJazFERWNRcGVQZjJreFpKRFY0Z05uTUxCNDhKYVN6aE5IMzJzTlVxWnZ6cVNTdTl0anVJSWI3aFFNd0JfVVdQWnZRS3hvX004V0Nv?oc=5",
+   "published": "Sun, 18 Oct 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "V字回復はこれだ！ 最後の切り札｢ナイトチケット戦略｣こそが巨額赤字のジャングリア沖縄の救世主だ - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oR0NqblYwRXB0TnpRUG91Vy1MT2g5SzUwTk9YTHhrVzN2Y1piQXFyWFZWdlNGa0gxUFdyODBOb3NscTRQYUZvcWhCYldUOG5hMlFvY2Z5U1BVUWM?oc=5",
+   "published": "Sun, 18 Oct 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.673,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄は赤字173億円では終わらない…｢刀｣の森岡毅氏が持つディズニー創業者とそっくりな｢狂気｣ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZE9PUHRXcUtPdnd4dURpcTdDRGhSX0xDM2pPV1AyeVJ4SVMtVmw0TTRaZzlhYUZKRUVOYlBGY0N0ZzV4em83aDZjMFpfTURjWmdkWl8ydW1veF9Tc1RIZXpHQzFRMTVvWmJIWkhqOTFQcXJaQTgyeFhCbDZuQ3NDMC0yX3FBeFNUdEkzbjlB?oc=5",
+   "published": "Sun, 18 Oct 2026 06:15:35 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄は赤字173億円では終わらない…｢刀｣の森岡毅氏が持つディズニー創業者とそっくりな｢狂気｣ - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0s5WTVMaUE4eXhDNU13czRHVjRaMW1YQXdYYmgzTl9GYmpwWjI1MHRONlQ4OWxoNnVYQzhESjZsSmw2d1V2cVVTcWllQm9DazVpa3pha0FnQkF3b3RxZEsyZjZmaTduamFSWEd0eXlEMDdXSl9jeWstWnp3M1VIdkFFQ3J3enBK?oc=5",
+   "published": "Sun, 18 Oct 2026 06:15:35 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄は赤字173億円では終わらない…｢刀｣の森岡毅氏が持つディズニー創業者とそっくりな｢狂気｣ - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xMEx3TG9DNTZIZGVBOFBVSXphRmlUS21yVWxhM3lXV1Vwd0FTMHQ0Zll2YXM0d2ZRNFdjN1JTcDRXUzRMTzVtUWNDcmdQb1g2NWVNYldWT1NMMmZCUzFN?oc=5",
+   "published": "Sun, 18 Oct 2026 06:15:00 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】ジャングリア沖縄は赤字173億円でも早期撤退はありえないと識者は説く 4/9 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yVDJmLXJBZk5uVmVldHh6aWxoNVcyYnNrTmZPdWd1czBfY29XT0dvNzE2Q3A3a0VtUzlzQmR0TEZCUXlhZWhtS0VPS3QtcEZua0RUTFJ1aU1WYTdCOWVDZTd4UEhkQnVaYUJUM2lwUFk2WkZfV2ZhS0FPaGk?oc=5",
+   "published": "Sun, 18 Oct 2026 06:15:00 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】ジャングリア沖縄は赤字173億円でも早期撤退はありえないと識者は説く 6/9 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SWU1XTGhuV29ubHZnUjhkcGplZm5wanprOFlVY25HUnNWLVRaZWxTNldUOGMyajlzcFNMejNVaEs5NVAxaGtab08zczFQejV4aDZFTW9PLVBEalF3Y3VKQ2lybkQzUFJWM21GS0hpeVVfVnZWOS0yMjJNRGY?oc=5",
+   "published": "Sun, 18 Oct 2026 06:15:00 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】ジャングリア沖縄は赤字173億円でも早期撤退はありえないと識者は説く 1/9 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4TFg2NVVZMWo4ME9RMVZET2VkOXRyMGpXbFY5dzZmVm44VVkwRktBcjhhczZyYVhwMEVYdmYxN0ItdjJKWkNfaFE1Q2xaMURNOHp1SGw0NXJ4REdud01FbTZQN3F1NUNBX1NxMTlrUFIxcmZyaGxvalRmSGQ?oc=5",
+   "published": "Sun, 18 Oct 2026 06:15:00 GMT",
+   "score_parts": {
+    "recency": 0.658,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄は赤字173億円では終わらない…｢刀｣の森岡毅氏が持つディズニー創業者とそっくりな｢狂気｣ - PRESIDENT Online（プレジデントオンライン）",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ubWhSVGNaOUs3TmpKRXFxYjJ6ZnRhbU1TNVJRdDlEb3dEQ3NVQVR5N2cyeWctR01QRWdaNXVGYjVLOVFjTkVGcnNQQkdzNTNEeE1RRVlKUTU?oc=5",
+   "published": "Sun, 18 Oct 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.653,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【那覇市長選】立候補の4氏が第一声 那覇の将来像を語り、支持呼びかけ 10月25日投開票 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tWEZaNnZjd0xqbGdFSXd3SmlRdFRsdVFLQXJBQ1o2VFRZSGozeGZCY2x2a1hyU2t0NWdnQjZpdW5IMUE0MkJyNkJiaTdmSGNraDBjVVRsNGhMa2ZNRlE?oc=5",
+   "published": "Sun, 18 Oct 2026 20:51:00 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【4K】ジャングリア沖縄（JUNGLIA OKINAWA）/ May 2026 Mike Tirico (jcP43hhXKk) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VWUN0VWowX3oxTGpXMzZDSzZzbWNGUmtOUHNTWWkya0N2TkJOY2hWMkFLTy1pRTBVMkxURnhBX2tKSnF6Y1lvc1Y2X1VRM0xsVEYzTF9WR0JaSmtiMTRNUUFTa3RxZw?oc=5",
+   "published": "Sun, 18 Oct 2026 04:47:23 GMT",
+   "score_parts": {
+    "recency": 0.627,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【悲報】ジャングリア沖縄、沖縄観光の救世主じゃなく、厄介者になってしまうｗｗｗ Hydro (A6fheVlq81) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YcmlEbjF5SzVQNTlXRVpjLS1DSHJYcXREZVlHWEhNdWs0eV9fZTRIZ2xkLV9ybGZDOF8zS29zanJhTjBGOTdIMTF1eVZOV2Nja183cjRjNE9aSW9SRW1Ta1k1TkdFUQ?oc=5",
+   "published": "Sun, 18 Oct 2026 04:12:47 GMT",
+   "score_parts": {
+    "recency": 0.615,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  }
+ ]
+}
