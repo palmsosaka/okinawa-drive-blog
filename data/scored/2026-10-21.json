@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-21",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 201,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "猛烈な台風30号、22日に先島諸島で暴風域の恐れ 伊平屋マラソンなどイベント中止相次ぐ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0UEhqbldlVnprSTlUNVRMVUlWWUhiWkprWVpKajJITDM4eGlaTWJRcm9obEdLcjNvZUtISlVMTmp6am5vektYUDlxcWkyVWhmVVlST2lZZld1YThfOUE?oc=5",
+   "published": "Tue, 20 Oct 2026 23:12:00 GMT",
+   "score_parts": {
+    "recency": 0.993,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.648
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【イベント告知】沖縄県で初開催！ 初心者・リターン向け「ベーシックライディングレッスン」12月13日に豊見城市で - Webikeプラス",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FclVxNTlZU1ZPN1JqaFVuLWNEd09ZOWZjeDhXSTR2c0hQbkZGTE9Ld2pVR09FSTlld0pFSHM3Z2steFE5TGtRMWVEektIblhhZnc?oc=5",
+   "published": "Tue, 20 Oct 2026 23:00:07 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ME:I×ジャングリア沖縄、スペシャルステージを開催 ファンと共にアトラクション体験も（日テレNEWS NNN） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5meFd2RUd5SEozdFBEQXZvOGhpVnZYN3NUcUtyQ2U3Vno2M1JpdWl4S1Bia1V0NmxtQzE4eVgzYzZaR0QwaDU1RUZvTXhJaGtDejZhenFKTXdBcUszeTlPbC1pXzFJVWxfWWVqR2JhUXNOdWx1X294dHF2a3ZTVzQ?oc=5",
+   "published": "Tue, 20 Oct 2026 13:15:00 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ME:I×ジャングリア沖縄、スペシャルステージを開催 ファンと共にアトラクション体験も - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85Q1Mxc0FoaFVISVJHbW45bVVGS3g2emxQeWNmbDRBcjh2djREblBUZlBEWk00dm1qUlZFU2xkVVh4VlZ1ZDFhTTdmR25oa0tKZkFwZWJDeG1BTUxEY0RiRWl3XzRQRUI1SElDOFln?oc=5",
+   "published": "Tue, 20 Oct 2026 13:17:00 GMT",
+   "score_parts": {
+    "recency": 0.787,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ME:I×ジャングリア沖縄、スペシャルステージを開催 ファンと共にアトラクション体験も（2026年10月20日掲載） - 日テレNEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VV1pueDNzZzNHamZLNktYR3dITFlXT0I4X0wxY2NKcnBySkp0ZmpkS041YzZyYmhfWXhBbTRVMG1HQWJKNEh0SmVqZHJEaThSekJSSXZHb3lnbnZNQUhzRVFabGtTVmd1WjI3OExoUy12cFlsOUlkbXV6MWg?oc=5",
+   "published": "Tue, 20 Oct 2026 13:15:00 GMT",
+   "score_parts": {
+    "recency": 0.786,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄の産業まつり ５０年の歴史 「県産品」に価値と信頼 来場２５万人超 一大イベントに - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ESnlxcVkwQmJEdlZaamhGZ2lIaHRFQTFqNlRmaVFUWE4wUm9WSXpZYXZobGhBY0hYZmdFMG9lOWs0ZTAwMFBEd2Z5QXAtZWxLcHFPcDB6N0NQZWxEX2pubEJR?oc=5",
+   "published": "Tue, 20 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "🟠期間限定【ME:I】♪Summer Magic 熱唱🎤ジャングリア沖縄で大はしゃぎ✨ - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYVTAwaDN0NFdiTlRpM28zTndEY1lPbFZQS0JDLXNVN0tBb3pYNXAyX2Y2OEZWT3p5NmJCLWVsZXZFaUFnakE1UzFtVXZpa2NQeUxYeWFBSGlYYTNQ?oc=5",
+   "published": "Tue, 20 Oct 2026 11:41:25 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "🟠期間限定【ME:I】♪Summer Magic 熱唱🎤ジャングリア沖縄で大はしゃぎ✨ - Howl.link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1fSXlIR0pxYXdhOVRDeUNQbG1Mbl9wT2lJUGJMTjFUc1U5am5NZG1IdTRxd2xuMEVXeWtj?oc=5",
+   "published": "Tue, 20 Oct 2026 11:41:25 GMT",
+   "score_parts": {
+    "recency": 0.753,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ME:I×ジャングリア沖縄、スペシャルステージを開催 ファンと共にアトラクション体験も＜期間限定公開＞ - Howl.link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9BWFhtbTRPcWdVNjZzeWxtX2thNFh5ODJidDZiWnF4aG5MQWtTSjRWS0FRby1rOHEzUDlj?oc=5",
+   "published": "Tue, 20 Oct 2026 11:00:31 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "職業体験イベント協賛募る 来月3日まで受け付け - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3RVNqNXcxcm40UE96bV9TRXNzVW5uRllqZDNoMGo1d0hBWkhRZHVlTWtNTFBLWHB3UXQ2c2g1UjZQZG5BNDlxOGF2aGpaNkZ4bEJnODh0V01UWFBKaEE?oc=5",
+   "published": "Tue, 20 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "首里城の歴史、商品で継承 公式文化ブランドが設立 「久志間切弁柄」の名刺入れや工芸品、77商品を開発 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1La29pV2c4SGctZnVoUkFRcmM5dUxGcUVoOEtUV0ZTOWJnbmlqRkJHVDJqb29qSVJqQkVPT3cxUkNNakN3ZnVyWkN6RTk5aE1Pb2pScUppNkxjNzdIZlE?oc=5",
+   "published": "Tue, 20 Oct 2026 22:34:00 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄県・リゾナーレ小浜島「アイランドクリスマス」開催 - かりゆしを着たサンタが海から登場、ライトアップや特別ディナーも - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpZEx1a2ZJVFBmVk5lTElJeTQteTltZHQwdkhJVlUzX1VpUVRBWXVQcVJXM1hYU2RTdktzMFBCNFdoUGU2N191VXFvNkc2SWx0SGxISlRvRmRPQUZ2STdzSQ?oc=5",
+   "published": "Tue, 20 Oct 2026 21:11:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Tue, 20 Oct 2026 20:22:49 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "高知でエイサー、日高特別支援学校の生徒が練習中 本場沖縄の演者が直接指導 １１月に「よさこい高知文化祭」のイベントで披露 - 高知新聞",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zbGhsUVROUllIQ3I2RDlzTEJqMFcwdFdZYkUtYTlLWHdULXZHR3R4SkswaXNLQnJsMl9BdUNKbl9Nb0dIald0NUxZM09JTXRvbWtqQk9QQjZsa1BjWGc4?oc=5",
+   "published": "Tue, 20 Oct 2026 12:15:00 GMT",
+   "score_parts": {
+    "recency": 0.765,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "嘉手納 観光の祭典特別賞 ブースで町の魅力PR - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDZG1EaU5hYzJLZmtpODdrR2YydUZjMkE2ZTJVbzBicGFSaWpwekhwQ0pTNFNPakhoSDJEeS1CRktjcTBiMDRMakFIb3JfNDA4WFBXZm1fZXRVYlBkR2c?oc=5",
+   "published": "Tue, 20 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.905,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  }
+ ]
+}
