@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-20",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 203,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「推し」目の前に〓※（注＝〓は「ハート」） ME：I公演 ジャングリアとコラボフェス - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82WVV0SmxISmt2OG5zWmU5eVNlUWY3bUFZT1ZydVFsaU9rcngxeUV4UzB3UGZWWW1tTGVkd2w1Wkk5S1UySnI2TFdkcW1vYmFLRDYtVUF2V1JBWW5fUEE?oc=5",
+   "published": "Mon, 19 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.895,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.668
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」で人気グループ登場するイベント - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTOWVJTEVsaE9iT3p5bGQ2Zl93N1NRTlhpbTMtNzhiS2dtNll6dXpfclBhdUxLNVljek1Ka05BNGlXZ0JOT0FPeHp2eTQ1bHdtUkNnZ0hYQUUyM1FSUzZB?oc=5",
+   "published": "Mon, 19 Oct 2026 09:17:00 GMT",
+   "score_parts": {
+    "recency": 0.693,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.658
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ジャングリア沖縄にガールズグループ「ME：I」 ファンや一般客沸かせる - やんばる経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mb0VYOHZJQjRSSHg3Z3E5UWgzMVREeTRzRXRYQTVqZXVDMEJMWGljYWVhbnoyRkFKZUNBeGRsd3lHZjdHVW82cTJPU2tidHZzNXc?oc=5",
+   "published": "Mon, 19 Oct 2026 11:34:35 GMT",
+   "score_parts": {
+    "recency": 0.741,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄にガールズグループ「ME：I」 ファンや一般客沸かせる（みんなの経済新聞ネットワーク） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZWE1GeUlOMjV4N2dQaWxqcEo3Mm5VbHFBWTNnd0hXZGpEc2xHUEJ1TG52RWxXdVVCMFY0RlVDbWdiX2RXVG5pUUlqNGg4TjdvTUprSndJNUZkcFIxU1E5VzZTcGIwcjRJVEpLdkFMQ2Y3c1luUTFNb2Ztb0trT0U?oc=5",
+   "published": "Mon, 19 Oct 2026 10:05:42 GMT",
+   "score_parts": {
+    "recency": 0.71,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄】今話題のジャングリア沖縄が本当に楽しいのか6人で全力で遊んでみた！ Portos (WaVBSe2aY5) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01TUx6SjY1YURuN2JObHEtQWJ3c241SGphcEYzNjNuQk1mNW1UNjBzSmxacEJYenhCVEhwazM2Vk1OY3JWMXJBQUx0Y1BxUWJjczl6RGM3Sm01b25wQ0ZwZVEzRnFFdXQyaHhpdg?oc=5",
+   "published": "Mon, 19 Oct 2026 10:07:30 GMT",
+   "score_parts": {
+    "recency": 0.71,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄でファンを出迎えるME:I - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KOTZWaTVJU1VITnlvZ2xIX0ZDb1A2YnE4Y1Z4azRqMGdBRjNlWkthT0gzUWhSNkY4dDhqMnBFcktqOHpYYi1vYUxad2syTnJtX09nemVUSWtBY0k2?oc=5",
+   "published": "Mon, 19 Oct 2026 09:12:29 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Mon, 19 Oct 2026 23:22:25 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "＜画像3 / 20＞沖縄美ら海水族館が4年連続1位に！行ってよかった動物園＆水族館トップ20を発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91dUR2eHlXUmNXXzVmd1U0NjNVYURWdDBEZHdoZW1rZWRlck9BTkUzX083V0JPa05VM3c2OUJYSnc0aHlRZUx5X3UySFd3akN1NGQ2RC1Qem9rZC1YOVlucDBrRDJtMUEz?oc=5",
+   "published": "Mon, 19 Oct 2026 15:15:15 GMT",
+   "score_parts": {
+    "recency": 0.817,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "県内景気動向、「弱含み」で据え置き 海邦総研7〜9月を調査 8月の台風で観光客が14％減少 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0tdzh1VU9XYWF0OWUyd2docTJSTjBTQW54MzNkdWVpNmttNF9qZklEdlU2aGN6MWJUZnpjdndlQUtHSkRyZ2FmZzI0NXRWbmtBczlwNU9MUWhReWJGYmc?oc=5",
+   "published": "Mon, 19 Oct 2026 23:06:44 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像9 / 20＞沖縄最大の“エイサー”祭りに、史上最多33万人が来場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoUURaWkFTMnNra0k1dWlkTDNJRG5PQ09sUWU1MXBCU3A5X3RUR3dqZm5RaEJrZUk1c3ZCRGppYW00TVY3ZHlFVEdnRWZxaGVRZ00xcnNvSUxrVGpMZXpnMEVzNG1DUWIz?oc=5",
+   "published": "Mon, 19 Oct 2026 22:20:43 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ME:I、ジャングリアフェスでスペシャルステージ 人気ガールズグループの沖縄ファンクラブツアーで (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjQyUnRNRDNMMVZsc08wQlIzazVJUzhqX3ZQX19md04wR0dDY2M4NEkzOHJPYVpWcmhQWnlIT3ltSjhyZVlIV1lZQUVGcGc4QTVQRzBwclk3T1BNNENZS2Y4QTROUDFlcFFnWG5KNnZOR1Rkd1p1Y1FfRHFaRjBVYk9fZi00NTRBYVdLbkx3?oc=5",
+   "published": "Mon, 19 Oct 2026 06:11:14 GMT",
+   "score_parts": {
+    "recency": 0.628,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ＭＥ：Ｉ、ジャングリアフェスでスペシャルステージ 人気ガールズグループの沖縄ファンクラブツアーで【動画あり】 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPS0xTd2h0S0FqeUNWREdiZjdlQWQ5ZEdCWjlfV0RYWlBfcmQxbUM0WHlxQmJBem1qWXN2czZlNUxNNG9GaUlkYm1LajdaZXJMaDZfT1BUY0xuUkQtSXc?oc=5",
+   "published": "Mon, 19 Oct 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.624,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：ME:I、ジャングリアフェスでスペシャルステージ 人気ガールズグループの沖縄ファンクラブツアーで - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvb05OWW13U0VBZGduUjFMc1ZEdW8ySDFmWTdrTU4tTFg4Sld0ZUJZR2lGRGtNUllKZ2FJXzU4MTJ6MEEweDZlMGlrVVBIaHFRT3haZDVuYUItX1Vpd1R6X21TUVo5Zw?oc=5",
+   "published": "Mon, 19 Oct 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.624,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「沖縄の産業まつり」の開催可否　きょう判断　台風30号接近受け - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbThzSFh5cUJSQXFvUmYzZnlTNzJoWUFRQzdxeUIxNmV2Q0lOQVRGWHBKOFVDeXRFa25UcC1RZTcwZjdNMzBDU01wQUVxUFlHWlJtRlNObzhQenhqblZCckxycVhIUVlxR1JrRlJnYUNnclctYVl6aXNGNzlBNzNWcNIBhgFBVV95cUxOM1RLQnF1SlFOcmlNNkdVUDdHczlUWDdUYUJIZFR4alN2bk9wcVA3dmkxUWRRR3FoS2NVUjJERm91TVZUMmdvdkN2a18waWZSb3BIYTJCeHhVRGJ2bXNwY2xPaHp6THd4RGdEQmh3TE92dV9Jb3dnRDM0bU4zWEtpQldEcHZRUQ?oc=5",
+   "published": "Mon, 19 Oct 2026 21:56:15 GMT",
+   "score_parts": {
+    "recency": 0.956,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "お台場沖縄ハーリーのイベントが無事に完了しました！ お台場の海で沖縄の伝統ハーリーを！（熊田将昭 2026/10/19 投稿） - クラウドファンディング - READYFOR",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rcjQ0ZW8wUnBSNU84bWc3aHhiLXVpb29XTE5mOHBVaUVJMTY2LWtEQjZQU1BiTS1paEFuRkRZd0hyMUcyUmU5SFNNd3BKVmRyWjBWVlRhVmFERHg4YUNqS0dHRQ?oc=5",
+   "published": "Mon, 19 Oct 2026 12:23:00 GMT",
+   "score_parts": {
+    "recency": 0.757,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  }
+ ]
+}
