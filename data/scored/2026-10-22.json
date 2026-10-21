@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-22",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 205,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "ジャングリアから始まる沖縄北部旅！飽きずにスパエリアも潜入したけど、結局美ら海水族館が最強なんだよね... - Howl.link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFA2b2FCSHpxY2VyY0JadFJDM3RFRktJeURyTG5Uc2NoWXV4aVlMSVc2M1NLRTRjYndsNU93?oc=5",
+   "published": "Wed, 21 Oct 2026 10:30:23 GMT",
+   "score_parts": {
+    "recency": 0.723,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリストでも個人情報漏えいの恐れ ホテルやレンタカーの予約サイト停止 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EOXdIWkgxSEJvYWdhVVB4V2NQV3RhSUtCbFR4emZNRzZJZVlKYlB4UlhDdWhPVWFCemRMUGVTQVdGdTljQVBhaVRHRkdWbWNOQnRZT2M0OA?oc=5",
+   "published": "Wed, 21 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.658
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリストでも個人情報漏えいの恐れ ホテルやレンタカーの予約サイト停止 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoa1hONnF2NEZFbmVaaDRBZ2x0Y3ExOWxacVlsUlNJYXBzcVRxN29NWUh4OGl6MzczRVZjTmx3dTZWQ1A1VkQ3RWt5TmtZeXYzOFlxd18xaEFuSFAtOHdKbVU2RHdMZzQ?oc=5",
+   "published": "Wed, 21 Oct 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.658
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "約173億円の最終赤字が判明した「ジャングリア沖縄」巻き返しに秘策も (2026年10月21日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtZjNJX1g5N0p1THNWT1JEbHl1LVNFNVpKSVpKOFhmcXVURkhKTlk1VnY4aW1lRzhZZjZGLTNTU003cXpQaThQa192VzVjazNmR3VoSnRsSGF0WGJiMVE?oc=5",
+   "published": "Wed, 21 Oct 2026 13:25:22 GMT",
+   "score_parts": {
+    "recency": 0.784,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光業で働く人の給与をどう高める？ オリオンビールがホテルを軸に描く沖縄北部の成長戦略 - JBpress",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lY3Z2eW5hZHVXeGl2bzUwS216cUdOb09CQlZYU0Y5UVBDRDBkUklLeUxhaHp3N0JyZmotMkM0ejZqbVU3Slo2ZkNXeUpKSEFKMVZ3bU9n?oc=5",
+   "published": "Wed, 21 Oct 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.633
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【沖縄・恩納村】昨年大好評のカウントダウンライブが今年も開催！ホテルみゆきビーチで楽しむ年末年始イベント2026-2027 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1NExCVlFBaUZVT1ZYRGsyTGxsWmJuZ3daRmphN1AzaXBzSG04cXNzV0RGRHhWOW0tVi1SQk81T2tzeDRJTUFtQ096VjNTc3VGNEtsb0s3cXhzYVZkLW43azRLZ3pDanZmWmc?oc=5",
+   "published": "Wed, 21 Oct 2026 10:36:46 GMT",
+   "score_parts": {
+    "recency": 0.726,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」の再建議論へ 30日に親会社が株主総会の継続会（写真・画像 1/1） - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORzhaZnJTZk9vLUJsR2k1SVV5X0k1T1EyQ1RxRV9KdmxVR0JZMnpyT1JWTmpXV09XVlBYYVQwbGdFZTZ0NTFKZWl1OFQ2SWo1SFBBQ3dMbDhzX1pORWl0azhiRHFEdTdlSC1UQllSNVJSRzhhaW9tbVY5TlZKUlJycGRLTDhmZ3BreHhLYUEyQjdsWDR6TjNzQnplNGFzaTNKd0E?oc=5",
+   "published": "Wed, 21 Oct 2026 08:31:23 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "ジャングリア沖縄に行ったら噂以上でヤバかった。【最新＆人気アトラクションと「パノラマダイニング」を正直レビュー】 John Wick (Yc5YhJtOBf) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTjRISi1GcGZTb19tUW1GNWprcmFPTXVVRldHUkxLZ1RDNkRQbnE2MkFISjBoelNiVi1xd24zTDVMeEFOUzlfRDUwZ1pYaXNpX2ZCWjFzT18tS0NpOHRZbC00TmRwNUdpZjh2QmtGdzBDMTNGZHFKaW5vTFhMOUpZWTV3?oc=5",
+   "published": "Wed, 21 Oct 2026 08:07:05 GMT",
+   "score_parts": {
+    "recency": 0.674,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリスト、個人情報漏えいの可能性で「OTSレンタカー」などの新規予約を停止 社外からの問い合わせが調査のきっかけに - 株式会社アクト",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pSS1TT3NGMGg4YW54enhkWUZqc2tSLXNQbVpRMmVDbDh1ZlppRXBUSllOa1gzenF6RnFzMS10TnpHVjlvUGNZUQ?oc=5",
+   "published": "Wed, 21 Oct 2026 06:57:12 GMT",
+   "score_parts": {
+    "recency": 0.649,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【ハワイ最新情報】沖縄・那覇〜ホノルル間に直行定期便が誕生へ？連携協定の締結を目指す - Hawaii-ne ハワイいいね!!",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iTjZtbi1TcTV6LXRTejJSeDdXSk9aUGFndEdHMkswV2VDVjlaNlFjamFLRS1Gdl9SSmtUVXRodThsVXBVeXRGYzNIcC0?oc=5",
+   "published": "Wed, 21 Oct 2026 22:44:53 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Wed, 21 Oct 2026 21:57:24 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 25＞沖縄・南城市の新スポット・南城市地域物産館に行ってみた - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IOG95N3U5bWEtSzhqeUpYZXZOM1U0ejNZRzNoNVFxa1U3VmJ4dC1PS1BXU2ZFOE5WMEVZaFFYalFzeHdtaVpIcHZtNHVIU1hrR1hxUDBROWctUE1sYXNaWWhZYlkwblMw?oc=5",
+   "published": "Wed, 21 Oct 2026 21:03:22 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】約173億円の最終赤字が判明した「ジャングリア沖縄」巻き返しに秘策も - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nMGc1c0YyNjY4clRuTW9pTXhYem0yYmpaeEhaUTRfMU9FcVBqVEhrWTZBS1Fab3BjSTNDemszYVllelhzblpIMUtzdzFGSWtGWFdJMVo4aDRJODh5LUxPa0FWOHU3VTl3TEdLSk9RQVktanRSZ0ZiREl2Qno?oc=5",
+   "published": "Wed, 21 Oct 2026 04:55:25 GMT",
+   "score_parts": {
+    "recency": 0.607,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "全般気象解説情報（台風第３０号）（第３報）＝気象庁発表（２２日５時３０分） ：気象解説情報 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIZWkwV0l1YnQxc3IxVzltY05qZGxCXzhxUHdwVllVLUtsSjNsSkwwMUJHR3ZPT3RrYWF1QjZaSndpdE1FNmV2TWVBdnZoRlZzUkFJZG5LZi0tUHkwRUE?oc=5",
+   "published": "Wed, 21 Oct 2026 20:30:33 GMT",
+   "score_parts": {
+    "recency": 0.932,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像10 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPNHRfbzJ6QmdnYmk3anI1b1hmQ3F5dlhOMnp0SHI3WHpOWFl5akN3R1p4U0VLOXJXSUdvZlNwTU52d3NkNzZwajB0SUFVVVFwQW84Rm1tRmstS3NuZUV5UXl0X1YycEhtUk9adlNB?oc=5",
+   "published": "Wed, 21 Oct 2026 20:06:04 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.577
+  }
+ ]
+}
