@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-23",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 224,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で不審者対策 侵入を想定 50人訓練 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYQk5tYVVxM0ZHME83VVFhSVN4VXJHM3hUeG9CeWlETDh5aEN2eFYyTHNZZDFHcmRkUWJhSWo4VHBlR3Q0VS1vZ2JneEZmVjYyOXBmY3JEaFgxaFVqaXc?oc=5",
+   "published": "Thu, 22 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.67
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "レンタカーなしで沖縄を満喫！2泊3日におすすめのエリアランキング (2026年10月22日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xY0hIOXhrUjMwSDR0dDQwdzAtSDE4T2J2WGpzV0Yxci1DTmtOSldCQ3pkeFJ3dVNXMkxoZ3RGVzRUT19mbVBpRC1GdFFBdk9nRkNSODlja1ZOTUl4TWc?oc=5",
+   "published": "Thu, 22 Oct 2026 18:24:31 GMT",
+   "score_parts": {
+    "recency": 0.888,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像12 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1melVwZWloc2xDeVpNWHdjS1I5bV9McWIwbTVjM0hDWS1LSUtibkU3Vzh2bVBWNUZDQ2R4Sy1sQ2JTZ3pzb3RpNVZULWNOdmRBV0VUdnU1MFFYN2NxbzJoMWVXcjhyWjFvSkZmaEF3?oc=5",
+   "published": "Thu, 22 Oct 2026 19:01:59 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリスト、個人情報漏えいの可能性でサービスを一時停止 レンタカーなど5サービス - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpaXZ2MFZqQ3Fwcy1YZ3NXWjJCX29CaVhzWUlEQVk3dHlyNHBha1BSb1Y5amJNZWtkalM4LWNialFLeG5YTE90bDl0VjIyMGZoYXlJNG5scmZySDJ5bGhB?oc=5",
+   "published": "Thu, 22 Oct 2026 09:02:40 GMT",
+   "score_parts": {
+    "recency": 0.693,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリスト、個人情報漏えいの可能性でサービスを一時停止 レンタカーなど5サービス - TRAICY（トライシー）",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBINktjNmRWa1o4ZWlxUXRXUnpFajJhakdJZWFicXVHYTlybGtOcGJ5dmRsdmRCVU0zNjlRRW5wN0lGY0tjOURj?oc=5",
+   "published": "Thu, 22 Oct 2026 08:40:13 GMT",
+   "score_parts": {
+    "recency": 0.686,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Thu, 22 Oct 2026 16:29:37 GMT",
+   "score_parts": {
+    "recency": 0.849,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "パラオ、ごみのガラス瓶を工芸品ブランドに 日本人が主導、環境意識高い観光客にヒット - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wNGRmWWxBQVdOdTd2aTJteTRTYzBaTkFOdTlKOWJMQVlReHk5eWFoYnVIOEFaRmpFbEZsWmREWlNHV0ZFY0pkZXVZeGpLTTc3THN1NVpvd1I3V0ZXY2c?oc=5",
+   "published": "Thu, 22 Oct 2026 23:00:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "侵入者役「殺すぞ」と叫び 那覇空港で想定訓練 警察官ら総勢60人 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HVkp1RWlheXQxcjhwU0g2NDI3aVBHUXNOd3BJX256a2g4bXR4YTBwdWQxbG91aU1Qbm43dHFBSEp4Q2dMWUxaZlp1UQ?oc=5",
+   "published": "Thu, 22 Oct 2026 06:11:03 GMT",
+   "score_parts": {
+    "recency": 0.634,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "侵入者役「殺すぞ」と叫び 那覇空港で想定訓練 警察官ら総勢60人 沖縄 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTk0V1pSU2dXemZKbUFCNDB2cHRnX2JXLWl4YzRuclBwWFFsVmJpQ1lDei1hQ2hjZF9jcnhwQkpZdUVGM1ZPWnhpWGFiUFlaOFMzTEdobWFQeGhLRmlqLWhmeHloeTdpWkVuSEx4eWtjcTJMU0VneVRZRjJfR3IzVlc2NjZLcFhpcjlQMmJn?oc=5",
+   "published": "Thu, 22 Oct 2026 06:10:55 GMT",
+   "score_parts": {
+    "recency": 0.634,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "産業まつり中止も･･･広がる支援の輪 即売会やまとめサイト、商品買い取りも 沖縄（琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QOXNhX0RTaG9UbV9BUXhsMWxZd3RyVC1IM2ZZUS1PZnJsMF9USDRQVzBIak5jWmZIVFZPYmFnQnBJU2k3V1FGYjVNUER5Y2lMMVJYVV9VRlBtUkF4ZnpWUDVJOHV2MzVOR0VTS2hjZnBQU3JzUDdMSjJvYnI4LXc?oc=5",
+   "published": "Thu, 22 Oct 2026 21:51:21 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 3＞日本と中国の観光について考える大規模イベント「日中観光交流会議」が沖縄で開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54NXhoSWtpZGdJR3pmLUhheERCUjJKeG93OFJ5bkdHRjNjcVRldW5LLTFqWE5COHRjX214RGRsSHRFUnpZbEMzYlFCVnVxRWs5azA4VTBmTm1kN2c2LVh3enRSaXVNVTlx?oc=5",
+   "published": "Thu, 22 Oct 2026 13:22:19 GMT",
+   "score_parts": {
+    "recency": 0.783,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像2 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQWk1xMW45ZEwteDBsNHlLVUxNbHFOWlJrZTgyeWFYYlp4dlF6ek4tQ2dlbW5pOUFjMFg2emx1YU1vbmV6QzNNUDhyVEp6MWFqV3VuRHRxNnpRWkRtVjBnRHJBS2h6Rm5jd0dpaWRR?oc=5",
+   "published": "Thu, 22 Oct 2026 13:26:38 GMT",
+   "score_parts": {
+    "recency": 0.785,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "コザ高、沖縄尚学が九州大会へ出発 秋季高校野球 那覇空港で家族ら激励 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WVEtQTzNSZVBNTTJFRk14VEpXRzBtendUQ2dmQ3U5VmQxb0d6NGF6S1pvb3NPNWtWN0hpVk9iLVRJdjAxMlZydUFaVWI5amt4VFdrem91dnVkVTZxNFE?oc=5",
+   "published": "Thu, 22 Oct 2026 04:39:08 GMT",
+   "score_parts": {
+    "recency": 0.602,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "産業まつり中止も･･･広がる支援の輪　即売会やまとめサイト、商品買い取りも　沖縄 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNclgySnVzODd6VkMyZEJIdV84ZFBpVEh2eWJ6WWlfZ2Y2X2ZTS2FqY0RPYmdFRVdvcFNnY1pjSjRnWGo3Z1o2ZmFEZ0hIWU1EOTJ6ZEJaR3VnZTZuZEN3dlA4WHdseWJCajlwVnJFZTc4VFF4RXhLdjFncHVqdnp3RXFzYy1NUdIBhgFBVV95cUxNclgySnVzODd6VkMyZEJIdV84ZFBpVEh2eWJ6WWlfZ2Y2X2ZTS2FqY0RPYmdFRVdvcFNnY1pjSjRnWGo3Z1o2ZmFEZ0hIWU1EOTJ6ZEJaR3VnZTZuZEN3dlA4WHdseWJCajlwVnJFZTc4VFF4RXhLdjFncHVqdnp3RXFzYy1NUQ?oc=5",
+   "published": "Thu, 22 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 5＞沖縄プロレス初のビッグマッチ「闘人」が開催決定！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kMkJ4WVg0SjFzVld0dGtZdzFOSnFTSHZPd21uUXVNdWM2c2FwMTFzZzJ3Z2hoNWdIb3c5NWVabkp3ZlRITmx6TE1rZjI5eVJRMjl1M1RHTzVYVnVyX1lGZDEtR1g2WDBP?oc=5",
+   "published": "Thu, 22 Oct 2026 19:42:22 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  }
+ ]
+}
