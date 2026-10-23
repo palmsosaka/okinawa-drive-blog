@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-24",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 238,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像23 / 31＞ジャングリアも美ら海水族館も近い！この秋「オリオンホテル モトブ リゾート＆スパ」で過ごす最高のファミリーバカンス - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdkladmFDRXNHRl9oX0ZES05tVGhYeHpZejVCaTNmbEVSdjJDUFQwT1NNWFBKTEd3Q3BrZHlfXzB3ZE5nUnl5VVl5OHZVc2s0NmZUMFJVLVRxc2c0NUtLSmZrV1ZVTEVVbkE2QkdB?oc=5",
+   "published": "Fri, 23 Oct 2026 14:30:54 GMT",
+   "score_parts": {
+    "recency": 0.81,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "JALとJTA、那覇空港の整備工場見学を交えた「STEAM SCHOOL 特別編」を沖縄で初開催 - sky-budget スカイバジェット",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0elZ1QzFrSHJoU0hrSEJFRlRSa0IzZEROTGo0LTZFcE5FWkhTQ3AtbDk3cGw0Sk4wZDJ1cDFIT3czWDc4QlZ4NS1FZGNjNWlVbnU5RWRiMDZRVnIzYm5xVHlkSQ?oc=5",
+   "published": "Fri, 23 Oct 2026 07:44:13 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "大型で強い台風30号、与那国北方で停滞 宮古・八重山で暴風警報続く 台風31号も発生 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zUEtseWE2VDN4QnBYNTloV3BFaTFjd3h0QTlQOGo0ZEI3ZGU3UjVVRDJVOWNQQS12RUlpVmE5MW8yY1BneFVIRXAtcll5eXl0eTl2RWwzNEJicnNzOHc?oc=5",
+   "published": "Fri, 23 Oct 2026 23:08:00 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "国交省、日本トランスオーシャン航空の大阪/伊丹～沖縄/那覇線の運航を認可 10月25日から1日2往復 - sky-budget.com",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oa0tucl92NjE5ZkwxR0kyTXRPS0JsUENEcGlTZ2pPNzV4bGlNSzlzZDFKRVFsVUs3dlVNTThBYllXSXFtUldpbGpkRXlScUxLSDlxWFY3UHkwOXdYQVlWMQ?oc=5",
+   "published": "Fri, 23 Oct 2026 21:13:18 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "秋田の魅力、バレた？ 食、癒やし…観光客大幅増 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DZ3RRb0tqY3pJYnc5M2p6ZG9KVmZmM0MtWDFlaTZMcU56OHFtVVVja1dlSnhUZ1VORVhlSnY0aVFDMUtvczFlNzRtS1dRQUNmMXQxbjJtMzRDRXhGMWc?oc=5",
+   "published": "Fri, 23 Oct 2026 21:03:09 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "2市長選 集票全力 那覇と豊見城 あす投開票 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IeGZDUGFrVzhkenpPMHdDNUZZU19kalgtZHpXSHpoS3FtR3ZlV3dlQ2ZUbHpRNjQ4WlFKQ0RCT2FjTUNHZFJQS0tRclYxNk5VSUQyaC1pQ3BMQVVGLWc?oc=5",
+   "published": "Fri, 23 Oct 2026 20:43:04 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄・大阪・横浜のホテル稼働率はいくつか｜9月は沖縄86.7%・大阪80.4%・神奈川84.2%、観光庁値との読み分け - HotelBank",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdk05c1ZTZzQycGEwdm41eFIxYS0yWEgtR05PZnBiWm1QdmdNTjg5NlVpR0FnSDg4UDNZeFVFcmk0Y2Y1bE8tOWdubVEzd21sbVdpSmJDWElyMGtoQkxKTkxuclkyaEZENHRlVm0wOXdZekhTTENXdVN3bi1tUzNiZ0RmUjYwR1VxS09Vbmx3dTVKZw?oc=5",
+   "published": "Fri, 23 Oct 2026 12:00:37 GMT",
+   "score_parts": {
+    "recency": 0.758,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【人口10万人あたりのレンタカー店などの数、沖縄県が最多で奈良県の4.9倍】レンタカーの市場データを無料公開（事業所数・市場規模・広告費） - ドリームニュース",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kc1V3eWJoQTNBczgwXzBSbGdIVzNzcDV1eFUzazZNWlB6Z1NoWFJua2dReXU2Zk04LUJVV1g0aUhLdzh4aUFKbUM2TGpFRHdsSkNV?oc=5",
+   "published": "Fri, 23 Oct 2026 03:30:00 GMT",
+   "score_parts": {
+    "recency": 0.58,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "「航空機目指す不審者が到着口を突破」 那覇空港で侵入対策訓練 15機関50人が参加（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUFk4eGl1Qi1yUjA4a0l6OUtlSkRid3lVNEVJVnBrMDNHMHdTV1pOZDRXSFZsN184aVFaTU9WRG0wcWN4VXlVUm1oTDd3NjhkeF9lbk1telFrMHk3ODJuVnJQQVZ0WUg5X29IOXFtVlNRdTZ2SnpfbW9MbFpUTW8?oc=5",
+   "published": "Fri, 23 Oct 2026 03:31:33 GMT",
+   "score_parts": {
+    "recency": 0.581,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "「航空機目指す不審者が到着口を突破」 那覇空港で侵入対策訓練 15機関50人が参加 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVDQtaDVwZExuSWktN0FmeHBmSEE1blJvb1JQRjZiSjFwdlpkcUEyWkxlMkRWVEd1cTBkaGIzdU11WmhOZTIzS05RSlFKTzM2ZmRlNXhYeVJWdTFsN28zV203dnVFWWNHNXZUcjdOeDUteUFGWVVOeFkxYnRaNHdjclAtdFhaM2ZxOV9wc1Z3?oc=5",
+   "published": "Fri, 23 Oct 2026 03:31:33 GMT",
+   "score_parts": {
+    "recency": 0.581,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "JR東日本、内房線の姉ケ崎〜長浦駅間が11月9日に運転再開 久留里線の一部は復旧断念 - TRAICY（トライシー）",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zNnp2b1hkRzF4TWJLTGtJeTlSX3FrSHhaM3NYRzg1aEw4UVBtOUZELXJ3MHB1b1pFUE5ZV3VuWUtPYWVVRlRR?oc=5",
+   "published": "Fri, 23 Oct 2026 22:21:15 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "会員や児童生徒 ビーチ周辺清掃 名護ライオンズクラブ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tQnUwMDhUSHlOUHdjdU5BVm1jWGdsOG1GTmNBOGlFWVNiSy1sSmxjRk9UdU14NFY5andrSkotblNQTDRhdVdEWWZuWjA2NXF0VnJIR3k5YTcwcXhJeVE?oc=5",
+   "published": "Fri, 23 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.902,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "OTS流出 最大73万人 個人情報闇サイト販売一致 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95RDRsd3V6R3FremRtMklTbEN0R3NzYUFyYkxDTTVLMDF6NjVzTVV3ck5OQ1IwVldILUhVSkVGcnNnTk1kV2wyQ2R4dm42NkVKbzJ1bEg4dDVHY1owOFE?oc=5",
+   "published": "Fri, 23 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「航空機目指す不審者が到着口を突破」 那覇空港で侵入対策訓練 15機関50人が参加 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYQk5tYVVxM0ZHME83VVFhSVN4VXJHM3hUeG9CeWlETDh5aEN2eFYyTHNZZDFHcmRkUWJhSWo4VHBlR3Q0VS1vZ2JneEZmVjYyOXBmY3JEaFgxaFVqaXc?oc=5",
+   "published": "Fri, 23 Oct 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.57,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：「航空機目指す不審者が到着口を突破」 那覇空港で侵入対策訓練 15機関50人が参加 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3UVZMR3VEU0lER1YycE53emhSTWxaQXpMa2kxX0daYzJoUElTcUswazdIaTlmSzlNZEtid3A4ZnhPZThnMllmQzdLcE5NU2c3RndHck1odnNCVUlFbDhjVEg1d2tTdw?oc=5",
+   "published": "Fri, 23 Oct 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.57,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  }
+ ]
+}
