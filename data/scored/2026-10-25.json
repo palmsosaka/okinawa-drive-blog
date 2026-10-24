@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-25",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 201,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "森岡毅氏の裏の顔｜イマーシブフォート東京閉園、ジャングリア沖縄は？ Rick Tocchet (jZVoXxvKtW) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNnlXUlBwekhjWjMxTUJJUTgwWm12b0tMLUZnYkdCWVRJbzVleWEzR2V0X3dHMTkwMjR2TEE0dG8xZzFuTzhBUUFqVDV5XzNtYVRESzN1UWNOandWdWRDYUtOd29xSW9ib2Jz?oc=5",
+   "published": "Sat, 24 Oct 2026 19:02:36 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリスト、最大７３万人の顧客情報が漏えい…レンタカー予約で氏名・生年月日・運転免許証番号など（読売新聞オンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKZHdJSVZKeVJUY1JIVFBrVzQ2ZjYyS0xaeVdXUTRVTzRQTk83dzY4UXZLOHpXOTI5RUQ4NVFLenRUNjFsUW1LTWFCSVEwakU0WWd3dGxJYU5fVVppVmdBb0xGUTdLQjNXWU1fdlVIY0ctRU1ocW9RcUFqVkcwRFk?oc=5",
+   "published": "Sat, 24 Oct 2026 01:05:52 GMT",
+   "score_parts": {
+    "recency": 0.548,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリスト、最大７３万人の顧客情報が漏えい…レンタカー予約で氏名・生年月日・運転免許証番号など (読売新聞オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSm9tU0gwR2RJWjljM1c0MWJvdUJRY011Q0l2UGJCeVU4a2p3cTEzX29iRFRFWDBIMWFQV3E3NHh5LXdvMkdzYU0wNWE3aTNNakhkbVJGVll6U1JoeVZwdmRIYkF0QmNBUGtaNndTcDZ4TTNhSm9tTTZZLUszVzNIdWtZNjNYV0ZHVEcyZmlR?oc=5",
+   "published": "Sat, 24 Oct 2026 01:05:52 GMT",
+   "score_parts": {
+    "recency": 0.548,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "中城村議選2026 候補者詳細｜與那嶺秀 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQXpweVdlNzUwWHJtYjEyX1EwYm5MVVZDS3g2WUV3Nmh5NE16Yl91RzQ3R0xiZlRSNVlqYTFPN3pzbXdoYURFRmJsNW9SZjlWSHBzYU5hODIwUWJXcjJVenhiU0V3UUdOaGJPVVZlZmNSRFFtM1FfVVFXdUkxSloxOTVKUGR4ZVZtS0VrQ0JxR3N3cW82MWQtbUpjaWJROUE0UjhSWDA2Y3RWMHZYdnZ6MEhYYnUyeWNuOW9uZkJYWUU1VV9xZ3o4ajBtREZhMkQ2MGxwOUo1V08ySnpNWnZNbw?oc=5",
+   "published": "Sat, 24 Oct 2026 21:08:05 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CR2JnZmVOa3p5THZGUnVFcGhNUjU0bjFuTlFXbFhmTFc3aWtPV1ZpZ1YtY0tISE5YbzdUSnBNalhlRW45NTJMZE1fY0xrOWJnbkplX0s4a3pwVm52MEQyMl9WNEVENllhVVVINmVn?oc=5",
+   "published": "Sat, 24 Oct 2026 21:02:05 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像1 / 8＞インスタ映えも！沖縄のヒルトンリゾートがキュートなハロウィン仕様に変身 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tZ0dlNWNxVFJQdUJPaXNaQk5PSXFXdlFMRWhPQmpFVGtIZHMwWDVsZHhCZldJb2duMHVrTjhoM0lTNC0xbGJmZ3NOOVJ6UWRrbEQxQ0VpQTF3bEdya3RZZ3JEam5ZYzktWDBjdE9LYmxISlRlWXlvTENDTQ?oc=5",
+   "published": "Sat, 24 Oct 2026 21:05:10 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像15 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZ3BoRy15OVZkS21GWTc3QmVmT0RtV2tEbDFZZDBsWmhmYVM0aXlWeEd6ZVkzOFlEREV6WWJ1UGN4Y1lfMlBNTGNpSklmWWNsVDg0dkxYeW8yZ2dZRGVXcTY5SnhBY29Sc3lYekd3?oc=5",
+   "published": "Sat, 24 Oct 2026 03:15:23 GMT",
+   "score_parts": {
+    "recency": 0.593,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【沖縄限定】「紅いもタルト スクイーズ」が那覇空港で買える！ お土産にもおすすめなここでしかゲットできない癒し系トイとは？ - MEN'S NON-NO WEB",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sTDhJM1JEZ3pYWDhlZUJfcEpLeV9EUFE4YUZ5SFlHWG5Bd1lSYmNQVmhsX2NzenU1S0VMRU5jVS1LQjN1cEFBRjZubF9NOVZFeTZmV2ZkWVF1azZ3RFhhVDVB?oc=5",
+   "published": "Sat, 24 Oct 2026 03:00:59 GMT",
+   "score_parts": {
+    "recency": 0.588,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "米軍の那覇空港使用に難色 沖縄知事が視察 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jSVNxeGNyZTVrcWhVVm9oN0F3bEhmRHFPaXIzc0UwWGJzclprZU0tM1hSUHQyb09ua1NZbFBLTmdoLUpGWXRmWTlMMXA5ZWZpa0hiQno0aElhVVRuZmZLeE5jclpqMEU?oc=5",
+   "published": "Sat, 24 Oct 2026 02:51:10 GMT",
+   "score_parts": {
+    "recency": 0.585,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "大分県知事公舎で婚活イベント 和やかに、７組のカップル成立 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZFgxWTh6dTlPTG9QUGNfaHBGQ2s5S3hLUEJocVZFQ2diV1ZzU215NWNRdElKSGVaYXRrTzR2RWpSTWRpWUVDLWRHTEVfVEVLNzhRZ3V0TkRNamxSS2c?oc=5",
+   "published": "Sat, 24 Oct 2026 09:01:24 GMT",
+   "score_parts": {
+    "recency": 0.713,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアの失敗は予見されていた？USJのトップも難色を示していた沖縄のテーマパーク案（＠ＤＩＭＥ） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eTU4WFBTSVphQVZ4TTVVMTNieUp2aHZwelZSS3BnTVBkTnk2eVl2Tlc0aXNtYzlySHFveHBJTmFrZlZER1RzNXQteFRpd28zUk1tNzZVY2ZPQko0T0dRVGcyT0tEWGd5Z0lWbGZNeGc0djBVcnphLWd2aDB2YVE?oc=5",
+   "published": "Fri, 23 Oct 2026 23:20:23 GMT",
+   "score_parts": {
+    "recency": 0.512,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアの失敗は予見されていた？USJのトップも難色を示していた沖縄のテーマパーク案 (＠ＤＩＭＥ) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOckFza0VzWmVZQ3pBRDRXeVRYY0RMdzFuSGozSVo0cmdlWGtKQ1lZeTk4YkY1ZGtwY1MwaDMzb1ZCbEt4dXlMNHg5ZjB4b2NRNVhKMWFubDFkLTRldnVVRTM5SXRaS1o0UjVIaWRTYUU2eTE2SnM4cWpaMmkyRGlCb2lmSEV1Y09uUi1iVTZB?oc=5",
+   "published": "Fri, 23 Oct 2026 23:20:23 GMT",
+   "score_parts": {
+    "recency": 0.512,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.553
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Sat, 24 Oct 2026 14:13:49 GMT",
+   "score_parts": {
+    "recency": 0.822,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.547
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "豊見城市議選2026 候補者詳細｜新垣亜矢子 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUF9VajJEaVpZTktYdzhHUjFlM3pmYzItT2J0SU1PaFRIM3htbnU0aFBjV3pHMUdhUlZkb24wQTBwZFVXa1F1QzRVRFBsRHhaLTB4VC1rMWhqdjQwakNMVTRiZUlicFVnZjBvTHhBOWtNbnRxVWg1T3RVT3J0a1ZsZ2NONTh2eU11cU9ocXZJcVVpUzlVWmp3dmhOeWRWZ0NVSDR2bzBwMF92Y19sRGs1V0dQeHFsMzNrY2dIVHhhWjhucnQydjc5VFZ2aEY0OXY2MWpDT0ZPUVpFMTlpS3RocjRWVVpnb0JPdFpVYl9HNVh1Y2VpQVplSQ?oc=5",
+   "published": "Sat, 24 Oct 2026 11:37:30 GMT",
+   "score_parts": {
+    "recency": 0.768,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.53
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "うるま市議選2026 候補者詳細｜伊波良明 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc2k2VEoxYmNxYUZ4c3VmclZMNTFGNFNNckdkYjlQWHlZM29UOFlraHY2N2xBNUp3aTRZX0hJWTlTWFZYV0R1TWpUbFN6aUJCNkxsWDdvSlluOTBhVjJ2ZkFRZGRVaFBXeEk0ZzdrNUI1SU5NWmR3aWhZZDVpb2g3M0d5TWhIU2NadnViczZJUm0wY19WMjBKZFBYbzdjSFZlOTRLTEhwNEtid19KS0t3UHowb2JnQ3RUYmREZTRveFV4QQ?oc=5",
+   "published": "Sat, 24 Oct 2026 11:29:53 GMT",
+   "score_parts": {
+    "recency": 0.765,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.529
+  }
+ ]
+}
