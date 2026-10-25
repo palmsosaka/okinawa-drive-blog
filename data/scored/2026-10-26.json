@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-26",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 143,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄北部2泊3日】ジャングリア＆美ら海水族館！ゆるっと大人旅VLOG Limerick (hFys8BsSFu) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxblh2T2g5eDZRdnJRYWN4X0JDcEwwRGZQeVZzZjBvZ0NBRnMzeFA3SzhLZUMyeDhpbHExQkhOcl84QV9TSEh0RUtaY25FUmctWHVwYjNIdGVwZGdzLUE5aFpDUS1xdw?oc=5",
+   "published": "Sun, 25 Oct 2026 09:10:16 GMT",
+   "score_parts": {
+    "recency": 0.714,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.664
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 カチャーシー・パーティ Ken Jennings (4mW4iAjKvv) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fY1JOQzJmYXdUdmxpVldEUmhUMXpnTE83RnZrREJPMWQ2dFZCQWgtdjlCcnJobXptZUVYMzlzSkxJVDNtMXo3U18wS0RzUDU5cUVBcW9jaG5JOVhsc05YTzdpUHktdw?oc=5",
+   "published": "Sun, 25 Oct 2026 16:07:52 GMT",
+   "score_parts": {
+    "recency": 0.859,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.658
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄決算出た！3年以内に終わりの可能性 Alex Newhook Trade (LsOQR1vnZ6) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHl1TlZBUnc2ckhNN3NBV3F6dkw1eVFkYUVqVXZJNTZBZmMzNGQ3dzhwYjBkN1VXTlA1a1VVS0xYalpKLU44RzZJb2RSWkNvc2h0ZEZibUNheHpxRUhpNkE2V1dDWVZ3azhtVnhxWUVadjcxWlNqS3BPeFZNLUFGRlFR?oc=5",
+   "published": "Sun, 25 Oct 2026 13:31:14 GMT",
+   "score_parts": {
+    "recency": 0.804,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、新大型ライドアトラクションが開業 最大 4 8人乗車できる回転×傾斜×逆さ体験の“爽快絶叫系”「やんばるトルネード」【概要あり】 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aQkJYbU5PTmw3akhXb244STg4ckdVYzFBaEJhUkloc3lnNEhJQ29XSGlNMVluSzllSlNPYzFHVUdmc2g1dEwzclRwaWdVeXpNVHk4dHhBYk8?oc=5",
+   "published": "Sun, 25 Oct 2026 07:58:05 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "北京で沖縄文化ＰＲ、日本大使館でイベント開催 - NNAアジア",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PaFhtRjBpMjZmWVdQRTJkSlVVQnpIcUJKYjBHNjVGNXI1Wm9ocEpmU29KaHJSRnp3Z3pNUUllRVd5RU5vVEE?oc=5",
+   "published": "Sun, 25 Oct 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.835,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【豊見城市長選の勝因敗因】新人振り切った現職・徳元氏 「街頭で全然見ない」異例の選挙戦 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mWmFVMVFzV2l0X2RfSDRhTzN5VmpWUFc2TU5BUnliNjc2V1VGV3NISk56V3VPdFVwTWs1M2dIWHJMczFKVGdxdlNzUXIxUF93Z095VTM0TlJ3TWIwSEE?oc=5",
+   "published": "Sun, 25 Oct 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.992,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【那覇市長選】現職・知念氏が再選 久手堅氏に4万1026票差 過去2番目の低投票率 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jb1pOb08xRUNtUVRXTXBkemdZRXdqV1M0RFdkU2N0MndydDcxd25wbXJyUWF0c0VCclhRdUpxb1dWUWRTNzRGdVlpRXYzZXhPTnpvdzZyNExGX250RENpVQ?oc=5",
+   "published": "Sun, 25 Oct 2026 22:16:30 GMT",
+   "score_parts": {
+    "recency": 0.987,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "急げ‼️沖縄最大級リゾート「シギラ」に格安で泊まる方法‼️9つのホテル＆お得な予約術を徹底解説🌴 Ron Baron (Iz8yYtu3o8) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yLXB4X2M4Zm1MVl95NVdyS1NCVUt6UjZ4b1M2ek5RSzIwZEV3Q1hjZHg0ZEEwRzd2RDlsUDRsMjFJaTJXaGZaTWd3d21lcUFoN2NJRWZZN0I2UXZPbXMxYTlFRndWVTVSNG44Vg?oc=5",
+   "published": "Sun, 25 Oct 2026 05:44:54 GMT",
+   "score_parts": {
+    "recency": 0.643,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "破産寸前と酷評のテーマパークジャングリア沖縄の現状がヤバすぎた… Mikey Moore (A9kihmGD87) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wcVA1Y0EyUDlxRGp2b0FQU2pCOTBTZWZ6b19HVGk1TnVweHJycFdMRGZCWlRLemdKWlg0X0R2d2NuN3NBMkpVbjdNa2lrdVo2MzNpNXloTXRETlVTZjhXeGVJM045OGFDbjF4Vg?oc=5",
+   "published": "Sun, 25 Oct 2026 05:12:58 GMT",
+   "score_parts": {
+    "recency": 0.631,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄道、那覇空港道 道路の気象影響リスク予測・天気予報 - tenki.jp",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YN1c4MzU2ajRCUFIydmZmRE5mOGhRTjVLVllYbXF6WlJtSjg2dHRXM3plYXlzbkVYcUVlRV9VZEZfMkNZMUE?oc=5",
+   "published": "Sun, 25 Oct 2026 04:36:15 GMT",
+   "score_parts": {
+    "recency": 0.619,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】森岡毅は「0→1」ができない？親会社173億円赤字の本質をミュゼ社長が語る 엘에이 Fc 대 휴스턴 다이너모 (yzECncha82) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oX1phM0VQYVFwaTJud1ZuSldRMTNpWnhnVHpDdmhSd1c5dGRTMTM0RlY2ZkFuMzBwZDg1bk5NTUdZV3ZZaHd1Z3JBdE1PdFd3RXpISGQtcVdQTkwzWTJKaUlJTTBEZw?oc=5",
+   "published": "Sun, 25 Oct 2026 03:44:56 GMT",
+   "score_parts": {
+    "recency": 0.601,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "［豊見城市長選 2026］豊見城市長は徳元氏再選 投票率50・51％ 大田氏に4432票差 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQWGJJcGxkYWFPNUVmUTdHSXI0UTZHT05TTHJQNmE2NnludEd2azBYNm9peExsRXRRQU1yeXhva2ZvZFRKUEJaY3hXQ25JbmN6VjcyZHBnNXlpNDlSN1E?oc=5",
+   "published": "Sun, 25 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Sun, 25 Oct 2026 18:56:04 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "［那覇市長選 2026］「市民の思いに誇り」 久手堅さん 現職に及ばず - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtenJFckJmNmp1cGY3d0d4WG9HbFpIcXNFWFdXWUstOUh1Zk5oS2hFbVVkRG14c3pVMmJXeHlybjNPZGFHMWRGdTQ3clRvQzltci1GUVdOQXFOcm1vZnc?oc=5",
+   "published": "Sun, 25 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "中国・北京で沖縄文化PR 日本大使館でイベント開催 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nUWEzRElPeU9weDlvRG8wZFZ2ZHBHOWM2R2dtTFRwX3hEbE5CUnItemFjRUhPZWc2blZVQUtJb3c5NXZIdjNQdnZ5bw?oc=5",
+   "published": "Sun, 25 Oct 2026 10:27:27 GMT",
+   "score_parts": {
+    "recency": 0.741,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  }
+ ]
+}
