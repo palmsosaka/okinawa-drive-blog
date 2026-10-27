@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-27",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 163,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【イベント出展】サイバーステップホールディングスのグループ3社は、2026年11月3日（火）開催の「2026沖縄市福祉まつり」に出展。 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nM2x1NzVGbkRKNHZaMllSQjhtX0hqYS1ZbUxTS3pFMDRfc1lNaF9SOHhXdEF3WDBtSnVFbzNyMWw2Y1RBQXJVNDF0NUxqTFEzcmh4cVNSdFJTRnl2N1hTODlKUHI4bkZReFE?oc=5",
+   "published": "Tue, 27 Oct 2026 00:00:01 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "文芸誌「GOAT meets」で沖縄特集 金原ひとみさんの書き下ろし小説も 27日に那覇でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZHhXTDFNaXhXUUpQTGdGcVlQSXZXdHlCV295ZjBpYThxcTdGR3Jvd1BERE5Pb2xtdi1TeEtjWl9EMUxyMUppRVFTSHNsNHJzV1RsY01vcmZ3cXpXeVE?oc=5",
+   "published": "Mon, 26 Oct 2026 23:07:00 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.644
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "音楽、食、文化感じる 名護・複合イベント「７５番街」 沖縄移住の３人が企画 つながることを楽しむ - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoMDBCV3NfdnpPTWE4dWRPQ091OHhJaXZNQjFlU2tfU2p0VTM1c213MjhEMU1KcTNLdGtXS2RZcjFFa3JvUlN5SmZXblFMTGxvOHctMVFvWk11RG5IZkE?oc=5",
+   "published": "Mon, 26 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.914,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄4泊5日の旅！前編🌺水納島や古宇利島など堪能してきました！#沖縄旅行 #古宇利島 #水納島#沖縄#北谷#ANA#那覇空港#沖縄そば - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QSnJ2Q2Qyb0VfMm5yM2oyWHVtX01raklkMXNkbV9nZWM2QnhueUZ5NnZCYUk4TU9ualdNVGxFYlVGaThkOVdaa3ZJdzZFRU1HMzRacjhNVzRQV3lD?oc=5",
+   "published": "Mon, 26 Oct 2026 03:00:08 GMT",
+   "score_parts": {
+    "recency": 0.56,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "《30日に株主総会》ジャングリア沖縄、どうなる？ 週刊文春が報じた融資状況の内幕、赤字の根本的原因《記事まとめ》 - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VUDF3bWdTSEJCX1FTVUgwb3pRaTJlM29haG5hZVpPd1BoSEJQMDhSTDZlaFJBQl9TTVY5Vkl1LW1NZFg0aW4xNXhpZw?oc=5",
+   "published": "Mon, 26 Oct 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.726,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「那覇―伊丹線は念願だった」 JTAが定期便の運航開始、関西とのさらなる交流促進へ 那覇空港でセレモニー - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BdUVPYjdxVFFIYUVTZnVmU1haN0Z5OUJhS1pBV2hKdEl2VWlCMjdQTkZkS0d5S045THJQclAyUzU1T1JNeUVQMi1FMTFmM05SWjlVR0tGWE0wOXBja0E?oc=5",
+   "published": "Mon, 26 Oct 2026 09:19:00 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "19年の時を経て復活！ JALグループの”沖縄の翼”伊丹に再降臨 初便は「巨大魚の特別塗装機」…その圧巻の姿 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fWVZCRFVkaTZlbVFQSms3UGFNendwRU1FN25ka25FUVRwbDBiMHNocWZCTEU3TUFlcGUzOXdlTkM1bFh5LXc1VjZvcFIwUFRKbUdXYVFNUmtVSDQtWGJWMkF4cnMtd9IBa0FVX3lxTFB5Rm9JMXNvc21VdHhweFpOczAyd2pSQ1JGVWRGUkxJV1piMXNGLWNLeWQzUUVxV0dIYzI3NktuMWRXbFNqQjJlVUdGR0RQdldSOWNXbUJXXzA5czlaeDdDSXc3Nm4wY3ZvTWFJ?oc=5",
+   "published": "Mon, 26 Oct 2026 23:42:00 GMT",
+   "score_parts": {
+    "recency": 0.991,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「旅好きが選ぶ！日本の水族館ランキング2018」が決定！1位は「沖縄美ら海水族館」、トップ10には九州からもランクイン！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJZWdhTTdlOUdZWnhQMmhvWXFIM0tUeXNETlpaSERKdFdrX002ZHdUVVA2Z1VvRTI1TU1sdXlNcnl5TGxzTGRBX1BsSHBBQUsxSFVlRmdEcHNLSEZQZjZxNjZTUFdVZ9IBa0FVX3lxTE9FNUx4VHR1NlNnbllWQ3JhMDQ1TlZEeFZjeDhCX1RUcE95bFlicUpXWmlnbC00S0pzZmlJSHExTDY2RHNpOWxpUzhYZndVRmZzdWEteFp0ZmNwWGtva21pcllzc2JpcVY1aTlz?oc=5",
+   "published": "Mon, 26 Oct 2026 14:57:53 GMT",
+   "score_parts": {
+    "recency": 0.809,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇―伊丹線 JTAが就航 19年ぶり 沖縄（琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZldlT3NuTXpQb2JMdHd3eFlyYm43U0t3ai1RWlVmSzJCRTlKRGlHNWFGaUwzdWM4MG9DNmFoWnlsRDZOLTJJUE9WYy1TNy1oM0pIa1FsTG9fb3Q0WTBMcWtqVnUtQWFydXZyMmFUMDFJQld6RjBlYkhWa2dibjQ?oc=5",
+   "published": "Mon, 26 Oct 2026 22:58:11 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ANA那覇発羽田行き、エンジン不具合で481人に影響 出発まで9時間近く待つ乗客も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uSHgzRU4zMWxxS3RueV95S0FvVHBkYTlnZ29xV1EtWG1kX0tXUFQycU9UWi1qb0RuVzdyZmN6SXJudVVBdTQ5aFZ5NU9FVk1CZ3d3ODdDVlJ0eWpabGc?oc=5",
+   "published": "Mon, 26 Oct 2026 22:51:00 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像2 / 3＞「旅好きが選ぶ！日本の水族館ランキング2018」が決定！1位は「沖縄美ら海水族館」、トップ10には九州からもランクイン！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwazVQMGNWRnJqMnc3b1JCSDlic0l0cUpGTEN3Sy1NWXowLWlXdVMtR1JmcWo1OHhkYUZBUm82NkdwdUpfRm02bWNkLXl5R2lfNnRDUW1Dbk1fZjAzRm9meE1rYU5CTFZsQl9zMlpyOWJuX1dnWVk2RHc3SQ?oc=5",
+   "published": "Mon, 26 Oct 2026 14:23:43 GMT",
+   "score_parts": {
+    "recency": 0.797,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Mon, 26 Oct 2026 20:14:39 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像5 / 20＞【現地のプロに聞いた】沖縄のおすすめグルメ20選！名物・ご当地料理&観光名所の混雑回避・移動テク - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSk9hMUNtN3V1bVQ2S0RGeXJfUEJOdmVoWkxtU3FsRHVRY18yTWYzaU0zOUl0ME5TZ2lQRTM4M25LbUxjclY5ZGU2MEI5VUdSOFJUR3UzTUdPbEMwQUotMmYtLWVUenROV2tLVXl3?oc=5",
+   "published": "Mon, 26 Oct 2026 20:11:18 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄県・浦添市最大の祭り｢浦添てだこまつり｣開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96S2JTWkFUU0N2WlBrV1gtRjAzWHI4OFdOVENDZW54YmFERU1vT0pRSEdXcktTaGZmZkg4QTQ2eDA1OFJLU1I3TUY4dC1LdkQzR2NVN9IBWkFVX3lxTE9ZT1l0cDRKbkt2b1FnLVFqRndGRzg1UV9oQWFhb3JqWEVoaHFmcnY1V2NkNjRETDU1T0JkZFpsRjRDdW1ZVlZpTGdYZ0RjS1QzdExndFBXeXdPdw?oc=5",
+   "published": "Mon, 26 Oct 2026 19:57:53 GMT",
+   "score_parts": {
+    "recency": 0.913,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【最新】ジャングリア沖縄の全アトラクション徹底解説！ Jane Fonda (JX5mD9nmFe) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZHBPa3hVb3JNMkppa09wLTdJckhLNWRyWHo3TDRiUHV3M1ZDel9MczdOcG00aXdBM1U5c3ZTb01TUnpralRBNWNzVFBzU2tfRTdMOHRHODZTYVRfNjFmN3JSVngwcXdpb0Q3ajhaUUdwUGl2UUR4bGpsckJmZFdaMmtGWlV4WWxGaVE?oc=5",
+   "published": "Mon, 26 Oct 2026 03:14:48 GMT",
+   "score_parts": {
+    "recency": 0.565,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  }
+ ]
+}
