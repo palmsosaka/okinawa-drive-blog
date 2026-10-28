@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 137,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「分かったふりをせず書いた」　金原ひとみさん、沖縄を描いた新作短編語る　那覇でイベント、130人参加 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2p4UmtoZGU5OXNvcjVjLVVTdk01a0VKRXFiYmhYWGFCcDdLRXk3c2lqUUFJOTI3elVXVXVLaU0xNGluTUpFdVlEQ2haajZBczF4OFl0SGhTUVlaVHBiX0QtLVd3QVZ0YU5vdEQtYzRNbEZnTHl5Z2ZHa1BVU1JvOHlHNjFpVWNP0gGIAUFVX3lxTE1zanhSa2hkZTk5c29yNWMtVVN2TTVrRUpFcWJiaFhYYUJwN0tFeTdzaWpRQUk5Mjd6VVdVdUtpTTE0aW5NSkV1WURDaFpqNkFzMXg4WXRIaFNRWVpUcGJfRC0tV3dBVnRhTm90RC1jNE1sRmdMeXlnZkdrUFVTUm84eUc2MWlVY08?oc=5",
+   "published": "Tue, 27 Oct 2026 22:09:00 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「分かったふりをせず書いた」 金原ひとみさん、沖縄を描いた新作短編語る 那覇でイベント、130人参加 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NTmEyc3l4RE9LRTZJa1RxRWVwbjJzczhWb1lQRjVUQXplNm5QeWgyWlBFSXRfLVJqbldCNmd2UV9JMVRkT25CZnlwSmdyLWFiYlZuMVVpYlNQQ2czRWc?oc=5",
+   "published": "Tue, 27 Oct 2026 22:09:00 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「分かったふりをせず書いた」 金原ひとみさん、沖縄を描いた新作短編語る 那覇でイベント、130人参加 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1dkFyM2lBNENpakxrSXoxbDlIYVpYT1dlbl9pNjYtOWtkY2c0ODV1eFVmRUo5WDY5OHdqVkZsalQ4dW1SZ0hCVExhRQ?oc=5",
+   "published": "Tue, 27 Oct 2026 22:09:00 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア直行バス「ジャングリアエクスプレス」、11月1日から一時運休 沖東交通の県庁前発着便 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JbkczMGFPenV6RThUVXJNMGdVSUFRUFBkQXBENjJZMXAwOFdMUDFUTnBYXzBoS05nbE1lN3dqSWZpdkpBR29vVGhKcmozVFFqVXM1Q25SakhPeTVyenc?oc=5",
+   "published": "Tue, 27 Oct 2026 12:43:00 GMT",
+   "score_parts": {
+    "recency": 0.762,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：ジャングリア直行バス「ジャングリアエクスプレス」、11月1日から一時運休 沖東交通の県庁前発着便 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3T29JMzllRTE0RDhnU1dSNDE2ODJJb3hhU2dmWDlFbWhiNkF5QlJrcTlETUhwU2ZIcEhIc2pzTDRwRTVTVzFRTG1qMjdLM2ttWElPTTFqdjdhWUxiei0xQ3psRktsZw?oc=5",
+   "published": "Tue, 27 Oct 2026 12:43:00 GMT",
+   "score_parts": {
+    "recency": 0.762,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.629
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリスト、最大約73万人の個人情報が漏えい 運転免許証番号なども対象 - TRAICY（トライシー）",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xXy1ReDVBQVJRRklmUHoyOWNIdVV2S0J1eUhKTnY1RllkMkNlNG1NSlh2MUN5T28yaUtYNXN3S3JWOVBNaVlNWC1ya0NlZEV0djZ0WkV6RQ?oc=5",
+   "published": "Tue, 27 Oct 2026 12:15:43 GMT",
+   "score_parts": {
+    "recency": 0.752,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア直行バス「ジャングリアエクスプレス」、11月1日から一時運休 沖東交通の県庁前発着便 (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTF6Q3B6aE5ETWhvQWVWNE9ieHBrcDZFT2ZlYlZUSGlVZWJJNzlQWWlWdEpjM2RoTm5zSC1SZ1NKejBGMzlrN1ExQ1JLX3luWUFvXy1SZ1VHamZHZVVRam8xRGRJVURUTUZpNkh2QjE2RlVfUFEteUxHOGJFZndIeVBJbE9PME5pNGt2N3Bn?oc=5",
+   "published": "Tue, 27 Oct 2026 11:51:19 GMT",
+   "score_parts": {
+    "recency": 0.744,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄】ジャングリア攻略！効率的な回り方＆おすすめTOP3！｜＠BAILA（バイラ） - BAILA（バイラ）",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZOHdLQ1pKTzFrb2EzS21hTjFRZnpfYnY2LUNkQ0dtOE5IalNzeURkTGdiZ1dscjA1ZzJRazNpRHZPWV9YLWtOMTdKQ0x5dEgwMkZDNzhLdmJ4NEFxTGc?oc=5",
+   "published": "Tue, 27 Oct 2026 11:31:00 GMT",
+   "score_parts": {
+    "recency": 0.737,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［記者のメモ］一大イベントに「気合」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sa05hbnAxa1FQNXEteFJ4bEVPMWJwbUJLRElWVEFxTGY0NElmUFFad1lIZHZQdFQyRUVGT0lkM1cxd0dTSTFEZTM4bWxsM1dobnF6LVJJM1JRU1ZUUVE?oc=5",
+   "published": "Tue, 27 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.892,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「JUNGLIA OKINAWAへの旅」でジャングリア沖縄を大満喫！！【JTB公式Official】 Daniil Medvedev (neOvM0VifL) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95cHdvdHZfRWZGSHpRUnFYVEw1czE5Q0FfWlBReVg3ZGw1U24waTZkZWxCWkIwNkJiUV9sTi11dVcyazhhbHdFVElYVTA0ZEd5VEZXaEltNTdKVUhOdjhOVnlvOTB5UQ?oc=5",
+   "published": "Tue, 27 Oct 2026 05:35:49 GMT",
+   "score_parts": {
+    "recency": 0.614,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CR2JnZmVOa3p5THZGUnVFcGhNUjU0bjFuTlFXbFhmTFc3aWtPV1ZpZ1YtY0tISE5YbzdUSnBNalhlRW45NTJMZE1fY0xrOWJnbkplX0s4a3pwVm52MEQyMl9WNEVENllhVVVINmVn?oc=5",
+   "published": "Tue, 27 Oct 2026 21:29:29 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "Tcab（ティーキャブ）レンタカー、沖縄那覇、福岡博多で今すぐ出発できる完全ペーパレスレンタカーを展開。会員登録から予約・決済・本人確認までを https://www.tcab.com/ で完結 - 南日本新聞",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0V2SHJvWTNBdGc4MjFMaVJpaHo2aXFaUGVUTEx5OVNJbk9HaDFjVG9WTFNYZ0VTUTFSdmRYYks3YktPVEl2YXBwQUdqSEdLRXNnYzluY3VkSFdiSXJlNDRIWENLUjZ4b1B2V3ItZ3o4cENCQUtDVkJMVERJTmlZMA?oc=5",
+   "published": "Tue, 27 Oct 2026 04:52:40 GMT",
+   "score_parts": {
+    "recency": 0.599,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Tue, 27 Oct 2026 20:18:35 GMT",
+   "score_parts": {
+    "recency": 0.92,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "敬老会、まつり来場を 沖縄市・吉原自治会呼びかけ - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uM3dOcXNacXV6MWhoSGV6QmlVbHhpNFNmYm9CRl9wMmNJREtvXzBwckJZdnFLbC1Mak0wSGJWMEtqYkllaExfejNiYjJFSFA1QlJYNzhaVlZ3cmRzWHc?oc=5",
+   "published": "Tue, 27 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.914,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.574
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "人手不足解決へ来月にセミナー 沖縄観光DX機構など - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ud2ZsTUkyM3VTd2RhTFdlekp4ZkktLXIyeE1rWEdnQmVrMnRzZ3RaUWZ0WlpWN3R4UmxSZkc1c0R0M25RUlhiYWRTSENoVVhyMFhqTEMzLTBvSDl0ZEE?oc=5",
+   "published": "Tue, 27 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.892,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  }
+ ]
+}
