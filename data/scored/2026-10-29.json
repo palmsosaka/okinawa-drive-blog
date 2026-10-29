@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-29",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 138,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリアバス減便　那覇発、1日2往復に　ダイトウ運休　沖縄 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaU1qemE3WXJ0Tl9TdE5pcmZrVDQ4ajI0SWwxS01sSTlSMGxJN1RwcUZwVnk1MlhmTnF2bGdIY0JyeFJ2SXphLU9xYVJXMnBNWXZsQWRzQWFTVi02S0VseWxVZ0x5VjgyRU5wMXB3WGhUa0NER2NveE5KRzVhckJGd9IBhgFBVV95cUxOT2RXaU9jUWJ5Q0Rjd293VWZfNHY4V3pCT0NSZmJoWlRpMHctWlF5RGZqc0JpQklCbDhjZGRsR2REYjE3SmV1VkZqVzBnUzljQVdPeU5fRHNtMEZEaF9tNnlhVDZQQlR0anNub1puNkVyZS13b1RhRFlZM1JDcTVMTnE3RGtDZw?oc=5",
+   "published": "Wed, 28 Oct 2026 22:14:28 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.686
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアバス減便 那覇発、1日2往復に ダイトウ運休 沖縄（琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KWlNHbzY3SThxWjVGdDhuOEJVYmZjTjc4Mk1ka1JNYXZ0R2NQZmd1R3BudFc5REpyTUV3cVR6Y3czMVlYMWlQYVBOTjNYTnBleG5tbnVMWE5HdEs1dk01N3BYa25GV0JCSGZnQUt4YmZuMVlCZHpiOUpTd0dtMlE?oc=5",
+   "published": "Wed, 28 Oct 2026 22:04:01 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ジャングリアバス減便 那覇発、1日2往復に ダイトウ運休 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80OG55NUxDNURqX19XbzBQRXlmNEVMVHpWQkdtdU92NVVPbFhZaXVIcG5ETlJTNFdZUEVqZHhVM29UUkpRcmZfMk1oNA?oc=5",
+   "published": "Wed, 28 Oct 2026 21:54:09 GMT",
+   "score_parts": {
+    "recency": 0.946,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【悲報】「二度と行かない」ジャングリア沖縄体験者が語る実態がヤバすぎる Hershey Bears (dgrV392PDy) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTVvWDVPTzBKYTRvT2dMWmFKdTB0RmRuM1RzSzFBeDdqenZSTnJXajJ1bVFvV2RVaFIyY1NDMzVZQ2h6UTZqdmRTdVd2MVNESE1HMzlWWExVTDFHcjVGT1pOTF9uRUpfRDFISlJia0s1UF84U1pqUktrS0tpb1QxMnBrRQ?oc=5",
+   "published": "Wed, 28 Oct 2026 20:51:55 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアバス減便　那覇発、1日2往復に　ダイトウ運休　沖縄 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT2RXaU9jUWJ5Q0Rjd293VWZfNHY4V3pCT0NSZmJoWlRpMHctWlF5RGZqc0JpQklCbDhjZGRsR2REYjE3SmV1VkZqVzBnUzljQVdPeU5fRHNtMEZEaF9tNnlhVDZQQlR0anNub1puNkVyZS13b1RhRFlZM1JDcTVMTnE3RGtDZ9IBhgFBVV95cUxOT2RXaU9jUWJ5Q0Rjd293VWZfNHY4V3pCT0NSZmJoWlRpMHctWlF5RGZqc0JpQklCbDhjZGRsR2REYjE3SmV1VkZqVzBnUzljQVdPeU5fRHNtMEZEaF9tNnlhVDZQQlR0anNub1puNkVyZS13b1RhRFlZM1JDcTVMTnE3RGtDZw?oc=5",
+   "published": "Wed, 28 Oct 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.906,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.672
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "日立、旅行計画時のデータ活用で観光実証 沖縄・熊野で広域周遊促進へ - LIGARE（リガーレ）",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFdnBzSlFlX19ac2I0Q0dNY2VNRnA2S01GTktXdVlncnhoLUVaNEJGVV9ob2dCZEtORXdyWWlUeTV0NEFSMk9zNFp6elJwdkVN?oc=5",
+   "published": "Wed, 28 Oct 2026 23:32:22 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Wed, 28 Oct 2026 23:28:01 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "ハロウィーン混雑対策で交通規制 10月31日に北谷美浜エリア 通行は住民やタクシーなどに限定 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xNjEteXp2dkJBMEp1M2dSbWl5QWlCQ2RMTld2VGpmSzRuakFNRFprN2tkR1k4emJiOHlhZ1pVZnZPVGt3YzFpMkJZTDVycnVjeXY1SjgzNWdtMWQ4UHc?oc=5",
+   "published": "Wed, 28 Oct 2026 22:15:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ホテルエピナール那須 仮装してステージへ！家族で楽しむハロウィーンイベントを10月31日開催 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XZTlXNEhRa09YX0thUmJQSnBBVHItZER5WUlVSWNTVy1GZ0c0Tzg2ODlMVno1TWxQNmNQdVpTVTd0Q1FJS3ZZbUlsRElSekRfMGpKWG1jWXh0TWRxbkE?oc=5",
+   "published": "Wed, 28 Oct 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.614,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄のX-Dayはいつか？AI同士で会話させてみた。年間150万人規模へ伸ばすのは可能なのか？ Cameron Norrie (vAq66IGQmt) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3JFc09fTEhNcm5VOEFFRnZqdlhFVm1nYlotOWRhOUN4UTllQ3dZMldUeE9uSW5SREtZdTlhRzM0MUlIT0sxdGEwdmQzTmVJTVdvSno4eV9vQ2VQUlQxSlhuaXVzMTZhbzJrT3JRdWpVRUlKNmg2WjBNYXUyVW9WcDh3?oc=5",
+   "published": "Wed, 28 Oct 2026 05:37:06 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "60万件「闇サイト」で売買 37万円 沖縄ツーリスト個人情報漏えい 県内観光業界に広がる危機感（RBC琉球放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4teEpzNlQzR1NKT0JUNlg0aklieDN0RXNUUklXU1dnem9QNlZSdVZpODk4QlZYbVJpX295NGFCaXdueGRsMnB0ZVV6R0djSHBXeDg0YmwzTEJ3T0tCZDM1OExhRExCVnpiQmU2ZGlKVmgzRlZHWUFWZWFIZllUbEE?oc=5",
+   "published": "Wed, 28 Oct 2026 21:17:36 GMT",
+   "score_parts": {
+    "recency": 0.933,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "60万件「闇サイト」で売買 37万円 沖縄ツーリスト個人情報漏えい 県内観光業界に広がる危機感 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10YkxHN0dBaXUwclA1dEhHbERvS3NlSjhtRUthck5VVXFtbEFWOXlPdUFac0l0T2JVUVpyWS1RcEhINFFsbUpIWElzMTZUNnJlUGR2cVJDdkFsbVU3S0VWRmxTdEVMYkU?oc=5",
+   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "60万件「闇サイト」で売買 37万円 沖縄ツーリスト個人情報漏えい 県内観光業界に広がる危機感 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lQk00UVhsdE5YbUttOW4xU29zbTk0UGpIeXlxd3N0QUNUTlZvU0dNOHBGMi1qcmEtVkU1SFM3ZDlGZ015NHNSc3NJRW1seWZ0cVFlUEFGeUZPZW5obVpvZA?oc=5",
+   "published": "Wed, 28 Oct 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "羽田・成田・那覇空港で消費税セルフ還付サービス「Self Tax - 訪日ラボ",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIWlJTTjlyWmRDTVFVSnZnZkhPWkRtVm9wLWFaVTlfQU1zOWd6eFU0X2cyRkRSUFBEalpRRzdpNnhUU1Z4UWZHa3VYMWNOWEl5ZjZrOGtYVl9EOUtHRG5aLWdFcjNqQTJOSW0wUEdn?oc=5",
+   "published": "Wed, 28 Oct 2026 23:01:05 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 カチャーシー・パーティ Ken Jennings (4mW4iAjKvv) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fY1JOQzJmYXdUdmxpVldEUmhUMXpnTE83RnZrREJPMWQ2dFZCQWgtdjlCcnJobXptZUVYMzlzSkxJVDNtMXo3U18wS0RzUDU5cUVBcW9jaG5JOVhsc05YTzdpUHktdw?oc=5",
+   "published": "Wed, 28 Oct 2026 19:33:14 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.569
+  }
+ ]
+}
