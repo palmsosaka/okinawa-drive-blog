@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-30",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 167,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "赤字のジャングリア沖縄、経営責任問う声も 30日に再び株主総会 - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpR1hYUVktODlmQmktcTZFbmJURXlINDUxczF2S2RQS19yWktFbTF5RmdtRjktRUQzYmtMTk9sX0wzdzQ0ZXhNa2lmMGxjSmZtdVNkdUxBbm5BYTU2VW81WDQzZkFoWjQ?oc=5",
+   "published": "Thu, 29 Oct 2026 22:30:00 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の親会社 再び株主総会 決算承認求める - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLTTlyeDFXb2R6cmtBdTZ2TmlXLW9Dak8zanZoTEdxNFhIdzVLNzloMEN2RDUxcHpxZlNBcVRNeFBaRnZxZDlNeGVQc1VEakNGYldJM05BeG94dWFHNU84?oc=5",
+   "published": "Thu, 29 Oct 2026 22:06:54 GMT",
+   "score_parts": {
+    "recency": 0.95,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.685
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "苦境のジャングリア沖縄 「天才」への厳しい目線 30日に株主総会 [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRWUJ6djNhQ2N5RWZsLTJySUVmLWtURGpCdV9VZExhSmkzZzRQUFRNYjlwRmhfdk95eURRTEdSWEdQNXlJQ1kyVWxYbzNib001THkyT2hFZjdKSWNvaVFkMlJpQlNmSzQ?oc=5",
+   "published": "Thu, 29 Oct 2026 21:00:00 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.678
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄県・バンタカフェでライトアップイベント「イルミーバンタ 海辺の夜あかり」開催 - 幻想的な海辺で夜のピクニック、手持ちランタンも新登場 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yekR5aF9VbFVlcVMxYzBfcXlLLU1PT29RamxwMm5Mb3RvVHlmTWJ1cmhkaUlEaWJrMlRLM3k2YXJvbXFqbmw1WEJ6VUdQNFVBTTRQYi1qUERta1JpLVVrNTNVcVJnc3JaYkZiWS1R?oc=5",
+   "published": "Thu, 29 Oct 2026 23:49:54 GMT",
+   "score_parts": {
+    "recency": 0.986,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.646
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "中国・北京で沖縄文化ＰＲ 日本大使館でイベント開催 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YVzRSSlZrWC1Kd2VfelZxMTVXR3lhOVUwdTVDdEN0SGpuYVFEUzl4RnowSGhBRS1vcHB2a05Ha1R1cWlNWFVQRWhoa21WUUVoRVE?oc=5",
+   "published": "Thu, 29 Oct 2026 20:43:07 GMT",
+   "score_parts": {
+    "recency": 0.921,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.626
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ホテルの客室単価好調 25年度公庫調べ 過去5年間で最高 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40azlWSFltVUVEeG9EdlExZEQtWGJ5eDFVTGowY3hoUzY5eUNBMVRxNDltNVpxWkJ1YlozVWZWdFZEVnpYdzNpUk13LUkzM3NGMFU1c1AybmZVVllkeEE?oc=5",
+   "published": "Thu, 29 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "渡嘉敷村長選 2候補の政策比較 観光振興と離島苦解消へ 座間味秀勝氏・新里武広氏が掲げる施策は - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96UXBfR0dsSHhSWEVkakVMTktsLUxEMmlIdWlKTm1xalFqZERTajV3aWJYZmdXNlByeWJUamliem9scU5RWDlVNk9NQVFuN0VodlRaei13bUJhVUVmNEE?oc=5",
+   "published": "Fri, 30 Oct 2026 00:15:00 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Thu, 29 Oct 2026 19:02:18 GMT",
+   "score_parts": {
+    "recency": 0.886,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "国際線定期便 週307便に OCVB 県内3空港 過去最多 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DQmxUU0ZfX0xscnc1a1dFQk1yd0s4SW93VWlPYlZoWndYZ19iX053R0pHZXpicG1KRm1oc0EwRkQteG9DUG4tR3l3bXlWTVZFY2VjWG8xS3pBM1dYRkE?oc=5",
+   "published": "Thu, 29 Oct 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光客数1081万人 OCVB 26年最多予測 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mLWIyVTR5OEw4QnBwN1l5QVpVLUJ2ZlNNOC1uQjhsN0c4bXhRSzE4cHotaFBUNTZEajNFeFQtaVNDamo1aF9OdkVNc0c4T29zZUFVSHVRNXRQa19md1E?oc=5",
+   "published": "Thu, 29 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "写真：観光客数1081万人 OCVB 26年最多予測 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TbkxwdDFFM0gxVnRDNnI5MWpUaFltdVVxMlAyVUdQYll3S3NrbXp1NHV6UlkxYzFNY0xLZXdGb2tMQW1DWWZHTDkzWWJUMUw1VWVTOUYzYVBhclBRaTVaZHRpTHZuZw?oc=5",
+   "published": "Thu, 29 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ANA、2社子会社化 AIRDO・ソラシドエア - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IT2Roc1c2Y3I1cWdwNjNTSjVfSm1Rc3JqT21hT08zbURyUGtwblY0MlpIYWJsUVZMZ1Q2bkFYUXYyUHJ2WTJ0c0l0cV9QdHhVZXVxQlgzcXBSbmY5Tmc?oc=5",
+   "published": "Thu, 29 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇―上海便が運休 中国東方航空 首相発言影響か - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KRnRYQ2FrZER0SWdzMVJ1TlFlS1ExdmpaSF9yaVlGbFdnczE2XzRaSTNSMFdZM2xHR3VkeURzVG4xVk5fTE1LUUQ4WkZjQlMtajFLQm5mWkZiYTltNXc?oc=5",
+   "published": "Thu, 29 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "多彩な催し 絆深める 沖縄市東部まつりにぎわう 舞台発表やスポーツ体験 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iUnhKR1BxVG5KYmZTZmFVeUc0T3REWlFFYlZYLXViZ24wR2NFNjJxWFUyeVdSN1dZMnRvMUZsMnJuVmhaZzBldW93eHhRbkREeWRHMGVVdzJkdEpvRGc?oc=5",
+   "published": "Thu, 29 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 20＞ふるさと大好き！HYが地元沖縄で初イベント「SKY Fes 2011」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54cERLWTA2b1pyNW1xLTlfcGlTUmhnczdpYTd5ckVGcWVPeU9aRUJ6SlVWTFhQMDVsSjR3OWJUUjNsWklILUt1U2FGZmwzczFSTHNDYThucWRUWHRvamx5eVg0NG1JWEJY?oc=5",
+   "published": "Thu, 29 Oct 2026 10:09:25 GMT",
+   "score_parts": {
+    "recency": 0.701,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  }
+ ]
+}
