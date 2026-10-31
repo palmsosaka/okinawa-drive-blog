@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-01",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 212,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "《ジャングリア沖縄》1日3往復の直通バスが一時休止に苦言続出も、県内在住者向けサービスとイベント充実で巻き返し狙う - 週刊女性PRIME",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kaWRfWFVIV2ViVEVJdmpMbVNLU2RKRXZvendMM2xOX0I1ckEzQlFvT29jazdLdVRjTVFFX2FHR1pBX0VvTjM2cEdWYmdEeFE?oc=5",
+   "published": "Sat, 31 Oct 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.738
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄》直行バスが一時休止に「利便性下げてどうする」と苦言続出、県内在住者向けにシフトか（週刊女性PRIME - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfaUhQdDF4eTJpbkJKM21JT3JFZ1hHYzBqdTZwVmNtUjk5TG5PU0tmazhLWkt6dEpIM3U2SUFIVmVqek9tY1lLZ0tfaE4zWUJpNXZ0RXN1MnFVYmN4Y0tTQVJwcExZendsTUFyN3had1Y4OGliNnVGQ2tMcnN6VjQ?oc=5",
+   "published": "Sat, 31 Oct 2026 22:02:18 GMT",
+   "score_parts": {
+    "recency": 0.962,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【悲報】株主総会で怒られたジャングリア沖縄さん、今度は直行バスまで大幅減便！まさに泣きっ面に蜂ｗｗｗ - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDcWQ2Z1NHSEN1eUt1dXNFVmNrUTB3aUhuckpxQUx0QklOWWRsaGNuMEZXRDlvb0gyRFdxVHpjN2pWMC1OY0M4UFNVWUlJOTZuVTNoVmRwSkpwVUFO?oc=5",
+   "published": "Sat, 31 Oct 2026 12:54:34 GMT",
+   "score_parts": {
+    "recency": 0.772,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.632
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：【2026年11月】沖縄のライブハウスイベント｜こはるのリリースツアーファイナル｜元ハードオフ永田がコザに｜横目大翔4都市ツアー出発ライブ（11月1日時点） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwckZXSkxIZDJWc2RmUVoyaTdfWTA5OWcyaTdwcXI4TEZGbGtiN0prWndpNjA3RUVrSmhJYjBCalAtd0doQWZFa2x0MVZ4RlU2dVBUcmlzZHpIOGJ6ZmQxN190NmxCZw?oc=5",
+   "published": "Sat, 31 Oct 2026 19:27:41 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【2026年11月】沖縄のライブハウスイベント｜こはるのリリースツアーファイナル｜元ハードオフ永田がコザに｜横目大翔4都市ツアー出発ライブ（11月1日時点） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9odlRaU0F2djBrMHZ6dXdDQnVmSHcwRGNLTHlUcXh1Yno0YTgwTlZQczB3YW5EYnQ1WHhaOEFVYWRyN2Zic1pOUVVGQlZhaUlCUkR5RkZWWUZzQVdEUnc?oc=5",
+   "published": "Sat, 31 Oct 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.816,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【沖縄リゾートホテル】百名伽藍（ひゃくながらん）宿泊記｜＠BAILA（バイラ） - BAILA（バイラ）",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zNWhIUHVtT3l6Zy1YRm55cnVrZFNvS1hNLV9KVzRKVUZGZm02RjFxN2o1RkEyNDJXcDhRU3Fsc0t5X2M1b2hZNFVnSHlweG1meHFTN2hmU2VBUTMy?oc=5",
+   "published": "Sat, 31 Oct 2026 14:55:00 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "車なしでもOK【沖縄県庁前】ザロイヤルパークホテルアイコニック那覇 宿泊記｜＠BAILA（バイラ） - BAILA（バイラ）",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vUFc1WUpQN3pOUExfMXFqZlF5TFZ4bGgwZzNwMjQ4bk9ONkpfOGcyWmVwWEVYNVFhdFVYbEpCQnFrRHdMMXBMTVBONEZJb3FuQlUtUkxSWHFnLTBo?oc=5",
+   "published": "Sat, 31 Oct 2026 14:43:41 GMT",
+   "score_parts": {
+    "recency": 0.81,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "福島県産米を買って旅行を当てよう！ 沖縄食糧がキャンペーン 抽選で280人に賞品 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBtQnVjOGtNdWRQcmdlMS1oZ0c4UTl1UkZhQ1N0WXdlZHRjZHBOVlR5bzVsaTFTcmZnQlhhcHdDeUpTb1dGQTAzU3E5Zw?oc=5",
+   "published": "Sat, 31 Oct 2026 21:41:00 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "自分の名前、美文字・遊び文字で書いてみる 沖縄県立図書館で11月3日イベント 読み聞かせや出版業界講演も（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUzRwWnlvblBGWXd1T2wtVXdDRGNBS1BRdXZISURndGN3ZlJLWHhNLVFoWnBmUDFfVVdieGpSWTFNTUdQOFpEQjhUMXV3OS1nMEN0UzhscWM5bGdMY0hZX1VhZEFpQXBBQmFiQWx2SHgtdUloUklQRnVDVVNSeFE?oc=5",
+   "published": "Sat, 31 Oct 2026 12:51:23 GMT",
+   "score_parts": {
+    "recency": 0.771,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄のシャルキュトリー専門店「TESIO」が名古屋・greetingに。一日限定のフードイベントが開催。 - LIVERARY",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11SXNXU1ctZ2JCTG1EbGVvb3J4Znl2NHRvOG1MeU1yQ19vVTFEVEk4Smpxd2Vad29kN2VOTXZ6WFFqTXVpc2FpcmI3UG9rUXM5TmN5ZlhoY1kxZw?oc=5",
+   "published": "Sat, 31 Oct 2026 12:26:30 GMT",
+   "score_parts": {
+    "recency": 0.762,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【悲報】ジャングリア沖縄さん、恐竜に追いかけられるはずが、ブチギレた出資者に追いかけられてしまうｗｗｗ - YouTube",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wdXZHaGtxZGRlTHM3LXlUcndyeHNyMmNkc0p1eGQ3X3hrblptNmE3NEc1RnpnMjhjWHZ0Ul8tWGQ3NllPQUIwMmFXUVRzdTljakVkZE1ZU0luSnk3?oc=5",
+   "published": "Sat, 31 Oct 2026 03:52:48 GMT",
+   "score_parts": {
+    "recency": 0.584,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［学びバンク］県内の交通渋滞 観光客 消費機会損失も 長山明里 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpd3FnOHRReU4yRER0cklXaFNoV2RLbU8xZWdYbUNDZkNldFhERTJPZ2hISWM5enFpOGd2QzlCT1JyNWVDU2J4WEh6NDMyNmx1UlpVekxnRkZoaS1PeVE?oc=5",
+   "published": "Sat, 31 Oct 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.898,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "久米島招待 楽しさ発信 町観光協会「大試泊会」 滞在観光費負担 初の試み - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyc3NGMFpXZTVSY09ZNVMwSjVpMzRKeGU5YkQxNnpHOFN6VkVvRmV3UDV1YlN6QWJXdzdMWDRLcXhYNWxBNlJKZV9pemt6eUVZV1FwVVdLQjA4Q1ZmWHc?oc=5",
+   "published": "Sat, 31 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.899,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【大人の沖縄】日常を脱ぎ捨て、美ら海と亜熱帯の森に癒やされる。「オリオンホテル モトブ リゾート＆スパ」で過ごす、ワンランク上の特別な休日 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kSDNhM1ZUMXhvclNvZHRfR1NjeVZCa2VEQXlQUS1McXQwbEJCY2Z5VDlJZjM0VkFRZEZxaWp1eDd3bFJfYURacV9oQzg1Zlo1dDRDTWlR0gFbQVVfeXFMTmw3cjNiS245OTFRcWlWTzItR3YtdFBPSkFNRC1UR21TZkV2YVU0ZWp5QjVtdVdYcS00MV9pR0JCNUdUb1FhRmdfOU9YMDVHa2NuVGZFSkdYMnJsZw?oc=5",
+   "published": "Sat, 31 Oct 2026 03:06:33 GMT",
+   "score_parts": {
+    "recency": 0.568,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "大エジプト博物館400万人 日本支援 開館1年 観光に勢い - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VNmNIT3dTRGJaT3VCcThVTUM1VDRVY2I3QWpIUFp5cmRMT2FIc1hZbHVUdzUySkxJel82ak1wZXFVa1B0VURnV1lKbmxaRlVDUlpjVGd3Q0F2WUVfVWc?oc=5",
+   "published": "Sat, 31 Oct 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.898,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  }
+ ]
+}
