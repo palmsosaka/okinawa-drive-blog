@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-31",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 202,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "173億円赤字のジャングリア、新たな出資者探しへ…「沖縄にはハワイを超えるポテンシャル」から一転、集客苦戦の現実 - 集英社オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0SnE1dlVCYUZ0MVZaOV9JRFMzTzZ3c0stS08xWU5pNDV1bXlWNUdEdnZCbVlvTzdRTkJIM3Z5ZFFXejZsVU5Jb1pZWlQ3T05KeHBV?oc=5",
+   "published": "Fri, 30 Oct 2026 23:30:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "173億円赤字のジャングリア、新たな出資者探しへ…「沖縄にはハワイを超えるポテンシャル」から一転、集客苦戦の現実 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjdjM0cGIyZU5pQWNobE5PV3RwSGFoZ0RjZDNvdGRZcHBNalFXVWxUN2c4aUNIN3VSWlpoSXluMG5sQkFtc1hsMDRsX1pYZDhmb3Vwbk5wSmZOdmY3NW5fNFFvZEZQS1JEcE5uU2VB?oc=5",
+   "published": "Fri, 30 Oct 2026 23:30:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "173億円赤字のジャングリア、新たな出資者探しへ…「沖縄にはハワイを超えるポテンシャル」から一転、集客苦戦の現実 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfSzh3VU1IcUFMOS1KNzlpVUZ0MzFGUXJWVkxXUTVhX2ZDakEyaDJjc1Jka2xfYzRxa29ETWtZVFlNOUxtWEZ3YUttdDF1WE9mX2FrY0pDT2xFUkN1YUpRQQ?oc=5",
+   "published": "Fri, 30 Oct 2026 23:31:27 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「開業前の期待と実際の体験に差」ジャングリア沖縄のCEOが会見で吐露 (2026年10月31日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jXzM0cFRQaFpuNVVQWmlvd2Q2SG9pTHBPUi1scjRCMXJqZG9DZzNIWFJtbEd3T0ZDMjRuZ1l1OXpjYkFhUjN6eEFtWnUtNUowUmZ4S0RQOHR1SGY5cXc?oc=5",
+   "published": "Fri, 30 Oct 2026 23:00:21 GMT",
+   "score_parts": {
+    "recency": 0.974,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.692
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】89億円の赤字の「ジャングリア沖縄」資金悪化で新規出資者探しも - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PSUtBWF9hTG5wWTNfWE9yQ19DTDg2SFc0MWJwNS1KLS1IY2xfbTl2WGFrVGNaOWduRG9OYVIzQUhCYkFEakdRLW0taVNpcF96MDNCelF4ZWtyaGxBZGtZNzF6S0sxMWNwRzlEY1NCTkZCVXc1d3N5d2lpYzQ?oc=5",
+   "published": "Fri, 30 Oct 2026 22:12:49 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.687
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "赤字脱却へ構造改革 「刀」の責任明示せず ジャングリア - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKa1VCcVhHdmQtZmYxa2xvMWxRNmVqcWhOeHlkNGJtLU9XNS1ZelhiNWktaGxhUVlSdHh3ektfbFgwd2s4MlRkN1YxUnQ1X2VQTnV0QVpMNEs?oc=5",
+   "published": "Fri, 30 Oct 2026 21:30:49 GMT",
+   "score_parts": {
+    "recency": 0.943,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「出資者を探している」ジャングリア沖縄がSOS 融資内幕と巨額赤字の真相…鳴り物入り開業から資金繰り悪化まで《「週刊文春」記事まとめ》 - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16OHdQY1NMdmgwN3F2eEhIMzNabkNMdll1NDdyVWdOd3lHMUthbVdLMExtTUpXSUFiNXhiWG9ncXh3d2haaGwtSUZjZw?oc=5",
+   "published": "Fri, 30 Oct 2026 21:10:00 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.681
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア、初年度のEBITDAは26億5千万円の赤字 運営会社が決算 2028年に黒字化目指す - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RUUdtajFjWEE5WWp4NDFwSHFvbVJ0TXBKcnFZYl9lbEFDTWgxNWtNTGtWUGZwUWsydEpqbmhSZzJHazdvTkl3aUdHNzFGYWJGQUtid3piSEdjQUtTQWc?oc=5",
+   "published": "Fri, 30 Oct 2026 19:46:00 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.672
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「構造改革」 黒字化の柱 ジャングリア集客・経費見直し 経営責任問う株主も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oTUVsa0gzUDhXNmZuSm5BU1RvYm5JZzZya0l0QlRrX2tSOVB5ZjhPNWxPdGNlcjVpdjFCZnpPQ096ZG40U2g3d0Nxemw0OTNBWXlPajFET3FCVnlNRlE?oc=5",
+   "published": "Fri, 30 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "やんばるを音楽で元気に 北部の児童生徒ら 沖縄民謡や吹奏楽披露 今帰仁 ジャングリア舞台 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MWV9tekJXUmVlRC1JNnhJdEV6Vng0UnJlSjhOT1o3SGhqc3dKSDRIUUNVc3pBYWFIaE5Gb1pkLU9JZ1NhUFFnTlYwOUJfUnRiaU9iN1pRQ3dZcEstNWc?oc=5",
+   "published": "Fri, 30 Oct 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.891,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.667
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 再建の行方 「刀」森岡毅CEO「事業を前向きに…」 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZXB4WEhiQ0FBVzRpOXVpdm93eFNUcDF1NjhkOUpGaTVBYXQ3ejZLM2tkWHhGX3l4c1I5TmtRTlZLeVBzR25qUXRqcTJNWWY4VVpVS0l1NTVvdWFDQlJN?oc=5",
+   "published": "Fri, 30 Oct 2026 16:23:26 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.651
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 再建の行方 「刀」森岡毅CEO「事業を前向きに…」 - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ZRUUyTDMyVVZMalp6ODNSRzB3ZXRwbTJ3c1plVGlwUVYtbFMyX2tjUHRLTWtCSmxhaWR3Y21lYzhvbVhBdmlJazZ4ZE5hZw?oc=5",
+   "published": "Fri, 30 Oct 2026 16:01:00 GMT",
+   "score_parts": {
+    "recency": 0.829,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 再建の行方 「刀」森岡毅CEO「事業を前向きに…」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWkFwNE1CVGp4aXE2MjdZZUtTcElOU1J0YTNJR0JISXJqS3o1N3pDZFdnQ2s1T3NIMW5PVDJUeHVmMEJ2eHZvWF9CMldveFk4TlMxaGFjUWpReTZENlhn?oc=5",
+   "published": "Fri, 30 Oct 2026 16:01:00 GMT",
+   "score_parts": {
+    "recency": 0.829,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「ジャングリア沖縄」８９億円の赤字、資金繰り悪化で新規出資者探し…数社が関心・来年２月の決定目指す - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ramFkbXFaOUkxNVczV2N1MVBFZE5yU2NyOTNJZDNPTC1HbVRzZ1UyNTJVYjhkaS01ZHZOeTJGZ2h0RlpaOVNiV0cxRVVzRWVJ?oc=5",
+   "published": "Fri, 30 Oct 2026 14:03:09 GMT",
+   "score_parts": {
+    "recency": 0.788,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」８９億円の赤字、資金繰り悪化で新規出資者探し…数社が関心・来年２月の決定目指す (読売新聞オンライン) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGs2cTRqUjFCbGQ1bnppX0NhTVdacGdIWVZzSVBEdGZIa1NWU2g3WTFqbmR2TDcxV1VUQ0U4Tl9uYXlXZFJNM1Mxb2pmWEUyS01MNE5IWF8zMVJudm5KMXMwY29fM0pnenEwMk8zMFktYjQ0TnpaWE41bEFBXzVacnZ1bHZFVU5Nc2hrQXVn?oc=5",
+   "published": "Fri, 30 Oct 2026 11:58:33 GMT",
+   "score_parts": {
+    "recency": 0.744,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.623
+  }
+ ]
+}
