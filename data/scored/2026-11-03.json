@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-03",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 161,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Mon, 02 Nov 2026 11:18:49 GMT",
+   "score_parts": {
+    "recency": 0.679,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「自分の居場所」語り合う LGBTQ支援 22日イベント ピンクドット沖縄 那覇テンブス館広場 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VRldjcFlGUjRlWEtnelBYeG4tVkFHd3VlRnZzZnRDbWJkMUNBY1NieWdpUmhCd01HN3hPTDVwek0tMlNoMFlyMm5pSTdDdHVPaGFyekJ5UWlZYXhRekE?oc=5",
+   "published": "Mon, 02 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.839,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.602
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宮古島観光協会、AIアバターが観光の問い合わせに24時間答える実証運用を11月9日に開始 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14S2RQQnYyNFhMU3VRYlVTLWxwVUNHU3ZwemtRdFF5Z2c0bnJCRUdhWi05dmNxU1ZUY0k0cEp3VVRtdWx3X2RmdnBCWHF6WWVkMGNGQmlObGRad1Fpc1E?oc=5",
+   "published": "Tue, 03 Nov 2026 02:13:06 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「絶望から救ってくれた手話という豊かな言語」一人の女性が沖縄から挑む聞こえる・聞こえないをこえ心かよわす舞台 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12QzRqampPNVRVZVRrUmFGanlBZmI3UFRDUG1NZXM0bmp0SlQ4bUt3YVhmTmU1T0dlQ2g4VERwZkIwNXpUV1huUEVHaXRSQTF1Q3pvQUdfVjQyZkdQZm9RLVpBSjA3OFhlQXZDY1JB?oc=5",
+   "published": "Tue, 03 Nov 2026 01:04:18 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "３日のＪ３予定 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxYkxFOWlvMllnc2lDc3Z6T2JBVHVNWjZxbzdteGJUa01Fc2Q4RWNfaGlNMjhCMHlWc3lTY1VOdng1ay1JbVEwVE9wZW9HeV96SWY2SEsyeFg2NFRIcVE?oc=5",
+   "published": "Tue, 03 Nov 2026 00:54:55 GMT",
+   "score_parts": {
+    "recency": 0.963,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄銀行、スマホでデビット決済 JCBとアプリ連携 「おきぎんスマートデビット」11月4日開始 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ubWE0RzZXVWZTT1RBeHBNSFVHVUpHMUI2b2xNdmw2R2pRTFFWLVlBZkFlLUJJdTJKTXJnbmk1NVNLc1RNN1pXa19TSmlSbXZvOTBQVm44enVSYmRkamc?oc=5",
+   "published": "Tue, 03 Nov 2026 00:16:00 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "地域の灯台、観光資源に 制度開始５年、６２団体指定 夜間開放や学習利用 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kUTdneXVaNWlBVldtMFhXUFhQa0wxZjF0Ml90VnVvSEp6QXpkdWN4MGMxd3NwbVVxYThrcHFINFZ6ZFBOQUVDVnRkV1BsTlAwZ3AxcDFFcmNWdFh0VEE?oc=5",
+   "published": "Mon, 02 Nov 2026 23:15:00 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄の天気】11月3日から4日 沖縄本島地方・宮古島地方・八重山地方・大東島地方 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GeU5XMDcyZURBbFNkQUJNZzRvUGx6bTk4dUVXM3ZkUDNiSmo1Z05UeXRUQVFsNEpxU3BIamY3Y2Jja0FrVjNUZFBkbzE0cTB1ZjBBdkp3TkZGRjkycUE?oc=5",
+   "published": "Mon, 02 Nov 2026 22:50:00 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像4 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRTd6QklLSHpTdkh6ZXNjVThiTUF2SkpUNUJYZXNRdHpkQWtvR1JXclphU3NkaTVtc0E1aFNxbnNTdml2QlJfREZzaXFmQmlBNXQ2QTM4RHVwUVp6TXNweWtmR01tcnFWQUhUSkJR?oc=5",
+   "published": "Mon, 02 Nov 2026 22:22:54 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄美ら海水族館】世界初「オグロトラギス」の繁殖に成功 繁殖個体の生体展示を開始 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHbi0xY2lOUmU5VEQ3aXB0MWctbkM3VmNJZmpwQXBYc19vWmRibDVKV05BVzQ4SFFpZ1lvaVE1VW5EbGo4SkJVVUhNdmlybVpaclZOag?oc=5",
+   "published": "Mon, 02 Nov 2026 14:00:23 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像15 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZ3BoRy15OVZkS21GWTc3QmVmT0RtV2tEbDFZZDBsWmhmYVM0aXlWeEd6ZVkzOFlEREV6WWJ1UGN4Y1lfMlBNTGNpSklmWWNsVDg0dkxYeW8yZ2dZRGVXcTY5SnhBY29Sc3lYekd3?oc=5",
+   "published": "Mon, 02 Nov 2026 21:17:54 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄政策協議会、6日に13年ぶり開催へ 古謝知事、振興予算増額や普天間返還期日の明確化を求める - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14VExuaWlvOF91SWZCVGt5LWhCNUZTODhkQUdvMk03VHBEckVUaG1EWmIzd1FzMGtNem0tdjZGRTBsS0RKQ1l3eDN0a1lZVzN6ay1ib09UT1ZTRURDLUE?oc=5",
+   "published": "Mon, 02 Nov 2026 20:30:00 GMT",
+   "score_parts": {
+    "recency": 0.871,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Mon, 02 Nov 2026 20:20:24 GMT",
+   "score_parts": {
+    "recency": 0.867,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "米米CLUBの石井竜也さん美ら島沖縄大使に 首里城で「浪漫飛行」熱唱 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sTzhkZnNvdTZpaEZ3Yk5kZDU5UlBrN3Btd1NfbVhLeW9zeGVTTWJuZGl2VEdnOWo1bWZCVGZXa1VPTTdmVjdBaUp2bzdtcnYzc1pxZFoyRDFMY1B0Q2tvRA?oc=5",
+   "published": "Mon, 02 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.86,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "空港と基地跡地の一体開発「GW2050」着実に 新21世紀ビジョン改定案 沖縄県振興審議会に諮問 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xREpLcE53TndDZWN2VzA0d1g0cTN6WVJlazlOUXFLa0NrNkwtNC1TVzJjVW94Y1A5eUlPbzV3dWlDOWVnWTNXS0EtYjdlSWxjMkZMODU0a3FvbXl0Vlk3dQ?oc=5",
+   "published": "Mon, 02 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.86,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  }
+ ]
+}
