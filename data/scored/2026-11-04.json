@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-04",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 148,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「ジャンボリミッキーに激似!?😳 ジャングリア沖縄“スコールダンス”が2150万再生の大バズり！」#Okinawa#ViralVideo#JapanNews#EntertainmentNews Henry Martín (RVMKwiw0ch) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SSGFHREk4ei10cWV0VEFiQU1pYV93eDIyVGRtc01uS042RnA2OXhXQmotcEczOTNUVDVWb1ZvMTNUanowY1BIUTRxSXhLRlV0ZWg3aUdVVkpueGlUcTlKUXpKUTlISzc2aHpV?oc=5",
+   "published": "Tue, 03 Nov 2026 12:50:23 GMT",
+   "score_parts": {
+    "recency": 0.747,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［インフォ］［イベント］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wNXdiaFVEbWp4ME1aV3pIcjNsbllFYmJRQ3VpSFFqVFk2QW5mcEwwc0FkRkFWc1hYTDBzV2ppQVRfbXAxTG9ZZGg5aWo2VS1PVHh0Nld6ZWJwZjJ5b1E?oc=5",
+   "published": "Tue, 03 Nov 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "地下千メートル 宇宙の謎に迫る 14日沖縄市でイベント 岐阜の研究施設と生中継 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51WXAxcVZ2bG9QTVd2RTNoWk90N0hOZFE4NkNuSVBLZVRPLTJ1YTRNMHYzNkZWVVFybHJ0ZEtfY1o0SXFJMzZqSEhzY0RZNDNiSFozMXBJcjl1bzB3akE?oc=5",
+   "published": "Tue, 03 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "写真：【沖縄美ら海水族館】11月1日(日)限定 水族館開館24周年を記念して来館者に先着で「2027年オリジナルカレンダー」をプレゼント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BZG1ZSUJpdk9VdEt0d3FqSzRyT0ZoNkgxVFlmRmVwbzItd2ZkdTc4MVd4eVU1T3M1aVFUaHBzZFpTMVBRT2JOT3BXY0JHWXVqRUluY2g3R2c0Rk1EeVBwWnNkUFpoQQ?oc=5",
+   "published": "Tue, 03 Nov 2026 18:39:42 GMT",
+   "score_parts": {
+    "recency": 0.869,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "話題になったジャングリア沖縄に実際に行ったので全部話します Robert Irwin (OEiDZJ3Ble) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hOU80LTVreFZnRVhyUzRSOFNUekxEV0laUjVRVGxtTDRNbjFqSGIxMkJjNlhGWHFLXzNoSTVwV0RpZS1GT19FYjNwRWczX0xwTWRkU3Z5N3Bna1VnSTI1TVZkRlQ?oc=5",
+   "published": "Tue, 03 Nov 2026 10:32:14 GMT",
+   "score_parts": {
+    "recency": 0.699,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "日立、沖縄と和歌山で観光DX推進に向けた実証を開始 旅マエデータを活用して広域周遊を検証 - 訪日ラボ",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Dd1kzWTJIZ0dzTEVJNnJaMmY3cGtyRFNtLTZCS0JlYXkybXpaS2dGQnFvelNfc0lzWlRWS3hRWUZXRVVubW5LZmhST3FCSWZyazBSYmZBcDBYbEE3dWY1OUZ2QVVTVkNfWFUtN1J2RHBfckZQQVNB?oc=5",
+   "published": "Wed, 04 Nov 2026 00:00:55 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「沖縄らしい風景」 フォトコンテスト 県が作品募集 - 観光経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQQzBwSFM2UkJWZEo0cUc4RXRKUGFyQmFsbTAxMlFfT2hlSF9OSUpoVk9DM0tzMGVZYW9ST0FLZFRsQWtmY0NsUGhvWnJsbTFHTEdlMQ?oc=5",
+   "published": "Tue, 03 Nov 2026 23:31:36 GMT",
+   "score_parts": {
+    "recency": 0.97,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像8 / 20＞ウィルコム沖縄、新イメージガールに真玉橋さやが就任！ヒガリノも名誉イメージガールに - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83c1g5el8wWGpORlNibmtFRTdxakxhdFBtalc2amdXQkRpclE4ZmFfOTI0Nm1YUGpfTUhsYjA4dUQ1TnhWVld3NkQ0a3VieS1EUDFJRExVY3VyUjQyMFBaRndnWFRHMG8?oc=5",
+   "published": "Tue, 03 Nov 2026 21:59:23 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "サステナ検定に50人 観光倫理向上に期待 - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CclRxRnVYZ1BXZTVNZmxaZkxfOHNPeDd1Z3NOZFc5cHFIZnVBRDlKaG1lZzFiaWxBRUFJRjd3Um5YazhITmp3c2hWNmZUbGZMOWpuWkFFRWw?oc=5",
+   "published": "Tue, 03 Nov 2026 20:00:03 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄映画考える 県博で８日催し 仲村監督らトーク - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BUmFpaS0yTWlqSmFrTlp0cVZhXzhiSHY2dDBfdURFbTZDN3Y2MnJmeUZPQlBQQ2VlNmlWLWIxS0N1YWRoakg0OWNNaXFQVnhfbFZkckdaejNrX21MakoxRFVR?oc=5",
+   "published": "Tue, 03 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.896,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.569
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "マンドリン 多彩な音色披露 8日那覇 沖縄アンサンブル - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1idnQ0aXpOLXlXeGxPa2k0cWRWdjF4ZUQzZ1JYeldwVlE1ZG9IdVBvY3pKVlltUUFBVGhrbE1QNnhSMkw2cDhiSWJFRnl0QzFGeWpIdkFpT3JPS3NpUHc?oc=5",
+   "published": "Tue, 03 Nov 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "中田優勝 女子は末永 全日本剣道 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZdENoakh2U285dGo5U3ZFNV83NjZJSW56ci14bDhJY185OVBTR0dZeEF0MHcyQ00wOEhwWXc3eUN1d0hNbF9lTmNuOHJkbVlUckRpR2JjekpmSW93cWc?oc=5",
+   "published": "Tue, 03 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Tue, 03 Nov 2026 18:02:08 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像18 / 20＞沖縄美ら海水族館が4年連続1位に！行ってよかった動物園＆水族館トップ20を発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcHBHcTBrTzAwUVdLc1ZDQXVJV1NybEFUejIycVZ5T01mRXI0cVF5aXdpS0dUelJEVEpJNGlKWlpBVHRPR2hRRDBBWEd1eWNKMEsydDF0VlpyOGlhalZ6azRSWkh3TTBB?oc=5",
+   "published": "Tue, 03 Nov 2026 06:21:55 GMT",
+   "score_parts": {
+    "recency": 0.612,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.534
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像14 / 20＞ウィルコム沖縄、新イメージガールに真玉橋さやが就任！ヒガリノも名誉イメージガールに - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uM1BTVFQxem1kS0N3SEdCOFZZVmZJYmVudTBoMXJHUVpWOTZrN1g2LXl3N1VCXzdISXRNMElsOTJESHNEYUpoVXRHLUdlNWhicnp6d05VSkpOZjFMUVZzbXlobF9mQVk?oc=5",
+   "published": "Tue, 03 Nov 2026 12:32:00 GMT",
+   "score_parts": {
+    "recency": 0.741,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.522
+  }
+ ]
+}
