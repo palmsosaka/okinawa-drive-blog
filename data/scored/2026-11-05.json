@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-05",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 127,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像5 / 9＞沖縄でリゾートワーク&離島観光もできる「Re:sort@OKINAWA」を紹介！【前編】 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aNVYzcFVDb0R2djBkT0lUVW40UTBxcy00OVZELUNwTUgyUkdCZTZGdTFlRnVqNThWR0t2T1k0Snk5MXhwS1NVbDdjN3JoWjNQUmdPa2ZCUVMtSmdJZ2JGWEhxUGRLeEREYnFDYTNYcjBHSFY5V2ZpLWJRdjFHRlU?oc=5",
+   "published": "Wed, 04 Nov 2026 22:02:56 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "リニューアルした「ザ・リッツ・カールトン沖縄」滞在で「沖縄なんて」が「次も沖縄！」に変わった理由とは？ - Web LEON",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CVVRQZF9xdkRUNkJudllkSmIzSkFTT242bTZ6cFNPTUxnTDRtU25JZjc5czVLaGVGdTJzeXNaakxPdFZkSDB1VUlNZmtUQQ?oc=5",
+   "published": "Wed, 04 Nov 2026 21:16:27 GMT",
+   "score_parts": {
+    "recency": 0.919,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "「Suica経済圏」に殴り込み？ 沖縄発「独自カード」が29年全国へ！ 観光マネーを地域交通に還元する新戦略とは - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXdmdmlrWmYzVWRuMUl2UUVsWXZkQ0Rtd0xJdDAxTWM4dkxGNkhDWEx2eDE4VWpXMVZWMF9rbF9WYmQ0Rmd3YUtPMkQwVC1sNE5ETFRhcWFrakFtWUhNVDRrc3hhS0pUVGtETHRwTV8tRU0tOUNnSS1sZl90Q09GblJ4U0pXSVlP0gGIAUFVX3lxTFBtd2Z2aWtaZjNVZG4xSXZRRWxZdmRDRG13TEl0MDFNYzh2TEY2SENYTHZ4MThValcxVlYwX2tsX1ZiZDRGZ3dhS08yRDBULWw0TkRMVGFxYWtqQW1ZSE1UNGtzeGFLSlRUa0RMdHBNXy1FTS05Q2dJLWxmX3RDT0ZuUnhTSldJWU8?oc=5",
+   "published": "Wed, 04 Nov 2026 21:21:00 GMT",
+   "score_parts": {
+    "recency": 0.921,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「Suica経済圏」に殴り込み？ 沖縄発「独自カード」が29年全国へ！ 観光マネーを地域交通に還元する新戦略とは - merkmal-biz.jp",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UbDU5VXdyZDhDNzdON3dYeEJ5SS1vMVZwY1k2cmZLV21SV2FCOWpJYmxKWlZZdUw0S2l3Q2VlOTVwa1pZV2pWQ2dn?oc=5",
+   "published": "Wed, 04 Nov 2026 20:50:45 GMT",
+   "score_parts": {
+    "recency": 0.91,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "「Suica経済圏」に殴り込み？ 沖縄発「独自カード」が29年全国へ！ 観光マネーを地域交通に還元する新戦略とは - merkmal-biz.jp",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tQUp2Mzd2cjJjdGk2eHJjZ3pkV0RXTUVaeEh6T1UwMXBXY2NGMklrdzRueXByN1lSQnRYdjUxNk9pcTg2UnJDR0dKenI?oc=5",
+   "published": "Wed, 04 Nov 2026 20:52:47 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「Suica経済圏」に殴り込み？ 沖縄発「独自カード」が29年全国へ！ 観光マネーを地域交通に還元する新戦略とは - merkmal-biz.jp",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5a2poazBBT1JNWkRUMElZQXFoLWxwZW9FdnBPLUJsek1MeUNJeHZGaFV4MFJlRDFydEhfdThBZ1J4bzlFY2tUVmVGbw?oc=5",
+   "published": "Wed, 04 Nov 2026 20:52:47 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "「Suica経済圏」に殴り込み？ 沖縄発「独自カード」が29年全国へ！ 観光マネーを地域交通に還元する新戦略とは - merkmal-biz.jp",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTS3F0a1lrNFpiNlVzbFEyRC05T1NhcW13LUM1elZHbFRQZHpad1B0czRad05GQVphRnlzNkNCbjNfZjhUallsY1QxYTA?oc=5",
+   "published": "Wed, 04 Nov 2026 20:52:49 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像13 / 19＞沖縄でリゾートワーク&離島観光もできる「Re:sort@OKINAWA」を紹介！【後編】 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQ0poT1NPLURLYjZENWZpNkc4R2s3M0c2a0kybVM3dm5xeGI2V01NYWhtM0JwTzNuUHFBdU9GVkVueUdkZ0JLcTJFa0owSHNNM2tQdm1KbDlKcXZyZ1FKS0RTckZnaFpNcjFRWmVYVGhNQkQxVkI5OXpNQXJFeFk?oc=5",
+   "published": "Wed, 04 Nov 2026 20:32:26 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.571
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像25 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05cVh3cWpjV1lrbFJTRUNfVXlvOFBYWHR0TU9RTTBKZnJ4RjZBSlRELUNCbmd4RzNYQzNsdW9xTGZVcDJFY0VfUU9zZG5vMXZSMV9RUS1HX0NTNl9VMzZZMWwxY2NVSnlUMF8weHZ3?oc=5",
+   "published": "Wed, 04 Nov 2026 19:15:28 GMT",
+   "score_parts": {
+    "recency": 0.877,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像8 / 10＞J1昇格のFC東京＆サガン鳥栖も参加！サッカーキャンプも沖縄が主流に？ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wUGZVWmJ0TDgyRjFGS1ZILWQ4bGtPMEN3WnpwTWZ6b203MHFUSDB5ZFY1azJuRWY5cDRtY2hoWXFNYllUVUJvYm1QemZnckU0UjBld1huRFIwRkJ6blJMbGVnbkJUbm1W?oc=5",
+   "published": "Wed, 04 Nov 2026 19:07:34 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄問題 世界に訴える 独立学会 シンポで国連活動報告 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uYUN2T2VuazE0NVBWdU9VX3RxZmlzQkROeUJhZmJoYktPRzBXZHlscXFRcTJvdG9VNkRXYWd4Q3ZMRElBTDFlM1M1UDJ2Y3Vnb1JtN3FtdHNkOXhWTEE?oc=5",
+   "published": "Wed, 04 Nov 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.872,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "移動水族館に興味津々 読谷 海守る大切さ学ぶ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wR2JMckdxU2RHdFk1UHlNT1F6T0U0cnhRRDNSUERfbGtlSTRQWXk4ZTVieHRwazRjMmd2dU0zNFFUOXgyQ2I1VENDbW1WNEM2cmE4QVJrMGJSX1JhcWc?oc=5",
+   "published": "Wed, 04 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.871,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄開業1年 運営会社代表に聞いた現在地 Learn (dwahRlFxlz) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4ZXRnazgtTGcySGxJT2ZMQ1kxNThGWGV4aVg5b2p1TElDcGNwUC1FMk9MVklkLXNBUmhzc3ZraGxNdldEUUpsUVhvNTl2ZU5lcW1WSEo4MHZLdW9HYUpNYmw2eGNMZXA4Vk8w?oc=5",
+   "published": "Wed, 04 Nov 2026 02:46:19 GMT",
+   "score_parts": {
+    "recency": 0.534,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】ダイナソーサファリ！肉食恐竜T-REXから車に乗って逃げるアトラクション Roast Of Kevin Hart (mzFly61gbk) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Hd21xamVBd1FkU0lYZmZiWnZJdzBCMFIybUU2d1NLR1RPRjBuNjZSNFE2dWExWTBOQ0VVTDM0SWtyNzdCbXVYTUZDYUNpb2xEbWc1cXBfTHB3MGlSY3M4bHctakk3emdEVDI4?oc=5",
+   "published": "Wed, 04 Nov 2026 02:34:32 GMT",
+   "score_parts": {
+    "recency": 0.53,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄の企業向け】「インバウンド観光人材育成研修」を12月16日（水）～2月10日（水）にかけて再度開催（参加無料・全7回） - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YNEUtT19TNzNIU2ZMeW0zV0RpTDBGQzZPbVpaaGdfX0EyNHJwWVFxeUdQVUdYR3lWb000OElibFNOZnpzU0NIcV96UFgwV1R6LXFtTmZjNDR6bDdXTG1kMlNWaDNIclhl?oc=5",
+   "published": "Wed, 04 Nov 2026 17:48:31 GMT",
+   "score_parts": {
+    "recency": 0.847,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.554
+  }
+ ]
+}
