@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-06",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 113,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「柿の種」に塩をまぶしたら… 県産塩シママース使った新商品、那覇空港で発売へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYeXYteDRFcHFfRVVNOThxWmlSVDRCSjR5Rjk1dGRMLXdwaFVuTlo5THUyRC1paDhxLTR4aFIybEVSbFdHazR0bEtiSHpFZTg5V0h4RUR2UTVpU3lSMGc?oc=5",
+   "published": "Thu, 05 Nov 2026 21:54:00 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.679
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ホテル客室数の平均は1施設31.7室・人口千人あたり14.5室 — 47都道府県で沖縄47.2室、埼玉3.7室 - HotelBank",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXVfSXVzcldCbXVtUU1xeWNPRmhnT1VYMzA2ZGxZVk5QczZjTjg2eUtXVWZ1Tm1DLTZsdEhLM2YtTURSeElCYTd1OGNLSl9VN3JSUlZqVmxJeGJSRndwM2Z1THJyc1c5VzBtTkxockNsaGo4N251ZlVIS01JZUpfZm1tLXYyM3JFTHY0TV9Kb0hReXl6eW9XWXJiSlM3MGtBQUR5eWdPUllhQQ?oc=5",
+   "published": "Fri, 06 Nov 2026 01:10:22 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄美ら海水族館】気仙沼市×沖縄美ら海水族館 共催イベント「ホヤぼーや 全国ステージキャラバンin - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iX25ybUo1amdyeEhTNy1na1NBdEh0TzNKQ29TejdFWkJhZi0xd3A0b0dISk9ualRaR25jc3hJRXJOazhHZXFWMDdYeERYZEl4T1FHNWxvOTFoemVDZmtSdWZwYUUtN2RKN3I5VTJpSmdUNWEyTjlIbnhOSQ?oc=5",
+   "published": "Thu, 05 Nov 2026 16:00:22 GMT",
+   "score_parts": {
+    "recency": 0.807,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【（一財）沖縄美ら島財団】11月28日(土)29日(日)小中学生向けイベント開催！「さがそう！わくわくのタネ～あなたの - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tMGJRRnFmN1QxUFN2WXlaaFJGYUs2d1h1dGdqTzFBOG9aRnRxeE5GWjQ2dFF4NTJOVFR2RUxORWRYLUdybWVsNjlTbXh6Rl9GU3NKTUgybnh2LXBaNFpfQ0JYeEk0U05Vb3A2N3YxNFA1QkZNV1E?oc=5",
+   "published": "Thu, 05 Nov 2026 23:00:23 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像16 / 20＞アニソン×コスプレ！沖縄初開催のコスプレイベント「コスミティ！」に潜入 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQi1HYU5nSEpId2ppRkUtSXh0T3RPUjhkVENoOTJpZ2FFSkNrakxjdHVVbTV2QXk2WFBNVEk0TFpleWc1ZHlIUVMxMEZta0dhYjFuUDUyVjZEVl8tNkphY05vYmpWWkdGeUE?oc=5",
+   "published": "Thu, 05 Nov 2026 17:24:14 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄の基地負担軽減実現へ力尽くすと首相 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VU1YzT0ppNVY2UzlDVExQY25IcFJPWXRzQlA1NDM4TTJlamZQR09CV2RYdXFGOF9pNXhsTGVCa3g0NWs2dFNfVGhxQUJWajBSbTg1c3Y0ZHB5SktaTlE?oc=5",
+   "published": "Thu, 05 Nov 2026 23:47:00 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像25 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmV0RNYVVDS280dnloWnY1cU5ZSTlGWk5tY203VVpUQVZZNWlWdURLZFNWRXh2WWZ2bkM0dzk5YkU5UjFwWnFVOU1xcDVoTkZWd1RHLXRFamZsZ1pKMG53VS01N1YyTVkwUi1zdUNn?oc=5",
+   "published": "Thu, 05 Nov 2026 22:55:57 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "豪華な新設アトラクションはゼロ、それでも…「ジャングリア」も苦戦するテーマパーク業界で、存続の岐路にあった“大分・別府の老舗遊園地”が大復活できた“意外な理由” - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Yb0I0cy1QZjctRGtrTDVNTlpwcGR1M2djQVFBVkJwOEhSUVlmLUlyS2MzSmJOVWJaS0dWYWR1ZUtxWkJnRGlLZ0NjMA?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:00 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ＮＹ株式 ５日終値 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSYWVwSkUxOEVOVDU4dUZjZTVtQnVheG5BQU44OVhQQUhzekpEU2FEbXNNTkdpMjBzZkVrSUFOdTFvbmZId1dJaU1TNXJjbHZfVWUwV205bjE0ZC1yTVE?oc=5",
+   "published": "Thu, 05 Nov 2026 21:45:44 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港へ「落とし物クラウドfind」 導入！ - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIUkJzRHZEY0ktVEp1bDVvTmwzOFBVellXTjdoaFBrNDF0VlJvRVFqTDNQa09SZE1QSktVU3RCMWdYNGJGZldhVHRHcjNldFcxOVlreEhad3hublR5aDFnbkJtYms3b1dZWFE?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:03 GMT",
+   "score_parts": {
+    "recency": 0.994,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "10月の県内景況「緩やかに拡大」 4期連続で判断据え置き 個人消費や観光は堅調 沖縄総合事務局が発表 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tWERwX3NoNmU4OE9UUmJWTlJrb0xqVDNGZ09vUldQcUVzNXd4ZHZQb3RaZERaSHpjeTVlU1hyVnhmTXF5QnVLREgxU3gtaXEzSjBfTnlULTdLblFYaUE?oc=5",
+   "published": "Thu, 05 Nov 2026 21:32:00 GMT",
+   "score_parts": {
+    "recency": 0.922,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Thu, 05 Nov 2026 21:21:14 GMT",
+   "score_parts": {
+    "recency": 0.918,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "移動水族館の魚にくぎ付け 初めて見たハリセンボンに驚く 親子で海洋保全の大切さ学ぶ 沖縄・読谷村（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NVZEWjMyOEQwcldBS2tNU3A4aGw0c0VqYXRONml6d2VUZm55WW9Hak8tM0FOcHprLVNuXzQwUk5iQ04xaTY5ZHJpdnZhdEQ3SDUwS1NNbHZUMEpIZWRyRWhIZGE5ZnVWUld3SlNLUUVQeHUwUVlDSlFLZmlQUm8?oc=5",
+   "published": "Thu, 05 Nov 2026 21:16:12 GMT",
+   "score_parts": {
+    "recency": 0.917,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄の企業の80%、自然災害の影響感じず 全国の30%を大幅に上回る 沖縄総合事務局が調査 その理由は？ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5feE9JUFZya0d2aUlTU0sxLWp3ak5WX182NEMxY2tuVW9lbzJQWHlJZk9fZjBZT2YtSkN1NnpZLWhVUFMySnNXb1p5dzVtZUYtcFhBYm1jR2tVZGNRUXc?oc=5",
+   "published": "Thu, 05 Nov 2026 20:55:00 GMT",
+   "score_parts": {
+    "recency": 0.909,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Thu, 05 Nov 2026 20:36:46 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.571
+  }
+ ]
+}
