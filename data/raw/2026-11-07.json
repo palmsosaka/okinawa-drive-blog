@@ -1,0 +1,964 @@
+{
+ "collected_at": "2026-11-07T09:29:36.780760+09:00",
+ "items": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊施設が人手不足を乗り越えるヒントを2日間で！ 沖縄観光DX推進機構、「第1回 HOTEL ENGINEERING EXPO」を11月17・18日に開催 参加無料 - MICE TIMES ONLINE",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Z2RYR00wa1BTTDdDRTcxRWRGYlowOExUWDBURGNuNkh3dDBudnpod1JocEQxZmFzb1BLVlNyWmhHT1RPR2dEazhhZ19ieWxTeDJDVG5jTmNoQXgx?oc=5",
+   "published": "Fri, 06 Nov 2026 21:06:35 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "九州・沖縄の10月景況感、2カ月連続の改善 観光需要が押し上げ - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXR2VBWEsxNEo2czFFdUI4SngwUnZoeVB5M3dlUXMzZHJrTkc1b29VZ0xKSjdsZXpnY0JrU3JMTDNlaHhNemdueVJyX0R3clVCbEM2SUw1UDI3eF9mTHVBYTNwXzZtSWc4ODJvWQ?oc=5",
+   "published": "Fri, 06 Nov 2026 04:08:28 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「九州・沖縄観光物産展in梅田」を開催します！ - 鹿児島県公式ホームページ",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVEVVQnNodjMxS0oybmZuYmlKN05wUzZMUTk0czVzSUpWQ1pOZFZiM3JJYU14X0pUb2JSdHFiNGFSSHZFczF5Tl90bVVJWXlsYnZRTk5WUDQ1MXg2X3NfaHd1eFJyS2t5VTl3YWdKUlNMNjNCeHdsUHd3VHh4T1pyUnRJUkNpZGltRzl5MTNqQl9oaDdOSTNLXzlaRQ?oc=5",
+   "published": "Thu, 05 Nov 2026 01:21:01 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像16 / 24＞【沖縄】息のむ絶景ビーチから雨の日でも楽しめる工芸体験まで！「宮古島」でまず行きたい観光スポット - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGWDB4TXR1QllfOVZGVW8ta0NaTGRSZTFJWVNlaE5nOGJRTFZ0cHh1R0VKRFhXVThVUi1JdjFqRkI2ajVjNUVWWFYycFQ0NU9RVXJLWmpjNW9hVjBNLXFWYUxlRS1IbnktMmdOV3ZR?oc=5",
+   "published": "Fri, 06 Nov 2026 11:52:40 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "読谷村のリゾートホテルでイルミネーション 沖縄（沖縄ニュースQAB） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwM0JWbmh1RUJmb1VXLV9BM2N2aXdhOVlsNHVBclRfcmdKZm92ek1TcFI1VUtOWXVwdHR4cEhFTHJoXzctZzQtRVZEOFVYUW91TmpFRjB3Zk90U2FIbDJUcFNtWFNtbUxnbmZuNV9FYkRpWjRjVzRNLUUyd1lOYUE?oc=5",
+   "published": "Fri, 06 Nov 2026 10:07:39 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「HISブラックフライデー2026」11月11日開始！沖縄3日間17,800円、ソウル19,800円など特別価格 - トラベラーズナビ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzUTVWNXVCc2x5UjAyRWRSQXY4RWk0WUV5a2hMcG9SSElIbDl0UmNSVW5pemdKRWZKM3RNLWQxT0dtSUh0TllkU0pKUTZCblJoaFRBS0FibjF0V29Sb21Z?oc=5",
+   "published": "Fri, 06 Nov 2026 11:51:25 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "三重県大台町の未来の観光まちづくりに向けた「大台町観光アンケート」を実施中。来訪者の動向データ分析を通じた持続可能な観光施策の検証へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aU0V3SjN3ajFENzFRSG5tNndEajB5MUJ2RGR1Y3pDMTBvV3ZNcHhIemJhT29CRmF5TDNYVlc3MzIteFBEYjRPVTJrMkYxcGxBdmtYQm01a3BqTUxtZnc?oc=5",
+   "published": "Fri, 06 Nov 2026 03:21:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ダイブ、沖縄県令和8年度観光人材育成・確保促進事業の「沖縄観光キャリアカレッジ」の運営事務局を受託 - 千葉日報オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RU0xMOGl3MXlZWWRDVUY2X2tnb25XalFGNzhsRTFCZDMwNkR3TW00eTNjbElLMWxGdFJSREl1ZzRHSThZRDlQNUFuMDN2T2laZjVoNXpR?oc=5",
+   "published": "Thu, 05 Nov 2026 20:39:26 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "■長野県が観光・教育旅行商談会 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ieFM3REFxS0gxVUlUeWJQT2xSaWxmWDN2aFFOZUxpVkRPMVpHSFAzOHBGSFhlR0JEUnBkMl9RWGpBU1RCQWQ0M01uTjhYV2VPVlhXVmpUQU03T2JHN1pwckFR?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ホテル客室数の平均は1施設31.7室・人口千人あたり14.5室 — 47都道府県で沖縄47.2室、埼玉3.7室 - HotelBank",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXVfSXVzcldCbXVtUU1xeWNPRmhnT1VYMzA2ZGxZVk5QczZjTjg2eUtXVWZ1Tm1DLTZsdEhLM2YtTURSeElCYTd1OGNLSl9VN3JSUlZqVmxJeGJSRndwM2Z1THJyc1c5VzBtTkxockNsaGo4N251ZlVIS01JZUpfZm1tLXYyM3JFTHY0TV9Kb0hReXl6eW9XWXJiSlM3MGtBQUR5eWdPUllhQQ?oc=5",
+   "published": "Fri, 06 Nov 2026 01:12:47 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "10月の県内景況「緩やかに拡大」 4期連続で判断据え置き 個人消費や観光は堅調 沖縄総合事務局が発表 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tWERwX3NoNmU4OE9UUmJWTlJrb0xqVDNGZ09vUldQcUVzNXd4ZHZQb3RaZERaSHpjeTVlU1hyVnhmTXF5QnVLREgxU3gtaXEzSjBfTnlULTdLblFYaUE?oc=5",
+   "published": "Thu, 05 Nov 2026 21:32:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 20＞大型イベントが盛りだくさん！沖縄で｢観光月間｣PRイベント開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GM2dCLXl3TFo5T3kwZ0FMU2RIYS1feGhDOEVsd19hNFV6Njg5SmhkZlpuQmFYVDBjUjBUem5tN0VPZ05hdHgteWVCeGp5aW5yU1NQNnJWcEE5SUFrd29zZzlwVmdPY2xE?oc=5",
+   "published": "Thu, 05 Nov 2026 08:20:36 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "台湾で旅行博 日本から126の地域などが参加しPR「今年だけで8回」日本好き男性も｜Quebee キュエビー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xeWpMNkFGWUVEei1DcHpiMnFpUWdES3hsdm9vSFVwYlFtY3pGc3VVNUo4MldmRzBXVXVCcURfeC1OWGc0TGZJcFJVaGlxU0hMVlk3VjJ5WXA?oc=5",
+   "published": "Fri, 06 Nov 2026 10:06:55 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "松本―那覇 チャーター運航 ＯＣＶＢ 那覇空港で歓迎式 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYWGV3Rms0X2N2VmgzNk9YbHlkQWJQOGlCcFJRQU9nS1lZcHp0aGVwOHh4dDlQTDlwYnpHY18wdllMRFlYckl3YWJwT2F0d0R0alpZSktoTEk1amdpLTBQYzBB?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ガイド業務を強力サポート！京阪バスの定期観光「おこしバス」にて、スマホで聴ける多言語音声ガイドサービスを開始 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQ0Z2VG5tUVI1SEVhVGxobDdqaVg1TC03X3pHNzVPOWFnLUVoNFA4UlV4QjdkM2ItelNrMzhtX2JMWnJyQXkzMFVkUnJsbVAzWWlHSGVacHc1NFNVckE?oc=5",
+   "published": "Fri, 06 Nov 2026 02:02:27 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像11 / 28＞【大阪観光】民謡酒場にチャンプルーも！本場グルメがひしめく大正・リトル沖縄 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03OG9OUllJbm5xcDFBRHlUYkJkRE5FTWcteGZQMW1pQmhxbndIZ0hYM1ZyQ1lEdjNSemhyTE5KbEphaVpxRU15VjJtZ3pvZzVsdkxobEY3SlZ4T3hWM1M5R2NaYVI2MEZsam1XRUhkZ3hld1VUMlN5MWZfTQ?oc=5",
+   "published": "Thu, 05 Nov 2026 20:26:06 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像5 / 28＞【大阪観光】民謡酒場にチャンプルーも！本場グルメがひしめく大正・リトル沖縄 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QVm53V0dpLW5RQnB5aHV0S0dXd3VzaW41ODB6VWZUclF4VXVRSzI3ckVELW4tOURkWmJUbFV5NU93akY4ZXVMd2VjdWk2R2NINFViczh0S0FXWHNzRVE1VVZBNVhROTAtbXFib3FmVW1ZcVlPTGhhQzhpUQ?oc=5",
+   "published": "Thu, 05 Nov 2026 20:22:41 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像18 / 21＞沖縄初出店も！エンタメ型観光商業施設ハピナハの全容発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14VE1RdVhVSGFlN0pkUnZ5U25DRW1DTm9PWnpwMXN2OTRkVU9Kc0tSd2EwdlM0aUxyWmc0aHBRc29POVlEYTI5c1c3dlVrOURzTVptcG9JOU85VXV3LTFRMFpyMEdGbHQ2?oc=5",
+   "published": "Thu, 05 Nov 2026 07:55:14 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像23 / 28＞【大阪観光】民謡酒場にチャンプルーも！本場グルメがひしめく大正・リトル沖縄 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GbEZDaHFOdll6T2RsWmZiWW04alVmSEY5QnVOb01LMG5qQUg4VjlwakZ6S1FVQWEwUGRtODBDOURBNHBrU0lET1FFYjR2ai1STF90bWVySWg5WG83dk9SUnZqeVhCTlpzQWsta1hCbDdDbUdVWHA5UmxpQQ?oc=5",
+   "published": "Thu, 05 Nov 2026 08:19:14 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "インフルエンサー姉妹来島 ドバイからＪＮＴＯ招へい 富裕層の誘客狙い - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uclUya1dJSzB2Y0tEeGtRcVBzcHhHUFlQMDZjSzlpa0tMOV9SQm9pQ2l6ajZfSWRqZ212dFpQc2NLVzVVNkx4LXlBSXZKOERfeXRZYUtHQVk?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:01 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "クリスクアジア、沖縄営業所を開設。訪沖外国人の集客と県内企業のアジア展開を支援 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtaHdaUEJkcUJRSEczSXFFbXJFQzd6amNGMWhiTTFxWHhxVGZsLXRrQ2dqemhOVWRSNGF5MGhVMnlGeXctRVFVbTR2WmVmeS1XQS0xSzZneTdjSTJZQjdEMm5oVlVUWFRINkE?oc=5",
+   "published": "Thu, 05 Nov 2026 10:00:02 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄・半日観光】那覇から20分で極上の海へ‼️知られざる無人島ナガンヌ島ツアーが贅沢すぎた🏝️✨ Giro D'italia 2026 (gwFXjnXbXo) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3Y0hNTXVVMXVfUHRkX0w1T05oNm8td040SVRyZ2ttMnJHVTBEbTJVUjNTSUU2VHBYMzMzVi1qbXoxYUZDZnNHRGN5UGs3UjlUY0RXek9JTzVNczlPQmhJTU1kaEpCY1RXMFZZSHlB?oc=5",
+   "published": "Thu, 05 Nov 2026 14:15:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "中東富裕層の誘客へ ドバイのインフルエンサー招く - 八重山毎日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFWUVJaFMxdVdOMVBWcWpvdTRBMkFaM1QxR0pxWEpielppMjBwd0V0UWtQNWp4czNibG02aWhwb29CSktTMjdoVk1BSW1PZFhk?oc=5",
+   "published": "Fri, 06 Nov 2026 00:47:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「都道府県魅力度ランキング2026」１位は北海道。大阪府・長崎県が躍進。新潟、宮城、高知各県が魅力度とともに観光意欲も上昇 （地域ブランド調査2026より） - 地域ブランドNEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EZGk4bkVKOHFtcE5lZlU3eUFuWHAyTVRjY19vSmc0N0ZHa1p3cFM5NmhBQ0czVVoyNnZ1ajRFd1RNbWQ1RkRERkJXaw?oc=5",
+   "published": "Thu, 05 Nov 2026 15:14:25 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "HIS、売切れ御免の「ブラックフライデー2026」。ソウル3日間1万9800円/ハワイ5日間9万9800円/沖縄3日間1万7800円ほか - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kMi1YWkJDRzhXZ0l0b1hrLXI1US1YMlZpVFB6RzNEbTRCV0FIYl93amo4azJneTJoemRsMGE1LXdkcU84djJKZEhBd09zbE5oZ3Byd1J5UzFoYkJiclJ4ejZ0ck9qaTlMR2kxYTJjTlhfb0VtRkhKM2QzeUpqSVU?oc=5",
+   "published": "Fri, 06 Nov 2026 07:27:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "景況「緩やかに拡大」 総合事務局 10月据え置き 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90ei0tWTdSaDNVRkUtUVVPb1hVVFZfbURkNnJVOXZUVWVlc1RtVWE4NHU4Z1kxUnVFd0dEczFWN01HQ3REQUtrazFIQjBfT2lNUUcyc3J4NmZmMWJTVjlFRnpR?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像7 / 8＞神様もお休み？沖縄の世界遺産「斎場御嶽」に“休息日”設定 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qRVBWNzViSzN2OVdTRzh0VGh2NmFtSG5kZXl4NFlDREdUV2hZMzVsMzVvNlVKNWFVSUQ0RElXOUU0TFFKS05jY3BMc3lncW5DczJFTjBGNDVoUC0zeDFWYUpIbEVicFlS?oc=5",
+   "published": "Thu, 05 Nov 2026 14:08:42 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "全国看板猫のいる名物店 九州沖縄編 - TVer",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpZExPX25MS19hUy01ZWFJRE5TZDlaZVluSGVIS09mZ0F5QllNOFptc1FIbE9ncjRzVkRnc2M1NWIwNjBfeUEzTm1LOA?oc=5",
+   "published": "Fri, 06 Nov 2026 09:27:01 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄県で35年間POSシステムを提供するレイメイコンピュータを承継 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMDhmWE16VEItQWROa052UXBXbTZ1MDBGb0VOMFBuNHlLV3g0QlZCTmhWM0FtbHFNRzJqTk9KWmpIUkJRbzA3NjFfTm5DOERUZFZkcFA4Rkc3emRPeUxnUGJmd05FX1lfa0E?oc=5",
+   "published": "Thu, 05 Nov 2026 06:00:02 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄美ら海水族館】気仙沼市×沖縄美ら海水族館 共催イベント「ホヤぼーや 全国ステージキャラバンin 沖縄美ら海水族館」を12月5日(土)6日(日)に開催 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yOVNyUnp4NWgzTHBLQjR3bFdDMDlaWk1acFRhYmRxclVmR3dfd04yaFhSQjVESmZBZzhfblVhWTZDUmVXTTFvWHcybzgwX29tcFZieGtNaHhXbDBmR3JxMF83czdkSk1OWGc?oc=5",
+   "published": "Thu, 05 Nov 2026 04:00:02 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "株式会社マイクロニティが沖縄のレイメイコンピュータを承継し地域経済を支える - ニュースメディアVOIX",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KV1VfMzlINldGYTZqT0RHUG8tYXR3c3ZNUzFwbk5ncHM5YVIyR1hvM013SmZ0ZDNZQTVFZXlWbkxtQkNKNndNWm9xYm9DWkIxRmJaLUNLdEwzR1Uxa2M3bUFiOE1KS3FJNEhrWHNPdVRYdzBZ?oc=5",
+   "published": "Thu, 05 Nov 2026 13:45:20 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "写真：Tcab（ティーキャブ）レンタカー、沖縄那覇、福岡博多で今すぐ出発できる完全ペーパレスレンタカーを展開。会員登録から予約・決済・本人確認までを https://www.tcab.com/ で完結 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1TUdWajNmempqR09DX3RybHpobHlaaENOLUhPUUVLZ09nMFZGc1RabjlETDB6WXFvQnlLS2ZJM1BzR2QzUE5CT0h3Y19pYmdOTERSOG9wN1dLQzR5Y3g1X1JubFRCZw?oc=5",
+   "published": "Thu, 05 Nov 2026 18:18:08 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "【最新速報】九州ふっこう応援割まとめ！予約開始日・クーポン配布状況・対象ホテル - トラベラーズナビ",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EN1p0MlF3SmFsQjQ3QWJYVkt5b0E5dEl3azRCdl9DSVh3akF0cmhuMF9oMWEwUldYaGlFdWo5Rl9WUFJXUi03dWxQZTIwYl9kd3gtNmMtV0ZBVUlW?oc=5",
+   "published": "Fri, 06 Nov 2026 15:00:44 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "日本で買える「最も大きな“乗用車”」の一つに！ 米国製「超大型ピックアップ」ついに日本上陸 年明けに発売へ - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UMUl5cVJDMnd2Um51elZQQjNlNmpuYUpGQXI3N0F1dFczc3VhS1FsWTJIOW1JdlJ6WEpORkJmN0hMeFVlaDBBcTNGM1c5Vm1VNzM2WF9idWlkbVdyQkRHSTBOY0Q2WHlYUXNZUzZn?oc=5",
+   "published": "Fri, 06 Nov 2026 02:12:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "気象のプロが見たジャングリアの暑さ対策 32年ぶり「台風32号」発生か 沖縄への影響は？ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGeDRScEFqYm1IclQyN0N1SHFDZF9yeUI4OE5KWWl5TVNCMGUwa0lVU0h6ZzNjQ1ByWmNHMnZiQnRUekZBVnJ5RWhOOHZlY0VPbVJxTVRWYTNFQkt3QUE?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "気象のプロが見たジャングリアの暑さ対策 32年ぶり「台風32号」発生か 沖縄への影響は？ - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wdWZxTllXaVRKcWVOZGVfWjA4bjlVMUQ0Q3BfYWp5QnoyYk9iS2xyZ0gtN0FhRW9nWHJfcUZtRTV2ZS1RbmwzZ2k4QQ?oc=5",
+   "published": "Fri, 06 Nov 2026 11:26:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Thu, 05 Nov 2026 20:36:46 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアとWRFがランバイクとパークチケットを子どもたちに贈る - FNNプライムオンライン",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEY0ExUVZRTlJIZ3JJTHJaRE81RlBYY3BMV2lOOVRVaGZoVHZITDlfMHNUWG9GdkZoRmRoMVhteDJrX1lESkdfS2NqelVlZw?oc=5",
+   "published": "Fri, 06 Nov 2026 09:09:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "“ジャングリア沖縄”の暑さ対策、気象の専門家が注目　32年ぶりの台風32号発生か　沖縄はうねりや高波に注意 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUpaZmtJUlVIb19nM1YwQkhnbm82XzduNEx2ZTkteTF2NGJuWkJBV29aWDBMNDh2aWhqMk5vZjZ6Wk5nTU5IUWtZcVo5Q0ZYZ0dFcFA1Umw2S2ZjU2loekZJdGlIUExsUFZqbnV6NFlhYWZoMzdBWDFFVVo0OW45emRrcTdhMDB1QnVOWDlKa2ZPZWxaN1FuQ0hITy1rX1IzYm1jRmRzb2xuTE9jV0JIQ2l3QVlybDU2QmZIZV93ZDNfV3luT2hHbzdyTWEzUG8yaDhJMnU4V1TSAYgBQVVfeXFMT2o4Y04yU1hFUDZ6S2pKVmN1NGkyTVgyaWVNR293RlVwN0pLNjVFb012YVN4VlFIc0w5QXJXWUdrNEZmYTQyV284STBEQldLeFE4NE5uZ0NwRFpXaU5Da0NQY3UxTEJvNFJMQ20xOE40YW12S0t0T0F3QXJVYzNaMDl1eDc1bmkybw?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像 | 森岡毅氏｢マーケティングの神様｣から評価一転…《｢ジャングリア沖縄｣の173億円大赤字》で透けて見えた\"実力\"の正体 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUFJmeTJJbDdsemp6Y3ZqbV8zY0pmWlpXWnByOVM4bW9IeGNzRVMzTXF4SzFrbVFvNDlFRnk1ektDclRWVUZEcUczZEhzSVU5MTZYS05ZejhXRmNyM3c?oc=5",
+   "published": "Fri, 06 Nov 2026 07:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "“ジャングリア沖縄”の暑さ対策、気象の専門家が注目 32年ぶりの台風32号発生か 沖縄はうねりや高波に注意 - UQライフ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYW5KTHoxYUtwdENLZFF1QV80Q1BMSThhVzU2Q0dCeXp6NTlQZVo4c0pXUlhUb3FDQ3h3SERfSVB6UUJOUS05bW5Cbm1UbGxQM01xb0VVbDMyUmxvZDEzMnBVckVMQWQ0ZU1IQ2pDLUVoTlNINGJPTGpfRUJrN0s4aw?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像1 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcFJBdFJGd1NnV3NxeGl0LTB1aU5OTzgtODFPT1RqdXl1OUw0a3g3US1fX3FVYzUwdGZjcWNicFdzd0RCUkRBMjlCSDhnazZpQlJ0cl9sdlh5UnZFRFNxVmkyc2Y4UlRKT2xrUHd3?oc=5",
+   "published": "Fri, 06 Nov 2026 13:39:16 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "豪華な新設アトラクションはゼロ、それでも…「ジャングリア」も苦戦するテーマパーク業界で、存続の岐路にあった“大分・別府の老舗遊園地”が大復活できた“意外な理由” - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Yb0I0cy1QZjctRGtrTDVNTlpwcGR1M2djQVFBVkJwOEhSUVlmLUlyS2MzSmJOVWJaS0dWYWR1ZUtxWkJnRGlLZ0NjMA?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリアの来場者は「美ら海水族館の3分の1」…173億円赤字でも「失敗」と決めつけられない理由 - ニューズウィーク日本版",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlazhVaU1yLXhPREtmQWwwUGtOU0NBekxTRFlDeXpUT3Q4YU01YTdjNnFPZDdyRVduekVlT0xrWlR6MUdEM0ZjQ1dXaWhtTDFEUGp0QzZWUzMtNDItUnA5R2ZlRWhxZEE?oc=5",
+   "published": "Thu, 05 Nov 2026 11:08:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：“ジャングリア沖縄”の暑さ対策、気象の専門家が注目 32年ぶりの台風32号発生か 沖縄はうねりや高波に注意 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laVQyaGFpYUxkU1UyX0VXcjFWaGZkcnpoR3FIUEZyUGJOMjJSUlZvNXVHaEJwRXRsMnZnQjBwZmw5Mi1kdHhsYjZ1OGxjdl9GMVFxWmJhMVdMcml3QnZ0dDhXUE5ldw?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Fri, 06 Nov 2026 14:09:03 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像1 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlYkctSkFqWUFLeEdBOGlFenVqaVRuOFhVSDNjU1V1emtCZ040cmJJbDY0eWYxZHdhMG5xSHZuZUVSUm5aaXI5WHN6RnpaeUdPYTFydFpLRG5DMFVyYkJzWE01RDhEOFlOMFhMOUVB?oc=5",
+   "published": "Fri, 06 Nov 2026 11:14:42 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像4 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRTd6QklLSHpTdkh6ZXNjVThiTUF2SkpUNUJYZXNRdHpkQWtvR1JXclphU3NkaTVtc0E1aFNxbnNTdml2QlJfREZzaXFmQmlBNXQ2QTM4RHVwUVp6TXNweWtmR01tcnFWQUhUSkJR?oc=5",
+   "published": "Thu, 05 Nov 2026 04:40:19 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像21 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nT3hrZXNVUW5TZVVxbEVINnYtTGpsQW9HWk1EYjJzSkNHVGV4dE5HYnZsQ1EtZG5KbWhXNG4xbWRTeU1LaGk5NzdkOEhiTHVHaEszVEdfMzhMeDR4S09fRWxqREVvMlVfd0NaV1V3?oc=5",
+   "published": "Thu, 05 Nov 2026 16:40:15 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像25 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmV0RNYVVDS280dnloWnY1cU5ZSTlGWk5tY203VVpUQVZZNWlWdURLZFNWRXh2WWZ2bkM0dzk5YkU5UjFwWnFVOU1xcDVoTkZWd1RHLXRFamZsZ1pKMG53VS01N1YyTVkwUi1zdUNn?oc=5",
+   "published": "Thu, 05 Nov 2026 22:55:57 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Thu, 05 Nov 2026 21:21:14 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "(2ページ目)豪華な新設アトラクションはゼロ、それでも…「ジャングリア」も苦戦するテーマパーク業界で、存続の岐路にあった“大分・別府の老舗遊園地”が大復活できた“意外な理由” - 文春オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16STdmal9BWjlSMTI0cnpDRWl3bm13QWlBQ1NDZTRsT2RxZURmQVo5RW5mdWs2a21hbzhsMjZrNklvZ0U5anpzNm0yWWh1MXdKbTFBWQ?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【衝撃】ジャングリア親会社が173億円の最終赤字…来場者100万人で想定150万人を大幅下回る「一体なぜ？」 Blue Dot Fever Music Industry (64NDBAEFb3) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDAtUG1Yb3ZhTDRHeERjNFNZNHNtdmtvMkV4b0xfejdoV0dlaDRtaFBjRWpqMXk3cUV4eTczbFN3bXk3cXpuZkpUbHVEdHhVa2otT3BocHpXQ0QycTExN2RPbmF1MjJXY2xseV9xQUl1RjRyMGZGTWRYN1NZRzdhOFRrbjN4VUZE?oc=5",
+   "published": "Thu, 05 Nov 2026 14:38:24 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "豪華な新設アトラクションはゼロ、それでも…「ジャングリア」も苦戦するテーマパーク業界で、存続の岐路にあった“大分・別府の老舗遊園地”が大復活できた“意外な理由”（文春オンライン） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZaXcyQ3Q5YVNoR1JCMGhJYXN0aV9OcjJxc3NfMnpjZFF6TWhpcG1aWXhfb0VGTnREbjJZU1dRbV9NdklhSV9rTzBrLVJodC03eE1zX3ZpRE84VlhxUDRDT015U2tIQ1JPX1JTV3Z5N3A0Y2s2UmZud21n?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄知事、普天間返還期日の明確化要請 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xRklZdW5EZ19jNzNQSFFfQkNwSVo3MDlTRUNqaVNzVnFibXF5VVQyN2hwWmY1RXZaZlBJYmhVb2lrV19NQ2h1RnB0ZHJ5cF80WV9neHo5d18xM1lNeWc?oc=5",
+   "published": "Fri, 06 Nov 2026 00:13:04 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "首相「基地負担軽減へ全力」 沖縄知事と１３年ぶり政策協 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TU1hqR2RMYUEzazFfOUpXa3ZNVEJtS2JwR05yWnVISS1JVEJDZ1Vqa3F6Sko5SDZBdTdVUWQ1Rm5DdFpscVExclVYaFBodHFvd293X1Q4MWNYMEU1U0E?oc=5",
+   "published": "Fri, 06 Nov 2026 00:24:26 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "飛行機 那覇空港で学習 小中学生向け 21日 JALグループ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1INGV2UWhlVE5WamlCRnNvZGlIOFg1NXFsRXFpRXUxWFVIV2JVNWI0dWpRMi15ektlYTkwQ29oeDUtVHBvcEwxUzEta2JXazVkZW5sbzQ0QnNhUTlFakE?oc=5",
+   "published": "Fri, 06 Nov 2026 18:57:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の裏側探検 ＪＡＬ、２１日に教育プログラム - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsMUxfbWtpbVdyUlZ2WnhsQktiLW1oU3BVdTJlS3lpVE43dlFubVVtV2pxd1Z5SV9lZ1ZoQk5ZbzQ0WlRMYkVJTFlsTHlJaUc2aDdRVVBEMzR0MWZUVHFEUmRB?oc=5",
+   "published": "Fri, 06 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で大麻輸入疑い 米国籍の男逮捕 豊見城署（琉球新報） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZGhRTlNMOGlDbERMSVpBRGpFanYydU1ISUxicjNSNWlqR2tiWlM2TUhCVFRsRm50VmRFdEZKLXFSR2ZLNnZkYldDN052OU9zRGRqLUc3OHRzU2JsdGpuSDdnbjItTkM5WjMtMF9nVmV5bGRjWlBrU0dBTFFJeDA?oc=5",
+   "published": "Thu, 05 Nov 2026 01:11:22 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「柿の種」に塩をまぶしたら… 県産塩シママース使った新商品、那覇空港で発売へ - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OSEoyRFZ3RjFqOGNTZEktQUgyWU9nazNsQW9ralY2TDY0XzltWVRXT0RPalFrbmY0U0VTWUMtcUxBT1F0b2RuNmhOSQ?oc=5",
+   "published": "Thu, 05 Nov 2026 21:54:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港へ「落とし物クラウドfind」 導入！ - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIUkJzRHZEY0ktVEp1bDVvTmwzOFBVellXTjdoaFBrNDF0VlJvRVFqTDNQa09SZE1QSktVU3RCMWdYNGJGZldhVHRHcjNldFcxOVlreEhad3hublR5aDFnbkJtYms3b1dZWFE?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:03 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「柿の種」に塩をまぶしたら…　県産塩シママース使った新商品、那覇空港で発売へ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUDV0cnZqdEZKQ0tkUl92U013NE45aFh3WENtSWhTUzluSTdqSXBMTnk2N1J1ZW5GOEdfZzloNFN5WEJ6dVZMZWdKZ0pvdUg0ZzBkczRyTkZINHUteUJsWTBHM0g4ejNzM2c5anlFNUlITVdBZWU2Uk1VS2JNZGZFRW9IOWdFRWFD0gGIAUFVX3lxTE9QNXRydmp0RkpDS2RSX3ZTTXc0TjloWHdYQ21JaFNTOW5JN2pJcExOeTY3UnVlbkY4R19nOWg0U3lYQnp1VkxlZ0pnSm91SDRnMGRzNHJORkg0dS15QmxZMEczSDh6M3MzZzlqeUU1SUhNV0FlZTZSTVVLYk1kZkVFb0g5Z0VFYUM?oc=5",
+   "published": "Thu, 05 Nov 2026 21:54:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「柿の種」に塩をまぶしたら… 県産塩シママース使った新商品、那覇空港で発売へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYeXYteDRFcHFfRVVNOThxWmlSVDRCSjR5Rjk1dGRMLXdwaFVuTlo5THUyRC1paDhxLTR4aFIybEVSbFdHazR0bEtiSHpFZTg5V0h4RUR2UTVpU3lSMGc?oc=5",
+   "published": "Thu, 05 Nov 2026 21:54:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で大麻輸入疑い 米国籍の男逮捕 豊見城署 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1c5Y01ZVl9sYl91ZnRCTGxTZ1Q1cno2aFJGZl8zUmdWXzNMcW4yMVBJSjlxTENSU09NR2hCbERtY0ViNXEwa3RlWFBjTWNfcWpodUEyQzYzd01TSkVmNHFlVzZQU0dOUURBOGVHdjB5enczYjlRd1ZERDFUd01EMVlFN2prREtKT3VWd2RR?oc=5",
+   "published": "Thu, 05 Nov 2026 01:11:22 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【一覧】ANA×ちいかわグッズ、既に多数の空港店舗で完売…想定超える需要で再販売と追加生産を検討（オタク総研） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04N0V3bU1WOEtLS01rSVFFQzlXQ2ZJcXpERUVlU3o4M2FLWE9VcWNnOTdMZmoxS0YxVjBZd1FVTDlOX053bjIzTFp6LXUwdnBvNjJKYm1HYVBFSHpoMUwzUnZvUjN5c1JuZXR6ZnN1SS1DbURsVEdwRjBjdzlGQ3M?oc=5",
+   "published": "Fri, 06 Nov 2026 03:02:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ヨーロッパで旅客機への「爆破予告」相次ぐ 緊急着陸や欠航する事態に – Quebee キュエビー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XU0QtZF85NXg0V2N4UDJERGU0NnFNVE83a0oxX1VFdGEyNUFFNURMZGFXeDZnWERlZWZtNXd5aS1fWTJJVGV1TU40N3VzeDUzWUJkMTRrWkM?oc=5",
+   "published": "Fri, 06 Nov 2026 10:04:39 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「ますだおかだの増田さんと能見篤史さんと行く」阪神タイガース沖縄キャンプツアー2日間！番組「虎ヲタ」公開収録を実施【11月10日(火)12時 販売開始】 - 宮崎日日新聞",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40dDBkLWVEMWRTWGJBSmlJYnZIT2VfUjFIWXFWVmJLY1hLQUx1SVVuRVZnRnFnSENFYUN6cV82NFhFZ1NsT2VGQ0RFWlhxUGd4YXNiTXMwbzZCV1BzTjE5aE5VOTRtZjg0VDFPc0hDczBQTTA?oc=5",
+   "published": "Fri, 06 Nov 2026 09:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "普天間返還日の明確化を 沖縄知事、政府に要請へ｜全国のニュース｜富山新聞 - 北國新聞",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13aHh4cEJtR1pGMXkwbWVLaGpfaF9kR1U5M3R2SndITjhVNHB4TDlacjQ1VHZsVGNTZUJ6WmFna0dTcWtiRWdJRzZycWRzRmo0bV9TU0hYb1VqZw?oc=5",
+   "published": "Thu, 05 Nov 2026 13:22:56 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄タイムス社とファミワンの協創プロジェクト「オフィスのやさしい保健室第2期」プログラムがスタートしました - 時事ドットコム",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXdTY0WllQc0dzako2SzhKWG1MSFVwbWwtd09RS1hwZVhYRUJycUo1MU8yWnI3VGZ5X1Z0N3BnR3NpNGVvN2tneklRd0M4LXhIVUFJaTN2YjRaMFJNVnFpWS1NUzhBOGNtaWZ3?oc=5",
+   "published": "Thu, 05 Nov 2026 07:46:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "欧州で航空機に相次ぎ「爆破予告」 25便に影響 – Quebee キュエビー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82eVBzb09QLUNfYzcwSW10bnlzdDNrMUJJUm1lcWhjRk1Ud0RWNzl0NXBRYU9KU09sVDM2VWFvcjBiVUZsMDdIdWhDa3liTWhJZDY4ZVRWQ2U?oc=5",
+   "published": "Thu, 05 Nov 2026 16:35:05 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港へ「落とし物クラウドfind」 導入！ (2026年11月6日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zSkE2bk1iQTBDSFI2Q1NIa0pMcnk5RGNvY0VuaEZoRkVyMEZmenhiZEZhQ0cyVklFeTRPaDZUeDNFZDFxY3A0Sm04aGRXcF9mcFlwa2NXR0EwNTZtNTk1Tmdn?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【選挙ウォッチャー】 那覇市長選２０２６・分析レポート。｜チダイズム - note",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zU1RjdUNNbWh5czJmRElIcndZQm1WNkU0YnI1bWtLbGRPOE45RGZCZGZGOXVkT0RQQlluR3ROMVkyQWEtdmhUNVBQVnpSTWlIX1J3?oc=5",
+   "published": "Thu, 05 Nov 2026 15:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【11月1週 人気記事】星野リゾート代表、観光産業の現状と今後について言及 ほか｜インバウンドニュース週間アクセスTOP5 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10TkJMTFFWbXU0Z3N5TGI3aVhra2NPSUVGZzVyWGFSbWRnX0VVS1ktM282ZWxNZ1ppbjk0VVB0UmJyMVlyVlFrVWlNTWJkUzZweEhHYXMtWURkbmlFQzUxTmFtQUJJcWJPNHpaOFhCRDRrSzNwSVVhQg?oc=5",
+   "published": "Fri, 06 Nov 2026 23:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "ベトナム航空、JR九州と初の共同CP 買い物5％引き・レールパスも割引 - 株式会社旅行新聞新社",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wVm5oOXAwUTZXSkptMDlsNmVId0NaMWZUdGFzVzNTeDdEWTJUXzdxUjZQMTdMX003LWJjS1ZsM014Y2VHNjF6U0w5RTBnZw?oc=5",
+   "published": "Fri, 06 Nov 2026 06:45:49 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "ＨＩＳ子会社に措置命令 消費者庁、実態そぐわぬ割引宣伝 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEcm9SMjBzNk4zMXZzSlpXbjF1cnFSblpYTEE0NE9JWHBiRFBQRjVJQ3dhWUVHMS1jWmNzT2tqU3FmUEVoeXlJYWdPOVUxVDVUejFyR2VKczBHcUJXNkE?oc=5",
+   "published": "Fri, 06 Nov 2026 07:51:59 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "年末年始を避けて賢くお得に！航空券＋宿泊がセットで大幅割引になる注目セール - DXマガジン",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxYkt4a3FrWjBHWGtiRF8waE9xeXp6Z1NIaDRjVldFWTFZR0dEX0NqUlhBOGxZU1pqeFZtd3J0dlAxaVFFdEhaTE9iMURvM1ppTWdNbTNSVFR6dw?oc=5",
+   "published": "Fri, 06 Nov 2026 06:22:08 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "ここだけの「家具旅」でおもてなし 大川市が27年２月までパスポートキャンペーンとスタンプラリー／福岡 - トラベルニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qNXNZMnVGWVNQTWVhV3NpQmNyS3lKMm56RG4wRXkyUGl4X0VrUjNIQVoydjByS2daY2dad3VReld2NGRlTHhfejZlVVZNTlR4QmNEalR4MUIwNnFNV2xSTFlkdDFfNU5YVm9mVnhYTWZLS0ZJVEd0SXVoMA?oc=5",
+   "published": "Fri, 06 Nov 2026 00:33:32 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "【最新速報】全国の旅行支援クーポン発売日・配布状況一覧（予約再開・九州応援割も対応） - トラベラーズナビ",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HOTRyU1JnS0J1MmczWHJUUWtuNVNtZXMtMWxXa1RtMXdFQkhHQk56bDF2LTF4ejNEZmhtS0d2OHkxOE9yX2xTZGFmTjhUYWo1MmdXLTRkM2pDM0VO?oc=5",
+   "published": "Fri, 06 Nov 2026 15:07:49 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "世界から注目される若手マジシャン登場！沖縄県那覇市で「MAGIC BEACH!!!」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBU0dXbU9BU1o2TnRkcjJJZkZzNzBSMWxPc2lkVXc4TzhmNlR0NjF4cmFtSFpDN1VwLU5kYlFGeXBzRnBFNmZqMVQwejVvd1prQ0lXVdIBWkFVX3lxTFBhOEQwRnBsZWpDNmJ5eG96WEZmQTBvZGthN1NoTEctT1NGN1NubU41bTMyV1QxUmhVaU50clpHYm96N0dpT3FEZnhCUHAtaEZpV1NINllPMmVldw?oc=5",
+   "published": "Thu, 05 Nov 2026 07:45:56 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "【最新】熊本県の九州ふっこう応援割まとめ！熊本ふっこう応援割の対象期間・割引率・予約方法 - トラベラーズナビ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVURHRndpeTAycVQ5cjNzUXY1b3N5Z2hGQzNvNklYbEowUkZQSFZ0c2ZoQklVbngxUk5KeVhQSGZqNV8zc05HTGVsSmJmb293aUpxWnZ1ZEhXM1JTLTg0?oc=5",
+   "published": "Fri, 06 Nov 2026 05:18:50 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "HIS「九州ふっこう応援割まとめ」11月6日正午予約再開！対象ツアー最大半額 - トラベラーズナビ",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIWVhteENCQzBQQVhFdElrWGdwR3I4ZjRNRDBYMUlwZ1AxZVQway0yX20wRU9OeWRWd1BwbWRsZlQybVp3SVZ2MmJva1V1UWdaSS1SbWpUdy1YbEU?oc=5",
+   "published": "Thu, 05 Nov 2026 15:00:14 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "【最新】宮崎県の九州ふっこう応援割まとめ｜みやざき割の対象期間・割引率・予約方法 - トラベラーズナビ",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CTGpmMWdlUmtia0FKZF82dFhxM212X2F2T3VaUzVTSW14VEpsN1RQSGRqZUZ3S3dlXzBMZU9nUTEwYmRuLTY2eFppQ2loeXcyRTM3US1KZ3BfbVJ5Rjlr?oc=5",
+   "published": "Fri, 06 Nov 2026 01:14:37 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "楽天トラベルの九州ふっこう応援割、宮崎県11月9日予約再開！クーポン・セール併用割引まとめ - トラベラーズナビ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rX05wWTlXZnNvTVFpYTFXZzdyTENUUEFCVnhMQU9lT2V4bWlhWlB6djh5MjNQcGg2VlFESnN4Y2pHRm1IbWVhXzZ0ZmtHUjEzTEQ4NVBUYkpyUFQxSkJTOUtsRllNZw?oc=5",
+   "published": "Fri, 06 Nov 2026 01:18:25 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性 「アソビュー！」関連サービスに不正アクセス 沖縄県が注意呼びかけ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oa1FKRldkSjJEYjZWVy1Jd3RIVUQweEc5eWdKcHpiR3licUNZaGExeVFQbU1Ba1JrUVhiUmNMeGlGRVh3VktGY05rQnNPS2VzT1VRZGN6bWlxdGJiYWc?oc=5",
+   "published": "Fri, 06 Nov 2026 09:15:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Fri, 06 Nov 2026 13:55:15 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性 「アソビュー！」関連サービスに不正アクセス 沖縄県が注意呼びかけ (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkZUblRqLV8tMHZsblFTaHQzWDhtVDVQM0RvTXEzempVVVVjRktBMTJyczBGM1UydmJDbVZQRVJLVDZ5S1pINzdzUVA5dFFReWg3dS1YZmVfbkw3QXluYlNYX1hQc3lFM2JUbk9oTTJROHpGU3dUaGVsVUIyS2s0bWN4MkFqTjZ3clFWdGF3?oc=5",
+   "published": "Fri, 06 Nov 2026 12:01:20 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "沖縄美ら海水族館で「オグロトラギス」繁殖に初成功し展示 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BZF80WjFJbU1zeWI0NGZIb2ZSWEkxS0dtVTdrbFJjTVI5M3ZlNl9UM08wOE1mX3prc0k5dXRLeUl0MFhYY3R3SXFtaHFZZVJVclJQQnFiOHhkU0RrTHow?oc=5",
+   "published": "Fri, 06 Nov 2026 10:31:59 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "施設予約サイト 個人情報流出か 首里城、美ら海水族館 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MEQ3Z2dIMmJ3RG9PMkgtdzVQbGsxSlhGUWtyR2dfa29tSExiQk5zOWdWT0ZUS2JsYnN3QWFUVVhxRDJlcWdtZGkwZlp0RWY3UW5mX2cwUXE5SlpwSzFRcw?oc=5",
+   "published": "Fri, 06 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性　「アソビュー！」関連サービスに不正アクセス　沖縄県が注意呼びかけ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0JmZ0ZzYTdySnBUWjZySV8xWWg2TUo0YjN4ZTF4Q1liRUNla0dLZFc3bzRPUHJEV0piTkdVbkNLN0t4M211R1gwSDBORTFWUFpYWjVqNVljaW9MdHZvWXBIcktNbHZ0RnRDNUNva1ZRUXNUYm5mQ1pxMVZaanBvT0dVX1FydnNV0gGIAUFVX3lxTE1DQmZnRnNhN3JKcFRaNnJJXzFZaDZNSjRiM3hlMXhDWWJFQ2VrR0tkVzdvNE9QckRXSmJOR1VuQ0s3S3gzbXVHWDBIME5FMVZQWlhaNWo1WWNpb0x0dm9ZcEhyS01sdnRGdEM1Q29rVlFRc1RibmZDWnExVlpqcG9PR1VfUXJ2c1U?oc=5",
+   "published": "Fri, 06 Nov 2026 09:15:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【海洋博公園】１月１７日(日)開催決定！ 海洋博公園エンジョイマラソン2027 参加申込受付中 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PbEc1Nk5XSlZ2c0YzWWRoTnZrMGFCU1kyRk5WY0xqdGZlQWtBb3lZZUNvR21zdUc0ODFxdHI4eWJNckN3Zkxna1d3V3pFd0IxSW5NZXE1MVRFT3NlekFiOS1xOUNCaDlnNU1ma1U2anpvVDF1M2hJMTVlMA?oc=5",
+   "published": "Fri, 06 Nov 2026 18:21:43 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性 「アソビュー！」関連サービスに不正アクセス 沖縄県が注意呼びかけ - UQライフ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMXFDV0tPZlZxVGtLTWU4MFBRXzhISTh3RVNFU3UtaGdsNWFMbHhwTXNpZDVUOG44LU9TSV9JWTNTLUp6czI0a2EwODc2SXZnN29XbmpaRmx5czJxZHZLN3hXdXdwc3lMcE9iUmNMTDhrODdOcVJDREtZV2lrMFZjeA?oc=5",
+   "published": "Fri, 06 Nov 2026 09:15:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄美ら海水族館】気仙沼市×沖縄美ら海水族館 共催イベント「ホヤぼーや 全国ステージキャラバンin 沖縄美ら海水族館」を12月5日(土)6日(日)に開催 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YclVfTlF1aGFPU1dyQUJndFpWRmxKdGNDTllOUlVWUGJfNmlCQ2pzSjdUWnVVRmtNb21MY3A2a2R2ZXBTa0pEMmZzdmo3RzJCM1ptYXo1Z3BPUVlCc2h4WjR0X0tCZ2lvVlB0ckJ3SGxmUQ?oc=5",
+   "published": "Thu, 05 Nov 2026 04:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "写真：首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性 「アソビュー！」関連サービスに不正アクセス 沖縄県が注意呼びかけ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlRVFRdU1MOHNuVHV4NlNveTh1LW5OeF9ENWVxdW9HcW9NeFh5ZldqdUhEbDRTVlB3ejh6LVE4czVORWpvQzhyUmFlTXlVWkNXeExEb09YUl91NlJwbmRTNmRXbzFxUQ?oc=5",
+   "published": "Fri, 06 Nov 2026 09:15:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "移動水族館の魚にくぎ付け 初めて見たハリセンボンに驚く 親子で海洋保全の大切さ学ぶ 沖縄・読谷村（沖縄タイムス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52NVZEWjMyOEQwcldBS2tNU3A4aGw0c0VqYXRONml6d2VUZm55WW9Hak8tM0FOcHprLVNuXzQwUk5iQ04xaTY5ZHJpdnZhdEQ3SDUwS1NNbHZUMEpIZWRyRWhIZGE5ZnVWUld3SlNLUUVQeHUwUVlDSlFLZmlQUm8?oc=5",
+   "published": "Thu, 05 Nov 2026 21:01:21 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "写真：【沖縄美ら海水族館】11月1日(日)限定 水族館開館24周年を記念して来館者に先着で「2027年オリジナルカレンダー」をプレゼント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BZG1ZSUJpdk9VdEt0d3FqSzRyT0ZoNkgxVFlmRmVwbzItd2ZkdTc4MVd4eVU1T3M1aVFUaHBzZFpTMVBRT2JOT3BXY0JHWXVqRUluY2g3R2c0Rk1EeVBwWnNkUFpoQQ?oc=5",
+   "published": "Thu, 05 Nov 2026 19:06:42 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "全長4m！　レゴブロックでできたジンベエザメが那須ハイランドパークに登場!! - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hYXI2VkllaDZyRzRESzlqcTdxaUdEUTVOdXFhMklmbXV3SlJpV0J5MXh4NjBDM1NQdmpXTnlVc3N1YUNtelR2RFB2MGdGSjkzWnNN0gFYQVVfeXFMTWluVFJWXy1zcmplMVlxRTVBeUVWd3ZMaXJQSVEyWGowcVN4b29vZUJDYnkybDBaVnpKN1I1NjJPV1oyMWVQOHFLdVZGaWJpYV9CZ1hTSWFfSQ?oc=5",
+   "published": "Fri, 06 Nov 2026 10:38:35 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像18 / 20＞沖縄美ら海水族館が4年連続1位に！行ってよかった動物園＆水族館トップ20を発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxcHBHcTBrTzAwUVdLc1ZDQXVJV1NybEFUejIycVZ5T01mRXI0cVF5aXdpS0dUelJEVEpJNGlKWlpBVHRPR2hRRDBBWEd1eWNKMEsydDF0VlpyOGlhalZ6azRSWkh3TTBB?oc=5",
+   "published": "Thu, 05 Nov 2026 13:08:15 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "夏休みに行きたい！沖縄の水族館＆動物園3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYUUxzM0o4MVpHUHNTU1RDbTh2MlVUWVpzQ01pRzNDc1Bid3VJZlJMTC1rQUtrU0dicU1JcXBJcF9uZTVNS29TQ1JxWU81MTlXQ0lRd3FLSzlFbDlmT1haQk5Xam5KQdIBa0FVX3lxTE5NY0hXLVFidFBtVnNDQnMzSlhsVDZxaDhtV2gtRXhBZ29ST1UtWXRvS3Z3MlR0S2VvamtoSjNQUHNUQjRid2x6cFhCU2RpbEloTWYtNmFlOGI2Zlh0OVFOX3JPNXlCZzZnU3NJ?oc=5",
+   "published": "Thu, 05 Nov 2026 06:51:38 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "＜画像5 / 20＞沖縄美ら海水族館が4年連続1位に！行ってよかった動物園＆水族館トップ20を発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1V2NZZnNya3ZZQnVlN054M0twQ1BtZmtmMW5UV0lsd2tyUmJpcUxqTTdfaUFzaTZnaUpUYUNLVTdPWlVIalhNOFBUaWlLckc0RjlncmlmVWw4SGN2elNWck5XMW1mUXFm?oc=5",
+   "published": "Thu, 05 Nov 2026 20:50:33 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【海洋博公園】１月１７日(日)開催決定！ 海洋博公園エンジョイマラソン2027 参加申込受付中 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tRmo4ZnN2VWVBVjJYT3FNLThGcUswNkRIOU95cTNIa09sWUZ5SU1fSzNqSVBYak1zV3JSRVY0Z0JvUmNyVnJjN3pyazlLaTAydVFJNXVCeUVIMDhzZlVMRWlXci1oNWVlM2lGemVVN09odw?oc=5",
+   "published": "Fri, 06 Nov 2026 07:01:06 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "＜画像3 / 20＞沖縄美ら海水族館が4年連続1位に！行ってよかった動物園＆水族館トップ20を発表 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91dUR2eHlXUmNXXzVmd1U0NjNVYURWdDBEZHdoZW1rZWRlck9BTkUzX083V0JPa05VM3c2OUJYSnc0aHlRZUx5X3UySFd3akN1NGQ2RC1Qem9rZC1YOVlucDBrRDJtMUEz?oc=5",
+   "published": "Thu, 05 Nov 2026 07:46:02 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄美ら海水族館】気仙沼市×沖縄美ら海水族館 共催イベント「ホヤぼーや 全国ステージキャラバンin 沖縄美ら海水族館」を12月5日(土)6日(日)に開催 - Mantan Web",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVFKRkUwa0ozSHdCelNvRUttY3hzaTRVS0o2dVh1NHIxVzJiMEVCR3FBZ0pZeHhBeXlTelJZazFUdERqQlVfdzlDa1A4ZndSeWpqT0k0Qjk4M053ZzNnWklHZ21WNDVadWpCZGRKNEhYWGQyeE1RN2toUDBCVXM4dWxsTlY1eHcy?oc=5",
+   "published": "Thu, 05 Nov 2026 04:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「こんな歯があるんだ」海から離れた特別支援学校に移動水族館教室　ラッコのはく製やサメの歯の標本など展示 - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lc0dwWFF2dFhldEVYVmFCcVRWLS1WMlN2SkdpSHdPUW0ySFpJeEFQZlRHSDBQRnZUSzRjcFN6SlVaMWNLOWdoUkVZUlZpQXhWbFpfSWo3Vk5nODlCZ0FRNWFrdTc4LThYNXhkStIBckFVX3lxTE5mbE50OXlWaEJXaEYxemZXSzBRMEV2VlpkblhWS0hteVZ2TENKcFh2UU5TdUZ6RUExWGUtV2x3d01QbndvMlNzVkh0bllUTjFWcnpLZmg4azFSQ3BKQmh1Q3NucnBvMTRCUTdkTUd3QmZIZw?oc=5",
+   "published": "Fri, 06 Nov 2026 03:31:15 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「旅好きが選ぶ！日本の水族館ランキング2018」が決定！1位は「沖縄美ら海水族館」、トップ10には九州からもランクイン！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJZWdhTTdlOUdZWnhQMmhvWXFIM0tUeXNETlpaSERKdFdrX002ZHdUVVA2Z1VvRTI1TU1sdXlNcnl5TGxzTGRBX1BsSHBBQUsxSFVlRmdEcHNLSEZQZjZxNjZTUFdVZ9IBa0FVX3lxTE9FNUx4VHR1NlNnbllWQ3JhMDQ1TlZEeFZjeDhCX1RUcE95bFlicUpXWmlnbC00S0pzZmlJSHExTDY2RHNpOWxpUzhYZndVRmZzdWEteFp0ZmNwWGtva21pcllzc2JpcVY1aTlz?oc=5",
+   "published": "Thu, 05 Nov 2026 07:07:53 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【海洋博公園】１月１７日(日)開催決定！ 海洋博公園エンジョイマラソン2027 参加申込受付中 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CbDEtTjltbWVCd1c0RUwzbnd2eDJOTkpsWFZyYTlpQkdjLURZV1FsSlpmRG1WTml3LUs0ZHppakF0M0NFc1JBLTBKdmJ1LXFtOVVka3dEd0hyb2tleHRhZUVyaTR6ZGJtYlE?oc=5",
+   "published": "Fri, 06 Nov 2026 07:01:06 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【（一財）沖縄美ら島財団】11月28日(土)29日(日)小中学生向けイベント開催！「さがそう！わくわくのタネ～あなたの - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tMGJRRnFmN1QxUFN2WXlaaFJGYUs2d1h1dGdqTzFBOG9aRnRxeE5GWjQ2dFF4NTJOVFR2RUxORWRYLUdybWVsNjlTbXh6Rl9GU3NKTUgybnh2LXBaNFpfQ0JYeEk0U05Vb3A2N3YxNFA1QkZNV1E?oc=5",
+   "published": "Thu, 05 Nov 2026 23:00:23 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "写真：移動水族館の魚にくぎ付け 初めて見たハリセンボンに驚く 親子で海洋保全の大切さ学ぶ 沖縄・読谷村 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLWFjZm9lWkxkSzNEMEhWOUlWbW1yMVBlYkxWdWxPbWpQR1Nzb3NtY2VXR0g4NkFQcmhENU93T01CdnhUOFczMkxrVzJLOFhCS2U3QWhkSEVQcFNMX3VsS3hqUXpQZw?oc=5",
+   "published": "Thu, 05 Nov 2026 10:15:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【海洋博公園】「植物の根っこ」に隠された不思議を発見！11月の4日間、海洋博公園にて植物博士と巡る植物観察会を開催します - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUOEhaRkJSVkhjaXdQOW5ldTFFeVJUVjBYNVdUMzZIZVgtZ0d1T19sRXRrV2ZpYnlNd1dDMzc5eHZPWmYxZ1RJbkdMMmo4NmRxQ2JWU3pmQkR0endfNEc2TXpxSG1wcnZhVDAzLUxGRS02UQ?oc=5",
+   "published": "Fri, 06 Nov 2026 01:45:24 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【（一財）沖縄美ら島財団】11月28日(土)29日(日)小中学生向けイベント開催！「さがそう！わくわくのタネ～あなたの好奇心の花を咲かせます～」～in海洋博公園 | 一般財団法人 沖縄美ら島財団のプレスリリース - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Umpta184bzYtOTM3Mm9uMllQV1FqV0xtbGtlaUFhYlVKZUVpUmFabDZMN2JuclBhZHZLVHpReUNQdEVkalQwRnVEZlFKZmNqVldSVVl0dWwwcjk4bTloSUlhTE9lM1JzUHc?oc=5",
+   "published": "Thu, 05 Nov 2026 08:50:24 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【海洋博公園】「植物の根っこ」に隠された不思議を発見！11月の4日間、海洋博公園にて植物博士と巡る植物観察会を開催します - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUV8xSlNOMy1sNlBFd3BiQ3dTZ1NRX3AxTnR5SGJjRnpBNG5VLTdvRlg5bUw3NzhHbWh2MVduYkEzY3ZwaVhDRXh1OXgzVmxKeWMyX045LWhjOGdhNHVvc0ZxUUlwT2lZVFE?oc=5",
+   "published": "Fri, 06 Nov 2026 00:27:04 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【沖縄美ら海水族館】気仙沼市×沖縄美ら海水族館 共催イベント「ホヤぼーや 全国ステージキャラバンin 沖縄美ら海水族館」を12月5日(土)6日(日)に開催 (2026年11月5日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XcXpVMkFZUDU3T1Ntd2l3djBxX1diTF9KY1dZbE9BRE5YS2I1T3dwUU9aWUpHTDZmcXBoME42SGd2WDVka2ZIMmNjZzhrdXZQNWV6cm9ha2tXb3RMOThoZXln?oc=5",
+   "published": "Thu, 05 Nov 2026 04:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "新事業の創出ヒント探る 奄美×沖縄 民間業者が初交流イベント 奄美大島｜社会・経済 - 南海日日新聞",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQc0UwTEVuQm5tUHk1OUVKblBuMFlxRVhhb0NkeHplSVFfVml4VzBlUXhsN1ZueXBKYmtQZGVyMlNEai1oSEV6TjZva2VORTBWVW9jeWFaOEpZUEgtRTk4amVTb0FRNHJhbUNoM0g5XzJSZWtkMi0wd255Wlo5ZFp5WXpWXzVrem44bnVrVFBWNDZyclRDald5cXFRZTVqZl85RXZpbGc0SG9CRXpxajM4U2dmd3FwcjBjNmFxSWFmUjlMMnE1S1ZrZnYtMTU0VGdhRlM4U08wZ1B1LUxMSW5BZXI2ZGxyRVJSLTRRam0tdzY5Yng0MXctajJjeGs5M2dPeWZDRGkxZGhXTl80RnctUnd5VjJPdEJjSm5Bb1BmejZXTWNtVGNBRkxxM2p0elBRMVE5UGRvd0hQcDZQWmhmUXlVdDBuUk9PdEtxMEladw?oc=5",
+   "published": "Fri, 06 Nov 2026 21:01:19 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "西原で「秋のおいしむん祭り」 沖縄の産業まつり中止受け、出展予定の13社が販売会 11月8日 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TU1hRQmI0eGtXVEdJcU5LOEJiaENhUjRocnlUdlE0MDNYVXJjeGtubGNEVU0tVTZ5bjdyVjd0VGxuOUF6UkthZ0dIYXpWR2RldVhRV0NaTVo2c01XS1E?oc=5",
+   "published": "Fri, 06 Nov 2026 07:47:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄とつながる意外な縁…鎌倉で8日に交流イベント「空手の日」 エイサー演舞やグルメも - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMU1oQ2pzZ2p3SDVzY2ctWXZ5cDZiYzRqYlBSYU1rempDTHM5VFlRaUVUSmdoWDhJWVJKN2tVRjY5RXljVHZnME5Qd2ZwMkpmOExkSXV4RHB2UnFDcGMwZVJzUzBieUlJQ0h3bF8taHdZdmd6NTdsQWZYR2ZjUW5vbWR4dWxBNDN5MjN6Ug?oc=5",
+   "published": "Fri, 06 Nov 2026 06:06:24 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像3 / 20＞ふるさと大好き！HYが地元沖縄で初イベント「SKY Fes 2011」開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54cERLWTA2b1pyNW1xLTlfcGlTUmhnczdpYTd5ckVGcWVPeU9aRUJ6SlVWTFhQMDVsSjR3OWJUUjNsWklILUt1U2FGZmwzczFSTHNDYThucWRUWHRvamx5eVg0NG1JWEJY?oc=5",
+   "published": "Fri, 06 Nov 2026 16:25:02 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "南国の旬でクリスマス 名護 コートヤードでイベント 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iY1NKOG1vY3JZNmFLd1cyZ0pHNWFnM2VMZXlhblRUck9LSk5ZbEZVaWF6Z2tzQ0RBN09LUEhSa0JHWmlXdXJaSV80Qjd6MGdpLUw3RlRUekx0WkVZNWxmZHdB?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「沖縄の産業まつり」中止に伴う出展事業者への支援を知事に要請 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZMVI2RFB2VUV6eURBWmxwbkNWb2dBZXdkbUk4M0F4NGwzdnJOME1mak5SRFBaZTIySzFsUUVoVEszdnc0SWtEYmRZdUZOcUs5eS1TTzE3a2lrWEJWb2kzZjlPUVRDdm1GSjhZX3ltN0hxck0?oc=5",
+   "published": "Thu, 05 Nov 2026 02:21:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "南国の旬でクリスマス 名護 コートヤードでイベント 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5zeWJjaHkxYzRkbDNlYndzQjJ0Rk1USWtvLW9oVWJtdzU0Tks4T00xUHA4U2VxRmw5eFU2TjVJeWc1Q3hvU3BPUmpxSQ?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "中国・北京で沖縄文化ＰＲ - 福井新聞社",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84MTc2cWFDZDI0cDZvUzBoZDdhZWplUTRzWG8tU3JjY0dkakVsWTNrbGI2aUs3dmY5TEd6TExVTnpMUVd6N19ObGtYVlZzRTZBeFdQMmVXNjVxRmN3azR4VDRCcXZieGthZWVCdw?oc=5",
+   "published": "Thu, 05 Nov 2026 17:15:34 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「沖縄の産業まつり」中止に伴う出展事業者への支援を知事に要請（RBC琉球放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tWGRuejZpYzhYZ1ptMU9lU2lUcy03WWczNmp3V3JKY1J6Rk40UktXTDMtcnI4OFFNQnZpNVBaUGVleGxIcXE5cHdHOHN1ZWZpSUhfaHFZX2ROVDJhR0laNjBtN29seklxNW5rYUo3ZTVURVhVSGFsMTUtLTNIaUk?oc=5",
+   "published": "Thu, 05 Nov 2026 03:15:28 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "産業まつり応援436万円 「みらいおきなわ」マルシェ売り上げ 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUmtMTXhyWERBbkN1SDhZcUN1MXMzYndhNFkyRkZpeDZ0dGVBdGFBRXA3aEdMRk0zb244ZWtxMS04N2VMc0MtbEpGY2M0dUd5WFlmeFRnVnI3WDBid3NYQzdR?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "応援イベント売上436万円 みらいおきなわ報告 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YSkg4X2xBckF0akdYeGZ3NnpBOUhPSzRUalZUd3J4TE5nNGdlVUpvbVd1dkZIUjZKbUlqUUR6VWhCM0s5d0YwamRSNUU2dG5CZjNnV0l5VzZ4NkxPOUE?oc=5",
+   "published": "Thu, 05 Nov 2026 18:59:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「沖縄の産業まつり」中止に伴う出展事業者への支援を知事に要請 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rc0ZlYTVaSVgtMUNUUkZlbklQTEdSZW1tUmNINGxNeHNjNW4wRGJ1alNCS1hfQ0U5Si1jeVl2WDA0V0NyTUJsekhnbTlZdjdMTmVVeWtlUGxJQQ?oc=5",
+   "published": "Thu, 05 Nov 2026 02:21:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "母トーカチ記念、タレントの喜舎場泉さんが7日イベント「どなたでも大歓迎、一緒にお祝い」 介護経験「元気与えたい」 与那原町 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUWxGUlM1UmtiSEEwQjd6Y0NTdDhoNEx1b2I2WHRiVFhQVDJuaVZEekR1VjhSTVZOMmU4MFE5V3RrczJ3c0VFcmM3aGdaNWIyVzRzTEdlR3NWN2tnWnpfZ0FuSDZzTmoyTktZN3plRnpsOEo0eHRkWlhDY3hGUXpDZEpDbFNPaTRvVDNDdTZn?oc=5",
+   "published": "Fri, 06 Nov 2026 02:11:27 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "産業まつり中止 事業者支援要請 沖縄自民 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5STEZCUnpUS2ExWlUwSVpnTjYyXzZKTTNOdHlXQWpiV20xTkNTRFhpMkloY2RMdHVPOGFBeEFGUl82NElYNkhIdWNNaUNLU0g2eDNWTFpXQkhqVGZNaTFLSQ?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【ANA×富山市】羽田空港で富山市PRイベントを開催します！ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2OUJyWGZJTFk2US0wTEQ4UjFUV0lpeWpoalpyN2E2cWtjZ1JGNUx6LWxnVlQxenl6VTUyNnU2MGI2MGMxandtbll5dDdodHlxWlhXRHAxUy0tdW12VlE?oc=5",
+   "published": "Fri, 06 Nov 2026 04:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "宮古島の伝統的な踊りを次世代につなげる 550人が参加し「クイチャーフェスティバル」開催 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hMV8zejFnbEowS0dYbVdzMTd6ZjFCQjZBU1VGYmFrcmhENEJXd1lLa0VEbURHOV9zNV9LY1RTTVYxWXBBanNmR2RvUFBzM1VjN3RieGlSZ3ZtZw?oc=5",
+   "published": "Thu, 05 Nov 2026 01:48:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「ミニ産業まつり」8日に西原さわふじマルシェ 中止乗り越え13事業者 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tNmtIcmQ1cURoWDIzMjliUDd4THRJU2ZGenBuUDc4Y3ZYQzJBbDdWeHhiYXZlLXVDcjhpTTZJR3JoU1dTdG04QTN2V0FUMnd5MjFJeE5rYUNfbXlpU0h4Smd3?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "古謝知事、県庁で「県産品販売会」開催を検討 沖縄の産業まつり中止受け - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBicW9QMDEzanNhWFNkNEM1MzZjR1NjeGNXRFdjNzlDSm1QLVYwSk9oTDFIbFpJSWRXdml4U2Vhb1dLeVNpSXlGV2tSUjVma2JLTUpoUnlwcHM3cjl4TWc?oc=5",
+   "published": "Thu, 05 Nov 2026 07:58:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "産業まつり中止 名護で応援催し 商工会、あすまで - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95cFBDdjY5cmR2UGdJZS1zTlo2SHRKTzFobmpqQVJSc2VqeERJeDc5V0ZsX2dranB4TlFuRjg4b0pmZTc0QVdRSTQ0MURtc0FDVGZsUlJnVzVUOGI0QVA0Ymh3?oc=5",
+   "published": "Fri, 06 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "母トーカチ記念、タレントの喜舎場泉さんが7日イベント「どなたでも大歓迎、一緒にお祝い」 介護経験「元気与えたい」 与那原町 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53b3FlYXlSbzQzblFfRFFMSHVmWVk4a3FwQlVlaWpSbHhfbEJOdGxpQmxUUkNpOWlSUjJSQ3FDMGlxR1R0VXBvVTRycVItWTg4RmF1VFI4TlVKTm5uNnc?oc=5",
+   "published": "Thu, 05 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像16 / 20＞アニソン×コスプレ！沖縄初開催のコスプレイベント「コスミティ！」に潜入 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQi1HYU5nSEpId2ppRkUtSXh0T3RPUjhkVENoOTJpZ2FFSkNrakxjdHVVbTV2QXk2WFBNVEk0TFpleWc1ZHlIUVMxMEZta0dhYjFuUDUyVjZEVl8tNkphY05vYmpWWkdGeUE?oc=5",
+   "published": "Thu, 05 Nov 2026 17:24:14 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像1 / 2＞沖縄最大の夏祭り｢一万人のエイサー踊り隊｣が8月5日に開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QU3pTc0lQVnoxa1pzZGtRRExlbFNHS2p4MFdfV09rZXJCYUd1TENQblZaTFp0LS1hcDB4RXRyNXJ2aWQyN25ycVptWl9JSTlPZVRxdEM5b0l6ekdEUS1JbmdxNUdlT3hpS0E?oc=5",
+   "published": "Thu, 05 Nov 2026 14:27:56 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "画像8 / 20＞ウィルコム沖縄、新イメージガールに真玉橋さやが就任！ヒガリノも名誉イメージガールに - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83c1g5el8wWGpORlNibmtFRTdxakxhdFBtalc2amdXQkRpclE4ZmFfOTI0Nm1YUGpfTUhsYjA4dUQ1TnhWVld3NkQ0a3VieS1EUDFJRExVY3VyUjQyMFBaRndnWFRHMG8?oc=5",
+   "published": "Thu, 05 Nov 2026 06:23:26 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像12 / 20＞アニソン×コスプレ！沖縄初開催のコスプレイベント「コスミティ！」に潜入 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XUTVxd2pVV3dNd3dWOVVsV1o3OVMxVldYS2w5UlBEREhSSVhHNEduT1d0TTVQOElXbE5GZ2ZzOTFSRXhnenJiQ2xCY3NpTVN2OVJkODJOdUZ6dXlkbzZ3aFpqaGZaZTFBeUE?oc=5",
+   "published": "Thu, 05 Nov 2026 05:10:29 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【（一財）沖縄美ら島財団】11月28日(土)29日(日)小中学生向けイベント開催！「さがそう！わくわくのタネ～あなたの - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpeFU2dXR3QUlsZE9nUUowZVVnN0M5WXhUOGs4N2FDcFBNZEZHUVJsdnBwSmNEeUN4N0ZiUWF2ZlZ2bDhaLVlFMEdrbmhNSjA0N0tlb005V05hU181cHBLYmZLakhqenByRnJqVXRUMXJQdWhKMzhHLTV2cw?oc=5",
+   "published": "Thu, 05 Nov 2026 23:00:23 GMT"
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【JAF沖縄】沖縄県内10社・中古車400台が集結！「OKINAWA 新車正規ディーラーズ中古車フェア」にJAFブース出展 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kV1FPSVdFODVMX3JtWW9wS1NaUVM0Mzc1WHozN205VmNXWXZoUzFwc0s1UVF1eEc0ZWV3bVdaaG9WYVVzXzlwRVBRSDlKSkNjM2F4V1JoNWdiWHlvNGpVSTc4SHNxb0QtT2c?oc=5",
+   "published": "Fri, 06 Nov 2026 01:00:03 GMT"
+  }
+ ]
+}

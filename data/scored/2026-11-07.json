@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-07",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 137,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "飛行機 那覇空港で学習 小中学生向け 21日 JALグループ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1INGV2UWhlVE5WamlCRnNvZGlIOFg1NXFsRXFpRXUxWFVIV2JVNWI0dWpRMi15ektlYTkwQ29oeDUtVHBvcEwxUzEta2JXazVkZW5sbzQ0QnNhUTlFakE?oc=5",
+   "published": "Fri, 06 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.665
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "新事業の創出ヒント探る 奄美×沖縄 民間業者が初交流イベント 奄美大島｜社会・経済 - 南海日日新聞",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQc0UwTEVuQm5tUHk1OUVKblBuMFlxRVhhb0NkeHplSVFfVml4VzBlUXhsN1ZueXBKYmtQZGVyMlNEai1oSEV6TjZva2VORTBWVW9jeWFaOEpZUEgtRTk4amVTb0FRNHJhbUNoM0g5XzJSZWtkMi0wd255Wlo5ZFp5WXpWXzVrem44bnVrVFBWNDZyclRDald5cXFRZTVqZl85RXZpbGc0SG9CRXpxajM4U2dmd3FwcjBjNmFxSWFmUjlMMnE1S1ZrZnYtMTU0VGdhRlM4U08wZ1B1LUxMSW5BZXI2ZGxyRVJSLTRRam0tdzY5Yng0MXctajJjeGs5M2dPeWZDRGkxZGhXTl80RnctUnd5VjJPdEJjSm5Bb1BmejZXTWNtVGNBRkxxM2p0elBRMVE5UGRvd0hQcDZQWmhmUXlVdDBuUk9PdEtxMEladw?oc=5",
+   "published": "Fri, 06 Nov 2026 21:01:19 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.628
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "気象のプロが見たジャングリアの暑さ対策 32年ぶり「台風32号」発生か 沖縄への影響は？ - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wdWZxTllXaVRKcWVOZGVfWjA4bjlVMUQ0Q3BfYWp5QnoyYk9iS2xyZ0gtN0FhRW9nWHJfcUZtRTV2ZS1RbmwzZ2k4QQ?oc=5",
+   "published": "Fri, 06 Nov 2026 11:26:00 GMT",
+   "score_parts": {
+    "recency": 0.728,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "気象のプロが見たジャングリアの暑さ対策 32年ぶり「台風32号」発生か 沖縄への影響は？ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGeDRScEFqYm1IclQyN0N1SHFDZF9yeUI4OE5KWWl5TVNCMGUwa0lVU0h6ZzNjQ1ByWmNHMnZiQnRUekZBVnJ5RWhOOHZlY0VPbVJxTVRWYTNFQkt3QUE?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "“ジャングリア沖縄”の暑さ対策、気象の専門家が注目　32年ぶりの台風32号発生か　沖縄はうねりや高波に注意 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUpaZmtJUlVIb19nM1YwQkhnbm82XzduNEx2ZTkteTF2NGJuWkJBV29aWDBMNDh2aWhqMk5vZjZ6Wk5nTU5IUWtZcVo5Q0ZYZ0dFcFA1Umw2S2ZjU2loekZJdGlIUExsUFZqbnV6NFlhYWZoMzdBWDFFVVo0OW45emRrcTdhMDB1QnVOWDlKa2ZPZWxaN1FuQ0hITy1rX1IzYm1jRmRzb2xuTE9jV0JIQ2l3QVlybDU2QmZIZV93ZDNfV3luT2hHbzdyTWEzUG8yaDhJMnU4V1TSAYgBQVVfeXFMT2o4Y04yU1hFUDZ6S2pKVmN1NGkyTVgyaWVNR293RlVwN0pLNjVFb012YVN4VlFIc0w5QXJXWUdrNEZmYTQyV284STBEQldLeFE4NE5uZ0NwRFpXaU5Da0NQY3UxTEJvNFJMQ20xOE40YW12S0t0T0F3QXJVYzNaMDl1eDc1bmkybw?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "“ジャングリア沖縄”の暑さ対策、気象の専門家が注目 32年ぶりの台風32号発生か 沖縄はうねりや高波に注意 - UQライフ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYW5KTHoxYUtwdENLZFF1QV80Q1BMSThhVzU2Q0dCeXp6NTlQZVo4c0pXUlhUb3FDQ3h3SERfSVB6UUJOUS05bW5Cbm1UbGxQM01xb0VVbDMyUmxvZDEzMnBVckVMQWQ0ZU1IQ2pDLUVoTlNINGJPTGpfRUJrN0s4aw?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：“ジャングリア沖縄”の暑さ対策、気象の専門家が注目 32年ぶりの台風32号発生か 沖縄はうねりや高波に注意 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9laVQyaGFpYUxkU1UyX0VXcjFWaGZkcnpoR3FIUEZyUGJOMjJSUlZvNXVHaEJwRXRsMnZnQjBwZmw5Mi1kdHhsYjZ1OGxjdl9GMVFxWmJhMVdMcml3QnZ0dDhXUE5ldw?oc=5",
+   "published": "Fri, 06 Nov 2026 08:18:00 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像 | 森岡毅氏｢マーケティングの神様｣から評価一転…《｢ジャングリア沖縄｣の173億円大赤字》で透けて見えた\"実力\"の正体 - 東洋経済オンライン",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUFJmeTJJbDdsemp6Y3ZqbV8zY0pmWlpXWnByOVM4bW9IeGNzRVMzTXF4SzFrbVFvNDlFRnk1ektDclRWVUZEcUczZEhzSVU5MTZYS05ZejhXRmNyM3c?oc=5",
+   "published": "Fri, 06 Nov 2026 07:00:00 GMT",
+   "score_parts": {
+    "recency": 0.636,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像8 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1dxTHBZRUNNTV8wVU9QalNnWEdHeUZRR20zUzloWmtJbE91bWY4cjY1TkNxWlhiWFU0eVkxeHpTcEdBRDlrTVUtREI4bnl4clNNenJSTURQbl9UNmdhLUhYV3lLZ0d6S0c3MUxR?oc=5",
+   "published": "Fri, 06 Nov 2026 13:55:15 GMT",
+   "score_parts": {
+    "recency": 0.78,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊施設が人手不足を乗り越えるヒントを2日間で！ 沖縄観光DX推進機構、「第1回 HOTEL ENGINEERING EXPO」を11月17・18日に開催 参加無料 - MICE TIMES ONLINE",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Z2RYR00wa1BTTDdDRTcxRWRGYlowOExUWDBURGNuNkh3dDBudnpod1JocEQxZmFzb1BLVlNyWmhHT1RPR2dEazhhZ19ieWxTeDJDVG5jTmNoQXgx?oc=5",
+   "published": "Fri, 06 Nov 2026 21:06:35 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性 「アソビュー！」関連サービスに不正アクセス 沖縄県が注意呼びかけ (沖縄タイムス) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkZUblRqLV8tMHZsblFTaHQzWDhtVDVQM0RvTXEzempVVVVjRktBMTJyczBGM1UydmJDbVZQRVJLVDZ5S1pINzdzUVA5dFFReWg3dS1YZmVfbkw3QXluYlNYX1hQc3lFM2JUbk9oTTJROHpGU3dUaGVsVUIyS2s0bWN4MkFqTjZ3clFWdGF3?oc=5",
+   "published": "Fri, 06 Nov 2026 12:01:20 GMT",
+   "score_parts": {
+    "recency": 0.74,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.572
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "沖縄美ら海水族館で「オグロトラギス」繁殖に初成功し展示 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BZF80WjFJbU1zeWI0NGZIb2ZSWEkxS0dtVTdrbFJjTVI5M3ZlNl9UM08wOE1mX3prc0k5dXRLeUl0MFhYY3R3SXFtaHFZZVJVclJQQnFiOHhkU0RrTHow?oc=5",
+   "published": "Fri, 06 Nov 2026 10:31:59 GMT",
+   "score_parts": {
+    "recency": 0.709,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.563
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "読谷村のリゾートホテルでイルミネーション 沖縄（沖縄ニュースQAB） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwM0JWbmh1RUJmb1VXLV9BM2N2aXdhOVlsNHVBclRfcmdKZm92ek1TcFI1VUtOWXVwdHR4cEhFTHJoXzctZzQtRVZEOFVYUW91TmpFRjB3Zk90U2FIbDJUcFNtWFNtbUxnbmZuNV9FYkRpWjRjVzRNLUUyd1lOYUE?oc=5",
+   "published": "Fri, 06 Nov 2026 10:07:39 GMT",
+   "score_parts": {
+    "recency": 0.701,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性 「アソビュー！」関連サービスに不正アクセス 沖縄県が注意呼びかけ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oa1FKRldkSjJEYjZWVy1Jd3RIVUQweEc5eWdKcHpiR3licUNZaGExeVFQbU1Ba1JrUVhiUmNMeGlGRVh3VktGY05rQnNPS2VzT1VRZGN6bWlxdGJiYWc?oc=5",
+   "published": "Fri, 06 Nov 2026 09:15:00 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "首里城公園・美ら海水族館のチケット購入者、個人情報流出の可能性　「アソビュー！」関連サービスに不正アクセス　沖縄県が注意呼びかけ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0JmZ0ZzYTdySnBUWjZySV8xWWg2TUo0YjN4ZTF4Q1liRUNla0dLZFc3bzRPUHJEV0piTkdVbkNLN0t4M211R1gwSDBORTFWUFpYWjVqNVljaW9MdHZvWXBIcktNbHZ0RnRDNUNva1ZRUXNUYm5mQ1pxMVZaanBvT0dVX1FydnNV0gGIAUFVX3lxTE1DQmZnRnNhN3JKcFRaNnJJXzFZaDZNSjRiM3hlMXhDWWJFQ2VrR0tkVzdvNE9QckRXSmJOR1VuQ0s3S3gzbXVHWDBIME5FMVZQWlhaNWo1WWNpb0x0dm9ZcEhyS01sdnRGdEM1Q29rVlFRc1RibmZDWnExVlpqcG9PR1VfUXJ2c1U?oc=5",
+   "published": "Fri, 06 Nov 2026 09:15:00 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  }
+ ]
+}
