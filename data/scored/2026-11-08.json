@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-08",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 130,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【沖縄】ジャングリアCEO「自身に責任」、繁忙期の開業を後悔 一問一答 - 日本経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VSmtKRW9kQkRHWXNrbWZpRllzY3lTQ09xVG04U0NDUjBJcGV3VUI1OVJHSXplT0QwbU8yRmNOeFBIaUlZY3VsajVlTnFqLXZxLTNPOHI1YWJzSUcwcXlaNWNOT3JZeDlJcWVVYw?oc=5",
+   "published": "Sat, 07 Nov 2026 15:00:00 GMT",
+   "score_parts": {
+    "recency": 0.811,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.643
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "長野から沖縄へようこそ！ JTA松本―那覇チャーター便の搭乗客64人をお出迎え OCVBが那覇空港で歓迎式 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yWlUyZDdJbTBxTjlSNGJMQ0ozSThwOHo5UDlMZC1sX0pZVkR0WnJRanJ1bnFNRnVaVENUdHRCM1YzVzgxSFp2SXhGQkZvcUpGX2VQUVV6M0hhajBmUEE?oc=5",
+   "published": "Sat, 07 Nov 2026 11:21:00 GMT",
+   "score_parts": {
+    "recency": 0.735,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "世界初 沖縄美ら海水族館で県魚グルクンの長期飼育に成功 | TBS NEWS DIG - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DbmxrOXEwQkhQNTJmWTVmQXloMWN3YXk1QkNzSUZtUVFKOHNXOGZlVUNDZTFwcWlLaHB2MWdhbEtVZVIycVI4MVlPSjRfQmdUUHBOYmZHV0lWeTd2?oc=5",
+   "published": "Sat, 07 Nov 2026 19:25:47 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.621
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光セミナーと 展示商談会開催 25日 県ホテル協 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nNWl2blF4Uzh3TUtxSUkyRGcteFdwOFNOQ29QdlJTOEVsN0FJeC1DMHJlZS1pckdSZ0hvQnlRWU5ObXVJS195YWprLXRCNDNVVmh5ejc2Z3FMV3I3SUE?oc=5",
+   "published": "Sat, 07 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "写真：観光セミナーと 展示商談会開催 25日 県ホテル協 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZRHpTVzZSNUdkemJVa041emdYeU8wc0U0OThjR2RQS05PZ0F4UE04UTZHRndET1Z4ajhwTnNiamdRcDFWeHZSbHdPcUxHeUp3TDhIVmg2aGNKNERBWERuZFRodU90Zw?oc=5",
+   "published": "Sat, 07 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊税登録進まず ホテルや民宿 全体の2割 来年2月導入 県、月内申請呼びかけ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FdUs0MGtRWGtHZlJhQjZzbGdhQWtMR2dFWENiQUw0ekM1cVhmc18taVI5YVJGQlFtdVhLTjltbjdRSXhyY1c0Ujc3N0lYM3o1US1RMWFWcVRBcW16Q2c?oc=5",
+   "published": "Sat, 07 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.894,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "たびらいレンタカー予約サイトが20周年記念イベントを2026年6月から開催へ - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pQXU1UW1YTlFqajdiSUJnNm5NQWUyM3lSU0Z6SjBoTE5kcGlnSDNGTC1hS3VqY1RjQ2tKQ2RNVWtBQWoxbW9YeG9NZTNUcHRySWx0WWVXQzl6WlREUVd5UDhsT21nRncz?oc=5",
+   "published": "Sat, 07 Nov 2026 19:27:44 GMT",
+   "score_parts": {
+    "recency": 0.904,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【スマイルスマイルプロジェクト】2026年8月 家族7人で初めての沖縄旅行！ | 日本 | 活動レポート - ジャパンハート JAPAN HEART",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6cFJabEk4aTF0YlFHRlZ2R0tJRUoydDRuZGJubm10TEJpNWdzczg0S3ZWQkNKY0c5QUdZOF9Kd253RUhnRHNSSWY4Ung5N2otOTJpdkVCSkVTM2F4Q0tJaTZBelh4YW9oSHNkdw?oc=5",
+   "published": "Sun, 08 Nov 2026 00:01:13 GMT",
+   "score_parts": {
+    "recency": 0.999,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の「裏側」を探検しよう！ JALが21日に沖縄初開催 小4～中学生対象 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iSHBLbUZXM1pFaEtUdTRhWEl4RlE1NWxSY29sVFhFcjN2b19oSi04NXJkcTRzMURfRHBiRUY0OVZSMVNMQUVtTWhxaw?oc=5",
+   "published": "Sat, 07 Nov 2026 07:32:45 GMT",
+   "score_parts": {
+    "recency": 0.656,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港の「裏側」を探検しよう！ JALが21日に沖縄初開催 小4～中学生対象 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHlvNXc4NXpRcm8zOU9JcklCdWt1WllodHgzb1NvZTV4RjhjRC1XUThvbTVzWWRwMlNEcUVvbHQxZldfVmhkemNseHlNc3J3T01VeW1QU2V5S2hwSHVEUjRXbWM0UVZnUENydG5TVWQyMV9fYkpSbkFrc3pWUFQybTFrUjVTZm5CZlVFSTNR?oc=5",
+   "published": "Sat, 07 Nov 2026 07:31:21 GMT",
+   "score_parts": {
+    "recency": 0.655,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄県宜野湾市の米軍普天間飛行場＝8月 - 米、緊急時に那覇空港使用と言明 98年公文書、普天間代替 - 写真・画像(1/1) - 西日本新聞me",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40eHF1VHpLd2RFRlMweTQtakFvajBkbG9idV8yTGo0dXJOMEI0MVRpQnBtQ1lweXNtMHRtc0Rkd195MlFnUTNxaUw5c0lkODQ2TVZOR3Vlaw?oc=5",
+   "published": "Sat, 07 Nov 2026 07:06:20 GMT",
+   "score_parts": {
+    "recency": 0.647,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【鎌倉市】鎌倉・由比ヶ浜で「グルメグランプリ鎌倉2026」開催！沖縄×鎌倉交流祭も同時開催 11月8日 - 湘南人",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJMHBPUnZqYVVkSU9JMFB1SW51TkkwSVM5OFFCeDAyZFNkX2xIU0JEaUZGelA3dnREM0VpM0d6RGFTeUNicnhNLUR5LXZkSUN4dHlSTXlpM2NYVVkwRmxKNldTNTU4ZTk2Q0hCeA?oc=5",
+   "published": "Sat, 07 Nov 2026 23:09:09 GMT",
+   "score_parts": {
+    "recency": 0.981,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄で日本一早い桜めぐり 宿泊者限定、焚火ラウンジも無料（FINDERS） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3cFNJeEpZTXNLLVI1a0VXVm1XX3dlV2pjX3JUa2J4TGY4WHJwS2Z1akxkTElEblRuWlRoS2c1TWVOMjlGdkNsM2JKUWVGdHNmV3FHNlVxbnBLZUhfV3Y5VDBmOXRUWmdnSG8xSENFOHpLUkJZLTBmelRBWVBBckE?oc=5",
+   "published": "Sat, 07 Nov 2026 22:06:23 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "都立高校で沖縄戦語る 高山さん「修学旅行で気づいて」 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yWk5tVnM3czZiWGNtYVJXVlpUemlwZWhrNFFBSzJCay1TQnJHMVNSWGlVV0JIMUt1LXlwS3pWNU9CTTl5RW9fOUw0MkxBdFVDWHY1cnUzQTJBVFVyTDdhMA?oc=5",
+   "published": "Sat, 07 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "北部豪雨 農家の傷深く 発生2年 生産に支障観光施設にも影響 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zWWFWQVNURmV2YjFoWHVyV0l3emlFZFVKNEdPb3NYRkVkMGd1UG1tcGZMYUZ1akxlMVVhRzVYUElZT1FSRzlpUTRuNGoyUm1Fa1FQcFNXMGV1Z2VDSlE?oc=5",
+   "published": "Sat, 07 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.894,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  }
+ ]
+}
