@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-09",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 109,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄「ジャングリア」に吹く逆風 立地の壁と赤字から読み解く起死回生の条件とは？ - TBSラジオ",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JYXZxcVdhNkZiNEtXV3FtWFBxVlE1RDJTR2R4b3kxREJicGNDMVoyV3V6WVVwTUkxd2N0dTFZY3d3b2l2bUtEODBpMzRmNHJTZFo3UVNzYw?oc=5",
+   "published": "Sun, 08 Nov 2026 06:00:00 GMT",
+   "score_parts": {
+    "recency": 0.619,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井新監督がリチャードに30分間隠密指導!? 内容は「沖縄の観光スポットを聞いてました」（スポニチアネックス） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42RTZ2MHpTZTRSOGNNUkNZX2pyc09VbjRobkVpckE2Ty1XdG1sdVNHLXF2cXE5SzVsejNxODMtLXBNOVJFeUhWTmtFa3lYc0s4QUxRX2J4d2tWakZzYmlzRkZHRlI5SHk5UzRQOTdCd0k3RDVuQTlhTXB5b196STQ?oc=5",
+   "published": "Sun, 08 Nov 2026 20:42:01 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井監督 リチャードに一塁ベンチ裏で密室指導２５分「沖縄の観光スポットを聞いてました」もリチャード恭しく頭下げる - デイリースポーツ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUE5zYzRucGtMX2xGSFlxMkY3LW9yRXYwU1l4N0lUN0xqTkUyLXFldEh5a0IwOEhmSnV1bGRUdEZlTHBiZURjNGQtZ28teXVER3k4aWh6NDJUY25oR1NPNDFkV3czS3Iya016eQ?oc=5",
+   "published": "Sun, 08 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.911,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.573
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "開始30分で完売の弁当も！ 産業まつり代替イベント「秋のおいしむん祭り」にぎわう 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GZHlDa1ZZT1BkczlISExzMXlNeDd1ZkkwTUVJa3Q2ZlE5ek9UT0U4OTF2aUowNnRIYlJ0TGs2aEtZQUlvb0c3Z29sanZielRBX1EtWGhEaEk5Qy1nMzRISDhyaDQ5UXROX3NZN3YxN0wxLXdyRUpIazR1aHBVX1k?oc=5",
+   "published": "Sun, 08 Nov 2026 09:05:07 GMT",
+   "score_parts": {
+    "recency": 0.683,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.555
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Sun, 08 Nov 2026 14:44:14 GMT",
+   "score_parts": {
+    "recency": 0.801,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.54
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Sun, 08 Nov 2026 11:38:20 GMT",
+   "score_parts": {
+    "recency": 0.737,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.521
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井監督がリチャードに隠密指導？ ベンチ裏でみっちり30分「沖縄の観光スポットを聞いてました」 - スポニチ Sponichi Annex",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVBxY2F1a3VnVUZ0a3NxbDdqd0w2Uk8wSGJhMk1ucFhCTThCYlZ6dDc0WjdVVnVrYVBYTDVyUTdfaE5xbEhac3ViNXNna0EweUdyMHM1TlE1ZWJCQmxHNWlzN1ZpNmxYR2l6bHpDcVJNVzNtMVY5NDJZeVpiUjdKc1NVUTVtdmdjX21IejdsSQ?oc=5",
+   "published": "Sun, 08 Nov 2026 09:26:00 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.507
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "国内外で活躍する選手を輩出 沖縄県レスリング協会が創立50周年記念式典を開催 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iZVFNekN5eGt6UWk5THloVFpnOE9MWWFTNEcxZTVNdHlsRlVvbk1sS0lKNndkZU1RbWV6dHdVSFhCVDhvM2kwYTd0b3k2SFRxXzh3cEl5X2ZaM3NWMEpsYnZSTEhZQ1U?oc=5",
+   "published": "Sun, 08 Nov 2026 09:00:00 GMT",
+   "score_parts": {
+    "recency": 0.682,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.505
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【催事出店】ココトモファームが沖縄県石垣市「第62回石垣島まつり2026」の物産展に出店 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tTFFCblhrdVkwbGxYV3VTX0RzbkF6a0k4czE3T3hkWnIwMVFxcG1paWc2cWRTRTFNT2dGQlpLcEVoZk9mc3VRZ1EwMS16X3JJamRRay1MaWVQRjdsMlJUbDd0YjhjNmxBY2c?oc=5",
+   "published": "Sun, 08 Nov 2026 08:46:34 GMT",
+   "score_parts": {
+    "recency": 0.677,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.503
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井新監督、リチャード極秘指導 「沖縄の観光スポットを聞きました」と煙幕 リチャードは充実「ノート取らないと」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIRm91R283bDNuRnpqTXhlTzZNeldPN1p2M1RuSHhvR2M5ekZJVnRPVExvZDk4dDVIZC1DQXNzcW1mOWZQWldqdFNWbDhDUW9KbUh4eXo2WW5VYWhoc1Z5VlJhWS1yclVSYlZHbWlZRzBESVpuN21yNlMwamVCbTg?oc=5",
+   "published": "Sun, 08 Nov 2026 08:18:52 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.5
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井新監督、リチャード極秘指導 「沖縄の観光スポットを聞きました」と煙幕 リチャードは充実「ノート取らないと」 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ013eUpvQXZXZmRqR3pHMUNmUVJYQ0pCb3hZNlZYX3Z2RWFKMEo1TVp4dEcweHV1TURnZUQyTzVFZDc3QnM0VHdVZGlNRFRxZnRKVUROZHBlYzRxckMtS1Nlczk2czdZWkJTNXpXdXJpcFhSdEhNZE5ZUFBwQnpKTWhFcmszZTg0MTcweVlR?oc=5",
+   "published": "Sun, 08 Nov 2026 08:18:52 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.5
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井新監督とリチャード極秘指導 「沖縄の観光スポットを聞きました」と煙幕 リチャードは充実「ノート取らないと」 - 中日新聞Web",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Vczl6MEdxMGNSdFRrbXBjTXI5MjM4UGc4NUgzSENVeDFnUFJva3BITlNoT2IyUkZCbGJjN0kyaDZ3blBwM3BJMDU1TjMzMFpyUUFnRA?oc=5",
+   "published": "Sun, 08 Nov 2026 08:08:18 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.499
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井新監督とリチャード極秘指導　「沖縄の観光スポットを聞きました」と煙幕　リチャードは充実「ノート取らないと」 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0bXRNWHlyaE1DZ01MN2dCbV9wWnNQaERvLVQ1ZUE1RFN1T2xmbEhMQnFSSVJKQmx0MlJMMVBlRENMb1Qyc0o4eHVXem5BTi1EY3hZM1dxTXZUWG1Fc2JGUUMybThuVzE0M2U0ZVViU2xHU0huQ0FIM2JkSkvSAXxBVV95cUxQdG10TVh5cmhNQ2dNTDdnQm1fcFpzUGhEby1UNWVBNURTdU9sZmxITEJxUklSSkJsdDJSTDFQZURDTG9UMnNKOHh1V3puQU4tRGN4WTNXcU12VFhtRXNiRlFDMm04blcxNDNlNGVVYlNsR1NIbkNBSDNiZEpL?oc=5",
+   "published": "Sun, 08 Nov 2026 08:08:00 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.499
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人・松井秀喜監督、リチャードとの〝ベンチ裏密談〟はぐらかす「沖縄の観光スポット聞いてました」 - サンスポ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTFJZeXlPdHFsSFgxYTgtaERwd2lUdDZobnZaSDE3LUJzcjBNZ1V3cU8tQUcxYnR5YVhMS3BMd3A4NzhpYUNWWWFiQjdSRGktUnhNM3I0TWtaN05fT2FrV2w3ekxQTHBUN2JHeVFjWFEtUmhxenBSRXlIWUU4MFlLc2N6M3huMjFIZ1Y1QnJIUE9Bb2dYX3fSAYoBQVVfeXFMT0V5UVZmQWZFZVo5N001cDdDSkxFTTZFb2toV2NUVVh4MmgtUlVoZFNUblVDMy1tdUN3WEhKdXJITjJoQUpuUE1YMkRQVE54TlZHbTl4SUxYd2JHWWswUW9ST2Q1djlHQ09VRWdOWkNLTG80SzFoUHE4Z0lyN1E3NUVIOW5sUkdwZzVn?oc=5",
+   "published": "Sun, 08 Nov 2026 07:54:59 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.498
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "巨人 松井秀喜監督がリチャードに直接指導「沖縄の観光スポットのことを」に報道陣爆笑 約２５分間のアドバイス 長打力を「確率よく出せるか」 (デイリースポーツ) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZExIRjZVaTQ2SzhVbTB5ZURNSUpJUXJVRm44QkxwRGNHWm1aWkVFb0tSa1BHclVvVDJyZTV3UmVNRFdYVFJPSG9vaWp1YzRHYnJicTVrdUVpelNXVl9TUEl2NC1mSmVhc3c5empOMHd2OTVtSFFlRThTVVhISE01RWMtX1J5UmNaWjJ3SVl3?oc=5",
+   "published": "Sun, 08 Nov 2026 07:24:01 GMT",
+   "score_parts": {
+    "recency": 0.648,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.495
+  }
+ ]
+}
