@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-10",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 113,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、もう行きません！【ずんだもん&ゆっくり解説】 Clay Aiken (alxdrITQZW) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xYk1SMlF2cUt0THlBdDROTE8wd3otY25xLWprZGlRZl81bXIzazh4OFZLbGQ3ejU1dV9LYnNTUFN6Z2NSSG5zMnJIWG1sRzNYckdaYUpOOFZhUlBaSjlLZ2hQRlFwUDNQLTJycXd3?oc=5",
+   "published": "Mon, 09 Nov 2026 23:40:01 GMT",
+   "score_parts": {
+    "recency": 0.929,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.679
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港で忘れ物をしたら… オンラインで問い合わせ可能に 11月10日からAI活用の新サービス導入 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6NnIxcjVuX0t5ZnZ3NjczcnRCT1c4T3R1MlRGV1Y5MXVnVVA2cVY0MlV1UFJLdl8wcEdrZlhHakpNUEV4Y0NxMFRMdGpZcGlJRzVkemJpMnd1cEN2SVE?oc=5",
+   "published": "Mon, 09 Nov 2026 21:11:00 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.663
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "写真：落とし物 ウェブで検索 NABCO 那覇空港に導入 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Qa1ktQlJUazZIY1huRXpzX1pzTjdrOGw1a0lRUm5aaWVlMTRocW0tSUtTdlV4U1dnS250eVB4YUtsbkJPeWtqMHFqQVFwUzQ0RVVGX2podmlCbHJodGlhZVpJSjNqQQ?oc=5",
+   "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.832,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "国内最大級のメディア総合イベント「Inter BEE 2026」に出展 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5em1CdzJiMUF6V1k4ZlN2WF8xclJKUVRBWnVCWmNmd2hQNHdHR3BJalY5Y0ljQ3k3RjJON1dKUEVucVNqd3BDSnZXRmxEM3llR1d3U3docnU0Z1czYUE?oc=5",
+   "published": "Tue, 10 Nov 2026 01:00:00 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊税徴収するホテルや旅館、登録済みの割合は 沖縄県が事業者に申請呼びかけ - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qNndyUHMxUXJMWk5zYmozZDFvZ2NlaFBOekVWYWEtMnUxWnNIcmt4QlNGVF93MGx3OEdFQ3pBcnFzVDlUa0tkX0RnbGN2bVBnWHhnS3FhanR0TzAwWUNPRXZ3?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "’47が福岡・沖縄・長野でキャップの無料カスタムイベントを開催へ - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ySHNmZ0x1MmpjT2R0Q2pvRWdlTmpLUUNDN0JOLU54YU9yNTdreVozSW1yNllmVmsxbTBla3FPTkxBRHA2RWc?oc=5",
+   "published": "Mon, 09 Nov 2026 20:05:03 GMT",
+   "score_parts": {
+    "recency": 0.855,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.606
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊税活用で34事業選定、26億円を予算計上 観光振興戦略会議（沖縄テレビOTV） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55UFlZWmNYWDJEX2NyY2dTWmh2Z3VUQW9TdERPeTdHYWY2d1ZCLUpjU0xvSWV2cDdITndRZmJuMDhyQTFJcXhKb2xjd3B4dDRsbHIwUTZ2eERSNlVrTjFyRTdwejM2cmRIZzJXSWlkaTVLTkZFaGFDS1FFem4taGc?oc=5",
+   "published": "Tue, 10 Nov 2026 02:56:01 GMT",
+   "score_parts": {
+    "recency": 0.997,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ヤマハ発動機 体験型ショールーム「Yamaha E-Ride Base」リニューアルオープンについて - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16ejBOQmZteDAwUkNWUTRNV1BFLWZHNzZNYWRwN3lNLVhyUFROVERrbU1pNHNlVFhFYVQzRjJ3R2dmUkwyN2VicWRpQkVLR3FXaUdjQzRNRENzbElZVkE?oc=5",
+   "published": "Tue, 10 Nov 2026 02:00:00 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Mon, 09 Nov 2026 23:53:37 GMT",
+   "score_parts": {
+    "recency": 0.934,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.58
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊税の使い道は？ バス停整備や自然保護など34事業 県民生活との調和も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xcWt0UlluRGxPOGhOWWpyWFJraHZOYVpEaDlULVRwR1Q4Y2ZtMzRkN3NZeDhGOW05eFMycmhWOGNndGttamRVMWZYbVZ1RmxSbFJMQ2Qyb1Z4blBKT2c?oc=5",
+   "published": "Mon, 09 Nov 2026 21:23:00 GMT",
+   "score_parts": {
+    "recency": 0.882,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄「ジャングリア」に吹く逆風 立地の壁と赤字から読み解く起死回生の条件とは? (TBS NEWS DIG Powered by JNN) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQczI0NVE2dGh6UVhpdVJIMThxM1lSV3lYWlA3MXFQb3huUmVEVUd6andVc0dvZHUzSWd6cVVXbF9wODYtT09MVnV0bmtXY19iM1ZMVGlUTGtUOVZSUC1QTzlSZjBmb1NqNnBhRDlQbjY2SjNzaWI4ZVVvaGV6N2FhSVliQlc0V0NWTkhJblFR?oc=5",
+   "published": "Mon, 09 Nov 2026 04:19:10 GMT",
+   "score_parts": {
+    "recency": 0.526,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「観光DX」動画でマッチング ISCOがサイト公開へ ベンダーも募る 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVUwwdGxxUVpIWFJ6QVZ0ZW0zck82R0VmNWcyZXRYQzRoOXhEcU1IS3NlbmpBamN0OVBfQ1VpTXFZOE1PVW51ZklISXlrMkI0XzJ0VV85azBGUlFfNy1nMW9B?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊税、観光インフラ整備など34事業に26億円 2027年2月導入へ 県が使途を公表 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92UGVvV1BXYV9LS3g3X3pVLS11SDdRcWE1X1psWkFHOFA0RmJ6SDNqdkFRUHZkdC1IZkZPQ2NaOTZ6RVV5aVN3djd2MVRmTUZnV3JfUXJMdDlpTTU0MFE?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「観光DX」動画でマッチング ISCOがサイト公開へ ベンダーも募る 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PWU5nMm9qcDFpV0YxRGtvMGNnVmQ1LVZjbGVNVnZ1TzlfTDNkV1NWWkhIaTBNQ2pkQWpBdEV6czdmTFR1aEMtSF9KWQ?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「観光DX」動画でマッチング　ISCOがサイト公開へ　ベンダーも募る　沖縄 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMjUySm1LWVZQMGN4aHBEWmg3MWVPd3BlbVo4N045bHBRT1pfRnZCR0JoU1RpUGdfbGo3RGY4dWhSNEtia1hkelJDeGhyaXVzVnhPQzlnZF9uWTFTVTVyWTAxMllkdllCUXVkNUZYc3VzVnhnUzB4a3lfRXd5RWk3c0RGeFhzUdIBhgFBVV95cUxOMjUySm1LWVZQMGN4aHBEWmg3MWVPd3BlbVo4N045bHBRT1pfRnZCR0JoU1RpUGdfbGo3RGY4dWhSNEtia1hkelJDeGhyaXVzVnhPQzlnZF9uWTFTVTVyWTAxMllkdllCUXVkNUZYc3VzVnhnUzB4a3lfRXd5RWk3c0RGeFhzUQ?oc=5",
+   "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.853,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.556
+  }
+ ]
+}
