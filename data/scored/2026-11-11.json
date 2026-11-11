@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-11",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 144,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像23 / 31＞ジャングリアも美ら海水族館も近い！この秋「オリオンホテル モトブ リゾート＆スパ」で過ごす最高のファミリーバカンス - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QdkladmFDRXNHRl9oX0ZES05tVGhYeHpZejVCaTNmbEVSdjJDUFQwT1NNWFBKTEd3Q3BrZHlfXzB3ZE5nUnl5VVl5OHZVc2s0NmZUMFJVLVRxc2c0NUtLSmZrV1ZVTEVVbkE2QkdB?oc=5",
+   "published": "Tue, 10 Nov 2026 20:43:50 GMT",
+   "score_parts": {
+    "recency": 0.912,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.654
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣さん、ジャングリア沖縄に「森の長いすべり台」提案 年間売上「約1億6200万円」試算 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qc2M5YV9LMlRMN0NWdFVvRjF4bEFucG5sN2MwWGVaakNNUWxFSGdFRjFCQlFPM3VUZG1fMW84V3RpZjJRR3QtRm1hSGUtQTkzVXRIMVEzaXQ2XzJxMDBR?oc=5",
+   "published": "Tue, 10 Nov 2026 14:21:20 GMT",
+   "score_parts": {
+    "recency": 0.779,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 赤字幅減らす構造改革で黒字化めざす／ビジネスキャッチー 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Vc2RDU25UaUJtTWFISU1RVXZxVE04a0VXZllwXzdUczZqSTFWUzFCQVUwaW9EZjJqR2ktZktxbVBUanh2RGVWOExlby1YdlNCLWc0Nk5VRHNfNl84UUVMbV9namdDR05kbEpjSTlnb1ZJX2ZSeE1ySjZ0NmJ1VDg?oc=5",
+   "published": "Tue, 10 Nov 2026 10:02:31 GMT",
+   "score_parts": {
+    "recency": 0.689,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄のレンタカー事情 「わ」ナンバーが復活？！／ビジネスキャッチー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xRUJPVkRtWEpLMjg0TWZtNVFzZnN3TXAwN1VraEtFWmtkWEJEWTUweW0tXzJnOElXaVZKQXI1eTFGcnpORW1xMGdKNVlOcEJhY3BWaGFRbHo3Zw?oc=5",
+   "published": "Tue, 10 Nov 2026 09:46:43 GMT",
+   "score_parts": {
+    "recency": 0.684,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 赤字幅減らす構造改革で黒字化めざす／ビジネスキャッチー｜Quebee キュエビー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEYm9MZl94Zm5QaEcxODkxdU84bGdtU3o4ckN6aks1QUlMRFIxZ1dkWVJ5OFhLRFg3UGhyMFlXSXVuVWYwZXJHYV9JSXdaV2l1Z19rNlBkczlHRGc?oc=5",
+   "published": "Tue, 10 Nov 2026 09:32:55 GMT",
+   "score_parts": {
+    "recency": 0.679,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣、苦戦続く「ジャングリア沖縄」に提案した「年間売上1億6200万円」の “再生策” に分かれる賛否 - smart-flash.jp",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03OGFJdHRnTkcyc0ZRRzI3bVN3RWNPR05qOWY1VEFJX3c1SkpQWTFaOEZLNHhlLUg3eldiZm5WWnlOZFdOdUowUXpkOFd2ZjFCUGVZVEdpbFlLbmd4bWppeWwtLW9sV3Ntc2p6TUVkbVpxZk4tR3c2c0w0Zw?oc=5",
+   "published": "Tue, 10 Nov 2026 09:01:18 GMT",
+   "score_parts": {
+    "recency": 0.668,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣、苦戦続く「ジャングリア沖縄」に提案した「年間売上1億6200万円」の “再生策” に分かれる賛否 - 千葉テレビ放送株式会社",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WVHZHbGpYeFFiQkg4d0Q5NkZnVTMwZ0VmZFUwa3dxWkJ0VW9nUmF3Ym1qQk44X0tiNE9JblNVMUhTbjhuU3lRNG5sOHZKTlczMHRYVEozUEVfLVVuQm9j?oc=5",
+   "published": "Tue, 10 Nov 2026 08:48:21 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣、苦戦続く「ジャングリア沖縄」に提案した「年間売上1億6200万円」の “再生策” に分かれる賛否 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LSi1ldkhuYnFtM25tdFQ1Wl9OWVp6ajdBd1RWNzdUZ1U2Z2VLMzRhbXFWdFdJZFZqYUFzN3hMU1p2Qm9ibHJuMExvSDhTRWpKaDN5THhUdzNtVkRJVGhnSnBFRlV4anBxeThCMFBUa3h2MkY5M2pv?oc=5",
+   "published": "Tue, 10 Nov 2026 08:48:00 GMT",
+   "score_parts": {
+    "recency": 0.664,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "「国際線利用を」１４日にイベント 那覇空港 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uSGZPQTV5NnV0NEhCWmlaSFdOZWlfeDI3MnhnVlBydTI1V2tJZHE2SWtRdF8xd3Zqck9wQnZ3OEI4d3FISWNNRTBNZWV6RVBqMXc0OEkybnZGVFhpQmFNeFF3?oc=5",
+   "published": "Tue, 10 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.897,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣、苦戦続く「ジャングリア沖縄」に提案した「年間売上1億6200万円」の “再生策” に分かれる賛否（SmartFLASH） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01MEZLMHl3SjN6UUYtQ2duOTVlZ2pPRmRrV244cDVhOUhIUHNvUGxHV0JEZkd1RFI0TXJabXhyeFc4ZFlNOHBHcW5meXE2a21ic1FGRm0wR3RMMDFZQlFsREJ6Q1BZN2JnOHJQMmJnc0VUYUFiWGd2aW1WZDYweXM?oc=5",
+   "published": "Tue, 10 Nov 2026 08:35:58 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣、苦戦続く「ジャングリア沖縄」に提案した「年間売上1億6200万円」の “再生策” に分かれる賛否 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkNaSjhJZXhYYXE5dXhwTldjTFU3YzgzY3NIb3pxNjA4WlYwejcyQ3N2Uk9zZU9UVTdCQ2M5T3JYd3diQWRRWHpiNV9sd3ltNFVCck5BcnY0Y29HcGE3NHNVc1FGek9vZjlZdFZIR20yQTN2cjlRNlktNW05OE51S3B1R3ZPeVMtQ2pLTFRZb0RWLTTSAY8BQVVfeXFMUGZER1ZOSXBrRmFpLWFuUnNYTV9ESE5qaU51aEVNQzJpQ3NyQ190MmEtX2RKRzNTM001RjM2ZEl3cjE2ZVNQMTE4NkYzU1ZlNFlXRElhcTNJV3NzU1hFSTZyR1ZyUVhIeVc0MzJkSmlvX0dCdWNHQUlLdDZjVTRRa2dMUkY3TnZKRXlrSzJwYXM?oc=5",
+   "published": "Tue, 10 Nov 2026 08:35:00 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣、苦戦続く「ジャングリア沖縄」に提案した「年間売上1億6200万円」の “再生策” に分かれる賛否 - smart-flash.jp",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OUGdwSWFWcGRQV19tR0ZOTHJQLVctUzgwR05UUmhGZmNVb1NKYy0tVDR4T2dyVDY5THlxd0IwZk9qSHh3dXl6RnIybTB2eE5GMHNVeUZaUmgxNTl6andCN240dlVGaFRTcTRmNFRsdXEySXNxalRZ?oc=5",
+   "published": "Tue, 10 Nov 2026 08:35:00 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣、苦戦続く「ジャングリア沖縄」に提案した「年間売上1億6200万円」の “再生策” に分かれる賛否 (SmartFLASH) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXFqVy1KVFF1VmQtVlpsMWc3cXBPRnR3MXRYVkoyVC1XbVdTWUZKQXNOeGdoZWlzYTZEc2dERndqWnNJZFloLWU3VGphMW1OLWw0YS1GYjNnZFF3Z0llMEZOcG4tUUtUX2Y3bHZhMUo0UUw2Ymk4QnU3X3hZTzRycy1YVlc2VFR6NkRkWlRn?oc=5",
+   "published": "Tue, 10 Nov 2026 08:35:58 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣さん、ジャングリア沖縄に「森の長いすべり台」提案 年間売上「約1億6200万円」試算 - J-CAST ニュース",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUElGUUZyN2JGQjNiVzJMOTdiMXNsRTJnNW5DN0NldWdyd0dsTW5QdzVkZ0xKOVRUZkY2ZUJ4M1N6QnB3WlB2WG1vQjRNUDRld2lCeFhQREswcWJCdjAxMFlaQldWdmF6U3Ywb2V0a0J5WnJOamRFZ2s5TzJWdDVhUTRGckhxUVoyVnRoeWJkLThLaWJNQk16QU9NWjRfaWo5bUNKSVJXTF9lMVVOZzFhbFJqUktmbnl1MVVCQjUxbC1HelZuNVdUZ1hmcEdrd0dQODVaMHZiZEphaXdMWTcxSVBuNVZ6emVxOHl3aGx4X1IxM3BWZWZrUWhEYw?oc=5",
+   "published": "Tue, 10 Nov 2026 07:25:13 GMT",
+   "score_parts": {
+    "recency": 0.635,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ベトナムの人気リゾートに「ロシア人街」、侵攻で移住増か - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkWFlWWml5djREUFpxSGRDM0ZFWmw5NVlqRmtDNm9KdWgtRlpVSnhpcHRiaXExUjVvc1NidmNrcjZ2aXVnbHUyaGZNbGYtbUM1X2d2bU5KVjRsQmpqaFE?oc=5",
+   "published": "Tue, 10 Nov 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.939,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  }
+ ]
+}
