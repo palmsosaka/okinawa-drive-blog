@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-12",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 138,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "公的資金を間接投入「ジャングリア沖縄」の不振 政府「状況を注視」「経済効果に期待」（産経新聞） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhR2xnMk1VQ2VmMlBsZzd1N0JkNHZOZ0oyckh4eDhFc25hYVRscFY2S1BwZXZlOURZanRPT3dGX0hia2NjRUJpUUY0TGhRaHZnMmhLMnNFZTNyZjFZdlhhWDhockcxYkw0b01mMWtlQzVjMWJUMDhNM3RaeUd4eG8?oc=5",
+   "published": "Thu, 12 Nov 2026 01:31:39 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.697
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "経営悪化のジャングリア沖縄、琉球銀頭取「継続してほしい気持ちに変わりない」…協調融資の主幹事 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LTlBSQy1GalNvNWQ2UDN4RHNPai1DcXR0WVl2UXpPRzdnZEFXZlBQc2Jxb3ZlMUZZbVVQODB4dmw5aXJmQ2Q4dnNYSC0xWFY1YUN5WDE3ZWZGdkZ2UmxxTWxUbXg?oc=5",
+   "published": "Thu, 12 Nov 2026 01:18:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港でひき逃げか 赤いSUV車と衝突、バイク男性けが 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4wWFBZdTJGNVdodk1wak8zWTViM1BYcFcyMTRVck1OdzBDczFaNU8yVTc0THFKbHhTc0tjZTk3Ti02RlR0UG9ZMi1iaw?oc=5",
+   "published": "Thu, 12 Nov 2026 00:41:29 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.691
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "融資先ジャングリア沖縄の現状は？ 琉球銀行頭取が言及 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2aTZQdG1WWWwtT2lBVmlDdU9PSFF5aEltcVgwX0RsSnhvZlJEZ2ZZV1k5eGFCWkJsQ1RNbjJxYXNPd3JRYmJfTHZLMzFnR0ZrZmNpVUdBbU8wQ3Q5cFE?oc=5",
+   "published": "Wed, 11 Nov 2026 23:33:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "融資先ジャングリア沖縄の現状は？ 琉球銀行頭取が言及 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wNDkwbnZ6cjFCTWVYSG12ZWY4RlRteUVTcy10NElhWHkyOG1Dd1AwNkpKZmx4NUk2MTlCZ29aVnM3SEVpTFl6eUY2MA?oc=5",
+   "published": "Wed, 11 Nov 2026 23:33:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "融資先ジャングリア沖縄の現状は？ 琉球銀行頭取が言及 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qbWN4a0dlWmFpYmY5d0ZUeEpOSVF0XzVyLU45T28taTZoN3kzRW55TzgtR2VvXzY5My1UNFJWWTBGY3Rsd29yT053dUpWYk12Wk9WN3hUOFRUYzY4eEhyRWZzek84UmxkdW0ya2h3?oc=5",
+   "published": "Wed, 11 Nov 2026 23:33:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：融資先ジャングリア沖縄の現状は？ 琉球銀行頭取が言及 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9obXFYU0pDLWN3TlUwUHJZRTY4aWZtVXNHOW51ckd0NUktbUthZG1CSlE1bjBMcnhRVnhRc0h1c3lLQlZvdkEzSGpXRm02bkJkTkxVTEFVdE9hVERnVERzdmNHdWZJdw?oc=5",
+   "published": "Wed, 11 Nov 2026 23:33:00 GMT",
+   "score_parts": {
+    "recency": 0.948,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港でひき逃げか 赤いSUV車と衝突、バイク男性けが 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kUkNKckNJYTNQQ3pPcThMUV9CS1BpM1F3ck9aa2NyY0xiTXIyMTFEY0hqZGRpeFZKRzM2MkRISS01YnZZMTNQUzhONGxTeWRlSEg5MWhDRHJOcU4ycUg0Wg?oc=5",
+   "published": "Wed, 11 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.874,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.662
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "大阪・梅田茶屋町、推し活聖地に エンタメの店、イベントも開催 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wX3RGYlZOeFJBNkRoa2ZXS3J2MTVJaVFPNUkwSUtmQWlHbGxET0pLZlNob092c1h2d1pUcU5HMDVXbk85UDJuSlg2MFFhbmF6ckk1MWZnT2MwRVZoS3c?oc=5",
+   "published": "Wed, 11 Nov 2026 22:00:01 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.625
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "首里城復興、泡盛で祝う 希少な49年ものも用意 13日に那覇でイベント開催 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNSEFLNVVvZXpTZ0ZiMHRmNnRPNlFDb2lhdUctR3BhcE5TcjZKVWFiZW5rTlRfbVBHZTh4UGtnU0RRZ0dGbEw2ZXlyZ0dZd0kxRE0xOU1tV0h2V1RKb0E?oc=5",
+   "published": "Wed, 11 Nov 2026 21:58:00 GMT",
+   "score_parts": {
+    "recency": 0.915,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.624
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "福井・嶺南を巡る「若狭路インスタキャンペーン2026」、12月末まで開催中！フォロワー計100万人超のインフルエンサーたちがコラボ！ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wRlZ5bG03U2JtVFQxaWU3T1IyUzZnVlVWUXlFY3NkVnRZTkVDWWVCTUtiWm9BTDNlV0xpQlBKRFBYZGNmdTczbWI0V2l6WkhGV184ZjN6ODFmc2VESWc?oc=5",
+   "published": "Thu, 12 Nov 2026 01:04:00 GMT",
+   "score_parts": {
+    "recency": 0.979,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "Access Advanceは、2027年1月1日より適用されるマルチコーデックブリッジ契約の新たな有効割引率を発表 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJTXJSNXE5bWNYMVVGWWdVQTVfWllnc21jTjJVTTdxOEdMaVpBV1FKMGV6cHd3eUx1VlptLWZRc3ZWb003d1l1QU16cURtTDZqMDVOV2doS2xCeWpncWc?oc=5",
+   "published": "Thu, 12 Nov 2026 00:55:00 GMT",
+   "score_parts": {
+    "recency": 0.976,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【JAF沖縄】11月15日（日）「ひーぷー自動車学校 のりものFESTIVAL」にJAFブース出展 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EM01lamx5UDJQUHJGZVoyUTdBU3NoS2ZLVnFNUVM3RGo5RW1DaF9scGNaaU5QcnJmYmRZWUNaMUFWbERSTWpLSXFjMkxXVVNQUl85MkJ0SDhjZU9hcGVJcXR6X1kzcTcyWFE?oc=5",
+   "published": "Thu, 12 Nov 2026 01:00:02 GMT",
+   "score_parts": {
+    "recency": 0.978,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "冬の沖縄で最長384kmに挑む！「サイクルボール おきいちステージ」が2027年1月31日まで開催 - www.funq.jp",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNlhvbFMxZGpZOG9VYkRzRzhaV3ZwZDl1VzE3eXBzT2xDR2lCNGV5bjg3YUgyMDBHYTdDMGcycVJ0U2FBRDc1dnNVM2F2aTJuTkZJdmVacTF3NjVFMVE?oc=5",
+   "published": "Thu, 12 Nov 2026 00:35:55 GMT",
+   "score_parts": {
+    "recency": 0.97,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.591
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "琉球銀行が増益 2027年3月期中間連結決算 融資先ジャングリア沖縄巡り説明も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBabXRZN3hSYWM1ZEhxcW44aVVyX3RLZnpnc0pWWDFIakVVRXBpNUdZeFBtNWRLRndyLTcxU29XaHdydnY0UWU4cVdDOFJRLXlBd1d1TmpoZUxBbEVzcVE?oc=5",
+   "published": "Wed, 11 Nov 2026 08:05:00 GMT",
+   "score_parts": {
+    "recency": 0.626,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  }
+ ]
+}
