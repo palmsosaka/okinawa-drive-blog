@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-13",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 152,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」に出資した第一交通など評価損を特別損失として計上…全保連は保有株の価値を１円に - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DRFlSVXZzelphQjE0dXlGamhtR0pITy1XRGt5WHFkWHpxTmRSZmVVdEFFWVRWeko2WGxPbE5DS3hWOElZSkNJODVvLVNiUmh6SnF2cU1CRFNRNjhBVk85VGtwdkE2elJ6MHBFNW9WT25KaUtxOXRyQmxYVS1qeGs?oc=5",
+   "published": "Fri, 13 Nov 2026 00:44:20 GMT",
+   "score_parts": {
+    "recency": 0.983,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.695
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄、経費削減で黒字転換目指すも「体験価値喪失」の懸念 (2026年11月12日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aXzZWU0dRWjZXTi11dk5oYmlTTGFDRzNxai1xOVU2VDFUaVdQeXVmN0hYcFJrbE1XSDVvSkRaRmxnUkJUU0daTDhyZnFGS0g4NGN3dlJiRDdQNnhQbUE?oc=5",
+   "published": "Fri, 13 Nov 2026 00:16:11 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.692
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄の経営が想像以上に深刻：再建計画で明らかになった衝撃の事実 - アゴラ 言論プラットフォーム",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43ekZQSUEyTHdSNk1JeFBmaVd4a1kzZjFuSXhRMEV6VHllRnZHMmpkcWtFU3RMTC14cTNKLVB2ZjV4ZFgxdkhRalg5YTJPemNScC03TUVjVE9WODQ?oc=5",
+   "published": "Thu, 12 Nov 2026 21:10:11 GMT",
+   "score_parts": {
+    "recency": 0.908,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.673
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄 県民対象に駐車場無料化とスパ割引を開始 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92WWRpelVXckhXZk5fOUN1MzR2XzZfOWZfQnRrMVRUeERkNXY4UzNVN3owcDZwLVdDUEdKV3NKcXFjWGJtWXJ4YmFoaE15UHp0bENvNzlxZDN2Q1MzRVQ4?oc=5",
+   "published": "Thu, 12 Nov 2026 21:07:05 GMT",
+   "score_parts": {
+    "recency": 0.907,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.672
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【明海大学】最新技術のモビリティ活用を考えるイベント「未来モビリティとまちづくり」を12月19日（土）に開催。 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xdXZDeHFpcHNhWXBGVnBzekZGdUswVWd5dWpiTllaQmFUb09wcTRmN0pMaHdWeVdab2R0NDZfZmUxQm8yTWEzeWh0VzhrZWpaekNBZ1FxWllVUlhlVVE?oc=5",
+   "published": "Thu, 12 Nov 2026 23:20:06 GMT",
+   "score_parts": {
+    "recency": 0.954,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.636
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［週刊エンタメ］祝・首里城正殿復興…記念イベント出演の２人、沖縄愛満載トーク - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hajdwblpGTlBkRTVfYTRmcFNWaXc4Q0RwWU43R2hqQld4Y0hHOWRiV2luTTJ6ZWdKdXUxcTRqOEtFYUdXdWxJRG9CbXJUT2dEdy12NHlKZVZDUkF3aTlpOW9qeTNlTklWeDI3b3FR?oc=5",
+   "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.615
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "赤字圧縮を進めるジャングリア沖縄　「口コミで称賛されるスタッフ」が削減される恐れ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GenV2UHh0b3J6Q2FLWWdYZi0xMjdrYkpUYU1tckp5NEJFTWhsOTlUSzZTSDhKVEpWX0phbEJGenRXZFc5cVdoVFVxcWtZdDhVcmJvNGdNOWVlWW5pa2ZkaXRKQzdhX0dlcVpfN0s3Wk1GNHZxWmRj0gF3QVVfeXFMTUZ6dXZQeHRvcnpDYUtZZ1hmLTEyN2tiSlRhTW1ySnk0QkVNaGw5OVRLNlNIOEpUSlZfSmFsQkZ6dFdkVzlxV2hUVXFxa1l0OFVyYm80Z005ZWVZbmlrZmRpdEpDN2FfR2VxWl83SzdaTUY0dnFaZGM?oc=5",
+   "published": "Thu, 12 Nov 2026 11:01:00 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "赤字圧縮を進めるジャングリア沖縄　「口コミで称賛されるスタッフ」が削減される恐れ - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FVnUyRGIyY3I1UlIyOXdOUm91d3VWQzE3QndPdFdEVUk5R21mMGdQcC16TmlDM1JDRXNfSW5QX2pxSUdIem1JVzRUMms2b3FaNFpEcHlZM1JkaDByS2lRTmFtSkQ3TlMyRk9rWFVxeTFsLXBkakxKWmtWUdIBd0FVX3lxTE1GenV2UHh0b3J6Q2FLWWdYZi0xMjdrYkpUYU1tckp5NEJFTWhsOTlUSzZTSDhKVEpWX0phbEJGenRXZFc5cVdoVFVxcWtZdDhVcmJvNGdNOWVlWW5pa2ZkaXRKQzdhX0dlcVpfN0s3Wk1GNHZxWmRj?oc=5",
+   "published": "Thu, 12 Nov 2026 11:01:00 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【画像】赤字圧縮を進めるジャングリア沖縄 「口コミで称賛されるスタッフ」が削減される恐れ 2/3 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IaTBKa3RnbGNtQUNnVlNteUctS3d6MVNkU2ZmYkVaSHpPX3J5VjBQZW93Y3lPOVdwazFXZkpXQlpCNEgzSTloYV9lay1qS2ZMX0tkcWxjTHZ4dm4yM3JkMWRwUkw5X3FsYkdmWlZQS2otT0VqbnBzNy1xbGI?oc=5",
+   "published": "Thu, 12 Nov 2026 11:01:00 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "USJでフードフェス開催 開業25年 冬イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IMHlvcTJMNjZZMnEzRGpZbzhCa0Q4S3psdTFZaGpYcG5JLWM2NzFJQUhBYlEwdlJNdW50YktPRkIyYjBjQkUxWnVERVliZjMxN0Z2M19zcnhiVFR5NkE?oc=5",
+   "published": "Thu, 12 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.862,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像6 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81ZURJSFQzd3FHZUZWWHE0VFp1dlZxUk5HTExva0d6WDV1V1FIX0luMkdiWnF1bUZSZ1JUeWstM0hGa215dVF5VThEcURiS0NqV3Z3MkR0ZGJZeG9wTzRVQmZFbE9SYjdIMG1Ib1ZB?oc=5",
+   "published": "Thu, 12 Nov 2026 09:23:05 GMT",
+   "score_parts": {
+    "recency": 0.663,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア株、「価値ゼロ」に 沖縄の全保連、出資全額を減損処理（朝日新聞） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByTFpYVk9vdHg3b094VUZfY2daLU5QUGdOc0VpQmZERi14TlhTQW1wOXRBbzh6cmFOc2J6UzVDQWFpdk1sRVdqVkZiVkpqYWRnTTdyWk1nQmFKZ05HcjZFVWE0cHZfNzFHaXNqUVFlR3FYVHItVkF4N1VSbUpBdFU?oc=5",
+   "published": "Thu, 12 Nov 2026 09:15:00 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア株、「価値ゼロ」に 沖縄の全保連、出資全額を減損処理 [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wZWhzYktHRnZxQUdObzd0eEtwVHJFbFo4OEExVWwxbVFkdjBOWkRBSmQyYkpzX2hrbTV0MXRJZEZsYkhiZUUzLWtJZUMyR0ZuaDBZNGtxUm5QcjdoNkFJTkpDSW1iT2JueWNURVVB?oc=5",
+   "published": "Thu, 12 Nov 2026 09:15:00 GMT",
+   "score_parts": {
+    "recency": 0.66,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "香港で焼酎・泡盛イベント 九州と沖縄、4県がカクテルで魅力発信 - 香港経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51MlJlUU5FNVdkWlZLMXBvS0xsdGd6b1JpeXFWdlRCZlZYekdFWGY3TFpCaTJUWFRwcHk5azhYSXRLZzRuS0o0SndfQV9EM1FYcmdNTw?oc=5",
+   "published": "Thu, 12 Nov 2026 15:39:21 GMT",
+   "score_parts": {
+    "recency": 0.794,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄への出資6000万円が簿価わずか1円に 全保連が減損処理、追加支援「一切考えていない」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MS2pBZkdMc2JkWmwzVjRjYk94T2NVcjJ2SzBzaUZpbDRjdTZTX0ZORmdlcEZuLXJmZ3MySVdkN3FoT1AxaHhwWlRHakxNRDdtUVR0Q1NRcjhVbU0yUXc?oc=5",
+   "published": "Thu, 12 Nov 2026 06:22:00 GMT",
+   "score_parts": {
+    "recency": 0.6,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.58
+  }
+ ]
+}
