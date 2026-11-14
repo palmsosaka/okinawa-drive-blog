@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-14",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 154,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "海の恵み竜涎香 展示や体験紹介 名護でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFeU9GeFc2UVotaTlIZG1VakdnNE8xTHVBM2pfMjVWOExOSU8yVUxLTWtIZEpqbWplME1hRzBCTlBtLTV3UEVKbnBLem9KOXBNQWZUWUs1dTJ2d2ctbXc?oc=5",
+   "published": "Fri, 13 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.871,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア出資のオリオンビールは減損せず 「収益出している」 [沖縄県] - 朝日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14amlRSEU3M1ZhR3VPcmhHamxpTDZGQS1MUG50Mjk5TmZsLVRLbnVZc3hfQmJLaGVTRW9xMHB5ZUhOMG9ZalV6REQ1Wmc0UTBwZkRlbmJ5Y3NuOC0wOV9ULUtWdHZTNkU?oc=5",
+   "published": "Fri, 13 Nov 2026 10:40:00 GMT",
+   "score_parts": {
+    "recency": 0.699,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.61
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "全保連がジャングリア株を減損処理 6000万円を1円にして特別損失で計上 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qX0wwdlg0cU1QS3BpWGhOR29JZ09wTkJ3RE1TU3p6M0VjdFluc3g5RXV6LTFlYnZkRmlkQ2RpZVo3X0RvVlo3MkQtMnZfbzlNWGt6RTM3MEc3OVhMXzlNdkJTaE1OX1NoYWlnTjA2OVU5U2dkdVhtLVBRZE5xdnc?oc=5",
+   "published": "Fri, 13 Nov 2026 10:17:45 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "全保連がジャングリア株を減損処理 6000万円を1円にして特別損失で計上 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM19IRTlxWUV2MTNzUWp4QjR3Yjl4eHZoZWZrd1YyTzRMakdNNVNqM1huakdqTks3dzRsb2xLZV9LOXdTQW52a3ZaQnlHUjRFRThkczZscmczNVdMTzZfUGpCcGR0d08taWR4dzFHazhDR3ZHYVRhcXQ3NHc3YkZqeHVMN2dRdDFWUGRJZmJR?oc=5",
+   "published": "Fri, 13 Nov 2026 10:17:45 GMT",
+   "score_parts": {
+    "recency": 0.691,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄への出資企業 保有株の特別損失を計上 - NHKニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84dlpndS1ZSkg2SG81dUh4bFhwbU90SDg2dExZemktbFdSSjIxNzFiaC16T2tsMEJkY2prYURFSEVHOERoREludUN5X0FXYkpPNDI1TFdNRTNWdXA1Zk84?oc=5",
+   "published": "Fri, 13 Nov 2026 09:38:31 GMT",
+   "score_parts": {
+    "recency": 0.678,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.603
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄県内の景気「拡大基調にある」 日銀那覇支店の11月景況 34カ月連続で判断維持【主要指標の推移グラフ】 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sNUE3MXFwanlyTUpFTFJTTDdiZ2VSWlJDTnNiUThGZ2tGdm1DUHFfWEdjWHhVNUVRbEtCa09Sd3hkamVabE1QMUVLTUNYTWpOSFhJYjJYZ1gtM0oya0E?oc=5",
+   "published": "Fri, 13 Nov 2026 22:46:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "海を越えた「いちゃりばちょーでー」 砂辺ジョージさんが北米と沖縄にのこした“繋がり”とは（FNNプライムオンライン） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYcHVoR3RNU3oyb1ozWFhyb1RNWkhobGtUNmJESmVMQlZXQ0ZCUmlHckNSWkhtajRDVm1SeDFWMW5OaW9uaFI0d3pTMENzREhVRmZXY1NDS25wOVZhYzR6bGlLZHliVF9lVmVyemFtZFkwVXJzMzNfYXB0ODFCbk0?oc=5",
+   "published": "Fri, 13 Nov 2026 22:04:18 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "親中派・玉城デニー氏大敗で激変…？沖縄の「反中」県民感情のリアル (2026年11月14日掲載) - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oR05zWUMtOE9NRUVQSThqd05fTUR4RFZlb0ZqRmdoVjQ4RUhjZUFPMVIxRElDazVnaEJFTWJURF9vYklEYXpWcGRrMFFnZWtRcVhZUThmRHhRcHBMX3c?oc=5",
+   "published": "Fri, 13 Nov 2026 22:00:00 GMT",
+   "score_parts": {
+    "recency": 0.935,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "全米の空港で航空機の地上待機命令 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoS2Jjc2ZBaUdtcElpVXdJa1FHT0xreG9XTW9vZDJ3czJ1WHROVkxURWxlWUdXYTNIdHR3SlFQWjdWZ2ljM1B1eDk3dnBxWTVycDFXS283YnJoQWpEUWc?oc=5",
+   "published": "Fri, 13 Nov 2026 21:39:15 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CR2JnZmVOa3p5THZGUnVFcGhNUjU0bjFuTlFXbFhmTFc3aWtPV1ZpZ1YtY0tISE5YbzdUSnBNalhlRW45NTJMZE1fY0xrOWJnbkplX0s4a3pwVm52MEQyMl9WNEVENllhVVVINmVn?oc=5",
+   "published": "Fri, 13 Nov 2026 21:24:15 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "全保連、6000万円出資のジャングリア株を評価1円に 「追加出資予定ない」 - HOME広島ホームテレビ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zekNTZE0tOGl2ZTdyTnNwM2RLOGhDNVY4YmN4MzZjLWlYaEpnXzE4cHR0NUNTcnFTOHEtcnZ5Q0ZzaHR3cVU0WlhQUmNEOXBiSjNTTXpFM0FCTlpZQkJoRW9LVlhpZlpo?oc=5",
+   "published": "Sat, 14 Nov 2026 00:39:00 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "全保連、6000万円出資のジャングリア株を評価1円に 「追加出資予定ない」（テレビ朝日系（ANN）） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JdV9vSnZGYUh5N0JfbG02V1NLdGRTcmt5Yk1iaGlTa2x1dDVDTkh2U0szZG1hNzg4TV9vTFBDYWxxNUpRdXU0aHVCTmNEX3R6eEJJazE4TUFCSEpRS3ZkdkVsUENQRHNXWXZ1bXJQcG9fN081YmhsMlZKRUNteHc?oc=5",
+   "published": "Sat, 14 Nov 2026 00:39:30 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Fri, 13 Nov 2026 19:42:53 GMT",
+   "score_parts": {
+    "recency": 0.887,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「ウシデーク」 11年ぶり披露 伊平屋 田名で豊年祭 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyY0V6R2pVM1RGbF9WYVNvUWQ3Rk1GWVN0WUUxZjF1cURWR0tKY1Q0MnpyTzlhZmZ5NlE2bnNtOE9yXzYwSDYtTkYzXzZtb2VWaTdRQllicUNFTWV5UHc?oc=5",
+   "published": "Fri, 13 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.871,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ホテルローレライ 11月14日（土）リニューアルオープン！ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kSTZEbDlEbng5QWlVVTNkRHpHaVFNQURpc2JhMm5vRUZuZFFDWjBYTjI5RVktc1V2Rm9nWGxoSW4tZjAyck9VWUs0a0lyLUt2QU5nMm5JdVduTXp5d1E?oc=5",
+   "published": "Fri, 13 Nov 2026 09:15:00 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  }
+ ]
+}
