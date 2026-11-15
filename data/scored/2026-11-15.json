@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-15",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 137,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」来場者に“熱中症”補償、MSプラスワン少額短期保険が商品を案内 - 山陽新聞",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEdkUmx6N1pMUnpwclJMcGJLVDZsTWl3czI5SnowQnlUMkNtWDg0MnV2a3U2LV9kb0VYLU9YcGQ2cnBYX1FQS09ScnM0VUFEZGxjNC1CWlRZNEZ5ZFd4bGZCR05OaGdwdFI0SGhzMHllQldOODZoR2ZWZnJndnBkYlVR?oc=5",
+   "published": "Sat, 14 Nov 2026 20:52:16 GMT",
+   "score_parts": {
+    "recency": 0.924,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.677
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア】巨大テーマパーク沖縄北部に再来年誕生へ 期待と不安の声も… Shawshank Redemption (F2Md6hKxf4) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXRDbWJocFFYa0tzVHVYZmZxbDAwMVNNbWlyQm9kT2RCNjZkMGdZZ0hudnMtaklod01wajlHbUpLaGZyU2NQSkpVMWZEVTVNb2VidU5ZQXZjZWlHRF96V0hDUGpaRDVLSzVNc2lQOW43M0tZNTFveG5NeXk4THdEUlRXc1A?oc=5",
+   "published": "Sat, 14 Nov 2026 11:57:23 GMT",
+   "score_parts": {
+    "recency": 0.739,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.622
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄ツーリスト、レンタカーの新規予約を再開 個人情報流出問題を受け外部専門家が調査 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90cndwdjcycmNXeTBHandBYTJGNXJqR3B5NDhzU0dUVkxiQUFNVlpyY3lMNHVWQ1podVplSm9NQ081UkZNSVBtcG94LXVwT3IwRlNnb284cXRlSjY5X0E?oc=5",
+   "published": "Sat, 14 Nov 2026 11:37:00 GMT",
+   "score_parts": {
+    "recency": 0.732,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "写真：沖縄ツーリスト、レンタカーの新規予約を再開 個人情報流出問題を受け外部専門家が調査 支障なしと確認 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BSl9JRVNFWk5LVWJxc2N3aGxXelQ3R09jLWQzWnA4MXE0bDRCUGxOaEtuSjltOUc1ZmJsVDdSWFVreXlob2xTbzBKY19sNzQ4RDlMZlJLSjV2ZEU0clRuOWlMSHNLdw?oc=5",
+   "published": "Sat, 14 Nov 2026 11:37:00 GMT",
+   "score_parts": {
+    "recency": 0.732,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】〜Trip Vlog〜賛否否否両論のJUNGLIA本当に楽しめるの？ Alphonso Davies (ymUYDYb7Pk) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CUUhMNjFCSVB5ZkFSaTMtY19hR3h4T09wcHNMNHpPTHJINE5aMDd2MGlQcy1qZWw5TGhtdDFJQXVCRTBHQ2hfMk9TZmVYLXRMNk5aa2o0TmU5OERtSEZzbXRjRzJVdw?oc=5",
+   "published": "Sat, 14 Nov 2026 11:19:34 GMT",
+   "score_parts": {
+    "recency": 0.726,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】噂に聞く酷評を確かめに行ってみた Ty Gibbs (SzMyNfnRby) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUl9pbUlFV0hsOVNZVGY2dFl6MW5iN3RFRjRHZDJzR2VKalNOOTZIeFJNMmt0UHBiQnFWaWx5RElxeGVUbnVCaUhzeWFmUFNoTTVNOWU1bmJVSnJ1bW9QT3lGMlpWOFpyNkxXc1VZbnpxVVVXeFdraEtITnpRTzd1QXFQTVY?oc=5",
+   "published": "Sat, 14 Nov 2026 10:18:19 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「知名度68.5％なのに、行きたい人は16.3％」沖縄ジャングリア苦戦の背景を元警視庁刑事が分析。「数字の裏側に何があるのか」 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Q3cwZkc3R2FycjMzbTdnaTdPT05BT1pyVlNoOTVLeTJ0eHlBSkQ0VllueHVmdWFGRzNacENOUjR6M2xSSEpJOURHbjBmdC1pYjJvWEZyVXVYQmp5Qy1Sa29QNDA5S0ZnR29wS2VOdDlaRmdxZDEwZHlB?oc=5",
+   "published": "Sat, 14 Nov 2026 09:58:14 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "沖縄道、那覇空港道 道路の気象影響リスク予測・天気予報 - tenki.jp",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YN1c4MzU2ajRCUFIydmZmRE5mOGhRTjVLVllYbXF6WlJtSjg2dHRXM3plYXlzbkVYcUVlRV9VZEZfMkNZMUE?oc=5",
+   "published": "Sat, 14 Nov 2026 09:54:45 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.609
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "DMO旅日記－観光地域づくりの視点で歩く沖縄－#8 地域の未来と観光の魅力を探る 「やんばるの自然とサステナブルツーリズム」沖縄北部編 - ツーリズムメディアサービス",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4MVJpU0JSaGx5S0xYQ2dtWWdvZ0EyV2lwRzNnbE51ZXlQbFoxdTVjX3RkZEdnc1dDOEFwRDB5QXhHMEFoc2JHaw?oc=5",
+   "published": "Sat, 14 Nov 2026 21:31:37 GMT",
+   "score_parts": {
+    "recency": 0.938,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "DMO旅日記－観光地域づくりの視点で歩く沖縄－#8 地域の未来と観光の魅力を探る 「やんばるの自然とサステナブルツーリズム」沖縄北部編 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtc3BDOWpZR3NGal9ydE5LNmJRY1dPZHBuMnhheGVOVzBWcWNlZU9RRzlhRU9wWVZxNXZQaVM5ZGZ1bHY3OWowVks4RHo1aGR3QWdaUG5XbXBDXzZOd0VR?oc=5",
+   "published": "Sat, 14 Nov 2026 21:01:53 GMT",
+   "score_parts": {
+    "recency": 0.928,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「早かったら来年の春には現金なくなります」ジャングリア沖縄の再建計画が判明…苦肉の策の限界 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSUsyck9oTlZYRTB2b2dyUVRUbTJIdWpENkZYX2tTQW9saGlFVE4yLUhZS2R0d2ZRdXRhUDBhSHNvd01vZUVkVG5rejdaVGZEMmc1M3hUZy1mQ2hmU2JR?oc=5",
+   "published": "Sat, 14 Nov 2026 05:00:00 GMT",
+   "score_parts": {
+    "recency": 0.594,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "しっかり向き合い調査して 遺族強く訴え 辺野古事故8カ月 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xVHR0MG1Gd2JPTDl5aFF6RVVZcGo2Yzdqb3dpVVFmU3N2UVlTQWRxRnlhSG9tQ19FTkFFcHNQcWYzSEFqUWlZMGZFeS10SEJVbTIwMGxHWjZTdjRZbXc?oc=5",
+   "published": "Sat, 14 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "全米空港で運航一時停止 通信上問題 1万5000便影響 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lR2QzNlZtSXFOcHJBTDVZM0pqSGlVZFg0dXptTUltUjhZel91d2JxUDlLOGhQYWM3cFNTa2NpSXRhMUExVDdCOE1NVWJSRlBtVEpQN0ZyaFpONFRkV0E?oc=5",
+   "published": "Sat, 14 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "［県三役動静・市長動静］（16日） - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pajcxbndFZS1HaTU3NGJFUEE0WmplNU94WWNmemNUVjg0WUNIVkpqSndIT1ZfUGtieHgwWHRScjdmQnA4VTEyMW05R3Y4Slp2TVp0Y1RsQ2ZMdUZRaEE?oc=5",
+   "published": "Sat, 14 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［アジア便り］内間広崇 かりゆしウエアでPR シンガポール - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yNzVXMEJHVUZyckt3Q0dHS1I5cWhCV0h6SEhkR2JpRGw3bVd3TExfcXVOVUQzVWttUU1vbFRoZjRlRmc3R09PWE1IRDZ2WHN3d2Vkdnp2WlZTeng3c3c?oc=5",
+   "published": "Sat, 14 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.884,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  }
+ ]
+}
