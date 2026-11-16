@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-16",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 123,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "[ジャングリア沖縄]森岡毅氏がメディアから姿を消した理由は？ Targa Monopattino (UhOtWQWxDs) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XRmd3Mmp3Sm15MUZUY1N4QmtsQjhVd29CTlJjSmJRbkgzNVFvSFhQUHRvNzhfZVVWa215eGJQNHVHcUFwYWpZYjdxRGl3RWR6cW9OWlFIZF9mbVROZkxfZktINTIzUGhxdFpJ?oc=5",
+   "published": "Sun, 15 Nov 2026 16:30:29 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア 沖縄 展望台 JUNGLIA OKINAWA #JUNGLIA #ジャングリア #ジャングリア沖縄 #沖縄県 #沖縄 #沖縄観光 #ジャングリアグルメ Chicago Bulls (Gto7ttSgOT) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmT1RNUnVQcmpzWG92M1FqSHpUUHZXM2pHRFZpX0x0dGZhQk5mckthYjFBNWxkMVBlVExJOWlrYXltY25pQTBKZzdrODRyUlgtRHQ2TmtzUUtyamJwcE9Eemdvb0F5dEhFOHYw?oc=5",
+   "published": "Sun, 15 Nov 2026 11:21:11 GMT",
+   "score_parts": {
+    "recency": 0.726,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "日米対抗ソフトボール2026が愛知と沖縄で開催！出場メンバー紹介 - www.journal-one.net",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jT3ZBbHBGNERfY3gxZGpHZDNfQzJ5N0VxUG83UTNGX21kbkdoRGxNTDBNcDBwYkVQZ1pKSkJ3T2l2cC1nODlSWF9QQkxYdw?oc=5",
+   "published": "Sun, 15 Nov 2026 22:14:17 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "観光客は多いのに、なぜ宿泊料金を下げるのか？｜沖縄とハワイの数字から考える民泊経営｜多田進吾 - mbp-japan.com",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tRDE1MW93MEN5Um1TcFA1T2JwWXRxQ2RLZDlmZkI3RVJsRG9ZdElCZXdiS0pOakxWMFF0SkpwaEI4ZFlCV1VNTFozc2N1LU1DWE1OTU1yNU4yU3Z4Qlcw?oc=5",
+   "published": "Sun, 15 Nov 2026 21:10:50 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【開業から1年】ジャングリア沖縄に今も続く酷評の理由【ずんだもん解説】 Capital One Class Action Lawsuit (09qkJKugfv) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ca3MwdFB4cnFwZjhWcHN1MjVTbE1PYk8yTE8tNXdDWk9WYUJ2TmlzdnNmdXJGY25IOGprVmI0M0NfQjJJLUgwbFp4c0wxSElZd3A0a1dUMjhSLTJubFNoemlFOVNGWlUyNFRV?oc=5",
+   "published": "Sun, 15 Nov 2026 04:47:34 GMT",
+   "score_parts": {
+    "recency": 0.589,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄】ダイナソーサファリ、ファインディングダイナソーズなどアトラクションが公開 7月25日オープン メディア内覧会 Crypto Atm (LBfRa7ueok) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5keHFTd3VSRkROT1A4czFIaDlsZEtRTzJuUUNlYXJmcW5RMGNFM0pWemFsVUF2U0Qyd0dYWGVyd1djSERjR2lXZGdoY1Rkc18xb1FPWGFZdDRsNkdxSnFtMHpYXzg4ODZTZUUw?oc=5",
+   "published": "Sun, 15 Nov 2026 03:07:02 GMT",
+   "score_parts": {
+    "recency": 0.554,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "地域活性化 AIがデータ分析し課題整理 内閣府がウェブサイト「RAIDA」強化 市町村ごとに指標を偏差値表示 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2bDFPOG54RE54RkhnZWo3aWdCb0d1aEk4TndqS0VrVWtZZ0tTdHRDTWVnTWtYRzdDQWs4M1FaaFA0aDB6Qm9VMDRfTndOUXhaX2VaMGN6YXJXMUswelE?oc=5",
+   "published": "Sun, 15 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.885,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Sun, 15 Nov 2026 18:28:07 GMT",
+   "score_parts": {
+    "recency": 0.874,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「都会では味わえない興奮」はどこへ》赤字苦境のジャングリア 利用客が明かす“現地のリアル”…アトラクション評価に明暗くっきり（女性自身 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95WUdhZWFIZ1BUdG9EQnJmWWl1NW5Bc2s0Rkh4WlZNNzhmMFhmcHgxM0liZE5aQlpZTXJkVzdlZ0ZKOTVQQ1MyTHlVSnMwcHFGT2pSelRHRWY0LU1aWDVNbllZSkVjdDZQdFJtT3dhX1ZVbXFTSElKaDhjX1dPMVk?oc=5",
+   "published": "Sun, 15 Nov 2026 21:00:38 GMT",
+   "score_parts": {
+    "recency": 0.927,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄のTWIN-LINE HOTEL、桜の開花期に合わせ宿泊者限定イベント開催へ - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCb2M5VGhyTWF2Zl8xTE9NSDVxNlJYeWpDUHR4NE42bGc3R2RpSXpZcG0wbXFUamRpVFNLeUtCcG9DTDJBekE?oc=5",
+   "published": "Sun, 15 Nov 2026 09:52:07 GMT",
+   "score_parts": {
+    "recency": 0.695,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "＜画像2 / 20＞大型イベントが盛りだくさん！沖縄で｢観光月間｣PRイベント開催 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GM2dCLXl3TFo5T3kwZ0FMU2RIYS1feGhDOEVsd19hNFV6Njg5SmhkZlpuQmFYVDBjUjBUem5tN0VPZ05hdHgteWVCeGp5aW5yU1NQNnJWcEE5SUFrd29zZzlwVmdPY2xE?oc=5",
+   "published": "Sun, 15 Nov 2026 07:56:04 GMT",
+   "score_parts": {
+    "recency": 0.654,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【今帰仁ホテル】美ら海＆ジャングリア周辺の穴場宿！1泊2食付きホテルが便利すぎた！Lit Hotel NAKIJIN Fulham - Afc Bournemouth (IJytRkPAPy) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVm5jcHhnRWdFR0k5Z29LcWJmeDVJeVIwVGk5enY2MC13R1BhdURqelRsOGtlT3NwSi1TRkFfb2daTGVhcTZMZ0U5TVloZkdkUXBKOVJxVDJYNF91aXdwa3JZSlFFY0pEV05TZ28tczJSbFRzNlBjakVJamlMNkstcGg0elFaTEVN?oc=5",
+   "published": "Sun, 15 Nov 2026 03:09:11 GMT",
+   "score_parts": {
+    "recency": 0.555,
+    "engagement": 0.0,
+    "keyword_hit": 1.0,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.546
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ジャングリア沖縄 副社長の原点】挫折から見つけた“自分の活かし方”【キャリア探求：あの人の20代はどうだった】 Alexandre Carrier (PsDlGA1OCX) - Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEdsYkJWamo4T0R3LTBjcFIxOGtnTTBZWE5KLXhCYjlQZjdTYmhPa0Y3MEFvVk5oZndZcThoX01EVUJxcDFVQ3A3X091czc4TkxHR3VmLURrQTZDWmxtX0NicFhaWmxhaG1leWlkODkxRmJRUF80eXRuVEV4aWQ0RlBfcWNWVUU?oc=5",
+   "published": "Sat, 14 Nov 2026 22:08:33 GMT",
+   "score_parts": {
+    "recency": 0.45,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.535
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Sun, 15 Nov 2026 13:57:29 GMT",
+   "score_parts": {
+    "recency": 0.78,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.534
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "チャーンの鳴き声響く 王朝時代からの伝統 沖縄市で文化体験イベント（RBC琉球放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyck5kdXVIN0c2TnZOdGd1TzRjby1QYzJIc1ZOYkhsYm5EaFZhM25VNURSWnZNamVSLWF4dmwtWmRJb3prQzlmUGFLUm5BZkpOS2JCdjlMakx4dlg4UHh0ZzdSXzdyN1FSNlhicUNQOU1hSldkM1ZwRlBCMTN0djQ?oc=5",
+   "published": "Sun, 15 Nov 2026 05:36:18 GMT",
+   "score_parts": {
+    "recency": 0.606,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.532
+  }
+ ]
+}
