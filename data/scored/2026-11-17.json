@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-17",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 107,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【コートヤード・バイ・マリオット沖縄リゾート】初めての年越しを彩るニューイヤーイベントを開催 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NdG9xZ3N5VGZCVk04WDFXTEQxbmFjS1lYRnFyYmdiaXlEN2RtZlRseWJaU1JiVjhWN1hvcUIyV3o0bzdPWlhxaGNKN0w5MzdJUTZKRnZiSndXTkJ1VTFvc2VZb2RBSzh6aWc?oc=5",
+   "published": "Tue, 17 Nov 2026 02:00:02 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.642
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ガパオライス弁当で37人が食中毒、イベント配布 沖縄 ２日間の営業停止に - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RMlpZX0VhREhrWTdhMzI0NGVENnVaTjFDcjhNNVZPSWpJRHduSGJodGtnQzFaWUJzMVROc0M1aVhuVXhfQnF6OUJmR3Q5VnY3a2ZUQ2pxdEZ3eGlIUTZoUA?oc=5",
+   "published": "Mon, 16 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.848,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣が、ジャングリア沖縄の助け方を見つけた！ モデルにすべきは、ディズニーランドやUSJじゃない。コンテンツから資金集めまで、その驚きのアイデアとは？ (GOETHE) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbnExZUNEZWF6U3Zoc3RKektoekRRelJzZTRfR0l4clhvbFptSTdQSWE1UjdZcnhXMzhzakR3cjNITFhQMU1xZjJIeWRJYXZDaWRSUVFsQkY1Zl9jbkNSa3FrNEl1ZWF3aENpbHJveWZ6ZC0wS2RzempIZ0N0ZW1jZnJFaXZ1U1RqQ0tHdXVB?oc=5",
+   "published": "Mon, 16 Nov 2026 11:18:59 GMT",
+   "score_parts": {
+    "recency": 0.667,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "AKB、県産品魅力PR 千葉・武藤さん 豊見城でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DbTVRdWVOV0NISTZIWGJreWFkbmd2Sk9JSEkzSTVleWVOeXNJMmU2Y2tLck1pYTJpanVjSEFzUWM3OUdhLVJzYnA3X0l4UWw0RWM4bWtmYVhtS05tSlE?oc=5",
+   "published": "Mon, 16 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.827,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "北欧デザイン×日本のクラフト・民藝 「デザインの松屋」だからできる新しい催事 GINZA CRAFT JOURNEY ―美しく心地よい暮らしのかたち― - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iVTBlT2puTWNRNkR4X3Z3T0syUnQ4VVB0MGExdGc1c3lYUVoteXl4OXpkSjNDaDB3SFBtcGpHSTM5YnlWWVIxUG14ekhKNExGN2ZQekJ2Vm01VWZrOXc?oc=5",
+   "published": "Tue, 17 Nov 2026 02:00:00 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "Anfini CGO 田中研之輔が「HR FORWARD Forum 2026」にて基調講演 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUFYzSTNlYS1WdjRkZU1JZk94TUMxVmhUQzFZX3hwUlVnbGRIeTRlVUgxTWdBVmNqNW52UktJS1JwZU9IcHFKcEthWlhJYkZaVDROaW12WGNQY0puZ0E?oc=5",
+   "published": "Tue, 17 Nov 2026 01:13:05 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "画像8 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kUWstZHRCX1FXTjBKZmJmMlFvVDA4cjlqMDFkaDB0ZWYxY0tLcVpLM1gzVm1EdW9GV2phQm1KaVhrN2JTOVpuT09ldHJTMEtpOUVCTFRRbEp4MVZqWV9WVGdxSlg0MTluUG80V3hn?oc=5",
+   "published": "Tue, 17 Nov 2026 01:02:18 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣が、ジャングリア沖縄の助け方を見つけた！ モデルにすべきは、ディズニーランドやUSJじゃない。コンテンツから資金集めまで、その驚きのアイデアとは？（GOETHE） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WYXpkS1dqbE1iQUpUVnhqRmZyUGdfRlVyb3VBVXRpR2JLLU5RZ1BOVFRIT3R0OUVQdGcyX2hrVl9uTVRHb1U1TldqSmJ2QWNDOWppaV9Za0Q0LUgzejlndTdZNzJkdmptdEpXdDI0d2xnMXZPRF9qMmk4VE41eDg?oc=5",
+   "published": "Mon, 16 Nov 2026 07:30:57 GMT",
+   "score_parts": {
+    "recency": 0.588,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.576
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像13 / 14＞オープンを迎えた注目の「ジャングリア沖縄」、絶対に乗りたい！おすすめアトラクション3選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10ZGJIS2VNQ3U4OW5KU0tQNHJtbWxWZzRLRVI1RmFrQU16OTVCYmRNcjdrb0NFR09pcVN3clUtUndkdG9BSWdPZFZBREtNTFM1RHM0TzJDUDF4Y2lPX0VBR0huTTNWWVdaR0g5Vzd3?oc=5",
+   "published": "Mon, 16 Nov 2026 23:15:02 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.575
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "地域社会生かしビジネス開拓へ コザの新施設「ROCX」、開業日にコラボ企画 さくら田中社長ら登壇 19日に沖縄市で - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbUZ2QTB2OVBrYy1aTS0xLVIzXzhjLVlqbG9kQThMQ3Z1RkFkV0lGSXBrdllKV2tSQ0hwd2dvSy1YVHpqZnZhZm5KLTh0RTBDcTJVbUd3ZTlaaWpkc3c?oc=5",
+   "published": "Mon, 16 Nov 2026 22:32:00 GMT",
+   "score_parts": {
+    "recency": 0.901,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.57
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像2 / 10＞ジャングリア沖縄の新大型ライドアトラクション「やんばるトルネード」が4月29日に登場！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02RVE0OHltb0hycTNaRWcwVnNnMTVRTDdLN2VJWUN4ZmJBaGlhSHhRNjZpaU5aSnUtSS1Wd3czcFlGOG1MMUN2YW1rSnB4clpLdnU5dEQ0bXpEbjZfWTRxbGRYS3ZPalB6TkdqWGV3?oc=5",
+   "published": "Mon, 16 Nov 2026 19:34:16 GMT",
+   "score_parts": {
+    "recency": 0.839,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.552
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "ＤｅＮＡがファン感謝イベント ２２日まで、横浜の球場や街で - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QdUZwa3BlY2FPaXVWajFLLUVSck15TU5QYXNEMWQweGdncmdnZ3d2QjQtVmJVd0ZldzBhX1dTV3pGRTdrcUFpRFYzZHI0UDZFZkU0RF8ycGt1a0U2OGc?oc=5",
+   "published": "Mon, 16 Nov 2026 11:25:02 GMT",
+   "score_parts": {
+    "recency": 0.669,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.551
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像25 / 35＞【ジャングリア沖縄の暑さ＆混雑対策】子連れファミリーが1日体験！アトラクションだけじゃない魅力を検証 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmV0RNYVVDS280dnloWnY1cU5ZSTlGWk5tY203VVpUQVZZNWlWdURLZFNWRXh2WWZ2bkM0dzk5YkU5UjFwWnFVOU1xcDVoTkZWd1RHLXRFamZsZ1pKMG53VS01N1YyTVkwUi1zdUNn?oc=5",
+   "published": "Mon, 16 Nov 2026 19:11:45 GMT",
+   "score_parts": {
+    "recency": 0.831,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.549
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ＪＲ東海、京都駅前にホテル開業 関西２軒目、収益源を多様化 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5UjZGc3M4UllOb0pDdGNWRjZXMnJzNkh1OWlvYmd6SU1Kb2xwakxvNVE5SFltbnhOV0NxRTdvY1RYLXU0UHc0VGlpSWFGeWlXbklteDVTaEFZUFFreGc?oc=5",
+   "published": "Mon, 16 Nov 2026 10:54:26 GMT",
+   "score_parts": {
+    "recency": 0.659,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.548
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：地域社会生かしビジネス開拓へ 19日 沖縄市で催し - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BaEI2RURSbC03eFM2ZEZlZlRBeC1ZdDZabTNUUzV6OTA1YUxtSDdxZ2t1THJVSDRhTTNvaHFGakdqUm1tbW85VDFQRktJdzEzY3BQczRiLTNzX3JkUzBwaEZtNWJQUQ?oc=5",
+   "published": "Mon, 16 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.826,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.548
+  }
+ ]
+}
