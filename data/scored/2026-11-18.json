@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-18",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 121,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄県・小浜島でかりゆしサンタ、北海道・トマムでドローンショー…星野リゾートのリゾートホテル「リゾナーレ」が提案するクリスマスイベント6選 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aRS05Rk11Sy01cmNaSkNSd1I3LXFSU0RZbFZPT3h4M05CTkt6NzR0RDQ3LU15bDRKaUhaWDNGdVR0Nnl4VzQ0dWdNMzVibWJVbmRSZTRFSS1CcnBGWXRIU0dIOWo1RXVtd0l4ZTZn?oc=5",
+   "published": "Tue, 17 Nov 2026 23:53:39 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.683
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "世界遺産５年で４島つなぐ 自然守り観光に生かす 環境省がモニターツアー 奄美・沖縄（南海日日新聞） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nMVg2dUZVaGFJV0c4OThLcXVkNlRDM1h5UTZuNVRWQ1piZExENDlDdjlhRC1lbGgtQ19MM1lXSEh4UGZfX0k0YmZPMUI0OHNGdHZsVVg1M1VoLWh2Y2NCTFZMbzNhOGJMamVGNmlCaFV5eWVvWUh1NlNIVGNPajQ?oc=5",
+   "published": "Wed, 18 Nov 2026 02:33:20 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.599
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "NOL World、ブラックフライデーに合わせてソウル・釜山の宿泊割引キャンペーンを実施 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52cEtEUHY2T3diT1lqUmI1VV9pa2dOTDVIajJsQksyc1FWX29SVWJTY0drdThDYUs0Q29qWkVyWUxHNTJlZm1wTGs1ZGRrXy1LTGpiMy1Pb3pmUWphTkE?oc=5",
+   "published": "Wed, 18 Nov 2026 01:53:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄への修学旅行 見直しの動き 物価高や航空運賃引き上げで 県・観光業界の意見交換会で報告 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xbGpnZkxRbjJKeXVpMUw1VjVZaXRXNHpjV2t1X1I5XzNrV093UUJrbmp0WTVvYkllNW4tWTVTdFpoWTVZb3BKVGFBMXhwakxnNU5CaEFxak4xVEY3Y1E?oc=5",
+   "published": "Wed, 18 Nov 2026 01:00:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【「はいむるぶし」（沖縄・小浜島）】日本最南端のアイランドビーチリゾートでイヤーエンド＆ニューイヤーを祝福する“癒やし”と“感動”の島時間 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wemZPM195TVduT3JCamFWUEw1RjZ3X2wwOFN5RG1ScDRJZUk4aXR6anZSeDRGYlg2U2N0eWt6bVZlcTRUa01lQmIyV1B2YUExeFJzNk55NFhnaHA0U21QS0gyTGx1aXhJQUE?oc=5",
+   "published": "Wed, 18 Nov 2026 00:30:38 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "東京株式 １８日０９時１５分 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yd21ySmo3UkE4c044M0hVX0JSY05rNGdZY21Memxibl84OFFtVGFFRlNmMU1IWmo2OF9ranVhckNRamY4UnozZ3hFeDItVEYxLU9pMDRlQjAxWEZaNGc?oc=5",
+   "published": "Wed, 18 Nov 2026 00:16:22 GMT",
+   "score_parts": {
+    "recency": 0.95,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "中３沖縄修学旅行、地上戦体験者の講話・ビーチクリーン活動も…中大附属 - 読売新聞",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkdmdC0xNHFnM2Z4SmdLV04yaV92VXdOb1VQQml5a2gzSEhEREo5Z3dpS0xSRWZEN0JGd0dURHdIY0ZNeHprR2twLWhaa3hTcFFudFhUdXBhT245WFRzMXQ0Ynd4U19vWTEweXlCV09odmdUVkdfamJLTjB5QmNoWjFYSnFtSV85bVE?oc=5",
+   "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "第一航空に業務改善を勧告 国交省 気象レーダー不具合で運航、那覇と離島間 沖縄 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BSzREUElldm4tN083MnNSV0RCSWhBZWJLaDhwMmFGdWxGMlE5OHpVdmt4V1diM29XdFJPaVh4NjYwdU5mVVk3UExpUQ?oc=5",
+   "published": "Tue, 17 Nov 2026 23:03:34 GMT",
+   "score_parts": {
+    "recency": 0.925,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.578
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "創立７０周年で沖縄観光満喫 会津商工信用組合 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQOFV0RVVHS242V1dKLVNFNG5DUUlUNmFSc0FaWHJQODNrem10NTg0OFJjcDNJaTZGMGlaek9RSWxKcEh2c240WHpWcw?oc=5",
+   "published": "Tue, 17 Nov 2026 20:10:00 GMT",
+   "score_parts": {
+    "recency": 0.865,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "創立７０周年で沖縄観光満喫 会津商工信用組合 - 福島民報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96c09xb2RRRGdORW1BYWQ4cWc1Q0REeWV1cGN0SGk3b21yOUxNSktBcWVEa0pvaHhIczVmWVMyLVpzck9GaUx5QW5Kcl9kTEk?oc=5",
+   "published": "Tue, 17 Nov 2026 20:10:00 GMT",
+   "score_parts": {
+    "recency": 0.865,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「旅好きが選ぶ！日本の水族館ランキング2018」が決定！1位は「沖縄美ら海水族館」、トップ10には九州からもランクイン！ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJZWdhTTdlOUdZWnhQMmhvWXFIM0tUeXNETlpaSERKdFdrX002ZHdUVVA2Z1VvRTI1TU1sdXlNcnl5TGxzTGRBX1BsSHBBQUsxSFVlRmdEcHNLSEZQZjZxNjZTUFdVZ9IBa0FVX3lxTE9FNUx4VHR1NlNnbllWQ3JhMDQ1TlZEeFZjeDhCX1RUcE95bFlicUpXWmlnbC00S0pzZmlJSHExTDY2RHNpOWxpUzhYZndVRmZzdWEteFp0ZmNwWGtva21pcllzc2JpcVY1aTlz?oc=5",
+   "published": "Tue, 17 Nov 2026 12:07:51 GMT",
+   "score_parts": {
+    "recency": 0.697,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "首里城公開、交通対策を 観光14団体と沖縄県が意見交換 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OdlVobHpYSEJDSFlOcnRsOFdkUHhIVkdwWHFpYWtZZ216NWpLMlU5RVJqX1lyNkRCbW9tVDF5T3ZmaFhza2lRemFJZ2o4MTFmMmtPOG1mMUFlblBCUnl4R3BR?oc=5",
+   "published": "Tue, 17 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.861,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "首里城公開、交通対策を 観光14団体と沖縄県が意見交換 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1RWdfaDZxaXVlT05qUHl0V2FmR2hXNUJRMUFPRnA4cC1vZkhuY2JuV05ETzFUMW1Oams2VnJvOTIwd0xCa19OelBhaw?oc=5",
+   "published": "Tue, 17 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.861,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "第一航空に業務改善を勧告 国交省 気象レーダー不具合で運航、那覇と離島間 沖縄 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rQmdKOE82a29YcG8tLTVSMGNuc09sQ1kxMks0U2dFckRhVTNOaWhnVzVPaXc3dC1sX1QwS2RLaDEybDU3SWtyQjl2bzN5c1Faa0VoTGRrQ0xETXUyYmhTV21R?oc=5",
+   "published": "Tue, 17 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.861,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.558
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "画像23 / 25＞「ジャングリア沖縄」開業1周年。待ち時間は5分の1、体験数は約2倍に改善…満足度9割のテーマパークが次なる成長へ - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CR2JnZmVOa3p5THZGUnVFcGhNUjU0bjFuTlFXbFhmTFc3aWtPV1ZpZ1YtY0tISE5YbzdUSnBNalhlRW45NTJMZE1fY0xrOWJnbkplX0s4a3pwVm52MEQyMl9WNEVENllhVVVINmVn?oc=5",
+   "published": "Tue, 17 Nov 2026 19:05:13 GMT",
+   "score_parts": {
+    "recency": 0.842,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.553
+  }
+ ]
+}
