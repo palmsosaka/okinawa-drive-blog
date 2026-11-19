@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-19",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 129,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄に複数社が名乗り 出資者探しを決めるIT化の条件とは？（神田敏晶） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmpXYzhEeHlBcUc5ZHM0TjByWGh1VHhQbDkwbE5CVEw0dklmaTcwTkFoSVFrTkttNWJtS2lkM19Db0t2U0pnSEpYNzV2LU1idmJZdkFpM014RE1oWjJfcnAtTkgzZnQwZC1ObUJ6ZW80cE5hT0lmQ2lvUzJ2UG0zN3d5TkVqbUxX?oc=5",
+   "published": "Wed, 18 Nov 2026 23:35:16 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.684
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄北部まで来たインバウンド客の旅程のうち、JUNGLIA OKINAWAの周辺で記録されたのは約3%、美ら海水族館の周辺の約10分の1 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yY09vZ1BkdmNEM043WE9VZHl3azZsVmRQYUl1RjZkdERRT3hMOWF5VlBhbzVoUjV6ZDBVQmk4V21BeGQ3bGtibWFlVVNxcGFXaG1lanhuREpTdnR1MFRCa2xrWjBWV290Ync?oc=5",
+   "published": "Thu, 19 Nov 2026 02:00:02 GMT",
+   "score_parts": {
+    "recency": 0.998,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のジャングリア支援に名乗り 「複数の企業が」と商工中金社長 - 北海道新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdUNNbGNsbmNkNFpZcVVTMzlNWm1KeFFOdzVfTUdMRlZBbDdqTDNLaElfaXptNVplVUM1S183cGo1RnV2azBqT1U4NGVDSUNETFJTNndiMzdzeW56ZldWa09Fckw4aVFUdzQzY09UZFRTZTRHdkR5bkJCQVpTMmRrSV9MSkZlemd1WXZIQVNNUEExc3pieEpJSVFObFU2TUZzZ2Z6eVcxcGxhWTFVZkxNTlVNT2liSVJfRGc?oc=5",
+   "published": "Wed, 18 Nov 2026 12:00:16 GMT",
+   "score_parts": {
+    "recency": 0.706,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "■沖縄ニューカレドニア友好協会、２８日に創立２０周年イベント - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0za2R1TTQ0clRaRmhUYzE3Q3h6UHRVVDNQZmV1clo1SnpnX3gwX1NMTzcwbnN1alJCeGZZOTctNUNYWHpST3pMUDQteWx2bVMxTlF3eVBMLTB3dWZ1RElONA?oc=5",
+   "published": "Wed, 18 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.873,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.612
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のジャングリア支援に名乗り 「複数の企業が」と商工中金社長 - 新潟日報",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44bDF4TWlCV0U2T1JOMlFqdkliMmhoV3M5TXBYOGt4a2hSeERGa0ZBLVQyd2txMzFVYUQtSGJfUjdaZXdJSExzRkpyTVRBQkRmcl9jZEVKaTN3eDNSNWc?oc=5",
+   "published": "Wed, 18 Nov 2026 11:54:36 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のジャングリア支援に名乗り - OANDA証券",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44VUVlMlUydEVfOVlGYnFkWEZ3OEg0b2V5UWtEQzQ2aUNlNkV6MThCNVFMcWpxVXBEQkpPNEdTQ3VYSG5pdVpWLVIzMHFvYnJvQmI0N1EtRWdsMTFoeGlhbmlzMVBQVGlPTWYyRzA1dkNJWVFHLXc?oc=5",
+   "published": "Wed, 18 Nov 2026 11:54:41 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のジャングリア支援に名乗り - 中国新聞デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xYTdLSEJHc0RtZFF4YzhsYTczVG1EUDVLeWpfYnI5a1RTZmg3VGRxM0h4T1J4VUVoN2FjNHRWUWpKenBMemtpdUVzZ0d5WlBCa3FtRmltTXZzZw?oc=5",
+   "published": "Wed, 18 Nov 2026 11:54:32 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のジャングリア支援に名乗り - 山陰中央新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoNjE5NlZJV2s4cTJXRFBGbmhlckFMSWxqekhNcFVNbFc3b09TcGZjakRWdlVsM1dScUNSaFhuN1F4Q0FXWFpnTG9DVDFPQWdPSEpDVnc5dnI4QUU?oc=5",
+   "published": "Wed, 18 Nov 2026 11:54:36 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のジャングリア支援に名乗り 「複数の企業が」と商工中金社長 - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zSENoVXo0Q1pjNkM4ZlpCTkhCbzZfWmZxWWRoZUtuVGhYdzVoS3BpWE5ZR0c0WGVEZWo0bjF2WmdJbEVBVjdvWTQ1SjFSTWNkc2dORVgtd21DYnp2?oc=5",
+   "published": "Wed, 18 Nov 2026 11:54:36 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のジャングリア支援に名乗り 「複数の企業が」と商工中金社長 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yYXpMdkZMdHV0RTNPa3NZRlJuZ1l4d29WVlVSaFJtVGZlWUNTNFY5bDh5dktQQzdOUERoS1RvampwdV9tZmdmTWJLbnBNVDlkaGpxcnEzWl9sUTlLVmlLM3Y0bzZQei1ON3A3LTlGN0ViUQ?oc=5",
+   "published": "Wed, 18 Nov 2026 11:55:00 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "飛行展示の中止 県平和委が要請 来月 空自イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sbi1qTGJuVHNFcWxjNnBEQ2haRkhCLVU0a3NzLTRQSnhaaWNmdUx1Z2NXaDl5cjhGTnR1RHY0UDV5UmZwbkg2VHJ5czNLRFA0NFNwV1BuSC1lTlB4VkE?oc=5",
+   "published": "Wed, 18 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.851,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.605
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "不要な免許画像消去徹底を 政府、レンタカー業界に - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5VXRRRl9Za2xfcUlMc1hBdmNRenZ0VS1Jdk9NQm9aNVZXN0d2U0VtbjUzdzhienFJN09TYURDRWhLZlQtQWRTTms4cEVWc3VmSU9wVEdQX0J1NmdPT3c?oc=5",
+   "published": "Wed, 18 Nov 2026 10:42:06 GMT",
+   "score_parts": {
+    "recency": 0.679,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.604
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア出資、複数社が名乗り - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtMWNEWVhkTnRLU0FHeTIzZ1UtVHdhRW1XTVRsWVM2MU0tTzd3cjFRM29DYjBIMHp5TWl6UnZPRkVzSVBsdUJkejJzcHd2Zm40N2J6SlB1VzNLTWdDU0E?oc=5",
+   "published": "Wed, 18 Nov 2026 10:19:14 GMT",
+   "score_parts": {
+    "recency": 0.671,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "FITUR 2027、展示ホールを2つ追加し、持続可能性とテクノロジーへの取り組みを強化 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUHh0R2JrNEZWZ1ZPQWVBbk0yWXdWc0hzWEwtTUpTYnJONVBINjVKOVkwdGxzdDFIWFFack9jX21LS0d1dDl1djI3bXBkNDU3U1kzOWhHcjZfYXZ0dFE?oc=5",
+   "published": "Thu, 19 Nov 2026 00:56:00 GMT",
+   "score_parts": {
+    "recency": 0.975,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "『地球の歩き方 沖縄』が大幅リニューアル！ 首里城正殿の復興で注目が集まる、沖縄本島と周辺の島々を徹底深掘りした最新版が登場 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NbnUzRkxIQW44em1saFBiaFl0Q0UwS2RnMzJGaHBwTDV4NmNzamNUYmhxdE9sY2xYLXdvNFV0eF9jb01rNG52ZGVBbUIyZWJjM19tdTJONmxWcXcwZ19nSk8tTml0OVhEeWc?oc=5",
+   "published": "Thu, 19 Nov 2026 01:00:02 GMT",
+   "score_parts": {
+    "recency": 0.977,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  }
+ ]
+}
