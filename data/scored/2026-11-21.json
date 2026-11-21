@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-21",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 124,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "「ジャングリア沖縄」よりスゴい？ 「恐竜の動きがリアルすぎ」と話題…社員数わずか13人で運営“恐竜ショー”の意外な裏側 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OaG5mRm1JajRrYUJOZnRqOXA4ZWxWajRaNHI1WEpLdnpUYVAwZzlNcjRDeTR3cHpFLTNfNURhclltZm1WeUxkXzM1cTlnMFUxSUZ3eVUzUENsODhxQW5KVDRTcERucGpUMklmSjdjN0ZScmZCSm96TVRySFcxREE?oc=5",
+   "published": "Fri, 20 Nov 2026 21:12:16 GMT",
+   "score_parts": {
+    "recency": 0.903,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.671
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【楽天トラベル ブラックフライデー】ジャングリア沖縄や美ら海水族館へ！やんばるを満喫できる沖縄本島北部の人気リゾート5選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80b3R6dFJ3cjhGU3ZYMEg0S3pMWV83Y0VVTy16NXlRRlVWZGtpdWJVTmVqNkVTeWI2WWV6dlIxZ3o5ZWRDRDdrdUg4T0dpYmZtRDZhTEFFZzVqVE3SAVtBVV95cUxPNG90enRSd3I4RlN2WDBINEt6TFlfN2NFVU8tejV5UUZVVmRraXViVU5lajZFU3liNlllenZSMWd6OWVkQ0Q3a3VIOE9HaWJmbUQ2YUxBRWc1alRN?oc=5",
+   "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+   "score_parts": {
+    "recency": 0.69,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.657
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "サザンビーチホテル＆リゾート沖縄、年末年始イベントを開催 - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Cb1BjWnJOZ1RoVW1IZFpYNmozcWNCVmNtUlc5OTZ0YmZBSkFjaFQwd0dsN0pWOHJHeUxfdGQ4M2pGckU5MUNB?oc=5",
+   "published": "Fri, 20 Nov 2026 16:21:01 GMT",
+   "score_parts": {
+    "recency": 0.802,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "車いす空の旅が２日目、多彩な海の命に笑顔 沖縄美ら海水族館を満喫 - カナロコ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zQTdRS0JMSG5YUjYxSXBDUTBCa2JmdnBTbWFVT09vMFNVY19SV0lzLUZya2R3VmxHM3V0cW1WNzZxWlJxYU1UTGxXR2NyMksxS2RWRklNTUIxTFZYY2tQVGxxT19oNE0?oc=5",
+   "published": "Fri, 20 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "介護や認知症 楽しく考える 25日 東村でイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QS1RPRDdGc211b1lWUXYyM1JMRzZ5UUNuVFhhazZDSkZlTVpxQmFtOTMzZnJEd1VNVU55SllOSkdkRGd2UnNxNFlOcTRQMzhpbzhqNHo4dk1EbDVxUmc?oc=5",
+   "published": "Fri, 20 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.607
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ベネチア入場料、金額維持 徴収日拡大、観光公害対策 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YOXE3TWgyUTlpMWZ4M2lybVdIbG5RaGRPWFB1RE5YbHJ1bGFWMWxCRllmNWxCWVlDblJxcHNwX1haNUVIT2FkNzRULWJHSkVTNzdBbEZ0QWVVNzJuMEE?oc=5",
+   "published": "Fri, 20 Nov 2026 23:54:39 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.588
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【楽天トラベル ブラックフライデー】ジャングリア沖縄や美ら海水族館へ！やんばるを満喫できる沖縄本島北部の人気リゾート5選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zTWN2TWpVZTB3TU9OWWxtYUdwdGs4RUhqT1IwdjVlZmpJdTUwb282ZVF5Q3FvVlhwVzFaTGxaVEI0LTNIdFcxNklSNmp5cjJSQXl5NW9n0gFbQVVfeXFMTzRvdHp0UndyOEZTdlgwSDRLekxZXzdjRVVPLXo1eVFGVVZka2l1YlVOZWo2RVN5YjZZZXp2UjFnejllZENEN2t1SDhPR2liZm1ENmFMQUVnNWpUTQ?oc=5",
+   "published": "Thu, 19 Nov 2026 23:29:00 GMT",
+   "score_parts": {
+    "recency": 0.45,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "パラオ、ごみのガラス瓶を工芸品ブランドに 日本人が主導、環境意識高い観光客にヒット - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DM1FBd0ZFQXprZDlhSC0zQTJKYVlWSU9HWDBBY0V6LXdIUWUwd0FnaEgtUXI1dmZBa1JraDFOZVhWZlpnQ0NUbTEtUVBSWjhlVXRSb0psekVzY0lOemc?oc=5",
+   "published": "Fri, 20 Nov 2026 23:00:02 GMT",
+   "score_parts": {
+    "recency": 0.94,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.582
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "魅せる文化を観光の柱へ 宮本亞門氏「特色ある文化が沖縄の魅力」 沖縄懇話会、戦略性や人材育成を提言 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBReEtpMnZsMDZMQUxBam5UbURUTEdCQ0lUSTJua3NzUkxhV1l4X21sX2ZoYTJUYmZXRW5jWlNmWWFlTVA1Q1o4U0JFclppclZaUHM2RG8xM05uMlZMLXc?oc=5",
+   "published": "Fri, 20 Nov 2026 22:51:00 GMT",
+   "score_parts": {
+    "recency": 0.937,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.581
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "Payke分析、ジャングリア周辺で記録された旅程は北部訪問の約3% - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83Y1R6dHpXRGlJU19nNDZrNnIxa0xSdmg1MnJkaXpCSVlmek1XazBad1FlcWFQRnVyNmNzdEJQOGtVYmFQYk53?oc=5",
+   "published": "Fri, 20 Nov 2026 23:41:21 GMT",
+   "score_parts": {
+    "recency": 0.955,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.566
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄に領事館「必要」 駐日韓国大使 観光客増加受け - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91dXA3RVNhMVFiSzF4Um5mQm1jeEtTZ21GRHp0bjBOTzJOYlRMN084QWkzRG5nQWtqMDJkaVNhemlRRzdnVUxNQmtyMXJFWURzSlNNM2gyb0I0cXotRHc?oc=5",
+   "published": "Fri, 20 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "クジラと観光 どう両立 業界関係者 条例制定へ初議論 過度な接近禁止提案 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wbG9HeUgtN1paWWpIV1NjSHR5eG9LQmxXRWtYcV9QTm40Q3VNcGxXRDZ5V0JrSXFjX01tRV9PWXl1RU52WWdVVFY4SkNGeUdKNlR3TElqWDdyX3h4ZUE?oc=5",
+   "published": "Fri, 20 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.857,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "写真：沖縄に領事館「必要」 駐日韓国大使 観光客増加受け - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13WUM5dXM2ajhNQzh1LVJfZ0JwZVBROUFqYzNMelA3Ui04VUFEQWhFNUVxSW9wdmRFWWtiRVhOMDJMQlBKNzdrYlNCY3ZseDhxd3pqcjN5OVJhOWpxTm45YWZhTzI0dw?oc=5",
+   "published": "Fri, 20 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［経済フラッシュ］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hMVdVeW5HeWE0RHdyNkc0cUpfMjBrazBkTXB0Um44V0kwckFSZjl0WDZDMGZTWkdyV0hHZHFsc042Yk04bUtkV19OQkJXVGM1eEdhRjNOOTJYN3Y0V2c?oc=5",
+   "published": "Fri, 20 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "6社 特別協賛金贈る NAHAマラソン協に - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jYWtNTm5Eb3NHTmFTeUpnQU43X2hya19sdEdCR0x1WlBDQWVPeDRZellpRTAwOHVqY0J3RzFMdXhiZXJweG5ocGpjZVlfLXBHWDA3TjlaQ2FhYlBLLWc?oc=5",
+   "published": "Fri, 20 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.856,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.557
+  }
+ ]
+}
