@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-22",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 110,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "地下はシェルター、地上はホテル。補助率9割で進む『ジャングリア沖縄』の再建プラン（神田敏晶） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3RyV0RXd3dHMXJraEJQT0tEWTBLTWNqNTRFOHZPdU1qbERVYVBNQmJkX2NOX2hzY3BWYXNmd1dMVVZjX2RDZk5PNVVfTXpYUmdKMXhLeEphY1FVNFJKTGkxZHJOY0VKdlU5a25udjlMSklnWTBnUFRqUW5xNW5JTmlyeEkzMXhB?oc=5",
+   "published": "Sat, 21 Nov 2026 03:59:02 GMT",
+   "score_parts": {
+    "recency": 0.567,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.62
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣が考える、「減損処理を出されたジャングリア沖縄が最優先でやらなきゃいけないこと」とは？ 小さくても「まず一勝」し、日々、汗を流すスタッフを守れ！ (GOETHE) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWV9ZSG9PXzdrcElrV3hLSHFZNGVmVngwNkl3OTF5NXI4UHNva29waE9JdjRpdklDYjk1RWpBYWRnNkJ1T3ZSLThmOGozd3B2SzREMGNCRnE5SVdVSFBWenRJLU5IVWRvRk1GbG9yYzRkbVdBZ0RQY0pDazJtZEg0QVdhM0FHRHFDdDlDNk9n?oc=5",
+   "published": "Sat, 21 Nov 2026 08:43:19 GMT",
+   "score_parts": {
+    "recency": 0.666,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.6
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "「スーツアップ2026年地方応援キャンペーン」第16弾（九州地方、沖縄）のお知らせ - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5ZllWZGxoT09zaXpoRk9yM3dTSWFvNWVxaHJLd1JBOHI4RGp6Mm5OWi1hcUp2UFdYTlVvTGRWbEJVSDRabUFzZlBsbWdqREpsd25SczJ5WGF0akJkWXExcEF0bmE4REM1?oc=5",
+   "published": "Sun, 22 Nov 2026 00:15:19 GMT",
+   "score_parts": {
+    "recency": 0.989,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄・首里城正殿、11月23日公開 火災から復元 - Impress Watch",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEWnNtckdtcmk0b2RneFdxVzhLampHZnFEbnJCNHBnN1VobzIyTXRNcnhtZDFpSy1jVXdMbF9ibW0tMTVsS3hOWTgzbExBWklGRW5YRzluV0t4aEZiUFlBN1VnSGM?oc=5",
+   "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+   "score_parts": {
+    "recency": 0.984,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "西野亮廣が考える、「減損処理を出されたジャングリア沖縄が最優先でやらなきゃいけないこと」とは？ 小さくても「まず一勝」し、日々、汗を流すスタッフを守れ！（GOETHE） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14UzdES2Q2Nk44dnVleGRYak5jcWhZOTZGdXN6UnJHZ254aVpXU0lWdExqX1M1VEtQZ010ZnlMeGdoVkZ4QjZlVFFOQUdCc2JQS2pUejVYc3dFTUdSdkJpcmZWSlBwcVJWNWZwZGcxaWp6RzA3YW5MVUNMY1cwV28?oc=5",
+   "published": "Sat, 21 Nov 2026 07:30:13 GMT",
+   "score_parts": {
+    "recency": 0.64,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "タイ・ベトジェットと日本政府観光局が連携、福岡・札幌・沖縄への航空券が30％割引 - タイランドハイパーリンクス",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aVFZvWmFuTDRkdkpqZFJ4SFJVcklBSURYOG9GalZPMG9uY1dwX2loRnpTdGs1Q3VCTHptSTlxTE52VU9tbzlIeHZacTFwSW0xZ0NsNA?oc=5",
+   "published": "Sat, 21 Nov 2026 23:02:47 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "印の走る宮殿豪華列車、日本人客に熱視線 マハラジャ・エクスプレス、市場再開拓へ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12SElpM1NzWGpjeXdqMVZwZXo4YmhEdTYxOG85N3VWVkl3X1UydFp3WUhDdXY2WWtNbXdXTG95V2xIRko2MnNzNzN4ZGhaVGhfNEpNWjRHaU1UTXdnSnc?oc=5",
+   "published": "Sat, 21 Nov 2026 22:00:02 GMT",
+   "score_parts": {
+    "recency": 0.942,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "『SNS解禁！』西野亮廣氏の提案に沈黙するジャングリア沖縄、再生の答えは『現場からの生の声』（神田敏晶） - エキスパート - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3FnMFZNWFJYTDdnc0dKRkxxUHBYeHFTS254TTYtZ0JVU2NiNmlwa200SXMzOXRRUDVCbFdjT0ZYMU1yX21RcmZjUU9XbEh4TWI3eWRlQmdPUkx0dkpNUTFhd004a1FvTzR5QXR5Tk93cjA1M0Z1cGxpcmYtUTUtdzVCMzc5cW5m?oc=5",
+   "published": "Sat, 21 Nov 2026 03:14:00 GMT",
+   "score_parts": {
+    "recency": 0.551,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "首里朝市で人流2倍強 スマホGPSを分析 首里城周辺 観光客周遊実績に寄与 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBETU10Smc0MnZFQ2tzcHdYeEpvb0FNa0Y1NmE3cUd2UmxfN3V0YWhXSmNtaWpvRERYazJqTS13V21iR2pwRUVLdjVSRU8yTkJRa2M0NmlBZGhwYkVsT3c?oc=5",
+   "published": "Sat, 21 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.88,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "住民や観光客ら 大雪で孤立状態 福島で1400人超 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jTmNRU2dmclNuRnY4bkY1ZUF3N0dYem05RDdBY196eUcwRnVJeEtpc1VYSHNkd2l2UnF1OGl0ZzluYzRWV2cyeVY0eE00VUlpd2t0YVhpajhiQ0UwTEE?oc=5",
+   "published": "Sat, 21 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.879,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［首里城正殿 完成］首里城かいわい 人力車復活探る あす試験運行スタート - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MWFppVHQ3MlU0TG5DeU01WnZWbDRvWFVqOU5xQ0IyNDVaQ0ZhZmQ3SXUtbGwzbmRLajd5NXBRMzdqR0NKQW5TYkdNUnBSWk9YcXluUlJiSlRoZTFGMGc?oc=5",
+   "published": "Sat, 21 Nov 2026 18:59:00 GMT",
+   "score_parts": {
+    "recency": 0.879,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.564
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「オグロトラギス」の繁殖に成功 黒い斑点が現れる成長の過程明らかに 沖縄美ら海水族館（RBC琉球放送） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUdIVndzU0FtWjc4b1ZfbWJDd2FZNDlVWkxPanJRZzVfVGMxSVlHQVMxYmwxS2o5Zi05NHJlcHFoWVJDYVdVOF9QLTBKNXRFZGVEeUxYclJ4NktYeEg5dGxRVVRrWWRxbWQyaDVvS1JMNjkyVjR5RlRHNEpQV1g4VDE5Y0otVFFZVlQwX21n?oc=5",
+   "published": "Sat, 21 Nov 2026 08:42:17 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「オグロトラギス」の繁殖に成功 黒い斑点が現れる成長の過程明らかに 沖縄美ら海水族館 (RBC琉球放送) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnd5RG5aeC1NWUpJc2VvdGpNa1k0bjNrNUZiX0I2VzRUQmlfOGZNN3lHOGhUUXpzWHc5eWJ4aVRXZ1hfNU9rdjlUQ3pPd2F1QUdBclFqLWpiQ1BKS1hLRTBjS0k0QVJ1OWR0ZURTRkZ0c1hSNElRTXQ1RklMTjNnYkhQLWFJRVlUd3NpbmtR?oc=5",
+   "published": "Sat, 21 Nov 2026 08:42:17 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.55
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "「オグロトラギス」の繁殖に成功 黒い斑点が現れる成長の過程明らかに 沖縄美ら海水族館 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zUkdrU3JxMUsyaXVZeTRnb2VTbjduVWc2dlhkZDNTT0FJdnZfbV9ER3ZnTGliSXlOaWtBMmNESDlIeVR6OGl4cDVHMWNJdzB0WnJuM0lTZjQ0M01GLTJ3?oc=5",
+   "published": "Sat, 21 Nov 2026 08:41:00 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「オグロトラギス」の繁殖に成功 黒い斑点が現れる成長の過程明らかに 沖縄美ら海水族館 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WT0tIUFNMWkp6RWJQYWNBTWhOSHBXWl8xNERkLWN1ZUJrcUJTNkdjTkZMSGdXZFh4eU42WTA3czlyQjJPSXpUQXExc3lFaFJpd1BwMENiUmNmNmNHZXpiRnRDcE5uUWc?oc=5",
+   "published": "Sat, 21 Nov 2026 08:41:00 GMT",
+   "score_parts": {
+    "recency": 0.665,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.549
+  }
+ ]
+}
