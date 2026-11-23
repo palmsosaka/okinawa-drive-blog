@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-23",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 151,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「めちゃ綺麗」43歳・SPEEDメンバー、沖縄そばイベントで見せた笑顔近影に反響 製麺・営業にも励む現在（ピンズバNEWS） - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5MUVzT3ZPcktOVGZTeFpzOEluem5TcnVUMXF4eUQ1Vm5JUV8wdy14ZERMU3JVTnQyUG1Ea2ZnZHpyeW45eXd1clhUUmRFV01QNnNlZnhLb19TREV4WHFaMWF6Njl2VzZuUXQ0dEhucnFnVjhza3VhUFJmQ09PYzQ?oc=5",
+   "published": "Mon, 23 Nov 2026 01:00:37 GMT",
+   "score_parts": {
+    "recency": 0.995,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.649
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港から約20分！ 沖縄・糸満ダイビング特集 - oceana.ne.jp",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNd2hEZTBjUW93V1psOVp1SE11cGpvNVhxS29zX0EtZUxtVmpyOUEyOWEwWDBoQnJpck05YXFTNzN6Z3c0OVNNbjVra3RkbkYtbi1uWmJWQ01rc1V6NUFBOWNObjNUUkhOQzBPakNoa205Tm9leWRqdjhJenNaalhaSDVkQU04OUpLN0VMVVppOC1Qb1hhN1RLQ3loY3ZsaHNKNjg4R1UybTltRGF3Z3ZuUG0yVWY1Um5uZTRPaG02TDQ3QTZyYUlCa3ExZjAxVEp3RHRndjJMdTJ2cTJRRzhiUEQzZGt2ZXA0elRRNDBXMVFwclVNSmFPVXNLWENzNEhzZXNJZl9wVXFpYlpHalVzZFM3bldRNVJJc1hRS2ZmbFptTmxZS3dJb2xQRHhEWC0yTEt5a2RyOFBlMW5qSVd5MEx3?oc=5",
+   "published": "Sun, 22 Nov 2026 11:00:57 GMT",
+   "score_parts": {
+    "recency": 0.704,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.611
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度1 沖縄本島近海 2026年11月23日08:50ごろ 地震詳細 | 沖縄のニュース｜RBC 琉球放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODh0RkJQUjVDZ0FYTm4yT3hZRFdsYTAyUnVfMDJkVnh0T21kaXRhRWJVaEZnVk41UF9qbzNfRW1Tb3Zrak54Si1XSFVkdWU4ZzlSQ3JyWEdOU1ZlVzBwQXNLTzg2cWxrUElzX2lkTk1KWGxCbFRBVnVwdFpwbmhmUTM4LV9sM1k?oc=5",
+   "published": "Sun, 22 Nov 2026 23:56:49 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度1 沖縄本島近海 2026年11月23日08:50ごろ 地震詳細 | RCC NEWS | 広島ニュース | RCC中国放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXy1odUpiMk5qRmE0Z0RVa3pSRXRhd00wSW9BcWlMZzNBa2dVMjBxUERuRVpFRWVESHQ4bVNieF9vZFJuQ2MwNTNaUGZIVHpxeFlZckJtRnlhV1dqWEctT21ZUEV0Z2dJWHVqandzRUFwdnhtUDUyd0ZUVm1fZzJDZVlrWDVLMFU?oc=5",
+   "published": "Sun, 22 Nov 2026 23:57:06 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度1 沖縄本島近海 2026年11月23日08:50ごろ 地震詳細 | IBC NEWS | IBC岩手放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHhEZUpuVGswaWZNbWJOQkwydHZSVkZSU25aSHpFZm1Xc1hVMHoxYUlJenN4eHVaaXJZMG95SW5RNHdDTEEtQl9FOXNWVGZQdHBaVTg1QXNRT2tTV0lvRFBFR1hzYzhaeEFhcGtJYnMyczhQX0VoZk83RWRRMDFrWExhdFMzMjA?oc=5",
+   "published": "Sun, 22 Nov 2026 23:56:57 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度1 沖縄本島近海 2026年11月23日08:50ごろ 地震詳細 | 愛媛のニュース - Nスタえひめ｜あいテレビは6チャンネル - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzFod2hhTGRPeFhtUW9aVVlPYjVtWnQ3SFgxM3NaeW1zWXNZQjNSc0ZEV3RsVEh2aEkwMGJQa0puV2tYRUR1bFNFaHZJak9jR051UzBiS0J4bGwtYzdBRG15M2hVQ01fdlB5Q1Z6UHo1b3BYT3EwVnA0Vy1qanpDZHE3RGdQSXc?oc=5",
+   "published": "Sun, 22 Nov 2026 23:56:54 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度1 沖縄本島近海 2026年11月23日08:50ごろ 地震詳細 | 福岡のニュース｜RKB NEWS｜RKB毎日放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkkySjNzM0NTQ29xSnh4NC1va0x4bmNDaUcycDZrZXB3T3d4U0hhZXN2S2tKZFA0Tzd4cnA5OVBNalNrb1ItSlRSTTlCUTBuejBLSjZJWURXX2dCZFpPSXZabmMydHBtcDQzQkh0c3lCaW9oSmtwUVE4SVJ1MkUtOUpCOWJjMFk?oc=5",
+   "published": "Sun, 22 Nov 2026 23:56:56 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度1 沖縄本島近海 2026年11月23日08:50ごろ 地震詳細 | 岡山・香川のニュース | 天気 | RSK山陽放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclVCam50MUxOcUM5UERZZHVNTkRQVWF5QWxIM0xNdWMyRC11SngzRmlyNUhZQW5Zb2FqOFJkT1NwZDI4Qm5QUXhVVXFsRHo1X3RVUW5vY3Z2SUZ6SGh6U0pHdVRvTGcyUzYtang4cUhFcTh5cnVYXzdqdjFONk1UUnotNjdHSXc?oc=5",
+   "published": "Sun, 22 Nov 2026 23:56:57 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "震度1 沖縄本島近海 2026年11月23日08:50ごろ 地震詳細 | 大分のニュース｜OBS NEWS｜大分放送 - TBS NEWS DIG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTU14VC1wRlc1WEN3T2hhYW9hM09XM3o3bk9WeTNXUTRidFgtZnluVUxMT1ZXaWhCUTZud3h6SGVfMTFvd0hRWVZhVE5XcTREZTFFZnEyNWxiWlY0YjkwQXgyN1BMQlV2N1JWWThRZ1RMWG42OHBQbW5HU1R3RlROYTRMVG5yZU0?oc=5",
+   "published": "Sun, 22 Nov 2026 23:56:53 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "遠巻きに眺めて育った首里城、喪失して気付いた思い入れ 愛知の沖縄県人会連合会長も復活喜ぶ「やっぱり、うちなんちゅの誇り」 - 中日新聞Web",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RNDV6LTdsUXZrV0xYSjZmMk12VGFfTTcyVE5Xcm1ialhRcUQ4SDI0ZW5DeDFXZlpTc0txbU9ycFU1enlXMUVZOVhTekZQaUlBZ1JXMmdQSFc1UWdxYlhqSGJB?oc=5",
+   "published": "Sun, 22 Nov 2026 20:10:00 GMT",
+   "score_parts": {
+    "recency": 0.894,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "震度＝気象庁発表（２３日４時３４分）震度順・市区町村別 ：地震 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MNXUtR2tMSG9sMFg1YmxIamt6LUhGMVlNaUowZGhqUW5NZUk5WHB5bUdxYUFtb3NlYzRwckQydWJYbDdkOHRxTWJyUVBMbVZZdnE0M0QtX3kwaWhISlE?oc=5",
+   "published": "Sun, 22 Nov 2026 19:34:25 GMT",
+   "score_parts": {
+    "recency": 0.882,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "宿泊税の活用考える 「地域へ還元大切」「観光振興と両立」 宮古島 専門家招きシンポ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VcjJleDJIM2RUV1VfN0JCSGxUUGsySzNRemRvU2VDODFFaEdjNTNQeXQ3cS1DaTFCcHZPMFI1djFYV095UWs2ajYzYTY4MlU3LW54VTdRTkZiRGM3X0E?oc=5",
+   "published": "Sun, 22 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.87,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［首里城正殿 完成］復元支援 全国から - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93b1ZpaDY1NG9NcDhoS21VRlZHcG5JVWR6djJZS0lITGZRWXB3dDFWSjF5R3NfdTlfMWhCaEtneXBFXzJUT2hhLXVORWYxeDB0MGhVRnM5TE5lM3N0Zmc?oc=5",
+   "published": "Sun, 22 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.87,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "［沖縄days］ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5ZEU3TUJqRzVUWDByZGNnaVA3UVdObDlkWTZCcWM1cnlLZFJaZE9uNnNhZ2NBM2sycUp3VHhwejdBZ0U4Qm8yRm9mYnlCVVBUSERQU1A1UjZRbjFPbVE?oc=5",
+   "published": "Sun, 22 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.869,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "古式行列やパレードを堪能 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YM1lvNlp4eDBwOFdoUldxbElBbWVWLUVfVk0tWXBpbXBqS2FoUHlsZVVublNiWHk1aTlfa1pxS29wdktrOXN0NVdMcVV0Q3llcEZvVWhub1hMN2NjeWc?oc=5",
+   "published": "Sun, 22 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.869,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.561
+  }
+ ]
+}
