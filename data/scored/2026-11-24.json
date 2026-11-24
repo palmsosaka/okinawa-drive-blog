@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-24",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 145,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "韓国で函館の検索数が443％増、インドでは沖縄の魅力としてジャングリアの紹介も スカイスキャナー、2027年の注目旅行先を発表 - 訪日ラボ",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwMmtwV21mczFNTWR6VUMzaS1ZemtDR3ZkYUF5ZjllVXFCcEdIMDROalhiczg3emVzNWU5amJYVEg1YVh5c0x3WnBiX2RGemhSM1gtZ1VzWmRqemphX2FSaEVB?oc=5",
+   "published": "Tue, 24 Nov 2026 01:01:21 GMT",
+   "score_parts": {
+    "recency": 0.916,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.675
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "クラフティア沖縄支店など、次世代太陽光を内窓に／那覇空港で実装検証 – - 電気新聞ウェブサイト",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rRzRFVFg2RGE2QkMwQnQwZTY3b1RJalRlR0ZMb2U2cHRGRWJCRmx1aUllckRhZVdIdnBOWjZ5T1VMZFBURV9nYUVUNFdLSDlmWllZTlI4TQ?oc=5",
+   "published": "Mon, 23 Nov 2026 21:02:55 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "FINCHI、沖縄の経営者向けイベントに冠スポンサーとして協賛 - Dellows News",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9rVXRCaUg2SEh0MEkyRHdGMHdzVFZKRVhIR25JWC1sUkFZQjFlTjZYa0lFY0o4R2dxUXljcHQ1eWZyejBobmZB?oc=5",
+   "published": "Tue, 24 Nov 2026 03:04:56 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ランバイクを3保育園に 今帰仁 ジャングリア沖縄寄贈 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRYk5oT1o0N1pGR0t5SmhiX3VkUWlzWlRfZWtyMlE2UVlpUmY0d0ExTFpHUGdFMlh6WFNVYjdnRW9QVHhTX1AxMWtvNzdONS0zNFVreFdjcHJOSXBjUWc?oc=5",
+   "published": "Mon, 23 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：ランバイクを3保育園に 今帰仁 ジャングリア沖縄寄贈 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13aVhsaDZIODR2UnlpZFVlYU5OYkRMZlNzaVJrSGdSazE3UXRGbDlQd2hMWERKZFdxZVN1dGZiTkpJQndYTUtEbVJpeVNmRjNkWGd6SHN3U2txUElMVjhobk8zNFpMUQ?oc=5",
+   "published": "Mon, 23 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.79,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.637
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "青山商事、世界最大級のメタバースイベント夏に続き「バーチャルマーケット2026 Winter」に出展！ - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEeHh4SVdSTVh2RHBlVWNlSGdoUXQtMy1QR2Y2YXRuaVMzVkdRS1FaMFRiaTFRV3FrMUlFZ0tWaklxeko5cXJ3OWxqVnkyWWtOLS1mV0xUSTNNRnFMb0E?oc=5",
+   "published": "Tue, 24 Nov 2026 02:30:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.634
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "首里城正殿が一般公開 市民らから祝福の声【首里城正殿 完成】 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Yk9WMEt4SFRTVlltOHRwaGR4UHBBVG1SRVIyU01RLWx3STljbVpHdUFGVks4RF9keFNNTmpPTWJRQ3M5bW45VGNQYlVlVlhJZk5UVjZTMkN6bGk2MkE?oc=5",
+   "published": "Tue, 24 Nov 2026 04:29:00 GMT",
+   "score_parts": {
+    "recency": 0.988,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄・恩納村に米国輸入の「黄色いスクールバス」が上陸！本場ハワイの味を再現したガーリックシュリンプ専門店が12月12日グランドオープン! - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lSEF6cWh1UFRTYXhTZDlMS1BWVkxkekJrWll3bWpyOEo2TWNuX3NSdXpQQUx4bUxtVUJlaENOM3I3azVyWHoxRmJ2QUFocURkOUh3bEtwUmlobmRwNEE?oc=5",
+   "published": "Tue, 24 Nov 2026 03:43:05 GMT",
+   "score_parts": {
+    "recency": 0.972,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ブルーエコノミーと成長の両立を 沖縄市にスタートアップ支援施設「ROCX」開業 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZR1hYakZiaW44a2l4U3o0NGZOTVRnUjBHNVBKZU1hMTFGS3ZnMnZwaGtKX25Fdldrc3BfTjhGUlY4b0VuR0FDYXh1aDg2S09tS0hSSy1zSlRHRDAtUkczbzQ4ZHRiSFEwQ2dMS193?oc=5",
+   "published": "Tue, 24 Nov 2026 03:26:25 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "原因不明の火災で焼失した沖縄「首里城」の再建が完了　気になる不審火対策は - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55QnFwMzJYVnkxUGhnSUc5V1BIVE1xMWpDeVpjU3ozRXRlWDczUTRxc1ZTMHEtV0NTd1BGWjVIV3YtWVBxVklaVjJFUS1zTHpaWnhhOVNoa1E4Y0h3enFZb2NCQnN4Znc5a3l0Xy05Qzdpd9IBd0FVX3lxTE1tX0txV2gzOU1FVEJpeHVLTHJhUnZMRXZlWGQ1ckdKNW9Hc08tLXBOSkJiSFpMWjRsb1pRY3R5eGItcTRzMlA5QS1Hd0lmZncwbFZGN0ltN3JmQ3ZFZ1RDLU1hVHJWRVQxYTdDYTVzTmxMNzkxTGxZ?oc=5",
+   "published": "Tue, 24 Nov 2026 03:01:00 GMT",
+   "score_parts": {
+    "recency": 0.958,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "伊是名中フェス 住民参加し盛況 生徒会企画イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRdjFiaml1Xy1ybWxxVUZrTG9tU2lPYkE2WEwzZTNuQ25mSzVvZ2xPOXVkZzhoUUZwV05CbVVac05id0c4d1lGcnVCNGk2U3RRajA3T1BvUTJpX1RtdFE?oc=5",
+   "published": "Mon, 23 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.789,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：伊是名中フェス 住民参加し盛況 生徒会企画イベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IT21YTUJ3WUVwRWEzclVqUXVsUTJwRWFyaGE0Mi1OMW5vMUF6S2toRkVEVTRRTGhUUmdfTkNjQlUyVzlwTElDaEQxZzVaOW9BcUJwbUwtS2RqWHZUTjhpRmZfam1rQQ?oc=5",
+   "published": "Mon, 23 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.789,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄に「複数企業が支援名乗り」も...出資社は損失続出 多額の公金投入「もっと情報公開すべき」 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTdDlCZnJoaXhFU0VJUnBtNHhJbzBmRGllNTcwd2pjNlhYNmx1aWEtLXk0WG9SdldmY0RtTzZ5M1ZMTF9mZDZtZHllZFJ1THRTelc2cWJJbmU2ZE9lNU9XRzBiN2g4eFdKU1hGWlJR?oc=5",
+   "published": "Mon, 23 Nov 2026 10:52:16 GMT",
+   "score_parts": {
+    "recency": 0.621,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ジャングリア沖縄に「複数企業が支援名乗り」も...出資社は損失続出 多額の公金投入「もっと情報公開すべき」 - 千葉テレビ放送",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ySmtITWplMExGeXhEa3JDcjJjVjBTODhJUVVDc2dmSFFOalQyM0ZOcjFQS2tzQWxWYkVwRUdBYkwwWWlzS1JIQkROTE40RWZ5UmpsaFFzZi1vZVlrdnZB?oc=5",
+   "published": "Mon, 23 Nov 2026 10:52:17 GMT",
+   "score_parts": {
+    "recency": 0.621,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "全焼から7年 首里城正殿復元 沖縄のシンボル再建に県民は涙「あの時を考えたら感慨深く…」 “より深い赤色”に甦る【news23】 - au Webポータル",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wV0hPajNHdTRremprZkp2NHpYamxVRy0xbGVXTGJRdjVsUnJIZTVYUzJiLWRqXzVXSzFZWlBTemZjQmQ0TVc3Q0JXOFBhajg1NXh3SndiMW56a3lhTFdxbEpzQ2tQaWI4ME9VQklB?oc=5",
+   "published": "Tue, 24 Nov 2026 02:35:00 GMT",
+   "score_parts": {
+    "recency": 0.949,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.585
+  }
+ ]
+}
