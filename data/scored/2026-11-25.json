@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-25",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 164,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【ネット流行語100】「ジャングリア沖縄」開業1年で来場100万人 那覇で“ガラガラ”を回して集めた意見は1714枚 - ライブドアニュース",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiMDFOX3Y4czQ5VHplXzVLQkV6c0lOenB5dnJGY0NBY0Vna0QwY2lXVUJIX3lsSmwwZFQwOHdMNGtpSHRLOTEyZDhoNGY0RFhWM3NQQ05adWg2NFd2YWtB?oc=5",
+   "published": "Wed, 25 Nov 2026 01:55:00 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "新たな沖縄と出会える大晦日。沖縄ならではのアートに彩られた非日常空間で、音楽や食も楽しめる入場無料のカウントダウンイベントをライフスタイルホテル「ESTINATE HOTEL 那覇」にて12/31開催 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuM0JYMDVtcl9VTjVodTlWcjRVNVdMeEl6cHNYeVdfRmItR09USnB3U2NidzdVNG5BTkdrN1FCRjdyWmR5NEJ1SnpNeUxhazJsb2xmYjEtR2VWWUZ0MnM5MFFSODYtNTJKWFE?oc=5",
+   "published": "Wed, 25 Nov 2026 01:57:11 GMT",
+   "score_parts": {
+    "recency": 0.96,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.688
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "世界初！オグロトラギスの繁殖に成功 尾びれの黒い斑紋くっきり 沖縄美ら海水族館で展示 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02Y2FkZGFGUnNsYmVRXzBJbnRkTEJVSzhobndoeXRPMTJCVlJyb1Y5YjZSWkJVQlQ5RHlaODFCUklhaUs3cFdLVTVMQ2FJWUQ5cVBuQ1VUa1doSW1KR2c?oc=5",
+   "published": "Tue, 24 Nov 2026 22:01:00 GMT",
+   "score_parts": {
+    "recency": 0.878,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.613
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "29日に肉の日イベント 沖縄市、ステーキ無料企画も - 琉球新報デジタル",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfX2VmWU9RdVZMRTFDNHg1RGNhd2k2dzBHYy1HVS1kaGhpU2pyWnY2Q0cxZC1zRElnX1ZWOGJNRFRBNmtPSzFHRkMxakF1dE1FMW1nVktDLTNPSEdUcGc?oc=5",
+   "published": "Tue, 24 Nov 2026 20:00:00 GMT",
+   "score_parts": {
+    "recency": 0.836,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.601
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "〈エーデルワイス沖縄〉首里城正殿復興記念商品を期間限定で発売！ - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FM3RxSDFOcW1xY2pLUG1KbTVBcG4zU1h1Y1pXejhQd0dRelB0OV94cGV0SHBYUjNnTG1rS2tOa1Jwc1lwWmJEUlVxenR4clBwalJlSHhKZTRTLTE4aGFEYkFZM2hpa09KXy1SVjJudUswT2VJV3B6WDhJbw?oc=5",
+   "published": "Wed, 25 Nov 2026 03:21:42 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 旅行 割引",
+   "title": "いよいよファイナル!!11/29(日)終了!! 〜STOMP ブラックフライデーキャンペーン〜 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tQllxcnN0LUd0UlctNVRTS3h4MVNDM0RWRUxLdFh2T0pYZ2FQOU10aWlRQlFFaEpTblI2VGZ4QUlORWU2QURVRi1QbHoyd0lOWXAyT01vS3hnTXlHM0E?oc=5",
+   "published": "Wed, 25 Nov 2026 03:00:00 GMT",
+   "score_parts": {
+    "recency": 0.982,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「自分らしく生き抜く」 体験語り交流 「居場所が大切」 那覇でピンクドットイベント - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54YlRTM1hCeGRpSlg2VnB2VjVnV2pna3diYWVpN3ZoN0Y2aUVQbmZpdjNvVmwxQlVwdllCNlhKUzczRHloandhajlHUEFIY1FpSVc2UlZsOTYwbGNZbUE?oc=5",
+   "published": "Tue, 24 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.815,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【沖縄初上陸！】イオンモール沖縄ライカムに青鬼が出現！パーティーVRアトラクション『青鬼VR ブルーベリー量産計画 in イオンモール沖縄ライカム』2026年12月16日より期間限定開催が決定！ - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUHBaN3lHcFl2OEI4enRETE1RclFMLWdqeDFZeVB6Z3VRaUQzdXBsUzNUek1NaFBFUXRLX3paU19OcURGVVlOZVdQdlpNRzJwU3BjbGZEaW12TC1NQk5hbTgyZlRLWnNHWUE?oc=5",
+   "published": "Wed, 25 Nov 2026 03:00:02 GMT",
+   "score_parts": {
+    "recency": 0.982,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "写真：世界初！オグロトラギスの繁殖に成功 尾びれの黒い斑紋くっきり 沖縄美ら海水族館で展示 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UX0pZc2ZmWGVCNEdXSTZlT1NBRDE0R1hUdktYV0xIYkRIX1JVQWJpRFdybWNlQzVBTlFWSEIxa01JRzBMVzhxc3gwYW1NSWdwOENCcm5xWGhuS1JhX3RDMHhELTBYdw?oc=5",
+   "published": "Tue, 24 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "［未来支える］貧困解消へ初の寄付 ヨシダ イベント収益から - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13cU9Iak1WUHlHNldWeUxfV2F3d2RGQXYtcUVkVDg0SXlLcGZDS3BWbWpaVXFJQTZidm5KaWlpbFZWUWp5dTZIUTc1cTQ1X1Q3bkJ6NmhRaWd5aU9wZUE?oc=5",
+   "published": "Tue, 24 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "写真：［未来支える］貧困解消へ初の寄付 ヨシダ イベント収益から - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wc1RBcVNDTkc2cVRFbnlielB2ejFvRVlOY3pYc1czUWxfamdybkxXc0JPOFFrZmdYTTRQdUhNUW5TRko1LWhqdExNaWVIMHhOT3E1UGRWM09ONVFsODVsUjhWb01YQQ?oc=5",
+   "published": "Tue, 24 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.814,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【号外】平良海馬、ブルージェイズへ 5年127億円 沖縄初のメジャーリーガーに - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqUXhndGMzbURkNGpOME9pQUhvbDhwbkNjeERGS3NJckNfblJWRDc5YVFWVFQ3WXM4SUZUWXdGWGhXMFZRUHZqZ1lUVkxFYWZnZGNlUC01QzVoTGtVNnc?oc=5",
+   "published": "Wed, 25 Nov 2026 01:20:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "写真：【号外】平良海馬、ブルージェイズへ 5年127億円 沖縄初のメジャーリーガーに - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01ZjNlTU1GMzhibHVUUmVtaXNVSkVoNzVYRXYzc1hEV0xwZ0xtRHVDZEhYMnhlRE5NbHhNQW92cTc0NTZ4VVFHZko5NThWREdFOV9XUjlWTUFXdjI4aXRqcnBhVE9JMmxhcF83ag?oc=5",
+   "published": "Wed, 25 Nov 2026 01:20:00 GMT",
+   "score_parts": {
+    "recency": 0.947,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.584
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "沖縄のタクシー会社「山一交通」が12月10日で事業終了 11件の法令違反で許可取り消し 代表「私に責任」 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIeFI0V2ZMdy03VHgyNWFuMnl5SzVoamRSa2E5Rmt5S3JFcWw0R1k2SGIzaWJyLTBJQUsxVlBlZ3ZIWkxEZ2tZLVhXN0hlSlUwc2dlUkM5Z3o0aUdFSUE?oc=5",
+   "published": "Wed, 25 Nov 2026 01:11:00 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "２５日のＪ２予定 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPbm5DWS0zREoySFdmQXJheFFlMERhbFdsd21rNGdXRkZsQko2eDh4dzVBeVpuMVZQaDRxRURDbXVUUUdRQXZxby1LZEVCdUNVQkZyZzJ2WDVNZzViemc?oc=5",
+   "published": "Wed, 25 Nov 2026 01:09:13 GMT",
+   "score_parts": {
+    "recency": 0.944,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  }
+ ]
+}
