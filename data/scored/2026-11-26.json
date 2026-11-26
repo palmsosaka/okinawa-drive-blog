@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-26",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 198,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【高速道路】沖縄道リニューアル工事のお知らせ - 沖縄美ら海水族館",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SV3hjNVJOY240eTlvMnR1blR0d3h4aVNRczJ5a0Rta2U4eGl1dERyRmRMX29hYzFETnV1U2hubXBvTTBuLXRxU2pJR2dZdER4d1Y1TlRFcmtXQQ?oc=5",
+   "published": "Thu, 26 Nov 2026 02:46:32 GMT",
+   "score_parts": {
+    "recency": 0.99,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.647
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "「オレンジリボン・フェスタ2026 in沖縄」 イベント参加のご報告 - 琉球ゴールデンキングス",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xVnplNjB2S2JKNTdwRlZocFRoS1ZYc3BKR0lRUFMxeFBJSmEzVEIyN0szcGVwR3VPMG1BMzh6SDlWc3R0NVk0LUhwSEVlZkp6LUtuMg?oc=5",
+   "published": "Thu, 26 Nov 2026 01:17:16 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "うるまの産業 体験イベント 28・29日 食育講座も - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42SFhSUnpXakRPcUV6T0NDUVFZaUtXOE1FVW5aZHhrY3BKOF9CRFRpYUZJVkFhRTZBVWE1X0lKSWZBTkUwUUpHUk5yYjE5eUxvSmRra1JzN19PMjk3M0E?oc=5",
+   "published": "Wed, 25 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.826,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.598
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄の自然や文化を未来へつなぐ旅へ。人気YouTubeチャンネル「とみいちゃんねる」と巡る「エシカルトラベルオキナワ」コラボ動画を公開 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90NWxBWkx4ejhVcW15LW1SR2pXZTRrVUk5b0RqRHVpekdhb2U0d01LMmQ3N2haVjFHWUsxNlRLX1Y2UXNMNE9aSW1aSjRwQnIxbU16NG1DMWJKQkVUS2RQZi15VE9sRlg1WXc?oc=5",
+   "published": "Thu, 26 Nov 2026 02:00:02 GMT",
+   "score_parts": {
+    "recency": 0.973,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.592
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄初のドーミーイン、 那覇・久茂地に2027年2月開業へ - ツーリズムメディアサービス",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fbnUxLTgxSUlBcW1lVTRyVjBzdk1LTTBXRUhCMU9CV2R3QklydHBWUEc1VEJaQ3dYTXJTSzEteEhSWU1PbWVxSGJ3?oc=5",
+   "published": "Thu, 26 Nov 2026 01:13:42 GMT",
+   "score_parts": {
+    "recency": 0.957,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.587
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "乗換案内「安曇野モード」で「道祖神に導かれる 安曇野よりみち旅」を開始 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fcTEweWc5NVBkclYtbU1VR1hNeHBaSG9xcmtRUU5RSklzd0JmMHRqTWJHVGVoYVJDVjltM05BQlBaUkExcXpqQXBjWi1NOFNwYjVTMWlrWFBLS0ljMEE?oc=5",
+   "published": "Thu, 26 Nov 2026 01:00:00 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "【（一財）沖縄美ら島財団】首里城正殿完成を記念して新たな文化を発信。沖縄美ら島財団が文化ブランド「Re RED CASTLE」を展開します。 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RMDRrZjVzdDhTYzJGdkxYRzREYzYyazVOZUtkbEFYTWlYb0RsSm9wMW1UM0VZSFAyQ3J3eVJsWkgxZG0zVExSVi1oblU5cVcxNFlIcUFTcHM1Y3M2ZGZCOW9lNG02WTkwS3c?oc=5",
+   "published": "Thu, 26 Nov 2026 01:00:42 GMT",
+   "score_parts": {
+    "recency": 0.953,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ソウルの至る所で出会う新しいウェルネス…ソウル市、「100 SEOUL WELLNESS TRAVEL 2026」を発表 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xdWV1WTdrMk5ZY2pGV0JMM210OU54UncyTU55ZXQyN2FiM09BY2lOTUt0dkhzZnE0ZThyZ3hIV2RlNUwwYmRfVi1GYkxwTWZXaEwyU3JqUXhianFKenc?oc=5",
+   "published": "Thu, 26 Nov 2026 00:38:00 GMT",
+   "score_parts": {
+    "recency": 0.945,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.583
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "【沖縄プリンスホテル オーシャンビューぎのわん】美ら海とともに迎える、特別な年末年始をぎのわんで。 - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FbXhMUHFJOWFSMFpDVzQycF9WSzlfM0NjR0ltMUxGc2pkUjU3Qi1oRzczTUtaN2RSdWF2WFZWNklFM1lFMmhiVkl5VnRBeVVVZTRndDVTWnNBX0VpTGVKaGdnVFo1MlBQdHc?oc=5",
+   "published": "Wed, 25 Nov 2026 06:00:02 GMT",
+   "score_parts": {
+    "recency": 0.557,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "ドラフトで終わらない野球人生を。16の国と地域から150名超が沖縄に集う「ジャパンウィンターリーグ2026」開幕 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzMXRBRF9DNDNaZFd5UFBmcV9vVUVHQS0yeU9VMktqTVc1cVNsS0hjUkNrX0ZLMVBZUXJnWTdXMEZyd3VoTlBCS1UtVUprV3pQRDl3MVgyUm1NWHl6eVV6YTIzc2hBRFot?oc=5",
+   "published": "Wed, 25 Nov 2026 21:15:41 GMT",
+   "score_parts": {
+    "recency": 0.875,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.562
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "名護・為又でエイサーイベント初開催へ 沖縄の5青年会が集結 - やんばる経済新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lVzBpdkdKY2U2MGw5ckFUbmltUDdiZ1dHQVR6LTRjeU9GU0lNWklTaEptaWdjQlVlb1dUTXVsU2ZNR0hUNkg3dVp2c2NPeGNxTGc?oc=5",
+   "published": "Wed, 25 Nov 2026 12:54:07 GMT",
+   "score_parts": {
+    "recency": 0.7,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.56
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "第7回ちゅらうみ海道サイクリング2027（沖縄県サイクリング大会）｜レッツエンジョイ東京 - レッツエンジョイ東京",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpY0Y3c3hYa0hsM29rano4TC1JUE9RaHc3VW1LcmlNRDBIVWwtTkVZSGVHZ0VHbWgwa18zQWpMazc1dTNkMGQ0OS1sV1I2N2dEcGc?oc=5",
+   "published": "Wed, 25 Nov 2026 20:43:07 GMT",
+   "score_parts": {
+    "recency": 0.863,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "名護・為又でエイサーイベント初開催へ　沖縄の5青年会が集結 - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVGlzOXZRZmVFSDc3dlFraHJqUHRQT2ZnNENJNFJQUnpqTjZZNmxuX1h5YXhFQXJCOGk3MGplYUxSQktGUGR3dDR0Z1RwQnQ5WS1YOVliblNfRU1FT2FRTFpyR0RRSGh6cEpSNWNQLTE4b01Ub0EzQ1hvRGJuNm94eXM4dFBjbUI1Y0dKbWI4aFpWWmJfblhzV1pFN25JaHF3RDZyNzhTNWEyX29lVjBHRU9vRHdZSnV3WnRCQVd0Q0xDajh2Q0xyQUVTNVRYSFZ00gGAAUFVX3lxTE10WE83aVgtLWRGQ25DNk1FNXFnSmFQTm5lMHpncW1CcTg0ZzV0MEdvbXFqUTlQVUg3QzBOcG9weWFIV1JLYjVYc1JTdDBWOEI3UFd5ZHFOMkp0UF9DZHlNTWhVMFcyQUxVYmpFVHBjbElYZzJfaTlZNzQxbURiaDVE?oc=5",
+   "published": "Wed, 25 Nov 2026 12:41:00 GMT",
+   "score_parts": {
+    "recency": 0.696,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.559
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "［リポート’26 宮古島発］音楽催し騒音 市民に不安 平穏な生活へ30日総決起大会 背景に観光客急増 どう対策 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41VW5UUEdlem80R2czQ2xzX3cwa3Y4VHo5WXhIMlNIbDIyTUd6UjVxUWJZOThBSmxJNnkwaHFwU182S1NTU3JEX3J3TmlxTnR3d0pVaDJJc3pYOGFKZFE?oc=5",
+   "published": "Wed, 25 Nov 2026 19:00:00 GMT",
+   "score_parts": {
+    "recency": 0.828,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.548
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【イベントレポート】サイバーステップホールディングスグループ、「2026沖縄市福祉まつり」へ出展 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41UWNmU1Z4UjR5b190d2J1UUx6TnJHUXRzbXZQeUpPQzBHT0J1dzNGZ1N3RjgxakZkSjEwX1dwTE1QY3lCY3cwM25xVTBSbUJNRWM1RVYtTUVUY3RHZWRraDNDNGRsZWY5Z1NyQ0NhQnRGZGxtTWc?oc=5",
+   "published": "Wed, 25 Nov 2026 09:15:00 GMT",
+   "score_parts": {
+    "recency": 0.624,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.537
+  }
+ ]
+}
