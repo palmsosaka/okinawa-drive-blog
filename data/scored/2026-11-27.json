@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-27",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 155,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄開催！内川幸太郎（EX風林火山）来場！大学生・第二新卒向け麻雀イベント|いえらぶ琉球 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NQzJnYk53Ulh4cDF5dG0zaWI3ekg0Z2Jkd1pRUGVNUzFhNUFnYkRlWW1DMjhLLUhxVEduaVVFaWVmWDBETDVLRXNKbDJTRzdqRTR3T0NRWXBGYnVTbnJ2MmpINGROM1lH?oc=5",
+   "published": "Fri, 27 Nov 2026 01:51:16 GMT",
+   "score_parts": {
+    "recency": 0.969,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.641
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "石垣島のホテル、AIの根拠は8割が予約サイト。地域のAI検索を毎週観測し、ホテルと改善を検証 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51QTVWeExWaVpzQ1hsMFVUTl9hQjhxSGlkUk1CNVFfdzFNOVljSjE0SkRfVlgyNGs0MXdpRGI1LUZ2R2h5d0NYLWd5dHVDXy16TXN0SEMxVFd5SGRRd0E?oc=5",
+   "published": "Fri, 27 Nov 2026 01:43:05 GMT",
+   "score_parts": {
+    "recency": 0.966,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄開催！内川幸太郎（EX風林火山）来場！大学生・第二新卒向け麻雀イベント|いえらぶ琉球 - 共同通信PRワイヤー",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fWkpOTUF6LWRfb2pvOE4yRm16OW9UVmVFMU91TlVJUFFFaDdjVTFBZ1dUM1FEX0VWSzFzSjVuRl9iQkRpVEZldWwxWW5ZNzZuU25zemE5ZEVPMjA?oc=5",
+   "published": "Fri, 27 Nov 2026 01:40:00 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.639
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄のホテル単価、客数減の秋に上昇 — 推定成約ADRは10月ビジネス+12.5%・シティ+14.2% - HotelBank",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54WG9ma1VpS0FGWHlGQ3dvYmJqSFEyUXRiMTlkUnV0eFRReHR1dE53dzV3V2lmYWU5WDBzUThneVNUUmdfc2RnSEVIOFZiWWdYVU9QTmF5YVJNUFBSREhQTEhtUTVNaDgwa3J2UnFtRFQtUENVRjNZN21VX2ZBelU?oc=5",
+   "published": "Fri, 27 Nov 2026 01:27:45 GMT",
+   "score_parts": {
+    "recency": 0.961,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.638
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "【ロワジールホテル 那覇】新年を彩る贅沢な特選おせち2027予約受付中！沖縄県産食材や世界各国の美食を取り入れた和洋中重をご用意 - 産経ニュース",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85WlJqdEt3V0NITmppUW13c0Rud3B3NXV4dE05WjJPREN1NTc0dExLa1ZKSUJkTHkyb0staElqamY5MGdvekQtUS00ZURlZDFYSWNiMjlJcEV6QnNyeTBjd2dXMFJtTUZ6NVZvaG9rcmZLeTVUQW5ZNE1FYw?oc=5",
+   "published": "Fri, 27 Nov 2026 01:00:00 GMT",
+   "score_parts": {
+    "recency": 0.951,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.635
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "OIST発スタートアップ、成果を投資家にアピール 恩納村でイベント 「酸に強いタンパク質の開発」など発表 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILXBtNVJhSFNOMTBUYlFReEk4akVOQml6SC1UbWpxOW5GdGIwWWlXU3NHLWlKLUNFdzktaEFtT3p2UVJSblRnUnBRaGtYMW9uWUQ5WEozN19OR3ZUOEE?oc=5",
+   "published": "Fri, 27 Nov 2026 00:16:00 GMT",
+   "score_parts": {
+    "recency": 0.936,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.631
+  },
+  {
+   "source": "google_news",
+   "query": "美ら海水族館",
+   "title": "画像7 / 18＞【コロナ対策情報付き】沖縄美ら海水族館は神秘的な絶景も見どころ！ジンベエザメにイルカショーまで楽しみ方を徹底紹介 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ma1I2Y2VMSmlVN2hZdDdzNHpxVDZIYjZFTXo4LWV6bjA4dW9mbEhrUEVlWEVicWNsaUlnYjBCNEU2YkEzc0RwU3BEemJDQTNIXzVYSFhSdFFkRUNPeFMySDViY2tISXRQZGRtdDhn?oc=5",
+   "published": "Thu, 26 Nov 2026 22:12:33 GMT",
+   "score_parts": {
+    "recency": 0.893,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.618
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄市で29日に肉の日イベント ステーキプレゼントも - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBubWJPSlRVTzFObmpJcFVfRHYwMzRCR2RrYS1kc3V1SVZYRFI0eHJyQ3BnMFVhdXA0Y01MbjZTT1ZnTlFvajROcjlVSTgwMURlbkZLbHptTzZNczMwaHc?oc=5",
+   "published": "Thu, 26 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.825,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.597
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "「そうだ 京都、行こう。」生みの親は「実は京都が嫌い」… ７５歳のコピーライターが明かす「後ろめたさ」とは - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoSVZfOEpGakxUUWsyQXJmQmRsa21wSVZxOG56eEg4NV9OTTBLV2k5emhOYTdkdE1rcXdJZWs5V3k4cy1OME11OTNLaHgyd1VRN0JnTzdXbzdjekYtN0E?oc=5",
+   "published": "Fri, 27 Nov 2026 02:30:08 GMT",
+   "score_parts": {
+    "recency": 0.982,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "【楽天トラベル ブラックフライデー】ジャングリア沖縄や美ら海水族館へ！やんばるを満喫できる沖縄本島北部の人気リゾート5選 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zTWN2TWpVZTB3TU9OWWxtYUdwdGs4RUhqT1IwdjVlZmpJdTUwb282ZVF5Q3FvVlhwVzFaTGxaVEI0LTNIdFcxNklSNmp5cjJSQXl5NW9n0gFbQVVfeXFMTzRvdHp0UndyOEZTdlgwSDRLekxZXzdjRVVPLXo1eVFGVVZka2l1YlVOZWo2RVN5YjZZZXp2UjFnejllZENEN2t1SDhPR2liZm1ENmFMQUVnNWpUTQ?oc=5",
+   "published": "Thu, 26 Nov 2026 17:48:45 GMT",
+   "score_parts": {
+    "recency": 0.801,
+    "engagement": 0.0,
+    "keyword_hit": 0.75,
+    "theme_fit": 1.0,
+    "novelty": 0.0
+   },
+   "score": 0.59
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "もっと深く、もっと旅したくなる！ 新しい“沖縄”をご覧あれ - （株）Gakken公式ブログ",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rWWV2Q1IwbmpfZVExV0x0SFNOTEt0S1Zpd3RiVzhxY0NqcmhnTWg1bm8zRE1GbVB1MGN4UWF2THg0TXRfVlVoQ21wZ0diZDVPNG5IQmwwY1U3VHdYV2c?oc=5",
+   "published": "Fri, 27 Nov 2026 01:38:49 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.589
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "＜画像6 / 11＞沖縄初公開＆新種のネコもやって来る！13日間の“ネコ祭り” - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TVHlmekUtRXJ6UUpPMEdlTXJOZWNWd0RFVkNVYjQ2TEYzT3BQbS1OVFVpWTA5Zk1WN21yTXhhNnhlNTVXSnJZNEd2R1FoR2sxaktLWDhGUmFLZS1lZnRTSmxlc1FDdHNL?oc=5",
+   "published": "Fri, 27 Nov 2026 01:03:03 GMT",
+   "score_parts": {
+    "recency": 0.952,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.586
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "青く光る海と白く輝く波の共演、沖縄県読谷村で「イルミーバンタ」開催中 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQkktSW1YWHZkdlR5Vm04VHJOaUxmaHZrakszMWl2ZHZEOHNPSFNybGk5WjF2Uk51akJlRGoyY05jUGI4OHE3c0RpQzVrRXdRYXhQdDBB0gFbQVVfeXFMUFh0OVYtaHF6VkJnV2hLejJOel95dmRfWEpLNkxWXzIzajNuQjBlbjlxQkduNmZ3eko5Rkg4LUVwR0htUWg3TnJmM3lqMGl6ZGJWYVJfT29SRERMZw?oc=5",
+   "published": "Thu, 26 Nov 2026 23:59:08 GMT",
+   "score_parts": {
+    "recency": 0.93,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.579
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "【オリエンタルホテル 沖縄リゾート＆スパ】伝統エイサーとビーチから打ち上がる花火で新年を祝う「カウントダウンイベント」を12月31日（木）に開催 - Excite エキサイト",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zS05tV3dGZ1dsR3NXMFZ3Y0ZVb0FWVkxQdG5ZTm1sV2VqeGNqNGpGakZkbmF4VjJ1dUN6NjU3M2ZBU2JOZGctaE82UDRfemxiSG5ReTAxVmRiUVZkeTc4ODZGeWo5dGFGRC1JZjNnMGhwU0FjUUE?oc=5",
+   "published": "Thu, 26 Nov 2026 07:45:00 GMT",
+   "score_parts": {
+    "recency": 0.592,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "ＯＣＶＢ「確認項目設けず」 学校独自は把握できず 辺野古特別委 - 沖縄八重山日報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nV1lUdmc2RFc2MVA2cElUUmN2RUthWEdGbF9rUkluNjJFU0FuN1RyamYzRXNhdEZTMlExbk03SnRGVUM1NURtd3d2anh3bWNzWmpzLW9aSjc?oc=5",
+   "published": "Thu, 26 Nov 2026 22:00:04 GMT",
+   "score_parts": {
+    "recency": 0.888,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.567
+  }
+ ]
+}
