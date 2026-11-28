@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-28",
+ "weights": {
+  "recency": 0.3,
+  "engagement": 0.2,
+  "keyword_hit": 0.2,
+  "theme_fit": 0.2,
+  "novelty": 0.1,
+  "threshold": 0.35
+ },
+ "total_items": 174,
+ "candidates": [
+  {
+   "source": "google_news",
+   "query": "沖縄 レンタカー",
+   "title": "沖縄旅行の予約は今がお得！沖縄特化型レンタカー予約サイト「OKIREN」がブラックフライデーキャンペーンを開催！ - Infoseek",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BREtlbUZ5MjFpc3N5azZjSHVpam5NeHpTOS1EcVpvaVRONHQxc2FLN3oxMS1KLTFXb0RhNWU0N3V4UEpMeEktWGhBYW0yZFFEdXh4cklFY0N5c0ZRc2V4eHFZb1Q0SFBSMldrc3Vub1hpZw?oc=5",
+   "published": "Sat, 28 Nov 2026 01:15:34 GMT",
+   "score_parts": {
+    "recency": 0.964,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.689
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "職務体験の成果 学生らが発表会 今帰仁ジャングリアで - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HRFFTdVkxbjdEWFU0ZHdEel9UaTFkS3BoclpFaW92cXdrcGNVZjh3Q0MxSXg5UW5NbzdYaGlWa0hqNXNMZzJaLU5vUkRQcEtFTXZmRkllTjFRN182VWc?oc=5",
+   "published": "Fri, 27 Nov 2026 18:58:00 GMT",
+   "score_parts": {
+    "recency": 0.833,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "本部のホテル あすイベント ステージや物販 - 沖縄タイムス社",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WaTBYakd3Y3Ztc04yWDFTYlpDZzNZQXh3SUcyNFJOSUxLLVhhdzlWSFJqSkFDVmpPd0gwQWZ4RHJlbmZ1VVlBdUNRTEhrcXo3ei1oc0Y5OUU0T2JCVUE?oc=5",
+   "published": "Fri, 27 Nov 2026 18:57:00 GMT",
+   "score_parts": {
+    "recency": 0.832,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.65
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 イベント",
+   "title": "沖縄・西海岸「Blue Lagoon Christmas 2026」聖夜を彩るクリスマスディナー＆イベント - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xa0dYZFp6UWloaVhhb1BZd0k0NHQzTm9oZHYxLUtXZ2podlN2bDhtVDktZUp0bjgtUU9nLW1NWi1BSzB5ZjBMaG1fVTZlcWhoZHdqdzZkMUowVWoxVmtqNzFKT2N1Y1BhTUE?oc=5",
+   "published": "Sat, 28 Nov 2026 01:20:02 GMT",
+   "score_parts": {
+    "recency": 0.965,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.64
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "＜画像6 / 12＞7月25日オープン！「ジャングリア沖縄」のレストランで味わえるグルメを先行公開 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81ZURJSFQzd3FHZUZWWHE0VFp1dlZxUk5HTExva0d6WDV1V1FIX0luMkdiWnF1bUZSZ1JUeWstM0hGa215dVF5VThEcURiS0NqV3Z3MkR0ZGJZeG9wTzRVQmZFbE9SYjdIMG1Ib1ZB?oc=5",
+   "published": "Fri, 27 Nov 2026 12:13:32 GMT",
+   "score_parts": {
+    "recency": 0.692,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.608
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "首里城正殿の復興を応援！沖縄のセブンイレブンで限定商品が登場する「首里城フェア」が11月17日から開催中 - ウォーカープラス",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RY19JS0kyaEFLMGxTbFJqaUV4M29tX0pvTTl0RnVNaloxV2UxcHBWcTg2MnhxUFMtdDJQNkFzRERKbVNFX3lKWWxSYjJfSThWcHdQV1RB0gFbQVVfeXFMTWZBSHlkSjYtbk9YVVV4dEotRWJFV3d3Y0VhRlNHMGhCa19ybTdiQTE0ZzRnQ0JjZ3hvdkxMQ3o3NUZrSmROdVdXaGZtNmJfQnVCbG9VYWJIejZpMA?oc=5",
+   "published": "Sat, 28 Nov 2026 02:16:21 GMT",
+   "score_parts": {
+    "recency": 0.985,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.596
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄旅行の予約は今がお得！沖縄特化型レンタカー予約サイト「OKIREN」がブラックフライデーキャンペーンを開催！ - PR TIMES",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81dk9xQlBXczhfTE02dk94WnpGaE9ZNFdDZkJJempsS0xDd3JpcDBxa21pRk5qczFuckpic3NEVGZUeUJpOVhGNVRKOWQxbXA3VlQ2YWEyNEVzc19uQ2htQzJsUHQ2bFBhblE?oc=5",
+   "published": "Fri, 27 Nov 2026 10:07:04 GMT",
+   "score_parts": {
+    "recency": 0.648,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.595
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "冬の観光・沖縄のエンタメ – Quebee キュエビー - QAB 琉球朝日放送",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QcVRJVm5Ec1hkdFVMeExMVDZFcEsyd0dTeXZQclhxYU00T3dwU29wcE5FZWNCZ0xrWnc1RXh3Slh6aG01VElyZFJVcjEyYVNfWUo0YXRHd1JWUENyQVhrWnJ3?oc=5",
+   "published": "Sat, 28 Nov 2026 02:00:28 GMT",
+   "score_parts": {
+    "recency": 0.98,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港での落とし物は「チャットで検索」 沖縄 - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRGxuSmZDTzBuU29LYVBBblYtWl81bUtlR3ZUNVh5RzJWc1d1YWpxOUltaFRITlhDRFZNa19PSHV6XzVzaWNhcVQ4WGx3VmlMSmphUmJCUzhaU1hZYnRiWG9mWTlUcmtKOEFKdHhWOGRlUG9mRTlId1pqQzBHdUN0OW5xQ0FSM0ZlUjNYN0Z3?oc=5",
+   "published": "Fri, 27 Nov 2026 10:00:00 GMT",
+   "score_parts": {
+    "recency": 0.646,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.594
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "沖縄のビーチフロントに、アジア最大級のマリオットホテルが誕生「沖縄マリオット・リザン・リゾート＆スパ」2026年12月1日 開業 - ニコニコニュース",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TE1uOURDM1UwdVNnYU1Ec25PZkZDcDA0S0RoS1R6SGVNUWs4SnY5Ynl0Q2MwWGF5YVd5bXU4S2UxVjVvLUhkQS01NmtSeDVVZVhBdkd3Q3U3NXc5YTJQenBsaFZkT0RG?oc=5",
+   "published": "Fri, 27 Nov 2026 17:48:38 GMT",
+   "score_parts": {
+    "recency": 0.809,
+    "engagement": 0.0,
+    "keyword_hit": 0.25,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.593
+  },
+  {
+   "source": "google_news",
+   "query": "沖縄 観光",
+   "title": "県内外８６社が熱気ある商談 第２８回沖縄宮古島観光商談会 新商品造成や誘客促進へ島の魅力アピール - miyakoshinpo.com",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBFLXBVMGdhaDFLRXdzZWM5bFFOTU9BaktwdHlWeTV2cTRCaUQxMVRmcnFRdUFIY3JTNktnWkFaMWNvWG92V1E?oc=5",
+   "published": "Fri, 27 Nov 2026 23:17:42 GMT",
+   "score_parts": {
+    "recency": 0.923,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.577
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "那覇空港から20分、光差し込む洞窟へ！ 糸満・喜屋武岬の地形ダイビング - ocean+α",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13LTdGWjVucURLdGRvUXBTS29jWlNBNTBWS0tBSXhJZU5acW1BYm4tLTYtVGctLVdYeTRORHh5cHpaRnFtekViMGYxUFhVaWVzVUlvZ0V3NU5Hdw?oc=5",
+   "published": "Sat, 28 Nov 2026 01:00:00 GMT",
+   "score_parts": {
+    "recency": 0.959,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 0.4,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "首里城が京都の銘菓とコラボ、沖縄限定パッケージ生八つ橋「こたべ」 那覇空港店 - 47NEWS",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NYVZQeGtaMmJfbnhrWW1YSTV4UFNiMi16R19GWHFlTEdWTjNSZ0N5OUE5Rm81YUFKdU0xQnZ5RjBLX3hackE5UzIzbw?oc=5",
+   "published": "Fri, 27 Nov 2026 05:52:59 GMT",
+   "score_parts": {
+    "recency": 0.56,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "那覇空港",
+   "title": "首里城が京都の銘菓とコラボ、沖縄限定パッケージ生八つ橋「こたべ」 那覇空港店 (琉球新報) - Yahoo!ニュース",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2lPUnRrVGFaMko2cWFoUmNkRGR1bFdVay16Nkc4UDNCTUhsbmQweFVHTlkxRWlpNGNyMGtXLXVFdHBqNHhucW1JSklpN2ZqcHM5WnYzZTZXOHVRZmhacDJjTDY4c3o4dE1TMjZpR1VXekdLZ19halktaEwyV0VORFpsTDF0a1VVZkczWmVn?oc=5",
+   "published": "Fri, 27 Nov 2026 05:51:22 GMT",
+   "score_parts": {
+    "recency": 0.56,
+    "engagement": 0.0,
+    "keyword_hit": 0.5,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.568
+  },
+  {
+   "source": "google_news",
+   "query": "ジャングリア沖縄",
+   "title": "ご祝儀は1万円、結婚式は大人数？山本彩も驚いた沖縄のリアルな習慣を調査！（OKITIVE） - ｄメニューニュース",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVm5uWGdiX2RGbW5HczRlNXNVV1lDczcxYTFoVWZRV0xfRlE4a1JlNXFjMnpaVkZnYnVkekI2LWZVVEl4MS1fV0M0ZVZKZUZ5dFhJNHhCTm9VVU9nRTVBd21KUXhURXdnS1pNaTBTM3gtb1pZX2NqajVveUNwYW8talRB?oc=5",
+   "published": "Fri, 27 Nov 2026 21:23:24 GMT",
+   "score_parts": {
+    "recency": 0.883,
+    "engagement": 0.0,
+    "keyword_hit": 0.0,
+    "theme_fit": 1.0,
+    "novelty": 1.0
+   },
+   "score": 0.565
+  }
+ ]
+}
